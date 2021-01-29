@@ -1,0 +1,874 @@
+[
+  {
+    "id": "african-storybook",
+    "name": "African Storybook",
+    "description": "Open access to picture storybooks in the languages of Africa. For children’s literacy, enjoyment and imagination.",
+    "website": "https://www.africanstorybook.org/",
+    "license": [
+      {
+        "spdx": "CC-BY-SA-4.0",
+        "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/"
+      }
+    ],
+    "SDGs": [
+      {
+        "SDGNumber": 4
+      }
+    ],
+    "sectors": [],
+    "type": [
+      "content"
+    ],
+    "organizations": [
+      {
+        "name": "Saide",
+        "org_type": "owner"
+      }
+    ],
+    "stage": "DPG"
+  },
+  {
+    "id": "antura-and-the-letters",
+    "name": "Antura and the Letters",
+    "description": "Open source smartphone application that teaches children how to read in Arabic and improve their psychosocial wellbeing.",
+    "website": "https://www.antura.org",
+    "license": [
+      {
+        "spdx": "BSD-2-Clause",
+        "licenseURL": "https://github.com/vgwb/Antura_arabic/blob/master/LICENSE.md"
+      },
+      {
+        "spdx": "CC-BY-4.0",
+        "licenseURL": "https://github.com/vgwb/Antura_arabic/blob/master/LICENSE.md"
+      }
+    ],
+    "SDGs": [
+      {
+        "SDGNumber": 4
+      }
+    ],
+    "sectors": [],
+    "type": [
+      "software"
+    ],
+    "repositoryURL": "https://github.com/vgwb/Antura_arabic/",
+    "organizations": [
+      {
+        "name": "Antura",
+        "website": "https://antura.org/",
+        "org_type": "owner"
+      },
+      {
+        "name": "Norad",
+        "website": "https://norad.no",
+        "org_type": "funder"
+      }
+    ],
+    "stage": "DPG"
+  },
+  {
+    "id": "apache-fineract",
+    "name": "Apache Fineract",
+    "description": "Fineract provides a reliable, robust, and affordable solution for entrepreneurs, financial institutions, and service providers to offer financial services to the world’s 2 billion underbanked and unbanked.",
+    "website": "https://fineract.apache.org",
+    "license": [
+      {
+        "spdx": "Apache-2.0",
+        "licenseURL": "https://github.com/apache/fineract/blob/develop/LICENSE_SOURCE"
+      }
+    ],
+    "SDGs": [
+      {
+        "SDGNumber": 1,
+        "evidenceURL": "https://www.globenewswire.com/news-release/2017/04/24/970151/0/en/The-Apache-Software-Foundation-Announces-Apache-Fineract-as-a-Top-Level-Project.html"
+      },
+      {
+        "SDGNumber": 16,
+        "evidenceURL": "https://www.globenewswire.com/news-release/2017/04/24/970151/0/en/The-Apache-Software-Foundation-Announces-Apache-Fineract-as-a-Top-Level-Project.html"
+      },
+      {
+        "SDGNumber": 17,
+        "evidenceURL": "https://www.globenewswire.com/news-release/2017/04/24/970151/0/en/The-Apache-Software-Foundation-Announces-Apache-Fineract-as-a-Top-Level-Project.html"
+      }
+    ],
+    "sectors": [],
+    "type": [
+      "software"
+    ],
+    "repositoryURL": "https://github.com/apache/fineract",
+    "organizations": [
+      {
+        "name": "The Apache Software Foundation",
+        "website": "https://apache.org",
+        "org_type": "owner"
+      },
+      {
+        "name": "Mifos",
+        "website": "https://mifos.org",
+        "org_type": "owner"
+      }
+    ],
+    "stage": "DPG"
+  },
+  {
+    "id": "book-dash",
+    "name": "Book Dash",
+    "description": "Book Dash gathers creative volunteers to create new African storybooks that anyone can freely print, translate and distribute.",
+    "website": "https://bookdash.org",
+    "license": [
+      {
+        "spdx": "CC-BY-SA-4.0",
+        "licenseURL": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    ],
+    "SDGs": [
+      {
+        "SDGNumber": 4
+      }
+    ],
+    "sectors": [],
+    "type": [
+      "content"
+    ],
+    "organizations": [
+      {
+        "name": "Book Dash",
+        "website": "https://bookdash.org/",
+        "org_type": "owner"
+      }
+    ],
+    "stage": "DPG"
+  },
+  {
+    "id": "dhis2",
+    "name": "DHIS2",
+    "aliases": [
+      "District Health Information System 2"
+    ],
+    "description": "DHIS2 is a free, open-source, fully customizable platform for collecting, analyzing, visualizing, and sharing aggregate and individual-data for district-level, national, regional, and international system and program management in health, education, and other domains.",
+    "website": "https://www.dhis2.org/",
+    "license": [
+      {
+        "spdx": "BSD-3-Clause",
+        "licenseURL": "https://github.com/dhis2/dhis2-core/blob/master/LICENSE"
+      }
+    ],
+    "SDGs": [
+      {
+        "SDGNumber": 3,
+        "evidenceText": "DHIS2 is the world's largest Health Management Information System platform, and is currently in use in more than 73 low- and middle-income countries, 60 are deployed at national scale. DHIS2 is also used by national health authorities and international health programs and organizations (such as WHO, Pepfar, The Global Fund, Gavi) for management of health programs related to specific diseases, such as HIV, TB, Malaria, and others. In addition, during the COVID-19 pandemic, at least 36 countries rapidly deployed DHIS2 for national pandemic response.",
+        "evidenceURL": "Additional information:\nAbout DHIS2: https://www.dhis2.org/about\nOverview of DHIS2 deployments: https://www.dhis2.org/in-action\nDHIS2 for COVID-19 surveillance: https://www.dhis2.org/covid-19"
+      },
+      {
+        "SDGNumber": 4,
+        "evidenceText": "DHIS2 is also now being deployed as an Education Management Information System (EMIS) in several countries, which facilitates more effective triangulation of data between health and education programs (for example, vaccination campaigns targeting school-aged children), as well as supporting purely education-related goals.",
+        "evidenceURL": "DHIS2 for Education: https://www.dhis2.org/education"
+      },
+      {
+        "SDGNumber": 17,
+        "evidenceURL": "The HISP mission statement: https://www.mn.uio.no/ifi/english/research/networks/hisp/\nSelection of HISP research related to DHIS2: https://www.mn.uio.no/ifi/english/research/groups/is/publications/"
+      }
+    ],
+    "sectors": [
+      "Health"
+    ],
+    "type": [
+      "software"
+    ],
+    "repositoryURL": "https://github.com/dhis2/dhis2-core",
+    "organizations": [
+      {
+        "name": "Health Information Systems Programme (HISP), University of Oslo",
+        "website": "https://www.mn.uio.no/ifi/english/research/networks/hisp/",
+        "org_type": "owner"
+      },
+      {
+        "name": "Norad",
+        "website": "https://norad.no",
+        "org_type": "funder"
+      }
+    ],
+    "stage": "DPG"
+  },
+  {
+    "id": "feed-the-monster",
+    "name": "Feed The Monster",
+    "description": "Feed The Monster teaches your child the fundamentals of reading. Collect monster eggs and feed them letters so they can grow into new friends! Available in 48 languages.",
+    "website": "https://play.google.com/store/apps/developer?id=Curious%20Learning",
+    "license": [
+      {
+        "spdx": "BSD-2-Clause",
+        "licenseURL": "https://github.com/curiouslearning/Norad-Eduapp4syria/blob/master/LICENSE"
+      },
+      {
+        "spdx": "CC-BY-4.0",
+        "licenseURL": "https://creativecommons.org/licenses/by/4.0/legalcode"
+      }
+    ],
+    "SDGs": [
+      {
+        "SDGNumber": 4
+      }
+    ],
+    "sectors": [],
+    "type": [
+      "software"
+    ],
+    "repositoryURL": "https://github.com/curiouslearning/Norad-Eduapp4syria",
+    "organizations": [
+      {
+        "name": "Curious Learning",
+        "website": "https://curiouslearning.org",
+        "org_type": "implementer"
+      },
+      {
+        "name": "Apps Factory",
+        "website": "",
+        "org_type": "owner"
+      },
+      {
+        "name": "CET - The Center For Educational Technology",
+        "website": "",
+        "org_type": "owner"
+      },
+      {
+        "name": "IRC - The International Rescue Committee",
+        "website": "",
+        "org_type": "owner"
+      },
+      {
+        "name": "EduApp4Syria",
+        "website": "https://norad.no/eduapp4syria",
+        "org_type": "funder"
+      }
+    ],
+    "stage": "DPG"
+  },
+  {
+    "id": "gdl-radio",
+    "name": "GDL Radio",
+    "description": "A centralized resource library for USAID and other donor-funded Interactive Radio Instruction (IRI) and Interactive Audio Instruction (IAI) resources.",
+    "website": "https://gdlradio.org",
+    "license": [
+      {
+        "spdx": "CC-BY-NC-SA-4.0",
+        "licenseURL": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+      }
+    ],
+    "SDGs": [
+      {
+        "SDGNumber": 4
+      }
+    ],
+    "sectors": [],
+    "type": [
+      "content"
+    ],
+    "organizations": [
+      {
+        "name": "Global Book Alliance",
+        "website": "https://www.globalbookalliance.org/",
+        "org_type": "owner"
+      },
+      {
+        "name": "United States Agency for International Development (USAID)",
+        "website": "https://www.usaid.gov/",
+        "org_type": "funder"
+      }
+    ],
+    "stage": "DPG"
+  },
+  {
+    "id": "global-digital-library",
+    "name": "Global Digital Library",
+    "aliases": [
+      "GDL"
+    ],
+    "description": "An open collection of high-quality educational reading resources, making them available on the web, mobile and for print.",
+    "website": "https://home.digitallibrary.io/",
+    "license": [
+      {
+        "spdx": "CC-BY-3.0",
+        "licenseURL": "https://home.digitallibrary.io/cc/"
+      },
+      {
+        "spdx": "CC-BY-SA-3.0",
+        "licenseURL": "https://home.digitallibrary.io/cc/"
+      }
+    ],
+    "SDGs": [
+      {
+        "SDGNumber": 4
+      }
+    ],
+    "sectors": [],
+    "type": [
+      "content"
+    ],
+    "repositoryURL": "https://github.com/GlobalDigitalLibraryio/book-api",
+    "organizations": [
+      {
+        "name": "Global Book Alliance",
+        "website": "https://www.globalbookalliance.org/",
+        "org_type": "owner"
+      }
+    ],
+    "stage": "DPG"
+  },
+  {
+    "id": "h5p",
+    "name": "H5P",
+    "description": "H5P makes it easy to create, share and reuse HTML5 content and applications. H5P empowers everyone to create rich and interactive web experiences more efficiently - all you need is a web browser and a web site with an H5P plugin.",
+    "website": "https://h5p.org",
+    "license": [
+      {
+        "spdx": "MIT",
+        "licenseURL": "https://spdx.org/licenses/MIT.html"
+      }
+    ],
+    "SDGs": [
+      {
+        "SDGNumber": 4
+      }
+    ],
+    "sectors": [],
+    "type": [
+      "software"
+    ],
+    "repositoryURL": "https://github.com/h5p/h5p-interactive-video",
+    "organizations": [
+      {
+        "name": "Joubel",
+        "website": "https://h5p.org/Joubel",
+        "org_type": "maintainer"
+      }
+    ],
+    "stage": "DPG"
+  },
+  {
+    "id": "mifos-android",
+    "name": "Mifos Android",
+    "description": "This is an Android Application built on top of the MifosX platform. It has been designed for field officers to interact with the Mifos Platform directly from the Field.",
+    "website": "",
+    "license": [
+      {
+        "spdx": "MPL-2.0",
+        "licenseURL": "https://github.com/openMF/android-client/blob/master/LICENSE.md"
+      }
+    ],
+    "SDGs": [
+      {
+        "SDGNumber": 1,
+        "evidenceText": "The Mifos Initiative is a global 501(c)3 fintech non-profit  leveraging the cloud, mobile & open source community to democratize financial services worldwide and digitally transform the world?s 3 billion poor and underbanked. We aim to create a world of 3 Billion Maries  where everyone has access to the financial resources needed to create a better life for themselves and their family.  More than 15 million clients supported by 400+ fintechs and financial institutions using our open APIs to power their solutions. \n\nWe provide a set of  Open Source Buildings Blocks for digital financial services consisting of re-usable and pluggable components that support the common core banking requirements. Our end to end open source architecture for digital financial services can power an an entire digital financial services ecosystem with multiple layers of open APIs at the solution and application level that fuel innovation on top of digital interoperable payment rails - Open Source Banking APIs for flexible account management from Mifos and Fineract, Open APIs for Payments Interoperability via Mojaloop, and app-level innovation enabled by Open Banking APIs and reference mobile apps."
+      },
+      {
+        "SDGNumber": 8,
+        "evidenceText": "The Mifos Initiative is a global 501(c)3 fintech non-profit  leveraging the cloud, mobile & open source community to democratize financial services worldwide and digitally transform the world?s 3 billion poor and underbanked. We aim to create a world of 3 Billion Maries  where everyone has access to the financial resources needed to create a better life for themselves and their family.  More than 15 million clients supported by 400+ fintechs and financial institutions using our open APIs to power their solutions. \n\nWe provide a set of  Open Source Buildings Blocks for digital financial services consisting of re-usable and pluggable components that support the common core banking requirements. Our end to end open source architecture for digital financial services can power an an entire digital financial services ecosystem with multiple layers of open APIs at the solution and application level that fuel innovation on top of digital interoperable payment rails - Open Source Banking APIs for flexible account management from Mifos and Fineract, Open APIs for Payments Interoperability via Mojaloop, and app-level innovation enabled by Open Banking APIs and reference mobile apps."
+      }
+    ],
+    "sectors": [],
+    "type": [
+      "software"
+    ],
+    "repositoryURL": "https://github.com/openMF/android-client",
+    "organizations": [
+      {
+        "name": "Mifos",
+        "website": "https://mifos.org/",
+        "org_type": "owner"
+      }
+    ],
+    "stage": "DPG"
+  },
+  {
+    "id": "mifos-community-app",
+    "name": "Mifos Community App",
+    "description": "This is the default web application built on top of the MifosX platform for the mifos user community.",
+    "website": "https://mifos.org",
+    "license": [
+      {
+        "spdx": "MPL-2.0",
+        "licenseURL": "https://github.com/openMF/community-app/blob/develop/LICENSE.txt"
+      }
+    ],
+    "SDGs": [
+      {
+        "SDGNumber": 1,
+        "evidenceText": "The Mifos Initiative is a global 501(c)3 fintech non-profit  leveraging the cloud, mobile & open source community to democratize financial services worldwide and digitally transform the world?s 3 billion poor and underbanked. We aim to create a world of 3 Billion Maries  where everyone has access to the financial resources needed to create a better life for themselves and their family.  More than 15 million clients supported by 400+ fintechs and financial institutions using our open APIs to power their solutions. \n\nWe provide a set of  Open Source Buildings Blocks for digital financial services consisting of re-usable and pluggable components that support the common core banking requirements. Our end to end open source architecture for digital financial services can power an an entire digital financial services ecosystem with multiple layers of open APIs at the solution and application level that fuel innovation on top of digital interoperable payment rails - Open Source Banking APIs for flexible account management from Mifos and Fineract, Open APIs for Payments Interoperability via Mojaloop, and app-level innovation enabled by Open Banking APIs and reference mobile apps."
+      },
+      {
+        "SDGNumber": 8,
+        "evidenceText": "The Mifos Initiative is a global 501(c)3 fintech non-profit  leveraging the cloud, mobile & open source community to democratize financial services worldwide and digitally transform the world?s 3 billion poor and underbanked. We aim to create a world of 3 Billion Maries  where everyone has access to the financial resources needed to create a better life for themselves and their family.  More than 15 million clients supported by 400+ fintechs and financial institutions using our open APIs to power their solutions. \n\nWe provide a set of  Open Source Buildings Blocks for digital financial services consisting of re-usable and pluggable components that support the common core banking requirements. Our end to end open source architecture for digital financial services can power an an entire digital financial services ecosystem with multiple layers of open APIs at the solution and application level that fuel innovation on top of digital interoperable payment rails - Open Source Banking APIs for flexible account management from Mifos and Fineract, Open APIs for Payments Interoperability via Mojaloop, and app-level innovation enabled by Open Banking APIs and reference mobile apps."
+      }
+    ],
+    "sectors": [],
+    "type": [
+      "software"
+    ],
+    "repositoryURL": "https://github.com/openMF/community-app",
+    "organizations": [
+      {
+        "name": "Mifos",
+        "website": "https://mifos.org",
+        "org_type": "owner"
+      }
+    ],
+    "stage": "DPG"
+  },
+  {
+    "id": "mifos-mobile",
+    "name": "Mifos Mobile",
+    "description": "An Android Application built on top of the MifosX Self-Service platform for end-user customers to view/transact on the accounts and loans they hold. Data visible to customers will be a sub-set of what staff can see. ",
+    "website": "",
+    "license": [
+      {
+        "spdx": "MPL-2.0",
+        "licenseURL": "https://github.com/openMF/mifos-mobile/blob/development/LICENSE.md"
+      }
+    ],
+    "SDGs": [
+      {
+        "SDGNumber": 1,
+        "evidenceText": "The Mifos Initiative is a global 501(c)3 fintech non-profit  leveraging the cloud, mobile & open source community to democratize financial services worldwide and digitally transform the world?s 3 billion poor and underbanked. We aim to create a world of 3 Billion Maries  where everyone has access to the financial resources needed to create a better life for themselves and their family.  More than 15 million clients supported by 400+ fintechs and financial institutions using our open APIs to power their solutions. \n\nWe provide a set of  Open Source Buildings Blocks for digital financial services consisting of re-usable and pluggable components that support the common core banking requirements. Our end to end open source architecture for digital financial services can power an an entire digital financial services ecosystem with multiple layers of open APIs at the solution and application level that fuel innovation on top of digital interoperable payment rails - Open Source Banking APIs for flexible account management from Mifos and Fineract, Open APIs for Payments Interoperability via Mojaloop, and app-level innovation enabled by Open Banking APIs and reference mobile apps."
+      },
+      {
+        "SDGNumber": 8,
+        "evidenceText": "The Mifos Initiative is a global 501(c)3 fintech non-profit  leveraging the cloud, mobile & open source community to democratize financial services worldwide and digitally transform the world?s 3 billion poor and underbanked. We aim to create a world of 3 Billion Maries  where everyone has access to the financial resources needed to create a better life for themselves and their family.  More than 15 million clients supported by 400+ fintechs and financial institutions using our open APIs to power their solutions. \n\nWe provide a set of  Open Source Buildings Blocks for digital financial services consisting of re-usable and pluggable components that support the common core banking requirements. Our end to end open source architecture for digital financial services can power an an entire digital financial services ecosystem with multiple layers of open APIs at the solution and application level that fuel innovation on top of digital interoperable payment rails - Open Source Banking APIs for flexible account management from Mifos and Fineract, Open APIs for Payments Interoperability via Mojaloop, and app-level innovation enabled by Open Banking APIs and reference mobile apps."
+      }
+    ],
+    "sectors": [],
+    "type": [
+      "software"
+    ],
+    "repositoryURL": "https://github.com/openMF/mifos-mobile",
+    "organizations": [
+      {
+        "name": "Mifos",
+        "website": "https://mifos.org/",
+        "org_type": "owner"
+      }
+    ],
+    "stage": "DPG"
+  },
+  {
+    "id": "mifos-web-app",
+    "name": "Mifos Web App",
+    "description": "Mifos X Web App is the revamped version of the Mifos X Community App built on top of the Fineract Platform leveraging the popular Angular framework.",
+    "website": "https://openmf.github.io/web-app/",
+    "license": [
+      {
+        "spdx": "MPL-2.0",
+        "licenseURL": "https://github.com/openMF/web-app/blob/master/LICENSE"
+      }
+    ],
+    "SDGs": [
+      {
+        "SDGNumber": 1,
+        "evidenceText": "The Mifos Initiative is a global 501(c)3 fintech non-profit  leveraging the cloud, mobile & open source community to democratize financial services worldwide and digitally transform the world?s 3 billion poor and underbanked. We aim to create a world of 3 Billion Maries  where everyone has access to the financial resources needed to create a better life for themselves and their family.  More than 15 million clients supported by 400+ fintechs and financial institutions using our open APIs to power their solutions. \n\nWe provide a set of  Open Source Buildings Blocks for digital financial services consisting of re-usable and pluggable components that support the common core banking requirements. Our end to end open source architecture for digital financial services can power an an entire digital financial services ecosystem with multiple layers of open APIs at the solution and application level that fuel innovation on top of digital interoperable payment rails - Open Source Banking APIs for flexible account management from Mifos and Fineract, Open APIs for Payments Interoperability via Mojaloop, and app-level innovation enabled by Open Banking APIs and reference mobile apps."
+      },
+      {
+        "SDGNumber": 8,
+        "evidenceText": "The Mifos Initiative is a global 501(c)3 fintech non-profit  leveraging the cloud, mobile & open source community to democratize financial services worldwide and digitally transform the world?s 3 billion poor and underbanked. We aim to create a world of 3 Billion Maries  where everyone has access to the financial resources needed to create a better life for themselves and their family.  More than 15 million clients supported by 400+ fintechs and financial institutions using our open APIs to power their solutions. \n\nWe provide a set of  Open Source Buildings Blocks for digital financial services consisting of re-usable and pluggable components that support the common core banking requirements. Our end to end open source architecture for digital financial services can power an an entire digital financial services ecosystem with multiple layers of open APIs at the solution and application level that fuel innovation on top of digital interoperable payment rails - Open Source Banking APIs for flexible account management from Mifos and Fineract, Open APIs for Payments Interoperability via Mojaloop, and app-level innovation enabled by Open Banking APIs and reference mobile apps."
+      }
+    ],
+    "sectors": [],
+    "type": [
+      "software"
+    ],
+    "repositoryURL": "https://github.com/openMF/web-app",
+    "organizations": [
+      {
+        "name": "Mifos",
+        "website": "https://mifos.org/",
+        "org_type": "owner"
+      }
+    ],
+    "stage": "DPG"
+  },
+  {
+    "id": "modular-open-source-identity-plaform",
+    "name": "Modular Open Source Identity Plaform",
+    "aliases": [
+      "MOSIP"
+    ],
+    "description": "The Modular Open Source Identity Platform (MOSIP) helps Governments and other user organizations implement a digital, foundational identity system in a cost effective way.",
+    "website": "https://mosip.io/",
+    "license": [
+      {
+        "spdx": "MPL-2.0",
+        "licenseURL": "https://github.com/mosip/commons/blob/master/LICENSE"
+      }
+    ],
+    "SDGs": [
+      {
+        "SDGNumber": 1,
+        "evidenceURL": "https://mosip.io/news-events/iiit-b-and-norad-announce-strategic-partnership-on-mosip-to-accelerate-sdgs-through-digital-identity"
+      },
+      {
+        "SDGNumber": 2,
+        "evidenceURL": "https://mosip.io/news-events/iiit-b-and-norad-announce-strategic-partnership-on-mosip-to-accelerate-sdgs-through-digital-identity"
+      },
+      {
+        "SDGNumber": 3,
+        "evidenceURL": "https://mosip.io/news-events/iiit-b-and-norad-announce-strategic-partnership-on-mosip-to-accelerate-sdgs-through-digital-identity"
+      },
+      {
+        "SDGNumber": 4,
+        "evidenceURL": "https://mosip.io/news-events/iiit-b-and-norad-announce-strategic-partnership-on-mosip-to-accelerate-sdgs-through-digital-identity"
+      },
+      {
+        "SDGNumber": 5,
+        "evidenceURL": "https://mosip.io/news-events/iiit-b-and-norad-announce-strategic-partnership-on-mosip-to-accelerate-sdgs-through-digital-identity"
+      },
+      {
+        "SDGNumber": 8,
+        "evidenceURL": "https://mosip.io/news-events/technology-contributors-coalition"
+      },
+      {
+        "SDGNumber": 9,
+        "evidenceURL": "https://mosip.io/news-events/mosip-presents-during-un-general-assembly-2019"
+      },
+      {
+        "SDGNumber": 10,
+        "evidenceURL": "https://mosip.io/news-events/iiit-b-ministry-of-peace-federal-democratic-republic-of-ethiopia-sign-mou-on-mosip"
+      },
+      {
+        "SDGNumber": 16,
+        "evidenceURL": "https://mosip.io/news-events/global-virtual-summit-on-digital-identity-for-refugees-mosip-presentation"
+      },
+      {
+        "SDGNumber": 17,
+        "evidenceURL": "https://mosip.io/news-events/global-virtual-summit-on-digital-identity-for-refugees-mosip-presentation"
+      }
+    ],
+    "sectors": [],
+    "type": [
+      "software",
+      "standard"
+    ],
+    "repositoryURL": "https://github.com/mosip/commons",
+    "organizations": [
+      {
+        "name": "MOSIP",
+        "website": "https://mosip.io/",
+        "org_type": "owner"
+      },
+      {
+        "name": "International Institute of Information Technology, Bangalore (IIIT-B)",
+        "website": "https://www.iiitb.ac.in/",
+        "org_type": "owner"
+      },
+      {
+        "name": "Bill & Melinda Gates Foundation",
+        "website": "https://www.gatesfoundation.org",
+        "org_type": "funder"
+      },
+      {
+        "name": "Omydiar Network",
+        "website": "https://www.omidyar.com",
+        "org_type": "funder"
+      }
+    ],
+    "stage": "DPG"
+  },
+  {
+    "id": "mojaloop",
+    "name": "Mojaloop",
+    "description": "Open source software for creating payment platforms that will help unbanked people access digital financial services.",
+    "website": "https://mojaloop.io/",
+    "license": [
+      {
+        "spdx": "Apache-2.0",
+        "licenseURL": "https://github.com/mojaloop/mojaloop/blob/master/LICENSE.md"
+      }
+    ],
+    "SDGs": [
+      {
+        "SDGNumber": 1,
+        "evidenceURL": "https://mojaloop.io/advancing-financial-inclusion-by-developing-solutions-for-women-by-women/"
+      },
+      {
+        "SDGNumber": 9,
+        "evidenceURL": "https://mojaloop.io/advancing-financial-inclusion-by-developing-solutions-for-women-by-women/"
+      },
+      {
+        "SDGNumber": 10,
+        "evidenceURL": "https://mojaloop.io/advancing-financial-inclusion-by-developing-solutions-for-women-by-women/"
+      },
+      {
+        "SDGNumber": 16,
+        "evidenceURL": "https://mojaloop.io/advancing-financial-inclusion-by-developing-solutions-for-women-by-women/"
+      },
+      {
+        "SDGNumber": 17,
+        "evidenceURL": "https://mojaloop.io/advancing-financial-inclusion-by-developing-solutions-for-women-by-women/"
+      }
+    ],
+    "sectors": [
+      "Economics/Finance",
+      "Digital/Data/Tech"
+    ],
+    "type": [
+      "software"
+    ],
+    "repositoryURL": "https://github.com/mojaloop/mojaloop",
+    "organizations": [
+      {
+        "name": "MojaLoop",
+        "website": "https://mojaloop.io/",
+        "org_type": "owner"
+      },
+      {
+        "name": "Bill & Melinda Gates Foundation",
+        "website": "https://www.gatesfoundation.org",
+        "org_type": "funder"
+      }
+    ],
+    "stage": "DPG"
+  },
+  {
+    "id": "opencrvs",
+    "name": "OpenCRVS",
+    "aliases": [
+      "Open Civil Registration and Vital Statistics"
+    ],
+    "description": "OpenCRVS is an open-source software for civil registration, designed for low resource settings",
+    "website": "https://www.opencrvs.org/",
+    "license": [
+      {
+        "spdx": "MPL-2.0",
+        "licenseURL": "https://www.opencrvs.org/license"
+      }
+    ],
+    "SDGs": [
+      {
+        "SDGNumber": 16,
+        "evidenceText": "OpenCRVS is a digital public good to help achieve universal civil registration and evidence-based decision making in all country contexts.\nOpenCRVS was created in direct response to: \nSDG Goal/Target 16.9: \"By 2030, provide legal identity for all, including birth registration\"\nIndicator: Proportion of children under 5 years whose births have been registered with a civil authority, by age\n addition (as of March 2017), 67 of the 230 SDG indicators can be measured effectively by using data derived from well-functioning CRVS systems, in particular for the numerators (births, deaths) and denominators (total population, live births, total deaths). These indicators cover 12 of the SDG 17 goals (Goals 1, 2, 3, 4, 5, 8, 9, 10, 11, 12, 16, and 17).",
+        "evidenceURL": "https://documentation.opencrvs.org/opencrvs-core/"
+      },
+      {
+        "SDGNumber": 17,
+        "evidenceText": "OpenCRVS is a digital public good to help achieve universal civil registration and evidence-based decision making in all country contexts.\nOpenCRVS was created in direct response to: \nSDG Goal/Target 17.18: \"By 2020? increase significantly the availability of high-quality, timely and reliable data disaggregated by income, gender, age, race, ethnicity, migratory status, disability, geographic location and other characteristics\nrelevant in national contexts\"\nIndicator 1: Proportion of sustainable development indicators produced at the national level with full disaggregation when relevant to the target, in accordance\nwith the Fundamental Principles of Official Statistics\nSDG Goal/Target 17.19: \"By 2030? support statistical capacity building in countries\"\nIndicator 2: Proportion of countries that have conducted at least one population and housing census in the last 10 years and have achieved 100 percent birth\nregistration and 80 percent death registration.\nIn addition (as of March 2017), 67 of the 230 SDG indicators can be measured effectively by using data derived from well-functioning CRVS systems, in particular for the numerators (births, deaths) and denominators (total population, live births, total deaths). These indicators cover 12 of the SDG 17 goals (Goals 1, 2, 3, 4, 5, 8, 9, 10, 11, 12, 16, and 17).",
+        "evidenceURL": "https://documentation.opencrvs.org/opencrvs-core/"
+      }
+    ],
+    "sectors": [],
+    "type": [
+      "software"
+    ],
+    "repositoryURL": "https://github.com/opencrvs/opencrvs-core",
+    "organizations": [
+      {
+        "name": "Plan International Australia",
+        "org_type": "owner"
+      }
+    ],
+    "stage": "DPG"
+  },
+  {
+    "id": "openg2p",
+    "name": "OpenG2P",
+    "description": "OpenG2P stands for open government to person payments, and provides the tools needed to digitize large scale cash transfers with open source building blocks.",
+    "website": "https://openg2p.org/",
+    "license": [
+      {
+        "spdx": "GPL-3.0",
+        "licenseURL": "https://github.com/openg2p"
+      }
+    ],
+    "SDGs": [
+      {
+        "SDGNumber": 1,
+        "evidenceText": "OpenG2P helps advance a number of SDGs by ensuring that the low-income people receive their cash transfers (for livelihoods, for education, for women etc.) digitally, in ways that supports their access and usage at affordable rates, and thereby creating pathways for them to save and access a diverse range of financial services.  OpenG2P by default leverages the entire ecosystem and therefore enables easy integration with identity and fintechs while keeping privacy and consent of users as key principles by design."
+      },
+      {
+        "SDGNumber": 2,
+        "evidenceText": "OpenG2P helps advance a number of SDGs by ensuring that the low-income people receive their cash transfers (for livelihoods, for education, for women etc.) digitally, in ways that supports their access and usage at affordable rates, and thereby creating pathways for them to save and access a diverse range of financial services.  OpenG2P by default leverages the entire ecosystem and therefore enables easy integration with identity and fintechs while keeping privacy and consent of users as key principles by design."
+      },
+      {
+        "SDGNumber": 3,
+        "evidenceText": "OpenG2P helps advance a number of SDGs by ensuring that the low-income people receive their cash transfers (for livelihoods, for education, for women etc.) digitally, in ways that supports their access and usage at affordable rates, and thereby creating pathways for them to save and access a diverse range of financial services.  OpenG2P by default leverages the entire ecosystem and therefore enables easy integration with identity and fintechs while keeping privacy and consent of users as key principles by design."
+      },
+      {
+        "SDGNumber": 4,
+        "evidenceText": "OpenG2P helps advance a number of SDGs by ensuring that the low-income people receive their cash transfers (for livelihoods, for education, for women etc.) digitally, in ways that supports their access and usage at affordable rates, and thereby creating pathways for them to save and access a diverse range of financial services.  OpenG2P by default leverages the entire ecosystem and therefore enables easy integration with identity and fintechs while keeping privacy and consent of users as key principles by design."
+      },
+      {
+        "SDGNumber": 5,
+        "evidenceText": "OpenG2P helps advance a number of SDGs by ensuring that the low-income people receive their cash transfers (for livelihoods, for education, for women etc.) digitally, in ways that supports their access and usage at affordable rates, and thereby creating pathways for them to save and access a diverse range of financial services.  OpenG2P by default leverages the entire ecosystem and therefore enables easy integration with identity and fintechs while keeping privacy and consent of users as key principles by design."
+      },
+      {
+        "SDGNumber": 6,
+        "evidenceText": "OpenG2P helps advance a number of SDGs by ensuring that the low-income people receive their cash transfers (for livelihoods, for education, for women etc.) digitally, in ways that supports their access and usage at affordable rates, and thereby creating pathways for them to save and access a diverse range of financial services.  OpenG2P by default leverages the entire ecosystem and therefore enables easy integration with identity and fintechs while keeping privacy and consent of users as key principles by design."
+      },
+      {
+        "SDGNumber": 7,
+        "evidenceText": "OpenG2P helps advance a number of SDGs by ensuring that the low-income people receive their cash transfers (for livelihoods, for education, for women etc.) digitally, in ways that supports their access and usage at affordable rates, and thereby creating pathways for them to save and access a diverse range of financial services.  OpenG2P by default leverages the entire ecosystem and therefore enables easy integration with identity and fintechs while keeping privacy and consent of users as key principles by design."
+      },
+      {
+        "SDGNumber": 8,
+        "evidenceText": "OpenG2P helps advance a number of SDGs by ensuring that the low-income people receive their cash transfers (for livelihoods, for education, for women etc.) digitally, in ways that supports their access and usage at affordable rates, and thereby creating pathways for them to save and access a diverse range of financial services.  OpenG2P by default leverages the entire ecosystem and therefore enables easy integration with identity and fintechs while keeping privacy and consent of users as key principles by design."
+      },
+      {
+        "SDGNumber": 10,
+        "evidenceText": "OpenG2P helps advance a number of SDGs by ensuring that the low-income people receive their cash transfers (for livelihoods, for education, for women etc.) digitally, in ways that supports their access and usage at affordable rates, and thereby creating pathways for them to save and access a diverse range of financial services.  OpenG2P by default leverages the entire ecosystem and therefore enables easy integration with identity and fintechs while keeping privacy and consent of users as key principles by design."
+      },
+      {
+        "SDGNumber": 17,
+        "evidenceText": "OpenG2P helps advance a number of SDGs by ensuring that the low-income people receive their cash transfers (for livelihoods, for education, for women etc.) digitally, in ways that supports their access and usage at affordable rates, and thereby creating pathways for them to save and access a diverse range of financial services.  OpenG2P by default leverages the entire ecosystem and therefore enables easy integration with identity and fintechs while keeping privacy and consent of users as key principles by design."
+      }
+    ],
+    "sectors": [],
+    "type": [
+      "software"
+    ],
+    "repositoryURL": "https://github.com/OpenG2P/openg2p-erp",
+    "organizations": [
+      {
+        "name": "Government of Sierra Leone",
+        "website": "https://www.dsti.gov.sl",
+        "org_type": "owner"
+      }
+    ],
+    "stage": "DPG"
+  },
+  {
+    "id": "primero",
+    "name": "Primero",
+    "description": "A web app for confidential case management and incident monitoring in social welfare, child protection, and gender based violence.",
+    "website": "https://www.primero.org/",
+    "license": [
+      {
+        "spdx": "AGPL-3.0",
+        "licenseURL": "https://github.com/primeroIMS/primero/blob/maint_1.6/LICENSE"
+      }
+    ],
+    "SDGs": [
+      {
+        "SDGNumber": 5,
+        "evidenceURL": "https://www.unicef.org/evaldatabase/files/EOI_Case_Study_Primero.pdf"
+      },
+      {
+        "SDGNumber": 8,
+        "evidenceURL": "https://www.unicef.org/evaldatabase/files/EOI_Case_Study_Primero.pdf"
+      },
+      {
+        "SDGNumber": 16,
+        "evidenceURL": "https://www.unicef.org/evaldatabase/files/EOI_Case_Study_Primero.pdf"
+      }
+    ],
+    "sectors": [
+      "Gender and Minority Groups",
+      "Humanitarian",
+      "Management"
+    ],
+    "type": [
+      "software"
+    ],
+    "repositoryURL": "https://github.com/primeroIMS/primero",
+    "organizations": [
+      {
+        "name": "UNICEF",
+        "website": "https://unicef.org",
+        "org_type": "owner"
+      }
+    ],
+    "stage": "DPG"
+  },
+  {
+    "id": "storyweaver",
+    "name": "StoryWeaver",
+    "description": "StoryWeaver is an open source platform by Pratham Books for multilingual children’s stories. It addresses all the issues around the lack of content by using an open access framework and technology as force multipliers combined with a platform that supports translation and re-mixing av stories.",
+    "website": "https://storyweaver.org.in",
+    "license": [
+      {
+        "spdx": "CC-BY-4.0",
+        "licenseURL": "https://storyweaver.org.in/attributions"
+      }
+    ],
+    "SDGs": [
+      {
+        "SDGNumber": 4
+      }
+    ],
+    "sectors": [],
+    "type": [
+      "content"
+    ],
+    "organizations": [
+      {
+        "name": "Pratham Books",
+        "website": "https://www.prathambooks.org",
+        "org_type": "owner"
+      }
+    ],
+    "stage": "DPG"
+  },
+  {
+    "id": "x-road",
+    "name": "X-Road",
+    "description": "X-Road is open-source software and ecosystem solution that provides unified and secure data exchange between organisations.",
+    "website": "https://x-road.global/",
+    "license": [
+      {
+        "spdx": "MIT",
+        "licenseURL": "https://github.com/nordic-institute/X-Road/blob/develop/LICENSE"
+      }
+    ],
+    "SDGs": [
+      {
+        "SDGNumber": 1,
+        "evidenceText": "In order to ensure more universal and affordable access to digital services for the population of developing countries, X-Road has been introduced in multiple projects around the world. X-Road is open-source software and it provides developing countries with a national data exchange infrastructure without licensing fees. By implementing X-Road, countries avoid a vendor lock-in situation and get multiple channels for support, including a global community of users.",
+        "evidenceURL": "https://x-road.global/sustainability"
+      },
+      {
+        "SDGNumber": 3,
+        "evidenceText": "Different healthcare platforms can be connected securely with X-Road which enables data exchange between private and public service providers. All the evidence regarding the data exchange is stored locally by the data exchange parties, and no third parties have access to the data. Steps are being taken to introduce X-Road on a global basis, to allow either the World Health Organization (WHO) or its member states to set up various cross-border services to help the global community emerge faster from the COVID-19 health and economic crisis.",
+        "evidenceURL": "https://x-road.global/sustainability"
+      },
+      {
+        "SDGNumber": 7,
+        "evidenceText": "Energy efficiency, renewables and consumer centricity figure among the lines of action to boost the transition towards cleaner energy systems – ways of producing, delivering and consuming energy in a more sustainable way. The deployment of information technology has a significant impact on the feasibility of contemporary policy actions. X-Road is helping electricity grid operators by harmonising access to energy data. By simplifying access to data lets them focus on the solutions to achieve energy and climate goals.",
+        "evidenceURL": "https://x-road.global/sustainability"
+      },
+      {
+        "SDGNumber": 8,
+        "evidenceText": "X-Road enables reduction of administrative burdens by the implementation of the Once-Only Principle (TOOP). Streamlined administrative processes support economic growth and enable providing better services for the citizens. For example, in Estonia, X-Road saved 1,134 working years during the previous calendar year. X-Road helps a country to become a hassle-free environment for business and entrepreneurship, which also attracts foreign investments.",
+        "evidenceURL": "https://x-road.global/sustainability"
+      },
+      {
+        "SDGNumber": 9,
+        "evidenceText": "X-Road provides national core digital infrastructure for data exchange between organizations across administration sectors and business domains. Typically, the ecosystem is open for all kinds of organizations – both public and private sector organizations. Besides, X-Road can be used to implement cross-border data exchange with other countries. X-Road enables allocating resources for building digital services and fostering innovation, instead of integrating services point-to-point.",
+        "evidenceURL": "https://x-road.global/sustainability"
+      },
+      {
+        "SDGNumber": 11,
+        "evidenceText": "The use of digital services reduces the need to travel between different locations which reduces traffic in the cities. When travelling is needed, digital services provide information about different transportation and route alternatives and may prioritise the most environmentally friendly alternatives. X-Road is a crucial enabler that’s needed to make numerous information systems to communicate with each other. By establishing or joining an X-Road environment, cities and municipalities can request up-to-date information from relevant public registers and increase their effectiveness.",
+        "evidenceURL": "https://x-road.global/sustainability"
+      },
+      {
+        "SDGNumber": 13,
+        "evidenceText": "The Nordic Institute for Interoperability Solutions (NIIS) aims to develop X-Road the most sustainable data exchange solution in the world. NIIS is starting a project to improve the environmental footprint of the organisation, its procurements and development processes. In the end, the project should produce recommendations for improving the sustainability of X-Road as a product and advancing the sustainable use of X-Road when it comes to the energy consumption of an X-Road environment and the physical hardware components required to operate that.",
+        "evidenceURL": "https://x-road.global/sustainability"
+      },
+      {
+        "SDGNumber": 16,
+        "evidenceText": "X-Road is a solution to fight against corruption and helps in building trust towards institutions. X-Road provides log records of each message sent between X-Road ecosystem member organisations. The log records provide undeniable evidence of a transaction, and they could be used in process automation to reduce manual work, increase the level of automation in various processes and make things easier for both users of different information systems and citizens. X-Road also provides many features that are required from MyData platform technology.",
+        "evidenceURL": "https://x-road.global/sustainability"
+      }
+    ],
+    "sectors": [],
+    "type": [
+      "software"
+    ],
+    "repositoryURL": "https://github.com/nordic-institute/X-Road",
+    "organizations": [
+      {
+        "name": "Nordic Institute for Interoperability Solutions (NIIS)",
+        "website": "https://www.niis.org/",
+        "org_type": "owner"
+      }
+    ],
+    "stage": "DPG"
+  }
+]
