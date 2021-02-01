@@ -265,3 +265,17 @@ Status: 200 OK
   "stage": "nominee"
 }
 ```
+
+## :memo: License
+
+```
+This is free and unencumbered software released into the public domain.
+
+Anyone is free to copy, modify, publish, use, compile, sell, or
+distribute this software, either in source code form or as a compiled
+binary, for any purpose, commercial or non-commercial, and by any
+means.
+```
+
+This repository is licensed under the same terms as the [Digital Public Goods repository](https://github.com/unicef/publicgoods-candidates): all the information compiled and aggregated in this repository is already in the public domain, thus we dedicate this software to the public domain. As a result, we impose no limitations nor requirements of any kind of how you use it or reuse it. As a courtesy on your part, we would very much appreciate hearing from you either on how you are using the information in this repo, or any great ideas on how we can collaborate together.
+Email us at hello@digitalpublicgoods.net 💌
