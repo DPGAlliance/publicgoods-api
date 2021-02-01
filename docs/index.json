@@ -1,4 +1,6 @@
 {
 	"dpgs": "https://api.digitalpublicgoods.net/dpgs",
-	"nominees": "https://api.digitalpublicgoods.net/nominees"
+	"dpg/{dpg}": "https://api.digitalpublicgoods.net/dpg/{dpg}/",
+	"nominees": "https://api.digitalpublicgoods.net/nominees",
+	"nominee/{nominee}": "https://api.digitalpublicgoods.net/nominee/{nominee}"
 }
