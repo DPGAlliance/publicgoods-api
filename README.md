@@ -16,17 +16,46 @@ Yet for another alternative, a more user-friendly version, you can browse the [D
 
 This API leverages [GitHub Pages](https://pages.github.com/) for hosting, and [GitHub Actions](https://github.com/features/actions) for automatic syncing its contents with the source of truth that lives in the [Digital Public Goods repository](https://github.com/unicef/publicgoods-candidates).
 
-Because of the structure imposed by **GitHub Pages**, all the JSON files are stored inside the `docs/` folder, and served from there. For convenience a softlink is provided from `api/` to `docs/`. The files for each individual endpoint (e.g. `dpg/{dpg}/` and `nominee/{nominee}/`) are pregenerated and stored in correspondingly-named folders with a `index.json` file inside. This folder and file structure accomplishes making the API available in the static infrastrcture that GitHub Pages provides.
+Because of the structure imposed by **GitHub Pages**, all the JSON files are stored inside the `docs/` folder, and served from there. The files for each individual endpoint (e.g. `dpg/{dpg}/` and `nominee/{nominee}/`) are pregenerated and stored in correspondingly-named folders with a `index.json` file inside through [this script](https://github.com/unicef/publicgoods-candidates/blob/master/scripts/api.js), which is triggred to run automatically anytime new relevant changes are pushed to the `master` branch of the [unicef/publicgoods-candidates repo](https://github.com/unicef/publicgoods-candidates). This folder and file structure accomplishes making the API available in the static infrastructure that GitHub Pages provides.
 
 ⚠️ Please note the trailing `/` at the end of all endpoints, which is an artifact of this setup. If you do not include it, you need your code to follow automatic redirects. Any endpoint without trailing slash returns a `301` redirect to the same path with a trailing slash.
 
 ## Reference
 
+### List all available endpoints
+
+List all endpoints available through this API.
+
+```
+GET /
+```
+#### Code Samples
+
+**Shell**
+
+```bash
+curl https://api.digitalpublicgoods.net
+```
+
+#### Default Response
+
+```
+Status: 200 OK
+```
+```json
+{
+	"dpgs": "https://api.digitalpublicgoods.net/dpgs",
+	"dpg/{dpg}": "https://api.digitalpublicgoods.net/dpg/{dpg}/",
+	"nominees": "https://api.digitalpublicgoods.net/nominees",
+	"nominee/{nominee}": "https://api.digitalpublicgoods.net/nominee/{nominee}"
+}
+```
+
 ### List digital public goods
 
 List all digital public goods screened against the [Digital Public Goods Standard](https://github.com/DPGAlliance/DPG-Standard/).
 
-```bash
+```
 GET /dpgs/
 ```
 
