@@ -1,12 +1,6 @@
 # API for Digital Public Goods
 
-Application Programming Interface (API) for Digital Public Goods. 
-
-Refer to the [Digital Public Goods repository](https://github.com/unicef/publicgoods-candidates) for additional documentation.
-
-## Overview
-
-This repository provides a *static* snapshot of an API that can be accessed at `https://api.digitalpublicgoods.net`, where only `GET` endpoints are available.
+Application Programming Interface (API) for Digital Public Goods, available at https://api.digitalpublicgoods.net.
 
 This API provides an alternative method of accessing the information available at https://github.com/unicef/publicgoods-candidates. 
 
