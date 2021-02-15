@@ -1075,17 +1075,26 @@
   {
     "id": "bahmni",
     "name": "Bahmni",
-    "description": "Open Source Hospital Management System built on top of OpenMRS, OpenELIS and OpenERP.",
+    "description": "Open Source Comprehensive Electronic Medical Record System built on top of OpenMRS, OpenELIS and OpenERP",
     "website": "https://www.bahmni.org",
     "license": [
       {
         "spdx": "AGPL-3.0",
-        "licenseURL": "https://github.com/Bahmni/bahmni-core/LICENSE"
+        "licenseURL": "https://www.bahmni.org/license"
       }
     ],
     "SDGs": [
       {
-        "SDGNumber": 3
+        "SDGNumber": 3,
+        "evidenceText": "Over 500 implementations across 50 countries - predominantly in Africa and Asia. Millions of patients across the world have benefited from Bahmni as their stretched doctors and caregivers have used the system to track and monitor patient health and records. The endTB project that tested the latest anti-biotics (Bedqualine and Delamanid) was run on Bahmni."
+      },
+      {
+        "SDGNumber": 10,
+        "evidenceText": "Over 500 implementations across 50 countries - predominantly in Africa and Asia. Millions of patients across the world have benefited from Bahmni as their stretched doctors and caregivers have used the system to track and monitor patient health and records. The endTB project that tested the latest anti-biotics (Bedqualine and Delamanid) was run on Bahmni."
+      },
+      {
+        "SDGNumber": 17,
+        "evidenceText": "Over 500 implementations across 50 countries - predominantly in Africa and Asia. Millions of patients across the world have benefited from Bahmni as their stretched doctors and caregivers have used the system to track and monitor patient health and records. The endTB project that tested the latest anti-biotics (Bedqualine and Delamanid) was run on Bahmni."
       }
     ],
     "sectors": [
@@ -1484,7 +1493,7 @@
     "organizations": [
       {
         "name": "CIREHA",
-        "website": "http://cireha.com.ar",
+        "website": "https://cireha.com.ar",
         "org_type": "owner"
       }
     ],
@@ -5060,7 +5069,7 @@
     "id": "hive",
     "name": "Hive",
     "description": "Drone Monitoring and Management System to manage, control and monitor the network of drones",
-    "website": "http://dms.prokurainnovations.com",
+    "website": "https://dms.prokurainnovations.com",
     "license": [
       {
         "spdx": "MIT",
@@ -5099,7 +5108,7 @@
       },
       {
         "name": "UNICEF Innovation Fund",
-        "website": "http://www.unicefinnovationfund.org/home",
+        "website": "https://www.unicefinnovationfund.org/home",
         "org_type": "funder"
       }
     ],
@@ -5586,7 +5595,7 @@
     "id": "integreat",
     "name": "Integreat",
     "description": "The digital integration platform Integreat enables governments and aid organizations to empower refugees and migrants.",
-    "website": "http://www.integreat-app.com",
+    "website": "https://www.integreat-app.com",
     "license": [
       {
         "spdx": "MIT",
@@ -8432,7 +8441,7 @@
     "id": "open-drone-suite",
     "name": "Open Drone Suite",
     "description": "This project develops and maintains aerial platforms capable of heavy payload delivery for roles including aerial seed bombing for re-forestation, desert locust management including fumigation, and vaccine heavy payload delivery.",
-    "website": "http://as-research.org",
+    "website": "https://as-research.org",
     "license": [
       {
         "spdx": "GPL-3.0",
@@ -8465,7 +8474,7 @@
     "organizations": [
       {
         "name": "Autonomous Systems Research Ltd",
-        "website": "http://as-research.org",
+        "website": "https://as-research.org",
         "org_type": "owner"
       },
       {
@@ -14641,7 +14650,7 @@
     "organizations": [
       {
         "name": "Ideasis / Turkey",
-        "website": "http://ideasis.com.tr/",
+        "website": "https://ideasis.com.tr/",
         "org_type": "owner"
       },
       {
