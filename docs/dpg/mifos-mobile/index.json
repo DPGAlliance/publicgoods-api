@@ -54,14 +54,11 @@
   "privacy": {
     "isPrivacyCompliant": "Yes",
     "privacyComplianceList": [
-      "GDPR"
+      "GDPR",
+      "OFAC"
     ],
     "adherenceSteps": [
       ""
-    ],
-    "isLocIntlAdherent": "Yes",
-    "locIntlComplianceList": [
-      "OFAC"
     ]
   },
   "standards": {
