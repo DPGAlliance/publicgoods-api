@@ -4225,10 +4225,10 @@
     "stage": "nominee"
   },
   {
-    "id": "foodcoops",
-    "name": "FoodCoops",
+    "id": "foodsoft",
+    "name": "Foodsoft",
     "description": "Web-based software to manage a non-profit food coop.",
-    "website": "https://foodcoops.github.io/",
+    "website": "https://foodcoops.net/",
     "license": [
       {
         "spdx": "AGPL-3.0",
@@ -4247,8 +4247,8 @@
     "repositoryURL": "https://github.com/foodcoops/foodsoft",
     "organizations": [
       {
-        "name": "FoodCoops",
-        "website": "https://foodcoops.github.io/",
+        "name": "Foodcoops",
+        "website": "https://foodcoops.net/",
         "org_type": "owner"
       }
     ],
@@ -9331,6 +9331,50 @@
       {
         "name": "Open Agriculture Initiative",
         "website": "https://www.media.mit.edu/groups/open-agriculture-openag/overview/",
+        "org_type": "owner"
+      }
+    ],
+    "stage": "nominee"
+  },
+  {
+    "id": "openagro",
+    "name": "OpenAgro",
+    "description": "Open Source Precision Agriculture with Drones leverages a set of machine learning algorithms & computer vision developed with the goal of determining health states and relevant information for efficient management of resources of different types of crops using drone data (UAV)",
+    "website": "https://rentadrone.cl/developers/precision-agriculture-maps/",
+    "license": [
+      {
+        "spdx": "GPL-3.0",
+        "licenseURL": "https://github.com/RentadroneCL/Precision_Agriculture/blob/master/LICENSE"
+      }
+    ],
+    "SDGs": [
+      {
+        "SDGNumber": 2,
+        "evidenceURL": "https://journals.urfu.ru/index.php/r-economy/article/view/3531/2875"
+      },
+      {
+        "SDGNumber": 9,
+        "evidenceURL": "https://journals.urfu.ru/index.php/r-economy/article/view/3531/2875"
+      },
+      {
+        "SDGNumber": 12,
+        "evidenceURL": "https://journals.urfu.ru/index.php/r-economy/article/view/3531/2875"
+      }
+    ],
+    "sectors": [
+      "Agriculture",
+      "Big Data",
+      "Digital/Data/Tech"
+    ],
+    "type": [
+      "software",
+      "aimodel"
+    ],
+    "repositoryURL": "https://github.com/RentadroneCL/Precision_Agriculture",
+    "organizations": [
+      {
+        "name": "Rentadrone.cl",
+        "website": "https://rentadrone.cl/",
         "org_type": "owner"
       }
     ],
