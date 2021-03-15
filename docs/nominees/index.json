@@ -1169,6 +1169,37 @@
     "stage": "nominee"
   },
   {
+    "id": "bloom",
+    "name": "Bloom",
+    "description": "Bloom integrates with software you already use to automatically track and visualize your company's carbon footprint in real time.",
+    "website": "https://bloomclimate.com/",
+    "license": [
+      {
+        "spdx": "MIT",
+        "licenseURL": "https://github.com/tmrowco/bloom-contrib/blob/master/LICENSE.txt"
+      }
+    ],
+    "SDGs": [
+      {
+        "SDGNumber": 13,
+        "evidenceURL": "Tomorrow mission statement: https://www.tmrow.com/mission/"
+      }
+    ],
+    "sectors": [],
+    "type": [
+      "software"
+    ],
+    "repositoryURL": "https://github.com/tmrowco/bloom-contrib",
+    "organizations": [
+      {
+        "name": "Tomorrow",
+        "website": "https://www.tmrow.com/",
+        "org_type": "owner"
+      }
+    ],
+    "stage": "nominee"
+  },
+  {
     "id": "bob-emploi",
     "name": "Bob Emploi",
     "description": "An application that provides personalized career and job search advice to jobseekers.",
