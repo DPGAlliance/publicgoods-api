@@ -1812,6 +1812,37 @@
     "stage": "nominee"
   },
   {
+    "id": "climatemachine",
+    "name": "ClimateMachine",
+    "description": "An Earth System Model that predicts the evolution of Earth’s climate and features such as droughts, rainfall extremes, and high-impact storms",
+    "website": "https://clima.github.io/ClimateMachine.jl/latest/",
+    "license": [
+      {
+        "spdx": "Apache-2.0",
+        "licenseURL": "https://github.com/CliMA/ClimateMachine.jl/blob/master/LICENSE.md"
+      }
+    ],
+    "SDGs": [
+      {
+        "SDGNumber": 13,
+        "evidenceURL": "https://news.mit.edu/2018/new-climate-modeling-alliance-clima-1212"
+      }
+    ],
+    "sectors": [],
+    "type": [
+      "software"
+    ],
+    "repositoryURL": "https://github.com/CliMA/ClimateMachine.jl",
+    "organizations": [
+      {
+        "name": "CliMA",
+        "website": "https://clima.caltech.edu/",
+        "org_type": "owner"
+      }
+    ],
+    "stage": "nominee"
+  },
+  {
     "id": "climatewatch",
     "name": "ClimateWatch",
     "description": "Climate Watch is an online platform designed to empower policymakers, researchers, media and other stakeholders with the open climate data, visualizations and resources they need to gather insights on national and global progress on climate change.",
@@ -3663,6 +3694,38 @@
       {
         "name": "Sahana",
         "website": "https://sahanafoundation.org",
+        "org_type": "owner"
+      }
+    ],
+    "stage": "nominee"
+  },
+  {
+    "id": "eduactiv8",
+    "name": "eduActiv8",
+    "description": "eduActiv8 is an open source, free educational program for children 3 to about 10 years old. It helps in learning a range of subjects, but mainly focuses on maths",
+    "website": "https://www.eduactiv8.org/",
+    "license": [
+      {
+        "spdx": "GPL-3.0",
+        "licenseURL": "https://github.com/imiolek-ireneusz/eduActiv8/blob/master/LICENSE"
+      }
+    ],
+    "SDGs": [
+      {
+        "SDGNumber": 4,
+        "evidenceText": "eduActiv8 includes activities for building basic math and early literacy skills, including a variety of spelling, matching, and listening activities",
+        "evidenceURL": "https://opensource.com/article/19/4/early-literacy-tools"
+      }
+    ],
+    "sectors": [],
+    "type": [
+      "software"
+    ],
+    "repositoryURL": "https://github.com/imiolek-ireneusz/eduActiv8",
+    "organizations": [
+      {
+        "name": "eduActiv8",
+        "website": "https://www.eduactiv8.org/",
         "org_type": "owner"
       }
     ],
@@ -11088,6 +11151,41 @@
     "stage": "nominee"
   },
   {
+    "id": "plant-for-the-planet",
+    "name": "Plant-for-the-Planet",
+    "description": "Aims to raise awareness amongst children and adults about the issues of climate change",
+    "website": "https://www1.plant-for-the-planet.org/",
+    "license": [
+      {
+        "spdx": "GPL-3.0",
+        "licenseURL": "https://github.com/Plant-for-the-Planet-org/treecounter-app/blob/develop/license.txt"
+      }
+    ],
+    "SDGs": [
+      {
+        "SDGNumber": 13,
+        "evidenceURL": "https://www.washingtonpost.com/graphics/2020/climate-solutions/trillion-tree-reforestation-climate-change-philippines/"
+      },
+      {
+        "SDGNumber": 15,
+        "evidenceURL": "https://www.nationalgeographic.com/science/article/felix-finkbeiner-plant-for-the-planet-one-trillion-trees"
+      }
+    ],
+    "sectors": [],
+    "type": [
+      "software"
+    ],
+    "repositoryURL": "https://github.com/Plant-for-the-Planet-org/treecounter-app",
+    "organizations": [
+      {
+        "name": "Plant-for-the-Planet",
+        "website": "https://www1.plant-for-the-planet.org/",
+        "org_type": "owner"
+      }
+    ],
+    "stage": "nominee"
+  },
+  {
     "id": "planwise",
     "name": "PlanWise",
     "description": "PlanWise helps planners and responders in low-resource settings see how they can serve as many people as they can, as cost-effectively as they can.",
@@ -13670,6 +13768,37 @@
       {
         "name": "Tanibox",
         "website": "https://www.tanibox.com",
+        "org_type": "owner"
+      }
+    ],
+    "stage": "nominee"
+  },
+  {
+    "id": "teammates",
+    "name": "TEAMMATES",
+    "description": "Online Peer Feedback System for student team projects",
+    "website": "https://teammatesv4.appspot.com/web/front/home",
+    "license": [
+      {
+        "spdx": "GPL-2.0",
+        "licenseURL": "https://github.com/TEAMMATES/teammates/blob/master/LICENSE"
+      }
+    ],
+    "SDGs": [
+      {
+        "SDGNumber": 4,
+        "evidenceURL": "https://www.comp.nus.edu.sg/news/archives/y2014/2014osswc/"
+      }
+    ],
+    "sectors": [],
+    "type": [
+      "software"
+    ],
+    "repositoryURL": "https://github.com/TEAMMATES/teammates",
+    "organizations": [
+      {
+        "name": "TEAMMATES",
+        "website": "https://teammatesv4.appspot.com/",
         "org_type": "owner"
       }
     ],
