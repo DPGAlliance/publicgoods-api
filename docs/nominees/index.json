@@ -8935,6 +8935,40 @@
     "stage": "nominee"
   },
   {
+    "id": "onsset",
+    "name": "OnSSET",
+    "description": "A GIS based optimization tool, developed to support electrification planning and decision making.",
+    "website": "http://www.onsset.org/",
+    "license": [
+      {
+        "spdx": "MIT",
+        "licenseURL": "https://github.com/OnSSET/onsset/blob/master/LICENSE"
+      }
+    ],
+    "SDGs": [
+      {
+        "SDGNumber": 7,
+        "evidenceText": "The tool is focused on the assessment and deployment of conventional and renewable energy technologies aiming at ensuring access to affordable, reliable, sustainable and modern energy for all.",
+        "evidenceURL": "https://www.energy.kth.se/energy-systems/completed-projects/open-source-spatial-electrification-toolkit-onsset-1.940024"
+      }
+    ],
+    "sectors": [
+      "Energy"
+    ],
+    "type": [
+      "software"
+    ],
+    "repositoryURL": "https://github.com/OnSSET/onsset",
+    "organizations": [
+      {
+        "name": "OnSSET",
+        "website": "http://www.onsset.org/",
+        "org_type": "owner"
+      }
+    ],
+    "stage": "nominee"
+  },
+  {
     "id": "open-ag-data-alliance",
     "name": "Open Ag Data Alliance",
     "description": "Open Ag Data Alliance gathers information and data on food products from around the world.",
@@ -9849,6 +9883,42 @@
     "stage": "nominee"
   },
   {
+    "id": "open-source-ecology",
+    "name": "Open Source Ecology",
+    "description": "Creating and sharing open source industrial machine designs",
+    "website": "https://www.opensourceecology.org/",
+    "license": [
+      {
+        "spdx": "GPL-3.0",
+        "licenseURL": "https://github.com/OpenSourceEcology/cross-platform-python-gui/blob/master/LICENSE"
+      }
+    ],
+    "SDGs": [
+      {
+        "SDGNumber": 9,
+        "evidenceText": "It is a project for the development and distribution on web, by Open Source means, of a modular and ecological kit of 50 industrial machine that anybody can download and build on its own",
+        "evidenceURL": "https://www.tedxgeneva.net/talks/jacopo-amistami-open-source-ecology-italy-scrum-methodology-for-a-civilization-starter-kit/#:~:text=Open%20Source%20Ecology%20(OSE)%20is,Village%20Construction%20Set%20(GVCS)."
+      }
+    ],
+    "sectors": [
+      "Engineering",
+      "Infrastructure",
+      "Sustainable Cities"
+    ],
+    "type": [
+      "software"
+    ],
+    "repositoryURL": "https://github.com/OpenSourceEcology/cross-platform-python-gui",
+    "organizations": [
+      {
+        "name": "Open Source Ecology",
+        "website": "https://www.opensourceecology.org/",
+        "org_type": "owner"
+      }
+    ],
+    "stage": "nominee"
+  },
+  {
     "id": "open-stax",
     "name": "Open Stax",
     "description": "Publish high-quality, peer-reviewed, openly licensed college textbooks that are absolutely free online and low cost in print.",
@@ -10263,6 +10333,44 @@
       {
         "name": "OpenAQ",
         "website": "https://openaq.org/#/?_k=lwao1c",
+        "org_type": "owner"
+      }
+    ],
+    "stage": "nominee"
+  },
+  {
+    "id": "openbci",
+    "name": "OpenBCI",
+    "aliases": [
+      "Open Source Brain-Computer Interfaces"
+    ],
+    "description": "They provide tools necessary to sample the electrical activity of their body, such as electrical brain activity (EEG), muscle activity (EMG), heart rate(ECG) and body movement.",
+    "website": "https://openbci.com/",
+    "license": [
+      {
+        "spdx": "MIT",
+        "licenseURL": "https://github.com/OpenBCI/OpenBCI_GUI/blob/master/LICENSE"
+      }
+    ],
+    "SDGs": [
+      {
+        "SDGNumber": 3,
+        "evidenceText": "They believe that these discoveries will only be made through an open forum of shared knowledge and concerted effort, by people from a variety of disciplines. Their vision is to realise the potential of the open-source movement to accelerate innovation in brain science.",
+        "evidenceURL": "https://www.opensourceimaging.org/project/openbci/"
+      }
+    ],
+    "sectors": [
+      "Digital/Data/Tech",
+      "Health"
+    ],
+    "type": [
+      "software"
+    ],
+    "repositoryURL": "https://github.com/OpenBCI/OpenBCI_GUI",
+    "organizations": [
+      {
+        "name": "OpenBCI",
+        "website": "https://openbci.com/",
         "org_type": "owner"
       }
     ],
@@ -15859,6 +15967,43 @@
       {
         "name": "Global Fishing Watch",
         "website": "https://globalfishingwatch.org/",
+        "org_type": "owner"
+      }
+    ],
+    "stage": "nominee"
+  },
+  {
+    "id": "viame",
+    "name": "VIAME",
+    "description": "A do-it-yourself AI system for analyzing imagery and video, orginally targeting marine species analysis.",
+    "website": "https://www.viametoolkit.org/",
+    "license": [
+      {
+        "spdx": "BSD-3-Clause",
+        "licenseURL": "https://github.com/VIAME/VIAME/blob/master/LICENSE.txt"
+      }
+    ],
+    "SDGs": [
+      {
+        "SDGNumber": 14,
+        "evidenceText": "VIAME provides a crucial platform for the development of ML for various applications in the marine environment ranging from underwater visual fish surveys to aerial surveys of marine mammals.",
+        "evidenceURL": "https://spo.nmfs.noaa.gov/sites/default/files/TMSPO194.pdf"
+      }
+    ],
+    "sectors": [
+      "Data Collection",
+      "Digital Development",
+      "Environment",
+      "Research"
+    ],
+    "type": [
+      "software"
+    ],
+    "repositoryURL": "https://github.com/VIAME/VIAME",
+    "organizations": [
+      {
+        "name": "VIAME",
+        "website": "https://www.viametoolkit.org/",
         "org_type": "owner"
       }
     ],
