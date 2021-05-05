@@ -602,6 +602,43 @@
     "stage": "nominee"
   },
   {
+    "id": "apache-ctakes",
+    "name": "Apache cTAKES",
+    "aliases": [
+      "Apache clinical Text Analysis and Knowledge Extraction System"
+    ],
+    "description": "Apache cTAKES is a natural language processing system for extraction of information from electronic medical record clinical free-text.",
+    "website": "http://ctakes.apache.org/",
+    "license": [
+      {
+        "spdx": "Apache-2.0",
+        "licenseURL": "https://github.com/apache/ctakes/blob/trunk/LICENSE"
+      }
+    ],
+    "SDGs": [
+      {
+        "SDGNumber": 3,
+        "evidenceURL": "https://www.openhealthnews.com/content/apachecon-2020-features-natural-language-processing-electronic-medical-records-dedicated-tra"
+      },
+      {
+        "SDGNumber": 9,
+        "evidenceURL": "https://www.openhealthnews.com/content/apachecon-2020-features-natural-language-processing-electronic-medical-records-dedicated-tra"
+      }
+    ],
+    "type": [
+      "software"
+    ],
+    "repositoryURL": "https://github.com/apache/ctakes",
+    "organizations": [
+      {
+        "name": "The Apache Software Foundation",
+        "website": "https://apache.org",
+        "org_type": "owner"
+      }
+    ],
+    "stage": "nominee"
+  },
+  {
     "id": "api.gouv.fr",
     "name": "api.gouv.fr",
     "description": "api.gouv.fr catalogs the APIs offered by central administrations, local authorities and public offices.",
@@ -1457,6 +1494,42 @@
         "name": "Ministry of Advanced Education, Skills and Training, Government of British Columbia",
         "website": "https://www2.gov.bc.ca/gov/content/governments/organizational-structure/ministries-organizations/ministries/advanced-education-skills-training",
         "org_type": "funder"
+      }
+    ],
+    "stage": "nominee"
+  },
+  {
+    "id": "caisis",
+    "name": "Caisis",
+    "description": "Caisis is an open-source, web-based, patient data management system that integrates research with patient care. The system is freely distributed to promote the collection of standard, well structured data suitable for research and multi-institution collaboration.",
+    "website": "http://www.caisis.org/",
+    "license": [
+      {
+        "spdx": "GPL-2.0",
+        "licenseURL": "https://github.com/biodigital-inc/caisis/blob/master/LICENSE"
+      }
+    ],
+    "SDGs": [
+      {
+        "SDGNumber": 3,
+        "evidenceURL": "https://grantome.com/grant/NIH/R01-CA119947-01"
+      },
+      {
+        "SDGNumber": 17,
+        "evidenceText": "For over a decade, collaboration with multiple centers has allowed Caisis to develop and evolve in an environment of constant feedback and scrutiny",
+        "evidenceURL": "https://grantome.com/grant/NIH/R01-CA119947-02"
+      }
+    ],
+    "type": [
+      "software"
+    ],
+    "repositoryURL": "https://github.com/biodigital-inc/caisis",
+    "organizations": [
+      {
+        "name": "BioDigital",
+        "website": "http://www.biodigital.com/",
+        "org_type": "owner",
+        "contact_email": "info@biodigital.com"
       }
     ],
     "stage": "nominee"
@@ -2604,6 +2677,37 @@
         "name": "Consul",
         "website": "https://consulproject.org/",
         "org_type": "owner"
+      }
+    ],
+    "stage": "nominee"
+  },
+  {
+    "id": "cookie-consent",
+    "name": "Cookie Consent",
+    "description": "Cookie Consent is a free JavaScript plugin for alerting users about the use of cookies on your website. It is designed to help you quickly comply with cookie laws.",
+    "website": "https://www.osano.com/cookieconsent",
+    "license": [
+      {
+        "spdx": "MIT",
+        "licenseURL": "https://github.com/osano/cookieconsent/blob/dev/LICENSE"
+      }
+    ],
+    "SDGs": [
+      {
+        "SDGNumber": 17,
+        "evidenceURL": "https://www.engage.hoganlovells.com/knowledgeservices/news/cookie-consent-what-good-compliance-looks-like-according-to-the-ico"
+      }
+    ],
+    "type": [
+      "software"
+    ],
+    "repositoryURL": "https://github.com/osano/cookieconsent",
+    "organizations": [
+      {
+        "name": "Osano",
+        "website": "https://www.osano.com",
+        "org_type": "owner",
+        "contact_email": "help@osano.com"
       }
     ],
     "stage": "nominee"
@@ -6407,6 +6511,37 @@
     "stage": "nominee"
   },
   {
+    "id": "intermine",
+    "name": "InterMine",
+    "description": "InterMine integrates biological data sources, making it easy to query and analyse data.",
+    "website": "http://intermine.org/",
+    "license": [
+      {
+        "spdx": "LGPL-2.1",
+        "licenseURL": "https://github.com/intermine/intermine/blob/dev/LICENSE"
+      }
+    ],
+    "SDGs": [
+      {
+        "SDGNumber": 9,
+        "evidenceURL": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4086141/"
+      }
+    ],
+    "type": [
+      "software"
+    ],
+    "repositoryURL": "https://github.com/intermine/intermine",
+    "organizations": [
+      {
+        "name": "InterMine",
+        "website": "http://intermine.org/",
+        "org_type": "owner",
+        "contact_email": "info@intermine.org"
+      }
+    ],
+    "stage": "nominee"
+  },
+  {
     "id": "internal-dashboard",
     "name": "Internal Dashboard",
     "description": "Internal dashboard for officials to get real time data and updates on COVID-19 on surveillance, case tracking, and monitoring.",
@@ -6814,6 +6949,38 @@
         "name": "Development Seed",
         "website": "https://developmentseed.org/",
         "org_type": "owner"
+      }
+    ],
+    "stage": "nominee"
+  },
+  {
+    "id": "labkey-server",
+    "name": "LabKey Server",
+    "description": "LabKey Server is an open-source software platform designed to help research organizations integrate, analyze, and share complex biomedical data. Adaptable to varying research protocols, analysis tools, and data sharing requirements, LabKey Server couples the flexibility of a custom solution with enterprise-level scalability to support scientific workflows.",
+    "website": "https://www.labkey.com/products-services/labkey-server/",
+    "license": [
+      {
+        "spdx": "Apache-2.0",
+        "licenseURL": "https://www.labkey.org/Documentation/wiki-page.view?name=openSourceProject"
+      }
+    ],
+    "SDGs": [
+      {
+        "SDGNumber": 3,
+        "evidenceURL": "https://www.researchgate.net/publication/50347617_LabKey_Server_An_open_source_platform_for_scientific_data_integration_analysis_and_collaboration"
+      }
+    ],
+    "type": [
+      "software",
+      "data"
+    ],
+    "repositoryURL": "https://github.com/LabKey/server",
+    "organizations": [
+      {
+        "name": "LabKey",
+        "website": "https://www.labkey.com/",
+        "org_type": "owner",
+        "contact_email": "info@labkey.com"
       }
     ],
     "stage": "nominee"
@@ -8869,6 +9036,46 @@
       {
         "name": "Ona",
         "website": "https://ona.io",
+        "org_type": "owner"
+      }
+    ],
+    "stage": "nominee"
+  },
+  {
+    "id": "oncoscape",
+    "name": "Oncoscape",
+    "description": "Oncoscape is a data visualization platform that empowers researchers to discover novel patterns and relationships between clinical and molecular data. Through a suite of interoperable tools, Oncoscape offers a unique and intuitive approach to hypothesis refinement.",
+    "website": "https://oncoscape.sttrcancer.org/",
+    "license": [
+      {
+        "spdx": "MIT",
+        "licenseURL": "https://github.com/FredHutch/Oncoscape/blob/develop/LICENSE"
+      }
+    ],
+    "SDGs": [
+      {
+        "SDGNumber": 3,
+        "evidenceURL": "https://www.sttrcancer.org/en/biotools/oncoscape.html"
+      },
+      {
+        "SDGNumber": 17,
+        "evidenceText": "In partnership with Github and Amazon Web Services, the Fred Hutch based team has developed a web-based portal equipped with rich data, powerful statistics and a simple interface to empower doctors, researchers, and scientists in investigating hypotheses, discovering novel patterns and associations, and ultimately expediting the process of translational research and precision medicine.",
+        "evidenceURL": "https://www.sttrcancer.org/en/biotools/oncoscape.html"
+      }
+    ],
+    "type": [
+      "software"
+    ],
+    "repositoryURL": "https://github.com/FredHutch/Oncoscape",
+    "organizations": [
+      {
+        "name": "Fred Hutchinson Cancer Research Center",
+        "website": "https://www.fredhutch.org/en/research/institutes-networks-ircs/seattle-translational-tumor-research.html",
+        "org_type": "owner"
+      },
+      {
+        "name": "Seattle Translational Tumor Research",
+        "website": "https://www.sttrcancer.org/",
         "org_type": "owner"
       }
     ],
@@ -11417,6 +11624,41 @@
         "name": "OptiKey",
         "website": "https://www.optikey.org",
         "org_type": "owner"
+      }
+    ],
+    "stage": "nominee"
+  },
+  {
+    "id": "orange",
+    "name": "Orange",
+    "description": "Orange is an open-source data visualization, machine learning and data mining toolkit. It features a visual programming front-end for explorative rapid qualitative data analysis and interactive data visualization.",
+    "website": "https://orangedatamining.com/",
+    "license": [
+      {
+        "spdx": "GPL-3.0",
+        "licenseURL": "https://github.com/biolab/orange3/blob/master/LICENSE"
+      }
+    ],
+    "SDGs": [
+      {
+        "SDGNumber": 3,
+        "evidenceURL": "https://core.ac.uk/download/pdf/231161571.pdf"
+      },
+      {
+        "SDGNumber": 9,
+        "evidenceURL": "https://orangedatamining.com/home/interactive_data_visualization/"
+      }
+    ],
+    "type": [
+      "software"
+    ],
+    "repositoryURL": "https://github.com/biolab/orange3",
+    "organizations": [
+      {
+        "name": "University of Ljubljana, Faculty of Computer and Information Science, Bioinformatics Laboratory",
+        "website": "https://www.fri.uni-lj.si/en/laboratory/biolab",
+        "org_type": "owner",
+        "contact_email": "info@biolab.si"
       }
     ],
     "stage": "nominee"
@@ -15043,6 +15285,40 @@
     "stage": "nominee"
   },
   {
+    "id": "tensorflow",
+    "name": "Tensorflow",
+    "description": "TensorFlow is an end-to-end open source platform for machine learning. It has a comprehensive, flexible ecosystem of tools, libraries and community resources that lets researchers push the state-of-the-art in ML and developers easily build and deploy ML powered applications.",
+    "website": "https://www.tensorflow.org/",
+    "license": [
+      {
+        "spdx": "Apache-2.0",
+        "licenseURL": "https://github.com/tensorflow/tensorflow/blob/master/LICENSE"
+      }
+    ],
+    "SDGs": [
+      {
+        "SDGNumber": 9,
+        "evidenceURL": "https://services.google.com/fh/files/misc/accelerating_social_good_with_artificial_intelligence_google_ai_impact_challenge.pdf"
+      },
+      {
+        "SDGNumber": 17,
+        "evidenceURL": "https://services.google.com/fh/files/misc/accelerating_social_good_with_artificial_intelligence_google_ai_impact_challenge.pdf"
+      }
+    ],
+    "type": [
+      "software"
+    ],
+    "repositoryURL": "https://github.com/tensorflow/tensorflow",
+    "organizations": [
+      {
+        "name": "Google Brain",
+        "website": "https://research.google/teams/brain/",
+        "org_type": "owner"
+      }
+    ],
+    "stage": "nominee"
+  },
+  {
     "id": "terrastories",
     "name": "Terrastories",
     "description": "Powered by the Mapbox platform, Terrastories is designed to be entirely offline-compatible, so that remote communities can access the application entirely without needing internet connectivity.",
@@ -15134,6 +15410,40 @@
       {
         "name": "UNICEF",
         "website": "https://unicef.org",
+        "org_type": "owner"
+      }
+    ],
+    "stage": "nominee"
+  },
+  {
+    "id": "the-chris-project",
+    "name": "The ChRIS Project",
+    "description": "ChRIS is a general-purpose, open source distributed data and computation platform.",
+    "website": "https://chrisproject.org/",
+    "license": [
+      {
+        "spdx": "MIT",
+        "licenseURL": "https://github.com/FNNDSC/chrisapp/blob/master/LICENSE"
+      }
+    ],
+    "SDGs": [
+      {
+        "SDGNumber": 9,
+        "evidenceURL": "https://www.bu.edu/rhcollab/projects/radiology/"
+      },
+      {
+        "SDGNumber": 17,
+        "evidenceURL": "https://www.bu.edu/rhcollab/projects/radiology/"
+      }
+    ],
+    "type": [
+      "software"
+    ],
+    "repositoryURL": "https://github.com/FNNDSC/chrisapp",
+    "organizations": [
+      {
+        "name": "FNNDSC (Fetal-Neonatal Neuroimaging Developmental Science Center)",
+        "website": "http://fnndsc.babymri.org/",
         "org_type": "owner"
       }
     ],
