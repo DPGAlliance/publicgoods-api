@@ -792,6 +792,36 @@
     "stage": "nominee"
   },
   {
+    "id": "apache-mahout",
+    "name": "Apache Mahout",
+    "description": "Apache Mahout is used to produce free implementations of distributed or otherwise scalable machine learning algorithms focused primarily on linear algebra.",
+    "website": "http://mahout.apache.org/",
+    "license": [
+      {
+        "spdx": "Apache-2.0",
+        "licenseURL": "https://github.com/apache/mahout/blob/trunk/LICENSE"
+      }
+    ],
+    "SDGs": [
+      {
+        "SDGNumber": 9,
+        "evidenceURL": "https://www.opensourceforu.com/2018/09/why-the-apache-mahout-framework-is-so-popular/"
+      }
+    ],
+    "type": [
+      "software"
+    ],
+    "repositoryURL": "https://github.com/apache/mahout",
+    "organizations": [
+      {
+        "name": "The Apache Software Foundation",
+        "website": "https://www.apache.org/",
+        "org_type": "owner"
+      }
+    ],
+    "stage": "nominee"
+  },
+  {
     "id": "api.gouv.fr",
     "name": "api.gouv.fr",
     "description": "api.gouv.fr catalogs the APIs offered by central administrations, local authorities and public offices.",
@@ -1785,6 +1815,36 @@
       {
         "name": "Sandia National Laboratories",
         "website": "https://www.sandia.gov/",
+        "org_type": "owner"
+      }
+    ],
+    "stage": "nominee"
+  },
+  {
+    "id": "caffe",
+    "name": "Caffe",
+    "description": "Caffe is a deep learning framework made with expression, speed, and modularity in mind. ",
+    "website": "http://caffe.berkeleyvision.org/",
+    "license": [
+      {
+        "spdx": "BSD-2-Clause",
+        "licenseURL": "https://github.com/BVLC/caffe/blob/master/README.md"
+      }
+    ],
+    "SDGs": [
+      {
+        "SDGNumber": 9,
+        "evidenceURL": "https://www.infoworld.com/article/3154273/review-caffe-deep-learning-conquers-image-classification.html"
+      }
+    ],
+    "type": [
+      "software"
+    ],
+    "repositoryURL": "https://github.com/BVLC/caffe",
+    "organizations": [
+      {
+        "name": "Berkeley Vision and Learning Center",
+        "website": "https://bair.berkeley.edu/software.html",
         "org_type": "owner"
       }
     ],
@@ -10561,6 +10621,44 @@
     "stage": "nominee"
   },
   {
+    "id": "open-nn",
+    "name": "Open NN",
+    "aliases": [
+      "Open Neural Networks"
+    ],
+    "description": "Open Neural Networks is a world-class open-source library written in the C++ programming language which implements neural networks. It counts with many thousands of users worldwide, and it is intended for advanced users, with high C++ and machine learning skills.",
+    "website": "https://www.opennn.net/",
+    "license": [
+      {
+        "spdx": "GPL-3.0",
+        "licenseURL": "https://github.com/Artelnics/opennn/blob/master/LICENSE.txt"
+      }
+    ],
+    "SDGs": [
+      {
+        "SDGNumber": 3,
+        "evidenceURL": "https://medium.com/@deepakvraghavan/practical-uses-of-deep-neural-networks-in-healthcare-934ce1783999"
+      },
+      {
+        "SDGNumber": 9,
+        "evidenceURL": "https://algorithmxlab.com/blog/10-use-cases-neural-networks/"
+      }
+    ],
+    "type": [
+      "software"
+    ],
+    "repositoryURL": "https://github.com/Artelnics/opennn",
+    "organizations": [
+      {
+        "name": "Artificial Intelligence Techniques, Ltd.",
+        "website": "https://www.artelnics.com/technology/",
+        "org_type": "owner",
+        "contact_email": "artelnics@artelnics.com"
+      }
+    ],
+    "stage": "nominee"
+  },
+  {
     "id": "open-opportunities-platform",
     "name": "Open Opportunities platform",
     "description": "A United States government program that is creating a network of federal employees working together to build a more effective, efficient, responsive government by sharing skills and collaborating on projects that support the mission of an agency or the government as a whole.",
@@ -14636,6 +14734,36 @@
       {
         "name": "Saylor Academy",
         "website": "https://www.saylor.org/",
+        "org_type": "owner"
+      }
+    ],
+    "stage": "nominee"
+  },
+  {
+    "id": "scikit-learn",
+    "name": "Scikit Learn",
+    "description": "Scikit Learn is a free software machine learning library for the Python programming language. It features various classification, regression and clustering algorithms including support vector machines, random forests, gradient boosting, k-means and DBSCAN, and is designed to interoperate with the Python numerical and scientific libraries NumPy and SciPy",
+    "website": "https://scikit-learn.org/",
+    "license": [
+      {
+        "spdx": "BSD-3-Clause",
+        "licenseURL": "https://github.com/scikit-learn/scikit-learn/blob/main/COPYING"
+      }
+    ],
+    "SDGs": [
+      {
+        "SDGNumber": 9,
+        "evidenceURL": "https://opensource.com/article/18/9/how-use-scikit-learn-data-science-projects"
+      }
+    ],
+    "type": [
+      "software"
+    ],
+    "repositoryURL": "https://github.com/scikit-learn/scikit-learn",
+    "organizations": [
+      {
+        "name": "Scikit Learn",
+        "website": "https://scikit-learn.org/",
         "org_type": "owner"
       }
     ],
