@@ -7186,6 +7186,40 @@
     "stage": "nominee"
   },
   {
+    "id": "invest",
+    "name": "InVEST",
+    "description": "InVEST (Integrated Valuation of Ecosystem Services and Tradeoffs) is a family of tools for quantifying the values of natural capital in clear, credible, and practical ways. In promising a return (of societal benefits) on investments in nature, the scientific community needs to deliver knowledge and tools to quantify and forecast this return. InVEST enables decision-makers to quantify the importance of natural capital, to assess the tradeoffs associated with alternative choices, and to integrate conservation and human development.",
+    "website": "https://naturalcapitalproject.stanford.edu/software/invest",
+    "license": [
+      {
+        "spdx": "BSD-3-Clause",
+        "licenseURL": "https://github.com/natcap/invest/blob/main/LICENSE.txt"
+      }
+    ],
+    "SDGs": [
+      {
+        "SDGNumber": 8,
+        "evidenceURL": "https://naturalcapitalproject.stanford.edu/news/belize-s-economy-gets-boost-nature"
+      },
+      {
+        "SDGNumber": 15,
+        "evidenceURL": "https://naturalcapitalproject.stanford.edu/news/gretchen-daily-recognized-visionary-work-combat-species-loss"
+      }
+    ],
+    "type": [
+      "software"
+    ],
+    "repositoryURL": "https://github.com/natcap/invest",
+    "organizations": [
+      {
+        "name": "The Natural Capital Project",
+        "website": "http://naturalcapitalproject.stanford.edu/",
+        "org_type": "owner"
+      }
+    ],
+    "stage": "nominee"
+  },
+  {
     "id": "jhsph-opencourseware",
     "name": "JHSPH OpenCourseware",
     "description": "JHSPH OpenCourseware offers open materials and images from more than a hundred courses developed by the faculty of Johns Hopkins School of Public Health, the world’s foremost institution of public health education and research.",
@@ -14214,6 +14248,36 @@
     "stage": "nominee"
   },
   {
+    "id": "remind",
+    "name": "REMIND",
+    "description": "The REgional Model of INvestments and Development (REMIND) is a modular open source multi-regional model incorporating the economy, the climate system and a detailed representation of the energy sector. It solves for an inter-temporal Pareto optimum in economic and energy investments in the model regions, fully accounting for interregional trade in goods, energy carriers and emissions allowances. ",
+    "website": "https://www.pik-potsdam.de/research/transformation-pathways/models/remind",
+    "license": [
+      {
+        "spdx": "AGPL-3.0",
+        "licenseURL": "https://github.com/remindmodel/remind/blob/develop/LICENSE"
+      }
+    ],
+    "SDGs": [
+      {
+        "SDGNumber": 13,
+        "evidenceURL": "https://iopscience.iop.org/article/10.1088/1748-9326/aac3ec#:~:text=We%20examine%20their%20impact%20on,C%20or%201.5%20%C2%B0C.&text=Importantly%2C%20we%20find%20that%20these,C%20to%201.5%20%C2%B0C."
+      }
+    ],
+    "type": [
+      "software"
+    ],
+    "repositoryURL": "https://github.com/remindmodel/remind",
+    "organizations": [
+      {
+        "name": "Potsdam Institute for Climate Impact Research",
+        "website": "https://www.pik-potsdam.de/en/home",
+        "org_type": "maintainer"
+      }
+    ],
+    "stage": "nominee"
+  },
+  {
     "id": "represent-canada",
     "name": "Represent-Canada",
     "description": "Point or postcode to electoral district service for Canada, its provinces and municipalities ",
@@ -15872,6 +15936,36 @@
       {
         "name": "MITRE Corporation",
         "website": "https://www.mitre.org/",
+        "org_type": "owner"
+      }
+    ],
+    "stage": "nominee"
+  },
+  {
+    "id": "system-advisor-model",
+    "name": "System Advisor Model",
+    "description": "The System Advisor Model (SAM) is a free techno-economic software model that facilitates decision-making for people in the renewable energy industry.",
+    "website": "https://sam.nrel.gov/",
+    "license": [
+      {
+        "spdx": "BSD-3-Clause",
+        "licenseURL": "https://github.com/NREL/ssc/blob/develop/LICENSE"
+      }
+    ],
+    "SDGs": [
+      {
+        "SDGNumber": 7,
+        "evidenceURL": "https://www.tandfonline.com/doi/full/10.1080/23311916.2018.1524051"
+      }
+    ],
+    "type": [
+      "software"
+    ],
+    "repositoryURL": "https://github.com/NREL/ssc",
+    "organizations": [
+      {
+        "name": "National Renewable Energy Laboratory",
+        "website": "http://www.nrel.gov/",
         "org_type": "owner"
       }
     ],
