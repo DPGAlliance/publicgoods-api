@@ -1720,6 +1720,43 @@
     "stage": "nominee"
   },
   {
+    "id": "cactus",
+    "name": "Cactus",
+    "description": "A turbine performance simulation code, based on a free wake vortex method, to study wind turbines and marine hydrokinetic devices.",
+    "website": "https://www.sandia.gov/",
+    "license": [
+      {
+        "spdx": "BSD-3-Clause",
+        "licenseURL": "https://github.com/SNL-WaterPower/CACTUS/blob/dev/LICENSE"
+      }
+    ],
+    "SDGs": [
+      {
+        "SDGNumber": 6,
+        "evidenceText": "A turbine performance simulation code, based on a free wake vortex method, to study wind turbines and marine hydrokinetic devices in order to lessen the impact on the climate."
+      },
+      {
+        "SDGNumber": 13,
+        "evidenceText": "A turbine performance simulation code, based on a free wake vortex method, to study wind turbines and marine hydrokinetic devices in order to lessen the impact on the climate."
+      }
+    ],
+    "sectors": [
+      "Water and Sanitation"
+    ],
+    "type": [
+      "software"
+    ],
+    "repositoryURL": "https://github.com/SNL-WaterPower/CACTUS/",
+    "organizations": [
+      {
+        "name": "Sandia National Laboratories",
+        "website": "https://www.sandia.gov/",
+        "org_type": "owner"
+      }
+    ],
+    "stage": "nominee"
+  },
+  {
     "id": "caisis",
     "name": "Caisis",
     "description": "Caisis is an open-source, web-based, patient data management system that integrates research with patient care. The system is freely distributed to promote the collection of standard, well structured data suitable for research and multi-institution collaboration.",
