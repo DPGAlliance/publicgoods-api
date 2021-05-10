@@ -11509,6 +11509,40 @@
     "stage": "nominee"
   },
   {
+    "id": "openemr",
+    "name": "OpenEMR",
+    "description": "OpenEMR is the most popular open source electronic health records and medical practice management solution. OpenEMR's goal is a superior alternative to its proprietary counterparts.",
+    "website": "https://www.open-emr.org/",
+    "license": [
+      {
+        "spdx": "GPL-3.0",
+        "licenseURL": "https://github.com/openemr/openemr/blob/master/LICENSE"
+      }
+    ],
+    "SDGs": [
+      {
+        "SDGNumber": 3,
+        "evidenceURL": "https://www.openhealthnews.com/content/openemr-community-responds-hrsa-call-advanced-ehr-solutions-community-health-centers"
+      },
+      {
+        "SDGNumber": 11,
+        "evidenceURL": "https://www.openhealthnews.com/content/openemr-stands-hurricane-marias-fury-puerto-rico"
+      }
+    ],
+    "type": [
+      "software"
+    ],
+    "repositoryURL": "https://github.com/openemr/openemr",
+    "organizations": [
+      {
+        "name": "OpenEMR",
+        "website": "https://open-emr.org/",
+        "org_type": "owner"
+      }
+    ],
+    "stage": "nominee"
+  },
+  {
     "id": "openems",
     "name": "OpenEMS",
     "description": "Open Source Energy Management System",
@@ -11639,6 +11673,36 @@
       {
         "name": "OpenHIE",
         "website": "https://ohie.org",
+        "org_type": "owner"
+      }
+    ],
+    "stage": "nominee"
+  },
+  {
+    "id": "openhospital",
+    "name": "OpenHospital",
+    "description": "Open Hospital (OH) is an electronic health record (EHR) application. Open Hospital is currently provided as a desktop application written in Java and it's designed to work without an internet connection.",
+    "website": "http://www.open-hospital.org/",
+    "license": [
+      {
+        "spdx": "GPL-3.0",
+        "licenseURL": "https://github.com/informatici/openhospital/blob/master/LICENSE"
+      }
+    ],
+    "SDGs": [
+      {
+        "SDGNumber": 3,
+        "evidenceURL": "https://www.open-hospital.org/perche-open-hospital-software-his-open-source/"
+      }
+    ],
+    "type": [
+      "software"
+    ],
+    "repositoryURL": "https://github.com/informatici/openhospital",
+    "organizations": [
+      {
+        "name": "Informatici Senza Frontiere",
+        "website": "http://www.informaticisenzafrontiere.org/",
         "org_type": "owner"
       }
     ],
@@ -13191,6 +13255,37 @@
         "name": "mySociety",
         "website": " https://www.mysociety.org/",
         "org_type": "owner"
+      }
+    ],
+    "stage": "nominee"
+  },
+  {
+    "id": "pophealth",
+    "name": "popHealth",
+    "description": "popHealth is an open source tool that allows healthcare providers to calculate quality measures. A quality measure is a calculation of the number of individuals in a population that meet a specific standard of care. popHealth can import patient summaries in either QRDA Cat I or C-CDA format. popHealth will extract information from the patient summaries and calculate quality reports.",
+    "website": "https://worldvista.org/pophealth-1",
+    "license": [
+      {
+        "spdx": "Apache-2.0",
+        "licenseURL": "https://github.com/WorldVistA/popHealth/blob/master/LICENSE"
+      }
+    ],
+    "SDGs": [
+      {
+        "SDGNumber": 3,
+        "evidenceURL": "https://www.mitre.org/publications/project-stories/pophealth-better-care-through-better-understanding"
+      }
+    ],
+    "type": [
+      "software"
+    ],
+    "repositoryURL": "https://github.com/WorldVistA/popHealth",
+    "organizations": [
+      {
+        "name": "WorldVistA",
+        "website": "https://worldvista.org/",
+        "org_type": "owner",
+        "contact_email": "info@worldvista.org"
       }
     ],
     "stage": "nominee"
@@ -17455,6 +17550,37 @@
     "stage": "nominee"
   },
   {
+    "id": "vista",
+    "name": "VistA",
+    "description": "Electronic Health Record systems (EHR) are essential to improving health quality and managing health care delivery, whether in a large health system, hospital, or primary care clinic. The U.S. Department of Veterans Affairs (VA) has developed and continues to maintain a robust EHR known as VistA - the Veterans Health Information Systems and Technology Architecture. This system was designed and developed to support a high-quality medical care environment for the military veterans in the United States.",
+    "website": "https://worldvista.org/AboutVistA",
+    "license": [
+      {
+        "spdx": "Apache-2.0",
+        "licenseURL": "https://github.com/WorldVistA/VistA/blob/master/LICENSE"
+      }
+    ],
+    "SDGs": [
+      {
+        "SDGNumber": 3,
+        "evidenceURL": "https://www.nytimes.com/2007/05/30/opinion/30goetz.html?ex=1338177600&en=4b9b74b9874cad7f&ei=5124&partner=permalink&exprod=permalink"
+      }
+    ],
+    "type": [
+      "software"
+    ],
+    "repositoryURL": "https://github.com/WorldVistA/VistA",
+    "organizations": [
+      {
+        "name": "WorldVistA",
+        "website": "http://www.worldvista.org/",
+        "org_type": "owner",
+        "contact_email": "info@worldvista.org"
+      }
+    ],
+    "stage": "nominee"
+  },
+  {
     "id": "vivoosvr",
     "name": "VivoosVR",
     "description": "Virtual Reality based software tool to aid mental health professionals in treatment of psychological disorders.  ",
@@ -18170,6 +18296,36 @@
         "name": "DrivenData",
         "website": "https://www.drivendata.org/",
         "org_type": "owner"
+      }
+    ],
+    "stage": "nominee"
+  },
+  {
+    "id": "zeprs",
+    "name": "ZEPRS",
+    "description": "The Zambia Electronic Perinatal Record System (ZEPRS) is an Electronic Medical Record (EMR) system used by public obstetric clinics and a hospital (the University Teaching Hospital) in Lusaka, Zambia to improve patient care. The University of Alabama Birmingham (UAB) Center for Research in Women's Health (CRWH), RTI, and the Center for Infectious Disease Research in Zambia (CIDRZ) developed ZEPRS with local medical expertise and project engagement from the Lusaka Urban Health District, Central Board of Health and funding support from the Bill & Melinda Gates Foundation.",
+    "website": "https://www.medfloss.org/node/592",
+    "license": [
+      {
+        "spdx": "Apache-2.0",
+        "licenseURL": "https://github.com/chrisekelley/zeprs/blob/master/license.txt"
+      }
+    ],
+    "SDGs": [
+      {
+        "SDGNumber": 3,
+        "evidenceURL": "https://www.medfloss.org/node/594"
+      }
+    ],
+    "type": [
+      "software"
+    ],
+    "repositoryURL": "https://github.com/chrisekelley/zeprs",
+    "organizations": [
+      {
+        "name": "RTI International",
+        "website": "https://www.rti.org/",
+        "org_type": "maintainer"
       }
     ],
     "stage": "nominee"
