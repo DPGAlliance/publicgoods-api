@@ -229,6 +229,45 @@
     "stage": "nominee"
   },
   {
+    "id": "activityinfo-python",
+    "name": "ActivityInfo Python",
+    "description": "ActivityInfo is an online humanitarian project monitoring tool, which helps humanitarian organizations to collect, manage, map and analyze indicators. ActivityInfo Python is a python package with a API client for ActivityInfo version 4",
+    "website": "https://www.activityinfo.org/",
+    "license": [
+      {
+        "spdx": "MIT",
+        "licenseURL": "https://github.com/bedatadriven/activityinfo-Python/blob/main/LICENSE"
+      }
+    ],
+    "SDGs": [
+      {
+        "SDGNumber": 6,
+        "evidenceURL": "https://www.activityinfo.org/blog/posts/2019-06-07-monitoring-Ebola-Response-UNICEF-DRC-ActivityInfo.html"
+      },
+      {
+        "SDGNumber": 3,
+        "evidenceURL": "https://www.activityinfo.org/blog/posts/2018-11-19-who-iraq-health.html"
+      },
+      {
+        "SDGNumber": 4,
+        "evidenceURL": "https://www.activityinfo.org/blog/posts/2016-05-31-education-cluster-iraq.html"
+      }
+    ],
+    "sectors": [],
+    "type": [
+      "software"
+    ],
+    "repositoryURL": "https://github.com/bedatadriven/activityinfo-Python",
+    "organizations": [
+      {
+        "name": "Be Data Driven",
+        "website": "http://www.bedatadriven.com/",
+        "org_type": "owner"
+      }
+    ],
+    "stage": "nominee"
+  },
+  {
     "id": "adopt-a-drain",
     "name": "Adopt a Drain",
     "description": "A web application that allows citizens to \"adopt\" a storm drain in San Francisco. ",
@@ -423,6 +462,41 @@
       {
         "name": "Publish What You Fund",
         "website": "https://www.publishwhatyoufund.org",
+        "org_type": "owner"
+      }
+    ],
+    "stage": "nominee"
+  },
+  {
+    "id": "akvo-flow",
+    "name": "Akvo Flow",
+    "description": "Akvo Flow is a tool for collecting, evaluating and displaying of geographically referenced data. It is composed of an android mobile app and an online web-based platform.",
+    "website": "https://akvo.org/flow-caddisfly-lumen/",
+    "license": [
+      {
+        "spdx": "AGPL-3.0",
+        "licenseURL": "https://github.com/akvo/akvo-flow/blob/master/LICENSE.md"
+      }
+    ],
+    "SDGs": [
+      {
+        "SDGNumber": 6,
+        "evidenceURL": "https://www.dutchwatersector.com/news/wwf7-akvo-flow-hits-one-million-mark-for-field-surveys"
+      },
+      {
+        "SDGNumber": 9,
+        "evidenceURL": "https://datajourney.akvo.org/blog/using-data-science-to-improve-the-income-of-smallholder-farmers"
+      }
+    ],
+    "sectors": [],
+    "type": [
+      "software"
+    ],
+    "repositoryURL": "https://github.com/akvo/akvo-flow",
+    "organizations": [
+      {
+        "name": "Akvo Foundation",
+        "website": "https://www.akvo.org/",
         "org_type": "owner"
       }
     ],
@@ -3650,6 +3724,45 @@
         "name": "UNICEF Ventures Fund",
         "website": "https://unicefinnovationfund.org/",
         "org_type": "funder"
+      }
+    ],
+    "stage": "nominee"
+  },
+  {
+    "id": "datawinners",
+    "name": "DataWinners",
+    "description": "DataWinners is a data collection application supporting multiple channels like sms, web and smartphone. Goal is to enable seamless data collection, reporting and visualization.",
+    "website": "http://datawinners.com/",
+    "license": [
+      {
+        "spdx": "Apache-2.0",
+        "licenseURL": "http://www.apache.org/licenses/LICENSE-2.0"
+      }
+    ],
+    "SDGs": [
+      {
+        "SDGNumber": 4,
+        "evidenceURL": "https://allchildrenreading.org/innovator/human-network-international/"
+      },
+      {
+        "SDGNumber": 9,
+        "evidenceURL": "https://www.slideshare.net/SandraGubler1/human-network-international-its-services"
+      },
+      {
+        "SDGNumber": 10,
+        "evidenceURL": "https://www.slideshare.net/SandraGubler1/human-network-international-its-services"
+      }
+    ],
+    "sectors": [],
+    "type": [
+      "software"
+    ],
+    "repositoryURL": "https://github.com/mangroveorg/datawinners",
+    "organizations": [
+      {
+        "name": "Human Network Interaction (HNI)",
+        "website": "https://www.linkedin.com/company/human-network-international/about/",
+        "org_type": "owner"
       }
     ],
     "stage": "nominee"
