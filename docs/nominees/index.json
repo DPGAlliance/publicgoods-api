@@ -5664,37 +5664,6 @@
     "stage": "nominee"
   },
   {
-    "id": "formpack",
-    "name": "Formpack",
-    "description": "Formpack is a tool used by the frontend server for KoBoToolbox which allows users to access data and manage their forms, create reports, etc. Formpack allows it to parse and repackage survey data for exports, reports, and maps based on different languages available from the form definition.",
-    "website": "https://www.kobotoolbox.org/",
-    "license": [
-      {
-        "spdx": "GPL-3.0",
-        "licenseURL": "https://github.com/kobotoolbox/formpack/blob/master/LICENSE"
-      }
-    ],
-    "SDGs": [
-      {
-        "SDGNumber": 17,
-        "evidenceURL": "https://www.kobotoolbox.org/blog/the-syrian-refugee-crisis-in-lebanon-and-how-kobotoolbox-is-aiding-humanitarian-efforts"
-      }
-    ],
-    "sectors": [],
-    "type": [
-      "software"
-    ],
-    "repositoryURL": "https://github.com/kobotoolbox/formpack",
-    "organizations": [
-      {
-        "name": "Kobo Toolbox",
-        "website": "https://www.kobotoolbox.org/",
-        "org_type": "owner"
-      }
-    ],
-    "stage": "nominee"
-  },
-  {
     "id": "foxbms",
     "name": "foxBMS",
     "description": "foxBMS is a free, open and flexible research and development environment for the design of Battery Management Systems (BMS). Its aim is to accelerate the research, development and test processes used in the mobile and stationary electrical energy storage domains by using seamless development processes and integration.",
@@ -6247,30 +6216,35 @@
     "id": "global-open-facility-registry",
     "name": "Global Open Facility Registry",
     "aliases": [
-      "GOFR"
+      "GOFR",
+      "Facility Reconciliation Tool"
     ],
-    "description": "The Facility Reconciliation Tool is an open source and open standards-based product used to compare lists of (health) facilities from different data sources.",
+    "description": "GOFR is an open source federated facility registry platform for reconciling multiple facility lists and managing a primary list",
     "website": "https://www.facilitymatch.net/",
     "license": [
       {
         "spdx": "Apache-2.0",
-        "licenseURL": "https://github.com/openhie/facility-recon/blob/master/LICENSE"
+        "licenseURL": "https://github.com/intrahealth/gofr/blob/master/LICENSE"
       }
     ],
     "SDGs": [
       {
-        "SDGNumber": 3
+        "SDGNumber": 3,
+        "evidenceText": "RTI International and JSI implemented the Global Open Facility Registry (GOFR) project in Guinea. GOFR’s objective is to enable integrated and interoperable Master Facility Registries (MFR)",
+        "evidenceURL": "https://solutions.dial.community/projects/1576"
       }
     ],
-    "sectors": [],
+    "sectors": [
+      "Health"
+    ],
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/openhie/facility-recon",
+    "repositoryURL": "https://github.com/intrahealth/gofr",
     "organizations": [
       {
-        "name": "OpenHIE",
-        "website": "https://ohie.org/",
+        "name": "IntraHealth International",
+        "website": "https://www.intrahealth.org/",
         "org_type": "owner"
       }
     ],
@@ -7774,36 +7748,6 @@
     "stage": "nominee"
   },
   {
-    "id": "kobo-api",
-    "name": "Kobo API",
-    "description": "kobo-api",
-    "website": "",
-    "license": [
-      {
-        "spdx": "AGPL-3.0",
-        "licenseURL": "https://github.com/kobotoolbox/kpi/blob/master/LICENSE"
-      }
-    ],
-    "SDGs": [
-      {
-        "SDGNumber": 17
-      }
-    ],
-    "sectors": [],
-    "type": [
-      "software"
-    ],
-    "repositoryURL": "https://github.com/kobotoolbox/kpi",
-    "organizations": [
-      {
-        "name": "Kobo Toolbox",
-        "website": "https://www.kobotoolbox.org/",
-        "org_type": "owner"
-      }
-    ],
-    "stage": "nominee"
-  },
-  {
     "id": "kobocat",
     "name": "KoboCat",
     "description": "Simple, robust and powerful tools for data collection.",
@@ -7831,6 +7775,55 @@
       {
         "name": "Kobo Toolbox",
         "website": "https://www.kobotoolbox.org/",
+        "org_type": "owner"
+      }
+    ],
+    "stage": "nominee"
+  },
+  {
+    "id": "kobotoolbox",
+    "name": "KoBoToolbox",
+    "description": "KoBoToolbox is a suite of tools for field data collection for use in challenging environments",
+    "website": "https://www.kobotoolbox.org",
+    "license": [
+      {
+        "spdx": "AGPL-3.0",
+        "licenseURL": "https://github.com/kobotoolbox/kpi/blob/master/LICENSE"
+      }
+    ],
+    "SDGs": [
+      {
+        "SDGNumber": 3,
+        "evidenceText": "In Uganda, KoBoToolbox has been used to monitor deworming activities that are crucial to the health of school children",
+        "evidenceURL": "https://blogs.cisco.com/csr/a-digital-data-collection-tool-for-humanitarians"
+      },
+      {
+        "SDGNumber": 10,
+        "evidenceText": "In South Sudan, KoBoToolbox has been used to map remote health facilities and track available services and medicine",
+        "evidenceURL": "https://blogs.cisco.com/csr/a-digital-data-collection-tool-for-humanitarians"
+      },
+      {
+        "SDGNumber": 11,
+        "evidenceText": "In Niger, KoBoToolbox helps to plan and supervise infrastructure investments for refugees",
+        "evidenceURL": "https://blogs.cisco.com/csr/a-digital-data-collection-tool-for-humanitarians"
+      },
+      {
+        "SDGNumber": 16,
+        "evidenceText": "KoBoToolbox was selected as the official data collection and coordination tool for the Recovery and Peacebuilding Process in the Central African Republic",
+        "evidenceURL": "https://blogs.cisco.com/csr/a-digital-data-collection-tool-for-humanitarians"
+      }
+    ],
+    "sectors": [
+      "Health"
+    ],
+    "type": [
+      "software"
+    ],
+    "repositoryURL": "https://github.com/kobotoolbox/kpi",
+    "organizations": [
+      {
+        "name": "Kobo",
+        "website": "https://www.kobotoolbox.org",
         "org_type": "owner"
       }
     ],
