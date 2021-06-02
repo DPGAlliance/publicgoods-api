@@ -1,0 +1,147 @@
+{
+  "id": "global-open-facility-registry",
+  "name": "Global Open Facility Registry",
+  "aliases": [
+    "GOFR",
+    "Facility Reconciliation Tool"
+  ],
+  "description": "GOFR is an open source federated facility registry platform for reconciling multiple facility lists and managing a primary list",
+  "website": "https://www.facilitymatch.net/",
+  "license": [
+    {
+      "spdx": "Apache-2.0",
+      "licenseURL": "https://github.com/intrahealth/gofr/blob/master/LICENSE"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 3,
+      "evidenceText": "RTI International and JSI implemented the Global Open Facility Registry (GOFR) project in Guinea. GOFR’s objective is to enable integrated and interoperable Master Facility Registries (MFR)",
+      "evidenceURL": "https://solutions.dial.community/projects/1576"
+    }
+  ],
+  "sectors": [
+    "Health"
+  ],
+  "type": [
+    "software"
+  ],
+  "repositoryURL": "https://github.com/intrahealth/gofr",
+  "organizations": [
+    {
+      "name": "IntraHealth International",
+      "website": "https://www.intrahealth.org/",
+      "org_type": "owner"
+    }
+  ],
+  "stage": "DPG",
+  "clearOwnership": {
+    "isOwnershipExplicit": "Yes",
+    "copyrightURL": "https://www.facilitymatch.net/"
+  },
+  "platformIndependence": {
+    "mandatoryDepsCreateMoreRestrictions": "No",
+    "isSoftwarePltIndependent": "",
+    "pltIndependenceDesc": ""
+  },
+  "documentation": {
+    "isDocumentationAvailable": "Yes",
+    "documentationURL": [
+      "https://facility-recon.readthedocs.io/en/latest/"
+    ]
+  },
+  "NonPII": {
+    "collectsNonPII": "Yes",
+    "checkNonPIIAccessMechanism": "Yes",
+    "nonPIIAccessMechanism": "CSV & REST are supported"
+  },
+  "privacy": {
+    "isPrivacyCompliant": "Yes",
+    "privacyComplianceList": [
+      "GDPR"
+    ],
+    "adherenceSteps": [
+      "We do not store any personal data"
+    ]
+  },
+  "standards": {
+    "supportStandards": "Yes",
+    "standardsList": [
+      "FHIR and mCSD profile"
+    ],
+    "evidenceStandardSupport": [
+      "https://facility-recon.readthedocs.io/en/latest/faq.html",
+      "https://github.com/intrahealth/gofr"
+    ],
+    "implementBestPractices": "Yes",
+    "bestPracticesList": [
+      "Principles for Digital Development"
+    ]
+  },
+  "doNoHarm": {
+    "preventHarm": {
+      "stepsToPreventHarm": "Yes",
+      "additionalInfoMechanismProcessesPolicies": "https://www.intrahealth.org/terms-use"
+    },
+    "dataPrivacySecurity": {
+      "collectsPII": "No",
+      "typesOfDataCollected": [
+        ""
+      ],
+      "thirdPartyDataSharing": "No",
+      "dataSharingCircumstances": [
+        ""
+      ],
+      "ensurePrivacySecurity": "Yes",
+      "privacySecurityDescription": "https://www.intrahealth.org/terms-use"
+    },
+    "inappropriateIllegalContent": {
+      "collectStoreDistribute": "No",
+      "type": "",
+      "contentFilter": "",
+      "policyGuidelinesDocumentationLink": "",
+      "illegalContentDetection": "",
+      "illegalContentDetectionMechanism": ""
+    },
+    "protectionFromHarassment": {
+      "userInteraction": "No",
+      "addressSafetySecurityUnderageUsers": "",
+      "stepsAddressRiskPreventSafetyUnderageUsers": [],
+      "griefAbuseHarassmentProtection": "",
+      "harassmentProtectionSteps": [
+        ""
+      ]
+    }
+  },
+  "locations": {
+    "developmentCountries": [
+      "Botswana",
+      "Burundi",
+      "Cameroon",
+      "Cote d'Ivoire",
+      "DRC",
+      "Eswatini",
+      "Ethiopia",
+      "Haiti",
+      "Kenya",
+      "Lesotho",
+      "Malawi",
+      "Mozambique",
+      "Namibia",
+      "Nigeria",
+      "South Africa",
+      "South Sudan",
+      "Tanzania",
+      "Uganda",
+      "Ukraine",
+      "Zambia",
+      "Zimbabwe",
+      "Liberia",
+      "Guinea",
+      "Ethiopia"
+    ],
+    "deploymentCountries": [
+      "Ethiopia"
+    ]
+  }
+}
