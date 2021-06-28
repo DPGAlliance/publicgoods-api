@@ -2,7 +2,7 @@
   "id": "onsset",
   "name": "OnSSET",
   "description": "A GIS based optimization tool, developed to support electrification planning and decision making.",
-  "website": "http://www.onsset.org/",
+  "website": "https://www.onsset.org/",
   "license": [
     {
       "spdx": "MIT",
@@ -26,7 +26,7 @@
   "organizations": [
     {
       "name": "OnSSET",
-      "website": "http://www.onsset.org/",
+      "website": "https://www.onsset.org/",
       "org_type": "owner"
     }
   ],

@@ -2,7 +2,7 @@
   "id": "caffe",
   "name": "Caffe",
   "description": "Caffe is a deep learning framework made with expression, speed, and modularity in mind. ",
-  "website": "http://caffe.berkeleyvision.org/",
+  "website": "https://caffe.berkeleyvision.org/",
   "license": [
     {
       "spdx": "BSD-2-Clause",

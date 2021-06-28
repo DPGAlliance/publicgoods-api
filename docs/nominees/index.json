@@ -339,7 +339,7 @@
     "organizations": [
       {
         "name": "Be Data Driven",
-        "website": "http://www.bedatadriven.com/",
+        "website": "https://www.bedatadriven.com/",
         "org_type": "owner"
       }
     ],
@@ -1126,7 +1126,7 @@
       "Apache clinical Text Analysis and Knowledge Extraction System"
     ],
     "description": "Apache cTAKES is a natural language processing system for extraction of information from electronic medical record clinical free-text.",
-    "website": "http://ctakes.apache.org/",
+    "website": "https://ctakes.apache.org/",
     "license": [
       {
         "spdx": "Apache-2.0",
@@ -1160,7 +1160,7 @@
     "id": "apache-mahout",
     "name": "Apache Mahout",
     "description": "Apache Mahout is used to produce free implementations of distributed or otherwise scalable machine learning algorithms focused primarily on linear algebra.",
-    "website": "http://mahout.apache.org/",
+    "website": "https://mahout.apache.org/",
     "license": [
       {
         "spdx": "Apache-2.0",
@@ -1664,7 +1664,7 @@
     "id": "bemserver",
     "name": "BEMServer",
     "description": "An open source Python server to deploy energy management solutions for buildings",
-    "website": "http://bemserver.org/",
+    "website": "https://bemserver.org/",
     "license": [
       {
         "spdx": "AGPL-3.0",
@@ -2071,7 +2071,7 @@
     "id": "caffe",
     "name": "Caffe",
     "description": "Caffe is a deep learning framework made with expression, speed, and modularity in mind. ",
-    "website": "http://caffe.berkeleyvision.org/",
+    "website": "https://caffe.berkeleyvision.org/",
     "license": [
       {
         "spdx": "BSD-2-Clause",
@@ -2101,7 +2101,7 @@
     "id": "caisis",
     "name": "Caisis",
     "description": "Caisis is an open-source, web-based, patient data management system that integrates research with patient care. The system is freely distributed to promote the collection of standard, well structured data suitable for research and multi-institution collaboration.",
-    "website": "http://www.caisis.org/",
+    "website": "https://www.caisis.org/",
     "license": [
       {
         "spdx": "GPL-2.0",
@@ -2126,7 +2126,7 @@
     "organizations": [
       {
         "name": "BioDigital",
-        "website": "http://www.biodigital.com/",
+        "website": "https://www.biodigital.com/",
         "org_type": "owner",
         "contact_email": "info@biodigital.com"
       }
@@ -3005,7 +3005,7 @@
     "id": "collect-earth",
     "name": "Collect Earth",
     "description": "Collect Earth is a tool that enables data collection through Augmented Visual Interpretation. In conjunction with Google Earth, Bing Maps and Google Earth Engine, users can analyze high and very high resolution satellite imagery for a wide variety of purposes, including,  Support multi-phase National Forest Inventories - Land Use, Land Use Change and Forestry (LULUCF) assessments - Monitoring agricultural land and urban areas - Validation of existing maps - Collection of spatially explicit socio-economic data - Quantifying deforestation, reforestation and desertification. Its user friendliness and smooth learning curve make it a perfect tool for performing fast, accurate and cost-effective assessments. It is highly customizable for the specific data collection needs and methodologies.",
-    "website": "http://www.openforis.org/tools/collect-earth.html",
+    "website": "https://www.openforis.org/tools/collect-earth.html",
     "license": [
       {
         "spdx": "MIT",
@@ -3027,7 +3027,7 @@
     "organizations": [
       {
         "name": "FAO - Open Foris Initiative",
-        "website": "http://www.openforis.org/newwebsite/home.html",
+        "website": "https://www.openforis.org/newwebsite/home.html",
         "org_type": "owner"
       }
     ],
@@ -4135,11 +4135,11 @@
     "id": "datawinners",
     "name": "DataWinners",
     "description": "DataWinners is a data collection application supporting multiple channels like sms, web and smartphone. Goal is to enable seamless data collection, reporting and visualization.",
-    "website": "http://datawinners.com/",
+    "website": "https://datawinners.com/",
     "license": [
       {
         "spdx": "Apache-2.0",
-        "licenseURL": "http://www.apache.org/licenses/LICENSE-2.0"
+        "licenseURL": "https://www.apache.org/licenses/LICENSE-2.0"
       }
     ],
     "SDGs": [
@@ -5359,7 +5359,7 @@
     "id": "flood-maps",
     "name": "Flood Maps",
     "description": "A simple web map to visualize flood information on maps.",
-    "website": "http://osm-in.github.io/flood-map/",
+    "website": "https://osm-in.github.io/flood-map/",
     "license": [
       {
         "spdx": "MIT",
@@ -5429,7 +5429,7 @@
       "Fisheries Open Source Community Software"
     ],
     "description": "FOCUS is an open-source community that aims to oversee and maintain free software dedicated to the management and preservation of the fishery resource.",
-    "website": "http://www.focus.fish/about/",
+    "website": "https://www.focus.fish/about/",
     "license": [
       {
         "spdx": "GPL-3.0",
@@ -5454,7 +5454,7 @@
     "organizations": [
       {
         "name": "FOCUS",
-        "website": "http://www.focus.fish/about/",
+        "website": "https://www.focus.fish/about/",
         "org_type": "owner"
       }
     ],
@@ -5718,7 +5718,7 @@
     "organizations": [
       {
         "name": "GCompris",
-        "website": "http://gcompris.net/",
+        "website": "https://gcompris.net/",
         "org_type": "owner"
       }
     ],
@@ -7214,7 +7214,7 @@
     "id": "intermine",
     "name": "InterMine",
     "description": "InterMine integrates biological data sources, making it easy to query and analyse data.",
-    "website": "http://intermine.org/",
+    "website": "https://intermine.org/",
     "license": [
       {
         "spdx": "LGPL-2.1",
@@ -7234,7 +7234,7 @@
     "organizations": [
       {
         "name": "InterMine",
-        "website": "http://intermine.org/",
+        "website": "https://intermine.org/",
         "org_type": "owner",
         "contact_email": "info@intermine.org"
       }
@@ -7269,7 +7269,7 @@
     "organizations": [
       {
         "name": "The Natural Capital Project",
-        "website": "http://naturalcapitalproject.stanford.edu/",
+        "website": "https://naturalcapitalproject.stanford.edu/",
         "org_type": "owner"
       }
     ],
@@ -9643,7 +9643,7 @@
     "id": "onsset",
     "name": "OnSSET",
     "description": "A GIS based optimization tool, developed to support electrification planning and decision making.",
-    "website": "http://www.onsset.org/",
+    "website": "https://www.onsset.org/",
     "license": [
       {
         "spdx": "MIT",
@@ -9667,7 +9667,7 @@
     "organizations": [
       {
         "name": "OnSSET",
-        "website": "http://www.onsset.org/",
+        "website": "https://www.onsset.org/",
         "org_type": "owner"
       }
     ],
@@ -10077,7 +10077,7 @@
       },
       {
         "name": "OpenELIS Foundation",
-        "website": "http://www.openelis.org/",
+        "website": "https://www.openelis.org/",
         "org_type": "maintainer"
       }
     ],
@@ -10246,7 +10246,7 @@
     "id": "open-foris-collect-mobile",
     "name": "Open Foris Collect Mobile",
     "description": "Open Foris Collect Mobile is a fast, intuitive and flexible data collection tool for field-based surveys. This Android app allows the completion of complex data structures, such as biophysical, socio-economic or biodiversity surveys.",
-    "website": "http://www.openforis.org/newwebsite/tools/collect-mobile.html",
+    "website": "https://www.openforis.org/newwebsite/tools/collect-mobile.html",
     "license": [
       {
         "spdx": "MIT",
@@ -10281,7 +10281,7 @@
     "organizations": [
       {
         "name": "Food and Agriculture Organization (FAO) of the United Nations",
-        "website": "http://www.fao.org/home/en/",
+        "website": "https://www.fao.org/home/en/",
         "org_type": "owner"
       }
     ],
@@ -10291,7 +10291,7 @@
     "id": "open-foris-collect",
     "name": "Open Foris Collect",
     "description": "Open Foris Collect is the main entry point for data collected in field-based inventories. It provides a fast, easy, flexible way to set up a survey with a user-friendly interface. Collect handles multiple data types and complex validation rules, all in a multilanguage environment.",
-    "website": "http://www.openforis.org/newwebsite/tools/collect.html",
+    "website": "https://www.openforis.org/newwebsite/tools/collect.html",
     "license": [
       {
         "spdx": "MIT",
@@ -10326,7 +10326,7 @@
     "organizations": [
       {
         "name": "Food and Agriculture Organization (FAO) of the United Nations",
-        "website": "http://www.fao.org/home/en/",
+        "website": "https://www.fao.org/home/en/",
         "org_type": "owner"
       }
     ],
@@ -11448,7 +11448,7 @@
     "id": "openhospital",
     "name": "OpenHospital",
     "description": "Open Hospital (OH) is an electronic health record (EHR) application. Open Hospital is currently provided as a desktop application written in Java and it's designed to work without an internet connection.",
-    "website": "http://www.open-hospital.org/",
+    "website": "https://www.open-hospital.org/",
     "license": [
       {
         "spdx": "GPL-3.0",
@@ -11468,7 +11468,7 @@
     "organizations": [
       {
         "name": "Informatici Senza Frontiere",
-        "website": "http://www.informaticisenzafrontiere.org/",
+        "website": "https://www.informaticisenzafrontiere.org/",
         "org_type": "owner"
       }
     ],
@@ -13619,42 +13619,6 @@
     "stage": "nominee"
   },
   {
-    "id": "pxweb",
-    "name": "PxWeb",
-    "aliases": [
-      ""
-    ],
-    "description": "Web application for disseminating statistical tables.",
-    "website": "https://www.scb.se/px-web",
-    "license": [
-      {
-        "spdx": "Apache-2.0",
-        "licenseURL": "https://github.com/statisticssweden/PxWeb/blob/master/LICENSE"
-      }
-    ],
-    "SDGs": [
-      {
-        "SDGNumber": 17,
-        "evidenceText": "PxWeb is been used to disseminate SDG. UNECE has with Statistics Sweden and Statistics Norway arranged a workshop to help other organizations to build capacity to be able do disseminate the SDGs with PxWeb.  "
-      }
-    ],
-    "sectors": [],
-    "type": [
-      "software"
-    ],
-    "repositoryURL": "https://github.com/statisticssweden/PxWeb",
-    "organizations": [
-      {
-        "name": "Statistics Sweden",
-        "website": "https://www.scb.se",
-        "org_type": "maintainer",
-        "contact_name": "Statistics Sweden",
-        "contact_email": "pc-axis@scb.se"
-      }
-    ],
-    "stage": "nominee"
-  },
-  {
     "id": "qgis",
     "name": "QGIS",
     "description": "QGIS is a full-featured, user-friendly, free-and-open-source (FOSS) geographical information system (GIS) that runs on Unix platforms, Windows, and MacOS.",
@@ -15793,7 +15757,7 @@
     "organizations": [
       {
         "name": "National Renewable Energy Laboratory",
-        "website": "http://www.nrel.gov/",
+        "website": "https://www.nrel.gov/",
         "org_type": "owner"
       }
     ],
@@ -15824,7 +15788,7 @@
     "organizations": [
       {
         "name": "Tableau",
-        "website": "http://tableau.github.io/",
+        "website": "https://tableau.github.io/",
         "org_type": "owner",
         "contact_email": "github@tableau.com"
       }
@@ -16286,7 +16250,7 @@
     "organizations": [
       {
         "name": "FNNDSC (Fetal-Neonatal Neuroimaging Developmental Science Center)",
-        "website": "http://fnndsc.babymri.org/",
+        "website": "https://fnndsc.babymri.org/",
         "org_type": "owner"
       }
     ],
@@ -17306,7 +17270,7 @@
     "organizations": [
       {
         "name": "WorldVistA",
-        "website": "http://www.worldvista.org/",
+        "website": "https://www.worldvista.org/",
         "org_type": "owner",
         "contact_email": "info@worldvista.org"
       }
