@@ -2332,34 +2332,6 @@
     "stage": "nominee"
   },
   {
-    "id": "care",
-    "name": "Care",
-    "description": "Care is a single point to link hospitals, Corona Care Centers and volunteers to the unified Corona Safe Network so that the Kerala Chief Minister's Office has direct access to live reports of hospital admittances to prevent overloading the healthcare system capacity.",
-    "website": "https://care.coronasafe.network/",
-    "license": [
-      {
-        "spdx": "MIT",
-        "licenseURL": "https://github.com/coronasafe/care/blob/master/LICENSE"
-      }
-    ],
-    "SDGs": [
-      {
-        "SDGNumber": 3
-      }
-    ],
-    "type": [
-      "software"
-    ],
-    "repositoryURL": "https://github.com/coronasafe/care",
-    "organizations": [
-      {
-        "name": "Kerala State Disaster Management Authority",
-        "org_type": "owner"
-      }
-    ],
-    "stage": "nominee"
-  },
-  {
     "id": "cartodb",
     "name": "CartoDB",
     "description": "CARTO is an open, powerful, and intuitive platform for discovering and predicting the key insights underlying the location data in our world. It empowers organizations to optimize operational performance, strategic investments, and everyday decisions with CARTO Engine— the embeddable platform for web and mobile apps—and the new CARTO Builder, a drag and drop analysis tool.",
@@ -3371,6 +3343,50 @@
         "name": "Deutsche Telekom",
         "org_type": "owner",
         "contact_email": "corona-warn-app.opensource@sap.com"
+      }
+    ],
+    "stage": "nominee"
+  },
+  {
+    "id": "coronasafe-care",
+    "name": "Coronasafe Care",
+    "aliases": [
+      ""
+    ],
+    "description": "Coronasafe Care is an integrated tele-triage+bed allocation+patient shifting tool for implementing a decentralized Covid19 management strategy.",
+    "website": "http://coronasafe.network/",
+    "license": [
+      {
+        "spdx": "MIT",
+        "licenseURL": "https://github.com/coronasafe/care/blob/master/LICENSE"
+      }
+    ],
+    "SDGs": [
+      {
+        "SDGNumber": 3,
+        "evidenceText": "Coronasafe Care is an integrated tele-triage+bed allocation+patient shifting tool for implementing a decentralised pandemic management strategy.",
+        "evidenceURL": "https://coronasafe.network/"
+      },
+      {
+        "SDGNumber": 9,
+        "evidenceText": "Integrated Telemedicine & Triage. With integrated telemedicine and triage, patients who feel early symptoms can contact the telemedicine and give their data. Regular follow-ups can be configured and when patients feel breathless, the can be quickly be shifted into the nearest available facility by the war room shifting team.",
+        "evidenceURL": "https://coronasafe.network/"
+      }
+    ],
+    "sectors": [
+      "Health"
+    ],
+    "type": [
+      "software"
+    ],
+    "repositoryURL": "https://github.com/coronasafe/care/blob/master/LICENSE",
+    "organizations": [
+      {
+        "name": "Coronasafe Network",
+        "website": "http://coronasafe.network/",
+        "org_type": "maintainer",
+        "contact_name": "Bodhish Thomas",
+        "contact_email": "bodhish@gmail.com"
       }
     ],
     "stage": "nominee"
