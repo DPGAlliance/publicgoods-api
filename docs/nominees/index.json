@@ -3354,7 +3354,7 @@
       ""
     ],
     "description": "Coronasafe Care is an integrated tele-triage+bed allocation+patient shifting tool for implementing a decentralized Covid19 management strategy.",
-    "website": "http://coronasafe.network/",
+    "website": "https://coronasafe.network/",
     "license": [
       {
         "spdx": "MIT",
@@ -3383,7 +3383,7 @@
     "organizations": [
       {
         "name": "Coronasafe Network",
-        "website": "http://coronasafe.network/",
+        "website": "https://coronasafe.network/",
         "org_type": "maintainer",
         "contact_name": "Bodhish Thomas",
         "contact_email": "bodhish@gmail.com"
@@ -4826,7 +4826,7 @@
       ""
     ],
     "description": "The elimu.ai software is a platform of educational content and Android apps. The software is designed in such a way that the children can learn fully autonomously, without guidance from qualified teachers. Instead, an AI tutor (Nya) guides each child through the necessary steps. The AI tutor gradually unlocks more advanced content, as the child demonstrates mastery of prerequisite skills.",
-    "website": "http://fil.elimu.ai/",
+    "website": "https://fil.elimu.ai/",
     "license": [
       {
         "spdx": "MIT",
@@ -4834,7 +4834,7 @@
       },
       {
         "spdx": "CC-BY-4.0",
-        "licenseURL": "http://eng.elimu.ai/"
+        "licenseURL": "https://eng.elimu.ai/"
       }
     ],
     "SDGs": [
@@ -5223,7 +5223,7 @@
     "license": [
       {
         "spdx": "CC-BY-NC-SA-3.0",
-        "licenseURL": "http://www.fao.org/3/ca7570en/ca7570en.pdf"
+        "licenseURL": "https://www.fao.org/3/ca7570en/ca7570en.pdf"
       }
     ],
     "SDGs": [
@@ -5263,7 +5263,7 @@
     "organizations": [
       {
         "name": "FAO",
-        "website": "http://www.fao.org/",
+        "website": "https://www.fao.org/",
         "org_type": "owner",
         "contact_name": "Henry van Burgsteden",
         "contact_email": "henry.burgsteden@fao.org"
@@ -5282,7 +5282,7 @@
     "license": [
       {
         "spdx": "CC-BY-NC-SA-3.0",
-        "licenseURL": "http://www.fao.org/3/ca7570en/ca7570en.pdf"
+        "licenseURL": "https://www.fao.org/3/ca7570en/ca7570en.pdf"
       }
     ],
     "SDGs": [
@@ -5323,7 +5323,7 @@
     "organizations": [
       {
         "name": "FAO",
-        "website": "http://www.fao.org/",
+        "website": "https://www.fao.org/",
         "org_type": "owner",
         "contact_name": "Henry van Burgsteden",
         "contact_email": "henry.burgsteden@fao.org"
@@ -5342,7 +5342,7 @@
     "license": [
       {
         "spdx": "CC-BY-NC-SA-3.0",
-        "licenseURL": "http://www.fao.org/3/ca7570en/ca7570en.pdf"
+        "licenseURL": "https://www.fao.org/3/ca7570en/ca7570en.pdf"
       }
     ],
     "SDGs": [
@@ -5382,7 +5382,7 @@
     "organizations": [
       {
         "name": "FAO",
-        "website": "http://www.fao.org/",
+        "website": "https://www.fao.org/",
         "org_type": "owner",
         "contact_name": "Henry van Burgsteden",
         "contact_email": "henry.burgsteden@fao.org"
@@ -5401,7 +5401,7 @@
     "license": [
       {
         "spdx": "CC-BY-NC-SA-3.0",
-        "licenseURL": "http://www.fao.org/3/ca7570en/ca7570en.pdf"
+        "licenseURL": "https://www.fao.org/3/ca7570en/ca7570en.pdf"
       }
     ],
     "SDGs": [
@@ -5441,7 +5441,7 @@
     "organizations": [
       {
         "name": "FAO",
-        "website": "http://www.fao.org/",
+        "website": "https://www.fao.org/",
         "org_type": "owner",
         "contact_name": "Henry van Burgsteden",
         "contact_email": "henry.burgsteden@fao.org"
@@ -5559,6 +5559,48 @@
         "name": "farmOS",
         "website": "https://farmos.org/",
         "org_type": "owner"
+      }
+    ],
+    "stage": "nominee"
+  },
+  {
+    "id": "fedora-linux",
+    "name": "Fedora Linux",
+    "aliases": [
+      "Fedora"
+    ],
+    "description": "A complete free and open source operating system for laptops, desktops, servers, devices, clouds, and containers",
+    "website": "https://fedoraproject.org/",
+    "license": [
+      {
+        "spdx": "MIT",
+        "licenseURL": "https://fedoraproject.org/wiki/Legal:Licenses/LicenseAgreement"
+      }
+    ],
+    "SDGs": [
+      {
+        "SDGNumber": 8,
+        "evidenceText": "Free access to our open source technology and community provides industry connections and the ability to learn best practices in an established technology project. Community members learn real skills that are relevant in the global job market.",
+        "evidenceURL": "https://www.zdnet.com/article/the-most-popular-fedora-linux-in-years-rolls-out/"
+      },
+      {
+        "SDGNumber": 9,
+        "evidenceText": "Our project mission is directly aligned: Fedora creates an innovative platform for hardware, clouds, and containers that enables software developers and community members to build tailored solutions for their users.",
+        "evidenceURL": "https://www.zdnet.com/article/the-most-popular-fedora-linux-in-years-rolls-out/"
+      }
+    ],
+    "sectors": [],
+    "type": [
+      "software"
+    ],
+    "repositoryURL": "https://src.fedoraproject.org/",
+    "organizations": [
+      {
+        "name": "Fedora Project",
+        "website": "https://fedoraproject.org",
+        "org_type": "owner",
+        "contact_name": "Matthew Miller",
+        "contact_email": "mattdm@fedoraproject.org"
       }
     ],
     "stage": "nominee"
@@ -11250,6 +11292,43 @@
     "stage": "nominee"
   },
   {
+    "id": "open-terms-archive",
+    "name": "Open Terms Archive",
+    "aliases": [
+      ""
+    ],
+    "description": "Open Terms Archive tracks and makes visible changes to the Terms Of Service of the main online services.",
+    "website": "https://opentermsarchive.org/",
+    "license": [
+      {
+        "spdx": "ODC-By-1.0",
+        "licenseURL": "https://github.com/ambanum/OpenTermsArchive-snapshots/blob/master/LICENSE"
+      }
+    ],
+    "SDGs": [
+      {
+        "SDGNumber": 16,
+        "evidenceText": "Open Terms Archive helps regulatory bodies assess the loyalty of 204 digital platforms and online services. It creates transparency in the practices of digital players, in line with the first recommendations discussed within the framework of the DSA and the DMA. And then makes institutions stronger when it comes to regulating digital platforms.",
+        "evidenceURL": "https://www.nextinpact.com/lebrief/46055/open-terms-archive-pour-suivre-evolutions-conditions-generales-dutilisation"
+      }
+    ],
+    "sectors": [],
+    "type": [
+      "data"
+    ],
+    "repositoryURL": "",
+    "organizations": [
+      {
+        "name": "Ambassador for digital affairs (FR)",
+        "website": "https://disinfo.quaidorsay.fr/fr/nos-outils",
+        "org_type": "owner",
+        "contact_name": "Clément Biron",
+        "contact_email": "clement.biron@beta.gouv.fr"
+      }
+    ],
+    "stage": "nominee"
+  },
+  {
     "id": "open-textbook-library",
     "name": "Open Textbook Library",
     "description": "Open textbooks are textbooks that have been funded, published, and licensed to be freely used, adapted, and distributed. These books have been reviewed by faculty from a variety of colleges and universities to assess their quality. ",
@@ -15681,52 +15760,6 @@
     "stage": "nominee"
   },
   {
-    "id": "standard-for-public-code",
-    "name": "Standard for Public Code",
-    "description": "The Standard for Public Code provides guidance to public organizations building open source software on how to enable successful future reuse by other public organizations.",
-    "website": "https://standard.publiccode.net/",
-    "license": [
-      {
-        "spdx": "CC0-1.0",
-        "licenseURL": "https://github.com/publiccodenet/standard/blob/master/LICENSE.md"
-      }
-    ],
-    "SDGs": [
-      {
-        "SDGNumber": 9,
-        "evidenceText": "The mission of the Foundation for Public Code is to enable public purpose software that is open and collaborative. We do this by helping public organizations develop and maintain open source software together. \n\nThe Standard for Public Code is a key instrument of our work: it provides criteria and requirements for public-sector open source projects that, if met, make the projects reusable, scalable and sustainable. Our work contributes to the Sustainable Development Goals in several ways:",
-        "evidenceURL": "https://blog.publiccode.net/policy/2020/10/02/we-support-the-sustainable-development-goals.html\nhttps://about.publiccode.net/activities/value-and-impact/sustainable-development-goals.html"
-      },
-      {
-        "SDGNumber": 11,
-        "evidenceText": "The mission of the Foundation for Public Code is to enable public purpose software that is open and collaborative. We do this by helping public organizations develop and maintain open source software together. \n\nThe Standard for Public Code is a key instrument of our work: it provides criteria and requirements for public-sector open source projects that, if met, make the projects reusable, scalable and sustainable. Our work contributes to the Sustainable Development Goals in several ways:",
-        "evidenceURL": "https://blog.publiccode.net/policy/2020/10/02/we-support-the-sustainable-development-goals.html\nhttps://about.publiccode.net/activities/value-and-impact/sustainable-development-goals.html"
-      },
-      {
-        "SDGNumber": 16,
-        "evidenceText": "The mission of the Foundation for Public Code is to enable public purpose software that is open and collaborative. We do this by helping public organizations develop and maintain open source software together. \n\nThe Standard for Public Code is a key instrument of our work: it provides criteria and requirements for public-sector open source projects that, if met, make the projects reusable, scalable and sustainable. Our work contributes to the Sustainable Development Goals in several ways:",
-        "evidenceURL": "https://blog.publiccode.net/policy/2020/10/02/we-support-the-sustainable-development-goals.html\nhttps://about.publiccode.net/activities/value-and-impact/sustainable-development-goals.html"
-      },
-      {
-        "SDGNumber": 17,
-        "evidenceText": "The mission of the Foundation for Public Code is to enable public purpose software that is open and collaborative. We do this by helping public organizations develop and maintain open source software together. \n\nThe Standard for Public Code is a key instrument of our work: it provides criteria and requirements for public-sector open source projects that, if met, make the projects reusable, scalable and sustainable. Our work contributes to the Sustainable Development Goals in several ways:",
-        "evidenceURL": "https://blog.publiccode.net/policy/2020/10/02/we-support-the-sustainable-development-goals.html\nhttps://about.publiccode.net/activities/value-and-impact/sustainable-development-goals.html"
-      }
-    ],
-    "sectors": [],
-    "type": [
-      "standard"
-    ],
-    "organizations": [
-      {
-        "name": "Foundation for Public Code",
-        "website": "https://publiccode.net",
-        "org_type": "owner"
-      }
-    ],
-    "stage": "nominee"
-  },
-  {
     "id": "starhealth",
     "name": "StarHealth",
     "description": "An embedded website toolbar and SMS helpline that allows audiences to check whether their doctor is registered and in good standing, whether their hospital/treatment is covered by Kenya’s National Health Insurance Fund (NHIF), and where the nearest specialist health service is for their ailment. Localised versions of the HealthTools also run in South Africa (where it focuses on helping users confirm that their traditional circumcision surgeon is legit, with a hotline for bogus surgeons), and Nigeria (where it includes tools for checking whether users have been overcharged for medicine, plus whether their hospitals are legit/registered) and Tanzania (where it includes gender-based violence helplines).",
@@ -15766,7 +15799,7 @@
       "SBR"
     ],
     "description": "Statistical Business Register IT system",
-    "website": "http://statbus.org",
+    "website": "https://statbus.org",
     "license": [
       {
         "spdx": "Apache-2.0",
@@ -15788,7 +15821,7 @@
     "organizations": [
       {
         "name": "Statistics Norway",
-        "website": "http://www.ssb.no",
+        "website": "https://www.ssb.no",
         "org_type": "owner",
         "contact_name": "Anne Abelsæth",
         "contact_email": "Anne.Abelsaeth@ssb.no"
@@ -17961,7 +17994,7 @@
     "organizations": [
       {
         "name": "VRapeutic, Inc",
-        "website": "http://myvrapeutic.com/",
+        "website": "https://myvrapeutic.com/",
         "org_type": "owner",
         "contact_name": "Yahya Alaa",
         "contact_email": "yahya@myvrapeutic.com"
