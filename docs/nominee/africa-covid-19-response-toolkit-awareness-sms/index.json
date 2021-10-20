@@ -1,5 +1,5 @@
 {
-  "id": "africa-covid-19-response-toolkit:-awareness-sms",
+  "id": "africa-covid-19-response-toolkit-awareness-sms",
   "name": "Africa COVID-19 Response Toolkit: Awareness SMS",
   "description": "Node.js wrapper for Africa’s Talking SMS API. Allows government entities to send mass SMS to text the public critical COVID-19 related information.",
   "website": "https://ethiocovid19rt.com/",
