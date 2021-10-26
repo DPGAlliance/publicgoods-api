@@ -2040,7 +2040,7 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/boxwise/ ",
+    "repositoryURL": "https://github.com/boxwise/dropapp",
     "organizations": [
       {
         "name": "Stitching Boxwise",
@@ -2818,7 +2818,7 @@
     "license": [
       {
         "spdx": "MIT",
-        "licenseURL": "https://github.com/Vizzuality/climate-watch/blob/develop/LICENSE"
+        "licenseURL": "https://github.com/ClimateWatch-Vizzuality/climate-watch/blob/develop/LICENSE"
       }
     ],
     "SDGs": [
@@ -2830,7 +2830,7 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/Vizzuality/climate-watch",
+    "repositoryURL": "https://github.com/ClimateWatch-Vizzuality/climate-watch",
     "organizations": [
       {
         "name": "Global Forest Watch",
@@ -3960,7 +3960,7 @@
     "license": [
       {
         "spdx": "CC-BY-4.0",
-        "licenseURL": "https://github.com/ishaberry/Covid19Canada/blob/master/LICENSE.MD"
+        "licenseURL": "https://github.com/ccodwg/Covid19Canada/blob/master/LICENSE.MD"
       }
     ],
     "SDGs": [
@@ -3971,7 +3971,7 @@
     "type": [
       "data"
     ],
-    "repositoryURL": "https://github.com/ishaberry/Covid19Canada",
+    "repositoryURL": "https://github.com/ccodwg/Covid19Canada",
     "organizations": [
       {
         "name": "COVID-19 Canada Open Data Working Group",
@@ -6519,7 +6519,7 @@
     "license": [
       {
         "spdx": "Apache-2.0",
-        "licenseURL": "https://github.com/jamesagnew/hapi-fhir/blob/master/LICENSE.txt"
+        "licenseURL": "https://github.com/hapifhir/hapi-fhir/blob/master/LICENSE.txt"
       }
     ],
     "SDGs": [
@@ -6531,7 +6531,7 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/jamesagnew/hapi-fhir",
+    "repositoryURL": "https://github.com/hapifhir/hapi-fhir",
     "organizations": [
       {
         "name": "HAPI FHIR",
@@ -6751,7 +6751,7 @@
     "license": [
       {
         "spdx": "MIT",
-        "licenseURL": "https://github.com/hikmahealth/hikma-mobile/blob/master/LICENSE"
+        "licenseURL": "https://github.com/hikmahealth/hikmahealth-mobilev1/blob/master/LICENSE"
       }
     ],
     "SDGs": [
@@ -6763,7 +6763,7 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/hikmahealth/hikma-mobile",
+    "repositoryURL": "https://github.com/hikmahealth/hikmahealth-mobilev1",
     "organizations": [
       {
         "name": "Hikma",
@@ -8408,7 +8408,7 @@
     "license": [
       {
         "spdx": "BSD-3-Clause",
-        "licenseURL": "https://github.com/facebookincubator/magma/blob/master/LICENSE"
+        "licenseURL": "https://github.com/magma/magma/blob/master/LICENSE"
       }
     ],
     "SDGs": [
@@ -8420,7 +8420,7 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/facebookincubator/magma",
+    "repositoryURL": "https://github.com/magma/magma",
     "organizations": [
       {
         "name": "Facebook",
@@ -8657,7 +8657,7 @@
     "license": [
       {
         "spdx": "AGPL-3.0",
-        "licenseURL": "https://github.com/betagouv/mes-aides-ui/blob/master/LICENSE.AGPL.txt"
+        "licenseURL": "https://github.com/betagouv/aides-jeunes/blob/master/LICENSE.AGPL.txt"
       }
     ],
     "SDGs": [
@@ -8669,7 +8669,7 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/betagouv/mes-aides-ui",
+    "repositoryURL": "https://github.com/betagouv/aides-jeunes",
     "organizations": [
       {
         "name": "Beta.Gouv",
@@ -9460,7 +9460,7 @@
     "license": [
       {
         "spdx": "Apache-2.0",
-        "licenseURL": "https://github.com/OADA/oada-srvc-docker/blob/master/LICENSE"
+        "licenseURL": "https://github.com/OADA/server/blob/master/LICENSE"
       }
     ],
     "SDGs": [
@@ -9472,7 +9472,7 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/OADA/oada-srvc-docker",
+    "repositoryURL": "https://github.com/OADA/server",
     "organizations": [
       {
         "name": "Open Ag Data Alliance",
@@ -12730,7 +12730,7 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/codeforamerica/pandemic-ebt",
+    "repositoryURL": "https://github.com/codeforamerica/pandemic-ebt-ca",
     "organizations": [
       {
         "name": "Code for America",

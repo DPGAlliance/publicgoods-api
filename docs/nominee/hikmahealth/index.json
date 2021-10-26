@@ -6,7 +6,7 @@
   "license": [
     {
       "spdx": "MIT",
-      "licenseURL": "https://github.com/hikmahealth/hikma-mobile/blob/master/LICENSE"
+      "licenseURL": "https://github.com/hikmahealth/hikmahealth-mobilev1/blob/master/LICENSE"
     }
   ],
   "SDGs": [
@@ -18,7 +18,7 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/hikmahealth/hikma-mobile",
+  "repositoryURL": "https://github.com/hikmahealth/hikmahealth-mobilev1",
   "organizations": [
     {
       "name": "Hikma",
