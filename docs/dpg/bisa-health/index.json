@@ -1,0 +1,145 @@
+{
+  "id": "bisa-health",
+  "name": "Bisa Health",
+  "aliases": [
+    "Bisa"
+  ],
+  "description": "Bisa is a health application that allows the public to receive health information and communicate with doctors.",
+  "website": "https://bisaapp.com",
+  "license": [
+    {
+      "spdx": "MIT",
+      "licenseURL": "https://github.com/BisaMhealth/BisaApp/blob/backend/LICENSE"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 3,
+      "evidenceText": "Bisa health platform allows the public access to doctors and receive healthcare information through their mobile devices (both smart and non-smart phones). This is an advantage to people who need medical care and advice but are not able to visit the hospital for various reasons such as poverty, delays because of long queues at the hospital and the fear of stigmatization, especially for people who have symptoms of Sexually Transmitted Diseases (STDs), which makes them embarrassed to seek the needed treatment.",
+      "evidenceURL": "https://www.myjoyonline.com/hospital-consultation-made-easy-using-bisa-app/"
+    },
+    {
+      "SDGNumber": 17,
+      "evidenceText": "Bisa has partnered with GIZ ( The Deutsche Gesellschaft für Internationale Zusammenarbeit GmbH ) and the Ghana Health Services to enhance Ghana’s public health service education of COVID-19 and manage affected cases who are self-isolating.  The Bisa App provides patients direct access to doctors and health practitioners with a click of the App, doctors are readily available to respond to all questions within minutes with absolutely no cost involved. The Bisa App is instrumental in these times because it will reduce face-to-face doctor consultations and help with reducing congestion in hospitals.",
+      "evidenceURL": "https://www.myjoyonline.com/hospital-consultation-made-easy-using-bisa-app/"
+    }
+  ],
+  "sectors": [
+    "Health"
+  ],
+  "type": [
+    "software"
+  ],
+  "repositoryURL": "https://github.com/BisaMhealth/BisaApp",
+  "organizations": [
+    {
+      "name": "Bisa Health",
+      "website": "https://bisaapp.com/",
+      "org_type": "owner",
+      "contact_name": "Raindolf Owusu",
+      "contact_email": "raindolf@bisaapp.com "
+    }
+  ],
+  "stage": "DPG",
+  "clearOwnership": {
+    "isOwnershipExplicit": "Yes",
+    "copyrightURL": "https://bisaapp.com/"
+  },
+  "platformIndependence": {
+    "mandatoryDepsCreateMoreRestrictions": "No",
+    "isSoftwarePltIndependent": "",
+    "pltIndependenceDesc": ""
+  },
+  "documentation": {
+    "isDocumentationAvailable": "Yes",
+    "documentationURL": [
+      "API usage: http://bisaapp.com/open-source/",
+      "Explore endpoints: https://docs.google.com/document/d/1ZwiRPuOUEDZkbglaKw5wK53WQ7tVxAL7/edit"
+    ]
+  },
+  "NonPII": {
+    "collectsNonPII": "No",
+    "checkNonPIIAccessMechanism": "",
+    "nonPIIAccessMechanism": ""
+  },
+  "privacy": {
+    "isPrivacyCompliant": "Yes",
+    "privacyComplianceList": [
+      "The Bisa Mobile Application is conscious of the sensitivity of the information/data it handles and is therefore committed to maintaining the confidence and trust with respect to the privacy of its users. \n The following laws of Ghana are applicable with respect to the Bisa Mobile Application and we are committed to adhering to them:-",
+      "Electronic Communications Act, 2008 (Act 775)",
+      "Electronic Communications Regulations, 2011 (L.I. 1991)",
+      "Credit Reporting Act, 2007 (Act 726)",
+      "Public Health Act, 2012 (Act 851)",
+      "Children’s Act, 1998 (Act 560)",
+      "Reference: https://bisaapp.com/legal-data-privacy-laws/"
+    ],
+    "adherenceSteps": [
+      "Privacy policy - https://bisaapp.com/privacy-policy/"
+    ]
+  },
+  "standards": {
+    "supportStandards": "Yes",
+    "standardsList": [
+      "ISO 13131:2021"
+    ],
+    "evidenceStandardSupport": [
+      ""
+    ],
+    "implementBestPractices": "Yes",
+    "bestPracticesList": [
+      "Principles For Digital Development"
+    ]
+  },
+  "doNoHarm": {
+    "preventHarm": {
+      "stepsToPreventHarm": "Yes",
+      "additionalInfoMechanismProcessesPolicies": "All doctors are certified professionals recommended by the Ghana Health Service (GHS)."
+    },
+    "dataPrivacySecurity": {
+      "collectsPII": "Yes",
+      "typesOfDataCollected": [
+        "Name",
+        "Email",
+        "Phone Number",
+        "Address",
+        "Date of birth",
+        "Known/existing medical condition"
+      ],
+      "thirdPartyDataSharing": "No",
+      "dataSharingCircumstances": [
+        ""
+      ],
+      "ensurePrivacySecurity": "Yes",
+      "privacySecurityDescription": "Bisa has features like anonymous login for users to easily ask questions without keeping any user data. \n Users are given system generated names to ensure anonymity."
+    },
+    "inappropriateIllegalContent": {
+      "collectStoreDistribute": "No",
+      "type": "",
+      "contentFilter": "",
+      "policyGuidelinesDocumentationLink": "",
+      "illegalContentDetection": "",
+      "illegalContentDetectionMechanism": ""
+    },
+    "protectionFromHarassment": {
+      "userInteraction": "Yes",
+      "addressSafetySecurityUnderageUsers": "Yes",
+      "stepsAddressRiskPreventSafetyUnderageUsers": [
+        "All doctors are certified professionals recommended by the Ghana Health Service (GHS).",
+        "Users are given system generated names to ensure anonymity"
+      ],
+      "griefAbuseHarassmentProtection": "Yes",
+      "harassmentProtectionSteps": [
+        "All content on the Bisa Platform (Articles / tips) are verified health information from the Ghana Health Service (GHS)."
+      ]
+    }
+  },
+  "locations": {
+    "developmentCountries": [
+      "Ghana"
+    ],
+    "deploymentCountries": [
+      "Ghana",
+      "Senegal"
+    ]
+  }
+}
