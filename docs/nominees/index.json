@@ -12227,6 +12227,45 @@
     "stage": "nominee"
   },
   {
+    "id": "opentelerehab",
+    "name": "OpenTeleRehab",
+    "aliases": [
+      ""
+    ],
+    "description": "Open Source, Multidisciplinary Telerehabilitation Software",
+    "website": "https://www.opentelerehab.com",
+    "license": [
+      {
+        "spdx": "Apache-2.0",
+        "licenseURL": "https://github.com/OpenTeleRehab/admin-web-app/blob/main/LICENSE"
+      }
+    ],
+    "SDGs": [
+      {
+        "SDGNumber": 3,
+        "evidenceText": "Improve access to rehabilitation services and contribute to universal health coverage",
+        "evidenceURL": "https://www.usaid.gov/vietnam/program-updates/oct-2021-usaid-supports-development-software-program-increase-patient-access-therapists"
+      }
+    ],
+    "sectors": [
+      "Health"
+    ],
+    "type": [
+      "software"
+    ],
+    "repositoryURL": "https://github.com/OpenTeleRehab/admin-web-app/",
+    "organizations": [
+      {
+        "name": "Humanity & Inclusion",
+        "website": "https://www.hi.org",
+        "org_type": "owner",
+        "contact_name": "Martin Jacobs",
+        "contact_email": "m.jacobs@hi.org"
+      }
+    ],
+    "stage": "nominee"
+  },
+  {
     "id": "opentrace-android",
     "name": "OpenTrace Android",
     "description": "Using Bluetooth, OpenTrace identifies other nearby phones with the app installed. It then tracks when you are in close proximity with these other persons, including timestamps. It is the generic codebase on which the Singaporean TraceTogether contact tracing app is built.",
