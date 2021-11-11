@@ -316,35 +316,6 @@
     "stage": "DPG"
   },
   {
-    "id": "book-dash",
-    "name": "Book Dash",
-    "description": "Book Dash gathers creative volunteers to create new African storybooks that anyone can freely print, translate and distribute.",
-    "website": "https://bookdash.org",
-    "license": [
-      {
-        "spdx": "CC-BY-SA-4.0",
-        "licenseURL": "https://creativecommons.org/licenses/by/4.0/"
-      }
-    ],
-    "SDGs": [
-      {
-        "SDGNumber": 4
-      }
-    ],
-    "sectors": [],
-    "type": [
-      "content"
-    ],
-    "organizations": [
-      {
-        "name": "Book Dash",
-        "website": "https://bookdash.org/",
-        "org_type": "owner"
-      }
-    ],
-    "stage": "DPG"
-  },
-  {
     "id": "commcare",
     "name": "CommCare",
     "description": "CommCare is a digital health platform that allows users to rapidly configure and deploy offline first, custom data collection and service delivery support applications which feature case management for frontline workers without any tech or coding expertise.",
