@@ -1,0 +1,150 @@
+{
+  "id": "prism",
+  "name": "PRISM",
+  "aliases": [
+    "Platform for Real-time Impact and Situation Monitoring"
+  ],
+  "description": "PRISM combines Earth Observation data with ground level information on vulnerable groups to measure and monitor the risks of climate hazards",
+  "website": "https://innovation.wfp.org/project/prism",
+  "license": [
+    {
+      "spdx": "MIT",
+      "licenseURL": "https://github.com/WFP-VAM/prism-frontend/blob/master/LICENSE"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 1,
+      "evidenceText": "Disasters driven by extreme weather and a changing climate disproportionately affect poor populations. PRISM facilitates climate risk monitoring and helps to focus attention on the most vulnerable populations. This geographic targeting is used by governments and humanitarian agencies to protect people living in poverty, and to prevent those living just above the poverty line from falling below poverty due to a climate-driven disaster, contributing to target 1.5",
+      "evidenceURL": "https://wfpinnovation.medium.com/re-introducing-prism-wfps-climate-hazard-monitoring-system-making-global-impact-e88feaaffea6"
+    },
+    {
+      "SDGNumber": 2,
+      "evidenceText": "Droughts and floods can devastate livelihoods, particularly among smallholder farmers. These events not only increase the risk of food insecurity among affected farmers, but also the broader food system. Droughts in particular can severely impact the production of key staple commodities, driving up food prices and contributing to food insecurity.",
+      "evidenceURL": "https://wfpinnovation.medium.com/re-introducing-prism-wfps-climate-hazard-monitoring-system-making-global-impact-e88feaaffea6"
+    },
+    {
+      "SDGNumber": 11,
+      "evidenceText": "Within SDG 11, target 11.5 aims to reduce economic losses from disasters, with a focus on protecting the poor in vulnerable situations. As a tool for geographic targeting based on vulnerability and hazard exposure, PRISM is a tool used for disaster risk reduction by governments to assist those most in need with adaptive social protection programs and early actions.",
+      "evidenceURL": "https://innovation.wfp.org/blog/introducing-prism-wfps-climate-hazard-monitoring-system-making-global-impact"
+    },
+    {
+      "SDGNumber": 13,
+      "evidenceText": "Within SDG 13, target 13.1 seeks to strengthen resilience and adaptive capacity to climate-related hazards. PRISM is deployed as a form of technical assistance and capacity development in countries highly exposed to climate hazards, offering a platform to monitor extreme weather and implement well-targeted disaster risk reduction activities.",
+      "evidenceURL": "https://innovation.wfp.org/blog/introducing-prism-wfps-climate-hazard-monitoring-system-making-global-impact"
+    }
+  ],
+  "sectors": [
+    "Climate"
+  ],
+  "type": [
+    "software"
+  ],
+  "repositoryURL": "https://github.com/WFP-VAM/prism-frontend",
+  "organizations": [
+    {
+      "name": "United Nations World Food Programme",
+      "website": "https://www.wfp.org",
+      "org_type": "implementer",
+      "contact_name": "Amit Wadhwa",
+      "contact_email": "amit.wadhwa@wfp.org"
+    }
+  ],
+  "stage": "DPG",
+  "clearOwnership": {
+    "isOwnershipExplicit": "Yes",
+    "copyrightURL": "https://wfp-vam.github.io/prism-frontend/about-prism/"
+  },
+  "platformIndependence": {
+    "mandatoryDepsCreateMoreRestrictions": "Yes",
+    "isSoftwarePltIndependent": "Yes",
+    "pltIndependenceDesc": "PRISM was originally developed with Mapbox GL JS version 1.x which is fully open source. Mapbox announced that version 2.x would no longer fall under an open source license. PRISM continues to utilize Mapbox 1.x. MapLibre GL is an open source alterative to Mapbox GL JS. Users of the PRISM system may replace Mapbox with MapLibre. WFP is investigating the details of this transition and plans to have the master branch on GitHub shift to MapLibre at a future date TBD."
+  },
+  "documentation": {
+    "isDocumentationAvailable": "Yes",
+    "documentationURL": [
+      "https://github.com/WFP-VAM/prism-frontend"
+    ]
+  },
+  "NonPII": {
+    "collectsNonPII": "No",
+    "checkNonPIIAccessMechanism": "",
+    "nonPIIAccessMechanism": ""
+  },
+  "privacy": {
+    "isPrivacyCompliant": "Yes",
+    "privacyComplianceList": [
+      "GDPR"
+    ],
+    "adherenceSteps": [
+      "https://wfp-vam.github.io/prism-frontend/about-prism/"
+    ]
+  },
+  "standards": {
+    "supportStandards": "Yes",
+    "standardsList": [
+      "Web Map Service (WMS) / Web Coverage Service (WCS) / Web Feature Service (WFS) ",
+      "GeoJSON / JSON",
+      "REST API"
+    ],
+    "evidenceStandardSupport": [
+      "https://github.com/WFP-VAM/prism-frontend"
+    ],
+    "implementBestPractices": "Yes",
+    "bestPracticesList": [
+      "Agile software development",
+      "Continous Integration/ Continous Deployment"
+    ]
+  },
+  "doNoHarm": {
+    "preventHarm": {
+      "stepsToPreventHarm": "Yes",
+      "additionalInfoMechanismProcessesPolicies": "The primary outputs of PRISM are interactive maps and charts, along with tables and reports. The system can generate standard climate risk monitoring indicators as well as risk and impact analytical products, which are adapted for each hazard and the populations at risk to them. \nThe indicators on hazards – including droughts and floods – can be monitored over time through intuitive and interactive maps. Charts and related tables help to quantify the extent of a hazard by administrative area (such as provinces and districts). In addition, the system can automatically produce risk and impact indicators based on the known vulnerabilities and exposure to hazards at any point in time. All of this information can be exported from the system for further analysis and reporting. \nPRISM integrates with mobile data collection platforms – including open source solutions such as ODK and Kobo Toolbox. This allows users to visualize data collected from impacted areas in real-time, alongside the hazard information automatically generated by the platform."
+    },
+    "dataPrivacySecurity": {
+      "collectsPII": "No",
+      "typesOfDataCollected": [
+        ""
+      ],
+      "thirdPartyDataSharing": "No",
+      "dataSharingCircumstances": [
+        ""
+      ],
+      "ensurePrivacySecurity": "Yes",
+      "privacySecurityDescription": "Users of PRISM are responsible to ensure any data which is configured in their deployment follows principles of do no harm."
+    },
+    "inappropriateIllegalContent": {
+      "collectStoreDistribute": "No",
+      "type": "",
+      "contentFilter": "",
+      "policyGuidelinesDocumentationLink": "",
+      "illegalContentDetection": "",
+      "illegalContentDetectionMechanism": ""
+    },
+    "protectionFromHarassment": {
+      "userInteraction": "No",
+      "addressSafetySecurityUnderageUsers": "",
+      "stepsAddressRiskPreventSafetyUnderageUsers": [
+        ""
+      ],
+      "griefAbuseHarassmentProtection": "",
+      "harassmentProtectionSteps": [
+        ""
+      ]
+    }
+  },
+  "locations": {
+    "developmentCountries": [
+      "Indonesia",
+      "Cambodia",
+      "United States of America",
+      "Australia",
+      "Italy"
+    ],
+    "deploymentCountries": [
+      "Cambodia",
+      "Indonesia",
+      "Mongolia"
+    ]
+  }
+}
