@@ -5869,6 +5869,10 @@
       {
         "spdx": "BSD-3-Clause",
         "licenseURL": "https://github.com/freeCodeCamp/freeCodeCamp/blob/main/LICENSE.md"
+      },
+      {
+        "spdx": "CC-BY-SA-4.0",
+        "licenseURL": "https://github.com/freeCodeCamp/freeCodeCamp/blob/main/curriculum/LICENSE.md"
       }
     ],
     "SDGs": [
@@ -5888,6 +5892,7 @@
       "Platform creation"
     ],
     "type": [
+      "content",
       "software"
     ],
     "repositoryURL": "https://github.com/freeCodeCamp/freeCodeCamp",
