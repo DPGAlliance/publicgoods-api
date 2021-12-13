@@ -1211,36 +1211,6 @@
     "stage": "nominee"
   },
   {
-    "id": "apache-mahout",
-    "name": "Apache Mahout",
-    "description": "Apache Mahout is used to produce free implementations of distributed or otherwise scalable machine learning algorithms focused primarily on linear algebra.",
-    "website": "https://mahout.apache.org/",
-    "license": [
-      {
-        "spdx": "Apache-2.0",
-        "licenseURL": "https://github.com/apache/mahout/blob/trunk/LICENSE"
-      }
-    ],
-    "SDGs": [
-      {
-        "SDGNumber": 9,
-        "evidenceURL": "https://www.opensourceforu.com/2018/09/why-the-apache-mahout-framework-is-so-popular/"
-      }
-    ],
-    "type": [
-      "software"
-    ],
-    "repositoryURL": "https://github.com/apache/mahout",
-    "organizations": [
-      {
-        "name": "The Apache Software Foundation",
-        "website": "https://www.apache.org/",
-        "org_type": "owner"
-      }
-    ],
-    "stage": "nominee"
-  },
-  {
     "id": "api.gouv.fr",
     "name": "api.gouv.fr",
     "description": "api.gouv.fr catalogs the APIs offered by central administrations, local authorities and public offices.",
@@ -2170,36 +2140,6 @@
       {
         "name": "Sandia National Laboratories",
         "website": "https://www.sandia.gov/",
-        "org_type": "owner"
-      }
-    ],
-    "stage": "nominee"
-  },
-  {
-    "id": "caffe",
-    "name": "Caffe",
-    "description": "Caffe is a deep learning framework made with expression, speed, and modularity in mind. ",
-    "website": "https://caffe.berkeleyvision.org/",
-    "license": [
-      {
-        "spdx": "BSD-2-Clause",
-        "licenseURL": "https://github.com/BVLC/caffe/blob/master/README.md"
-      }
-    ],
-    "SDGs": [
-      {
-        "SDGNumber": 9,
-        "evidenceURL": "https://www.infoworld.com/article/3154273/review-caffe-deep-learning-conquers-image-classification.html"
-      }
-    ],
-    "type": [
-      "software"
-    ],
-    "repositoryURL": "https://github.com/BVLC/caffe",
-    "organizations": [
-      {
-        "name": "Berkeley Vision and Learning Center",
-        "website": "https://bair.berkeley.edu/software.html",
         "org_type": "owner"
       }
     ],
@@ -9842,36 +9782,6 @@
     "stage": "nominee"
   },
   {
-    "id": "oada-service-docker",
-    "name": "OADA Service Docker",
-    "description": "Top-level docker-compose config to run OADA microservice-style API implementation.",
-    "website": "https://openag.io/",
-    "license": [
-      {
-        "spdx": "Apache-2.0",
-        "licenseURL": "https://github.com/OADA/server/blob/master/LICENSE"
-      }
-    ],
-    "SDGs": [
-      {
-        "SDGNumber": 12
-      }
-    ],
-    "sectors": [],
-    "type": [
-      "software"
-    ],
-    "repositoryURL": "https://github.com/OADA/server",
-    "organizations": [
-      {
-        "name": "Open Ag Data Alliance",
-        "website": "https://github.com/oada",
-        "org_type": "owner"
-      }
-    ],
-    "stage": "nominee"
-  },
-  {
     "id": "oasis-loss-modelling-framework",
     "name": "Oasis Loss Modelling Framework",
     "aliases": [
@@ -14135,42 +14045,6 @@
     "stage": "nominee"
   },
   {
-    "id": "power-bi-react",
-    "name": "Power BI React",
-    "description": "Power BI allows for data to be stored in the cloud or hosted on the user’s computer. Single-view live dashboard is filled with interactive charts, analysis, graphs, and maps. Power BI for React provides components and services to enable developers to easily embed Power BI reports into their applications.",
-    "website": "https://powerbi.microsoft.com/en-us/",
-    "license": [
-      {
-        "spdx": "MIT",
-        "licenseURL": "https://github.com/microsoft/powerbi-client-react/blob/master/LICENSE"
-      }
-    ],
-    "SDGs": [
-      {
-        "SDGNumber": 8,
-        "evidenceURL": "https://www.journalofaccountancy.com/issues/2020/mar/microsoft-power-bi-data-excel.html"
-      },
-      {
-        "SDGNumber": 9,
-        "evidenceURL": "https://www.journalofaccountancy.com/issues/2020/mar/microsoft-power-bi-data-excel.html"
-      }
-    ],
-    "sectors": [],
-    "type": [
-      "software"
-    ],
-    "repositoryURL": "https://github.com/microsoft/powerbi-client-react",
-    "organizations": [
-      {
-        "name": "Microsoft",
-        "website": "https://opensource.microsoft.com/",
-        "org_type": "owner",
-        "contact_email": "opensource@microsoft.com"
-      }
-    ],
-    "stage": "nominee"
-  },
-  {
     "id": "powerplant",
     "name": "Powerplant",
     "description": "powerplant is an open source software that allows anyone planning a garden to utilize companion planting and other permaculture practices. It provides intelligent suggestions to help the gardener by advising the best planting schedules and combinations of crops to maximize the garden's yield.",
@@ -15858,36 +15732,6 @@
     "stage": "nominee"
   },
   {
-    "id": "scikit-learn",
-    "name": "Scikit Learn",
-    "description": "Scikit Learn is a free software machine learning library for the Python programming language. It features various classification, regression and clustering algorithms including support vector machines, random forests, gradient boosting, k-means and DBSCAN, and is designed to interoperate with the Python numerical and scientific libraries NumPy and SciPy",
-    "website": "https://scikit-learn.org/",
-    "license": [
-      {
-        "spdx": "BSD-3-Clause",
-        "licenseURL": "https://github.com/scikit-learn/scikit-learn/blob/main/COPYING"
-      }
-    ],
-    "SDGs": [
-      {
-        "SDGNumber": 9,
-        "evidenceURL": "https://opensource.com/article/18/9/how-use-scikit-learn-data-science-projects"
-      }
-    ],
-    "type": [
-      "software"
-    ],
-    "repositoryURL": "https://github.com/scikit-learn/scikit-learn",
-    "organizations": [
-      {
-        "name": "Scikit Learn",
-        "website": "https://scikit-learn.org/",
-        "org_type": "owner"
-      }
-    ],
-    "stage": "nominee"
-  },
-  {
     "id": "scratch-blocks",
     "name": "Scratch Blocks",
     "description": "Scratch Blocks is a library for building creative computing interfaces. Scratch helps young people learn to think creatively, reason systematically, and work collaboratively — essential skills for life in the 21st century.",
@@ -16207,6 +16051,43 @@
         "website": "https://www.sigoleyendo.org/",
         "org_type": "owner",
         "contact_email": "hola@sigoleyendo.org"
+      }
+    ],
+    "stage": "nominee"
+  },
+  {
+    "id": "simple",
+    "name": "Simple",
+    "aliases": [
+      ""
+    ],
+    "description": "Free software to manage large-scale hypertension and diabetes control programs.",
+    "website": "https://simple.org",
+    "license": [
+      {
+        "spdx": "MIT",
+        "licenseURL": "https://github.com/simpledotorg/simple-server/blob/master/LICENSE"
+      }
+    ],
+    "SDGs": [
+      {
+        "SDGNumber": 3,
+        "evidenceText": "In collaboration with local ministries of health, WHO, and other partners, Simple is used in India, Ethiopia, and Bangladesh to manage large hypertension controls in public health settings with over 1M patients under care.",
+        "evidenceURL": "https://simple.org"
+      }
+    ],
+    "sectors": [],
+    "type": [
+      "software"
+    ],
+    "repositoryURL": "https://github.com/simpledotorg/simple-server",
+    "organizations": [
+      {
+        "name": "Resolve to Save Lives",
+        "website": "https://resolvetosavelives.org",
+        "org_type": "maintainer",
+        "contact_name": "Daniel Burka",
+        "contact_email": "dburka@resolvetosavelives.org"
       }
     ],
     "stage": "nominee"
@@ -16979,38 +16860,6 @@
     "stage": "nominee"
   },
   {
-    "id": "tabpy",
-    "name": "TabPy",
-    "description": "Packed with graphs, charts, maps and more, Tableau Public is a web platform to help people share and discover data stories, enabling users to communicate their data in an interactive and visual way. TabPy (the Tableau Python Server) is an Analytics Extension implementation which expands Tableau's capabilities by allowing users to execute Python scripts and saved functions via Tableau's table calculations.",
-    "website": "https://tableau.github.io/TabPy/",
-    "license": [
-      {
-        "spdx": "MIT",
-        "licenseURL": "https://github.com/tableau/TabPy/blob/master/LICENSE"
-      }
-    ],
-    "SDGs": [
-      {
-        "SDGNumber": 8,
-        "evidenceURL": "https://analyticsindiamag.com/tabpy/"
-      }
-    ],
-    "sectors": [],
-    "type": [
-      "software"
-    ],
-    "repositoryURL": "https://github.com/tableau/TabPy",
-    "organizations": [
-      {
-        "name": "Tableau",
-        "website": "https://tableau.github.io/",
-        "org_type": "owner",
-        "contact_email": "github@tableau.com"
-      }
-    ],
-    "stage": "nominee"
-  },
-  {
     "id": "tagcoding",
     "name": "tagcoding",
     "description": "#tagcoding means that one uses standardized hashtags to relate online information to specific topics.",
@@ -17301,40 +17150,6 @@
       {
         "name": "TenFour",
         "website": "https://www.tenfour.org",
-        "org_type": "owner"
-      }
-    ],
-    "stage": "nominee"
-  },
-  {
-    "id": "tensorflow",
-    "name": "Tensorflow",
-    "description": "TensorFlow is an end-to-end open source platform for machine learning. It has a comprehensive, flexible ecosystem of tools, libraries and community resources that lets researchers push the state-of-the-art in ML and developers easily build and deploy ML powered applications.",
-    "website": "https://www.tensorflow.org/",
-    "license": [
-      {
-        "spdx": "Apache-2.0",
-        "licenseURL": "https://github.com/tensorflow/tensorflow/blob/master/LICENSE"
-      }
-    ],
-    "SDGs": [
-      {
-        "SDGNumber": 9,
-        "evidenceURL": "https://services.google.com/fh/files/misc/accelerating_social_good_with_artificial_intelligence_google_ai_impact_challenge.pdf"
-      },
-      {
-        "SDGNumber": 17,
-        "evidenceURL": "https://services.google.com/fh/files/misc/accelerating_social_good_with_artificial_intelligence_google_ai_impact_challenge.pdf"
-      }
-    ],
-    "type": [
-      "software"
-    ],
-    "repositoryURL": "https://github.com/tensorflow/tensorflow",
-    "organizations": [
-      {
-        "name": "Google Brain",
-        "website": "https://research.google/teams/brain/",
         "org_type": "owner"
       }
     ],
