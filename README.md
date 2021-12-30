@@ -2,15 +2,15 @@
 
 Application Programming Interface (API) for Digital Public Goods, available at https://api.digitalpublicgoods.net.
 
-This API provides an alternative method of accessing the information available at https://github.com/unicef/publicgoods-candidates. 
+This API provides an alternative method of accessing the information available at https://github.com/DPGAlliance/publicgoods-candidates. 
 
 Yet for another alternative, a more user-friendly version, you can browse the [Digital Public Goods Registry](https://digitalpublicgoods.net/registry).
 
 ## Architecture
 
-This API leverages [GitHub Pages](https://pages.github.com/) for hosting, and [GitHub Actions](https://github.com/features/actions) for automatic syncing its contents with the source of truth that lives in the [Digital Public Goods repository](https://github.com/unicef/publicgoods-candidates).
+This API leverages [GitHub Pages](https://pages.github.com/) for hosting, and [GitHub Actions](https://github.com/features/actions) for automatic syncing its contents with the source of truth that lives in the [Digital Public Goods repository](https://github.com/DGPAlliance/publicgoods-candidates).
 
-Because of the structure imposed by **GitHub Pages**, all the JSON files are stored inside the `docs/` folder, and served from there. The files for each individual endpoint (e.g. `dpg/{dpg}/` and `nominee/{nominee}/`) are pregenerated and stored in correspondingly-named folders with a `index.json` file inside through [this script](https://github.com/unicef/publicgoods-candidates/blob/master/scripts/api.js), which is triggred to run automatically anytime new relevant changes are pushed to the `master` branch of the [unicef/publicgoods-candidates repo](https://github.com/unicef/publicgoods-candidates). This folder and file structure accomplishes making the API available in the static infrastructure that GitHub Pages provides.
+Because of the structure imposed by **GitHub Pages**, all the JSON files are stored inside the `docs/` folder, and served from there. The files for each individual endpoint (e.g. `dpg/{dpg}/` and `nominee/{nominee}/`) are pregenerated and stored in correspondingly-named folders with a `index.json` file inside through [this script](https://github.com/DPGAlliance/publicgoods-candidates/blob/master/scripts/api.js), which is triggred to run automatically anytime new relevant changes are pushed to the `master` branch of the [DPGAlliance/publicgoods-candidates repo](https://github.com/DPGAlliance/publicgoods-candidates). This folder and file structure accomplishes making the API available in the static infrastructure that GitHub Pages provides.
 
 ⚠️ Please note the trailing `/` at the end of all endpoints, which is an artifact of this setup. If you do not include it, you need your code to follow automatic redirects. Any endpoint without trailing slash returns a `301` redirect to the same path with a trailing slash.
 
@@ -300,5 +300,5 @@ binary, for any purpose, commercial or non-commercial, and by any
 means.
 ```
 
-This repository is licensed under the same terms as the [Digital Public Goods repository](https://github.com/unicef/publicgoods-candidates): all the information compiled and aggregated in this repository is already in the public domain, thus we dedicate this software to the public domain. As a result, we impose no limitations nor requirements of any kind of how you use it or reuse it. As a courtesy on your part, we would very much appreciate hearing from you either on how you are using the information in this repo, or any great ideas on how we can collaborate together.
+This repository is licensed under the same terms as the [Digital Public Goods repository](https://github.com/DPGAlliance/publicgoods-candidates): all the information compiled and aggregated in this repository is already in the public domain, thus we dedicate this software to the public domain. As a result, we impose no limitations nor requirements of any kind of how you use it or reuse it. As a courtesy on your part, we would very much appreciate hearing from you either on how you are using the information in this repo, or any great ideas on how we can collaborate together.
 Email us at hello@digitalpublicgoods.net 💌
