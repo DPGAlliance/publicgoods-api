@@ -18,7 +18,12 @@
     "type": [
       "data"
     ],
-    "repositoryURL": "https://github.com/CSSEGISandData/COVID-19",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/CSSEGISandData/COVID-19"
+      }
+    ],
     "organizations": [
       {
         "name": "Johns Hopkins University",
@@ -63,7 +68,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/2020PB/police-brutality",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/2020PB/police-brutality"
+      }
+    ],
     "organizations": [
       {
         "name": "2020PB",
@@ -93,7 +103,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/5calls/5calls",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/5calls/5calls"
+      }
+    ],
     "organizations": [
       {
         "name": "5Calls",
@@ -123,7 +138,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/5calls/ios",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/5calls/ios"
+      }
+    ],
     "organizations": [
       {
         "name": "5Calls",
@@ -157,7 +177,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/a11yproject/a11yproject.com",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/a11yproject/a11yproject.com"
+      }
+    ],
     "organizations": [
       {
         "name": "The Accessibility",
@@ -186,7 +211,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/nic-delhi/AarogyaSetu_Android",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/nic-delhi/AarogyaSetu_Android"
+      }
+    ],
     "organizations": [
       {
         "name": "The Government of India's Ministry of Electronics and Information Technology",
@@ -219,7 +249,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/sozialhelden/accessibility-cloud",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/sozialhelden/accessibility-cloud"
+      }
+    ],
     "organizations": [
       {
         "name": "Sozialhelden",
@@ -253,7 +288,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/fxi/AccessMod_shiny",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/fxi/AccessMod_shiny"
+      }
+    ],
     "organizations": [
       {
         "name": "University of Geneva/Institute for Environmental Sciences/EnviroSPACE Lab",
@@ -302,7 +342,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/bedatadriven/activityinfo-Python",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/bedatadriven/activityinfo-Python"
+      }
+    ],
     "organizations": [
       {
         "name": "Be Data Driven",
@@ -332,7 +377,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/sfbrigade/adopt-a-drain",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/sfbrigade/adopt-a-drain"
+      }
+    ],
     "organizations": [
       {
         "name": "Code for SF",
@@ -362,7 +412,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/afinidata2019/afinidata-content-manager",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/afinidata2019/afinidata-content-manager"
+      }
+    ],
     "organizations": [
       {
         "name": "UNICEF Ventures Fund",
@@ -393,7 +448,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/africa-covid-19-response-toolkit/awareness-sms",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/africa-covid-19-response-toolkit/awareness-sms"
+      }
+    ],
     "organizations": [
       {
         "name": "Ethiopia COVID-19 Response Team",
@@ -425,7 +485,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/africa-covid-19-response-toolkit/awareness-website",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/africa-covid-19-response-toolkit/awareness-website"
+      }
+    ],
     "organizations": [
       {
         "name": "Ethiopia COVID-19 Response Team",
@@ -460,7 +525,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/africa-covid-19-response-toolkit/aws-infrastructure",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/africa-covid-19-response-toolkit/aws-infrastructure"
+      }
+    ],
     "organizations": [
       {
         "name": "Africa COVID-19 Response Toolkit",
@@ -492,7 +562,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/africa-covid-19-response-toolkit/bot-starter-kit",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/africa-covid-19-response-toolkit/bot-starter-kit"
+      }
+    ],
     "organizations": [
       {
         "name": "Ethiopia COVID-19 Response Team",
@@ -527,7 +602,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/africa-covid-19-response-toolkit/api",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/africa-covid-19-response-toolkit/api"
+      }
+    ],
     "organizations": [
       {
         "name": "Africa COVID-19 Response Toolkit",
@@ -559,7 +639,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/africa-covid-19-response-toolkit/emergency-relief-package-tracker",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/africa-covid-19-response-toolkit/emergency-relief-package-tracker"
+      }
+    ],
     "organizations": [
       {
         "name": "Ethiopia COVID-19 Response Team",
@@ -590,7 +675,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/africa-covid-19-response-toolkit/heroes-bot",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/africa-covid-19-response-toolkit/heroes-bot"
+      }
+    ],
     "organizations": [
       {
         "name": "Ethiopia COVID-19 Response Team",
@@ -621,7 +711,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/africa-covid-19-response-toolkit/housing-vacancy-bot/blob/master/LICENSE",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/africa-covid-19-response-toolkit/housing-vacancy-bot/blob/master/LICENSE"
+      }
+    ],
     "organizations": [
       {
         "name": "Ethiopia COVID-19 Response Team",
@@ -652,7 +747,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/africa-covid-19-response-toolkit/internal-dashboard",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/africa-covid-19-response-toolkit/internal-dashboard"
+      }
+    ],
     "organizations": [
       {
         "name": "Ethiopia COVID-19 Response Team",
@@ -683,7 +783,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/africa-covid-19-response-toolkit/surveillance-forms",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/africa-covid-19-response-toolkit/surveillance-forms"
+      }
+    ],
     "organizations": [
       {
         "name": "Ethiopia COVID-19 Response Team",
@@ -725,7 +830,12 @@
       "data",
       "software"
     ],
-    "repositoryURL": "https://github.com/stevesong/nsrc-afterfibre/",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/stevesong/nsrc-afterfibre/"
+      }
+    ],
     "organizations": [
       {
         "name": "Network Startup Resource Center (NSRC)",
@@ -758,7 +868,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://bitbucket.org/corizon/agrosense/src/default/",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://bitbucket.org/corizon/agrosense/src/default/"
+      }
+    ],
     "organizations": [
       {
         "name": "Corizon",
@@ -793,7 +908,12 @@
     "type": [
       "aimodel"
     ],
-    "repositoryURL": "https://github.com/thinkingmachines/ph-poverty-mapping",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/thinkingmachines/ph-poverty-mapping"
+      }
+    ],
     "organizations": [
       {
         "name": "Thinking Machines Data Science Inc.",
@@ -823,7 +943,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/pwyf/aid-transparency-tracker",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/pwyf/aid-transparency-tracker"
+      }
+    ],
     "organizations": [
       {
         "name": "Publish What You Fund",
@@ -868,7 +993,12 @@
       "software",
       "content"
     ],
-    "repositoryURL": "https://github.com/esse-dev/akita",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/esse-dev/akita"
+      }
+    ],
     "organizations": [
       {
         "name": "Akita",
@@ -905,7 +1035,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/akvo/akvo-flow",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/akvo/akvo-flow"
+      }
+    ],
     "organizations": [
       {
         "name": "Akvo Foundation",
@@ -935,7 +1070,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/mysociety/alaveteli",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/mysociety/alaveteli"
+      }
+    ],
     "organizations": [
       {
         "name": "mySociety",
@@ -970,7 +1110,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/alephdata/aleph",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/alephdata/aleph"
+      }
+    ],
     "organizations": [
       {
         "name": "Organized Crime and Corruption Reporting Project",
@@ -1000,7 +1145,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/get-alex/atom-linter-alex",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/get-alex/atom-linter-alex"
+      }
+    ],
     "organizations": [
       {
         "name": "Alex",
@@ -1030,7 +1180,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/get-alex/SublimeLinter-contrib-alex",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/get-alex/SublimeLinter-contrib-alex"
+      }
+    ],
     "organizations": [
       {
         "name": "Alex",
@@ -1060,7 +1215,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/get-alex/alex",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/get-alex/alex"
+      }
+    ],
     "organizations": [
       {
         "name": "Alex",
@@ -1090,7 +1250,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/HTBox/allReady",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/HTBox/allReady"
+      }
+    ],
     "organizations": [
       {
         "name": "Humanitarian Toolbox",
@@ -1123,7 +1288,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/codepath/android_guides",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/codepath/android_guides"
+      }
+    ],
     "organizations": [
       {
         "name": "CodePath",
@@ -1161,7 +1331,12 @@
     "type": [
       "aimodel"
     ],
-    "repositoryURL": "https://github.com/Angaza-Elimu/learning_recommendation",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/Angaza-Elimu/learning_recommendation"
+      }
+    ],
     "organizations": [
       {
         "name": "Angaza Elimu",
@@ -1200,7 +1375,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/apache/ctakes",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/apache/ctakes"
+      }
+    ],
     "organizations": [
       {
         "name": "The Apache Software Foundation",
@@ -1230,7 +1410,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/betagouv/api.gouv.fr",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/betagouv/api.gouv.fr"
+      }
+    ],
     "organizations": [
       {
         "name": "Beta.Gouv",
@@ -1264,7 +1449,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/SonyCSL/APIS",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/SonyCSL/APIS"
+      }
+    ],
     "organizations": [
       {
         "name": "Sony Computer Science Laboratories, Inc.",
@@ -1294,7 +1484,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/arkhn/fhir-pipe",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/arkhn/fhir-pipe"
+      }
+    ],
     "organizations": [
       {
         "name": "Arkhn",
@@ -1324,7 +1519,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/coralproject/ask",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/coralproject/ask"
+      }
+    ],
     "organizations": [
       {
         "name": "The Coral Project",
@@ -1354,7 +1554,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/ShelterTechSF/askdarcel-api",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/ShelterTechSF/askdarcel-api"
+      }
+    ],
     "organizations": [
       {
         "name": "ShelterTech",
@@ -1384,7 +1589,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/ShelterTechSF/askdarcel-web",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/ShelterTechSF/askdarcel-web"
+      }
+    ],
     "organizations": [
       {
         "name": "ShelterTech",
@@ -1414,7 +1624,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/Project-AsTeR/scoring",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/Project-AsTeR/scoring"
+      }
+    ],
     "organizations": [
       {
         "name": "AsTer",
@@ -1444,7 +1659,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/Project-AsTeR/website",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/Project-AsTeR/website"
+      }
+    ],
     "organizations": [
       {
         "name": "AsTer",
@@ -1474,7 +1694,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/Project-AsTeR/stream",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/Project-AsTeR/stream"
+      }
+    ],
     "organizations": [
       {
         "name": "AsTer",
@@ -1536,7 +1761,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/AsylumConnect/asylum-connect-catalog",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/AsylumConnect/asylum-connect-catalog"
+      }
+    ],
     "organizations": [
       {
         "name": "Asylum Connect",
@@ -1569,7 +1799,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://gitlab.com/atixlabs-oss/circles-of-angels",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://gitlab.com/atixlabs-oss/circles-of-angels"
+      }
+    ],
     "organizations": [
       {
         "name": "UNICEF Ventures Fund",
@@ -1599,7 +1834,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/uptake/autofocus",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/uptake/autofocus"
+      }
+    ],
     "organizations": [
       {
         "name": "Uptake.org",
@@ -1630,7 +1870,12 @@
       "software",
       "data"
     ],
-    "repositoryURL": "https://github.com/team-asr/od-Data",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/team-asr/od-Data"
+      }
+    ],
     "organizations": [
       {
         "name": "UNICEF Ventures Fund",
@@ -1674,7 +1919,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/avniproject/avni-server",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/avniproject/avni-server"
+      }
+    ],
     "organizations": [
       {
         "name": "Samanvay Research and Development Foundation",
@@ -1709,7 +1959,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/HIT2GAP-EU-PROJECT/bemserver",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/HIT2GAP-EU-PROJECT/bemserver"
+      }
+    ],
     "organizations": [
       {
         "name": "HIT2GAP",
@@ -1739,7 +1994,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/EskaleraInc/catalyst-bias-correct",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/EskaleraInc/catalyst-bias-correct"
+      }
+    ],
     "organizations": [
       {
         "name": "Catalyst",
@@ -1772,7 +2032,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/bigbluebutton/bigbluebutton",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/bigbluebutton/bigbluebutton"
+      }
+    ],
     "organizations": [
       {
         "name": "BigBlueButton",
@@ -1805,7 +2070,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/code-dot-org/blockly",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/code-dot-org/blockly"
+      }
+    ],
     "organizations": [
       {
         "name": "Code.org",
@@ -1838,7 +2108,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/jembi/bsis",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/jembi/bsis"
+      }
+    ],
     "organizations": [
       {
         "name": "Jembi Health Systems NPC",
@@ -1869,7 +2144,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/tmrowco/bloom-contrib",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/tmrowco/bloom-contrib"
+      }
+    ],
     "organizations": [
       {
         "name": "Tomorrow",
@@ -1902,7 +2182,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/bayesimpact/bob-emploi",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/bayesimpact/bob-emploi"
+      }
+    ],
     "organizations": [
       {
         "name": "Bayes Impact",
@@ -1919,7 +2204,7 @@
       ""
     ],
     "description": "Book Dash is a South African social impact publisher of free books for very young children. Our vision is that “Every child should own a hundred books by the age of five”, before they enter school! Book Dash gather volunteers to create new, African picturebooks that anyone can read, re-use, download, adapt and share.",
-    "website": "http://bookdash.org/",
+    "website": "https://bookdash.org/",
     "license": [
       {
         "spdx": "CC-BY-4.0",
@@ -1954,7 +2239,12 @@
     "type": [
       "content"
     ],
-    "repositoryURL": "",
+    "repositories": [
+      {
+        "name": "main",
+        "url": ""
+      }
+    ],
     "organizations": [
       {
         "name": "Book Dash",
@@ -1989,7 +2279,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/bothub-it/bothub",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/bothub-it/bothub"
+      }
+    ],
     "organizations": [
       {
         "name": "UNICEF Ventures Fund",
@@ -2030,7 +2325,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/boxwise/dropapp",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/boxwise/dropapp"
+      }
+    ],
     "organizations": [
       {
         "name": "Stitching Boxwise",
@@ -2063,7 +2363,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/brainflow-dev/brainflow",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/brainflow-dev/brainflow"
+      }
+    ],
     "organizations": [
       {
         "name": "Andrey Parfenov",
@@ -2135,7 +2440,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/SNL-WaterPower/CACTUS/",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/SNL-WaterPower/CACTUS/"
+      }
+    ],
     "organizations": [
       {
         "name": "Sandia National Laboratories",
@@ -2170,7 +2480,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/biodigital-inc/caisis",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/biodigital-inc/caisis"
+      }
+    ],
     "organizations": [
       {
         "name": "BioDigital",
@@ -2201,7 +2516,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/project-callisto/callisto-core",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/project-callisto/callisto-core"
+      }
+    ],
     "organizations": [
       {
         "name": "Callisto",
@@ -2231,7 +2551,12 @@
     "type": [
       "standard"
     ],
-    "repositoryURL": "https://github.com/energy-market-methods/caltrack",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/energy-market-methods/caltrack"
+      }
+    ],
     "organizations": [
       {
         "name": "Energy Market Methods",
@@ -2265,7 +2590,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://gitlab.com/camelot-project/camelot",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://gitlab.com/camelot-project/camelot"
+      }
+    ],
     "organizations": [
       {
         "name": "Camelot",
@@ -2295,7 +2625,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/camicroscope/caMicroscope",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/camicroscope/caMicroscope"
+      }
+    ],
     "organizations": [
       {
         "name": "BMI",
@@ -2325,7 +2660,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/giving-a-fuck-about-climate-change/carbon-inferno",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/giving-a-fuck-about-climate-change/carbon-inferno"
+      }
+    ],
     "organizations": [
       {
         "name": "Carbon Dooms Day",
@@ -2364,7 +2704,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/CartoDB/cartodb",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/CartoDB/cartodb"
+      }
+    ],
     "organizations": [
       {
         "name": "CartoDB",
@@ -2407,7 +2752,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/cboard-org/cboard",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/cboard-org/cboard"
+      }
+    ],
     "organizations": [
       {
         "name": "CIREHA",
@@ -2436,7 +2786,12 @@
     "type": [
       "data"
     ],
-    "repositoryURL": "https://github.com/CDCgov/covid19healthbot",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/CDCgov/covid19healthbot"
+      }
+    ],
     "organizations": [
       {
         "name": "Center for Disease Control",
@@ -2465,7 +2820,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/datamade/census",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/datamade/census"
+      }
+    ],
     "organizations": [
       {
         "name": "DataMade ",
@@ -2495,7 +2855,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/CenterForOpenScience/SHARE",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/CenterForOpenScience/SHARE"
+      }
+    ],
     "organizations": [
       {
         "name": "Centre for Open Science",
@@ -2525,7 +2890,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/LoopKit/CGMBLEKit",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/LoopKit/CGMBLEKit"
+      }
+    ],
     "organizations": [
       {
         "name": "LoopKit",
@@ -2558,7 +2928,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/Welthungerhilfe/cgm-ml",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/Welthungerhilfe/cgm-ml"
+      }
+    ],
     "organizations": [
       {
         "name": "Welt Hunger Hilfe",
@@ -2591,7 +2966,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/Welthungerhilfe/cgm-scanner",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/Welthungerhilfe/cgm-scanner"
+      }
+    ],
     "organizations": [
       {
         "name": "Welt Hunger Hilfe",
@@ -2626,7 +3006,12 @@
       "software",
       "content"
     ],
-    "repositoryURL": "https://github.com/cboard-org/cboard",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/cboard-org/cboard"
+      }
+    ],
     "organizations": [
       {
         "name": "UNICEF Ventures Fund",
@@ -2656,7 +3041,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/hackoregon/civic",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/hackoregon/civic"
+      }
+    ],
     "organizations": [
       {
         "name": "Hack Oregon",
@@ -2700,7 +3090,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/civicrm/civicrm-core/",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/civicrm/civicrm-core/"
+      }
+    ],
     "organizations": [
       {
         "name": "CiviCRM LLC",
@@ -2760,7 +3155,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/CliMA/ClimateMachine.jl",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/CliMA/ClimateMachine.jl"
+      }
+    ],
     "organizations": [
       {
         "name": "CliMA",
@@ -2790,7 +3190,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/ClimateWatch-Vizzuality/climate-watch",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/ClimateWatch-Vizzuality/climate-watch"
+      }
+    ],
     "organizations": [
       {
         "name": "Global Forest Watch",
@@ -2807,7 +3212,7 @@
       ""
     ],
     "description": "Providing carbon-free, unmanned aerial services at the frontier in developing markets for humanitarian uses. Our open-source work is focused on expanding the existing open-source software stack in PX4, to include a new vehicle mode, airships. We are also working on providing an open-source refrigerated container for drone delivery at 10kg payload, but are still in the process with the Open Hardware Repository, under a CERN open hardware licence.",
-    "website": "http://www.flycloudline.com",
+    "website": "https://www.flycloudline.com",
     "license": [
       {
         "spdx": "BSD-3-Clause",
@@ -2850,11 +3255,16 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/PX4/PX4-Autopilot",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/PX4/PX4-Autopilot"
+      }
+    ],
     "organizations": [
       {
         "name": "Cloudline Africa (Pty) Ltd",
-        "website": "http://www.flycloudline.com",
+        "website": "https://www.flycloudline.com",
         "org_type": "owner",
         "contact_name": "Spencer Horne",
         "contact_email": "spencer@flycloudline.com"
@@ -2922,7 +3332,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/codeforamerica/cfapi",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/codeforamerica/cfapi"
+      }
+    ],
     "organizations": [
       {
         "name": "Code for America",
@@ -2952,7 +3367,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/codeforamerica/brigade",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/codeforamerica/brigade"
+      }
+    ],
     "organizations": [
       {
         "name": "Code for America",
@@ -2985,7 +3405,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/etalab/code.etalab.gouv.fr",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/etalab/code.etalab.gouv.fr"
+      }
+    ],
     "organizations": [
       {
         "name": "etalab",
@@ -3018,7 +3443,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/code-dot-org/code-dot-org",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/code-dot-org/code-dot-org"
+      }
+    ],
     "organizations": [
       {
         "name": "Code.org",
@@ -3048,7 +3478,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/mlco2/codecarbon",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/mlco2/codecarbon"
+      }
+    ],
     "organizations": [
       {
         "name": "mlco2",
@@ -3078,7 +3513,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/coinsence/coinsence-monorepo",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/coinsence/coinsence-monorepo"
+      }
+    ],
     "organizations": [
       {
         "name": "UNICEF Ventures Fund",
@@ -3110,7 +3550,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/openforis/collect-earth",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/openforis/collect-earth"
+      }
+    ],
     "organizations": [
       {
         "name": "FAO - Open Foris Initiative",
@@ -3165,7 +3610,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/dimagi/commcare-android",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/dimagi/commcare-android"
+      }
+    ],
     "organizations": [
       {
         "name": "Dimagi",
@@ -3220,7 +3670,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/dimagi/commcare-cloud",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/dimagi/commcare-cloud"
+      }
+    ],
     "organizations": [
       {
         "name": "Dimagi",
@@ -3252,7 +3707,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/bcgov/common-forms-toolkit",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/bcgov/common-forms-toolkit"
+      }
+    ],
     "organizations": [
       {
         "name": "Government of British Columbia",
@@ -3281,7 +3741,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/conative-labs/Platform-API",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/conative-labs/Platform-API"
+      }
+    ],
     "organizations": [
       {
         "name": "UNICEF Ventures Fund",
@@ -3314,7 +3779,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/consul/consul",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/consul/consul"
+      }
+    ],
     "organizations": [
       {
         "name": "Consul",
@@ -3344,7 +3814,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/osano/cookieconsent",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/osano/cookieconsent"
+      }
+    ],
     "organizations": [
       {
         "name": "Osano",
@@ -3374,7 +3849,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/corona-warn-app/cwa-app-android",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/corona-warn-app/cwa-app-android"
+      }
+    ],
     "organizations": [
       {
         "name": "Deutsche Telekom and SAP",
@@ -3403,7 +3883,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/corona-warn-app/cwa-app-ios",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/corona-warn-app/cwa-app-ios"
+      }
+    ],
     "organizations": [
       {
         "name": "SAP",
@@ -3437,7 +3922,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/wearefuturegov/coronavirus-service-directory",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/wearefuturegov/coronavirus-service-directory"
+      }
+    ],
     "organizations": [
       {
         "name": "FutureGov",
@@ -3466,7 +3956,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/Delegation-numerique-en-sante/covid19-algorithme-orientation",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/Delegation-numerique-en-sante/covid19-algorithme-orientation"
+      }
+    ],
     "organizations": [
       {
         "name": "The French Ministry of Social Affairs and Health",
@@ -3495,7 +3990,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/cds-snc/c19-benefits-node/",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/cds-snc/c19-benefits-node/"
+      }
+    ],
     "organizations": [
       {
         "name": "Canadian Digital Service",
@@ -3529,7 +4029,12 @@
       "software",
       "data"
     ],
-    "repositoryURL": "https://github.com/dsfsi/covid19za",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/dsfsi/covid19za"
+      }
+    ],
     "organizations": [
       {
         "name": "University of Pretoria",
@@ -3558,7 +4063,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/usdigitalresponse/small-business-programs",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/usdigitalresponse/small-business-programs"
+      }
+    ],
     "organizations": [
       {
         "name": "US Digital Response",
@@ -3586,7 +4096,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/code-for-canada/covid19-employee-screening-tool",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/code-for-canada/covid19-employee-screening-tool"
+      }
+    ],
     "organizations": [
       {
         "name": "Code for Canada",
@@ -3617,7 +4132,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/CodeForPhilly/chime",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/CodeForPhilly/chime"
+      }
+    ],
     "organizations": [
       {
         "name": "Penn Medicine",
@@ -3645,7 +4165,12 @@
     "type": [
       "data"
     ],
-    "repositoryURL": "https://docs.google.com/spreadsheets/d/e/2PACX-1vQ60fTTBlezKwvppNT8_wy8r4zWnx8-u6pkrwwloZ1hQwwFbobEZz7O1mOKSa2ph7YOlvMMT9oWDzAc/pub#",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vQ60fTTBlezKwvppNT8_wy8r4zWnx8-u6pkrwwloZ1hQwwFbobEZz7O1mOKSa2ph7YOlvMMT9oWDzAc/pub#"
+      }
+    ],
     "organizations": [
       {
         "name": "Recidiviz",
@@ -3674,7 +4199,12 @@
     "type": [
       "data"
     ],
-    "repositoryURL": "https://github.com/youyanggu/covid19_projections",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/youyanggu/covid19_projections"
+      }
+    ],
     "organizations": [
       {
         "name": "Youyang Gu",
@@ -3702,7 +4232,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/lifen-labs/covid",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/lifen-labs/covid"
+      }
+    ],
     "organizations": [
       {
         "name": "Lifen Labs",
@@ -3731,7 +4266,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/neherlab/covid19_scenarios",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/neherlab/covid19_scenarios"
+      }
+    ],
     "organizations": [
       {
         "name": "University of Basel",
@@ -3759,7 +4299,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/ongov/covid-19-self-assessment",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/ongov/covid-19-self-assessment"
+      }
+    ],
     "organizations": [
       {
         "name": "Ontario Government",
@@ -3787,7 +4332,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/covid-projections/covid-projections",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/covid-projections/covid-projections"
+      }
+    ],
     "organizations": [
       {
         "name": "Covid ActNow",
@@ -3816,7 +4366,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/cds-snc/covid-alert-app",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/cds-snc/covid-alert-app"
+      }
+    ],
     "organizations": [
       {
         "name": "Canadian Digital Service",
@@ -3845,7 +4400,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/covidcaremap/covid19-healthsystemcapacity",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/covidcaremap/covid19-healthsystemcapacity"
+      }
+    ],
     "organizations": [
       {
         "name": "Covid Care Map",
@@ -3874,7 +4434,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/tripleblindmarket/covid-safe-paths",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/tripleblindmarket/covid-safe-paths"
+      }
+    ],
     "organizations": [
       {
         "name": "MIT",
@@ -3903,7 +4468,12 @@
     "type": [
       "data"
     ],
-    "repositoryURL": "https://github.com/COVID19Tracking/covid-tracking-data",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/COVID19Tracking/covid-tracking-data"
+      }
+    ],
     "organizations": [
       {
         "name": "The Atlantic, Related Sciences",
@@ -3931,7 +4501,12 @@
     "type": [
       "data"
     ],
-    "repositoryURL": "https://github.com/ccodwg/Covid19Canada",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/ccodwg/Covid19Canada"
+      }
+    ],
     "organizations": [
       {
         "name": "COVID-19 Canada Open Data Working Group",
@@ -3960,7 +4535,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/CSML-by-Clevy/covidbot-autodiagnostic",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/CSML-by-Clevy/covidbot-autodiagnostic"
+      }
+    ],
     "organizations": [
       {
         "name": "The Pasteur Institute",
@@ -3988,7 +4568,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/covidsafe/App-Android",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/covidsafe/App-Android"
+      }
+    ],
     "organizations": [
       {
         "name": "University of Washington",
@@ -4018,7 +4603,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/Data4Democracy/crash-model",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/Data4Democracy/crash-model"
+      }
+    ],
     "organizations": [
       {
         "name": "Data for Democracy",
@@ -4051,7 +4641,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/claytonrcarter/cropplanning",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/claytonrcarter/cropplanning"
+      }
+    ],
     "organizations": [
       {
         "name": "Crop Planning",
@@ -4081,7 +4676,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/etalab/croquemort",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/etalab/croquemort"
+      }
+    ],
     "organizations": [
       {
         "name": "Open Data Team",
@@ -4121,7 +4721,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/cuplsensor/cuplbackend",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/cuplsensor/cuplbackend"
+      }
+    ],
     "organizations": [
       {
         "name": "Plotsensor Ltd.",
@@ -4182,7 +4787,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/sharmalab/Datascope",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/sharmalab/Datascope"
+      }
+    ],
     "organizations": [
       {
         "name": "BMI",
@@ -4250,7 +4860,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/Datawheel/canon",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/Datawheel/canon"
+      }
+    ],
     "organizations": [
       {
         "name": "UNICEF Ventures Fund",
@@ -4289,7 +4904,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/mangroveorg/datawinners",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/mangroveorg/datawinners"
+      }
+    ],
     "organizations": [
       {
         "name": "Human Network Interaction (HNI)",
@@ -4318,7 +4938,12 @@
     "type": [
       "data"
     ],
-    "repositoryURL": "https://github.com/pcm-dpc/COVID-19",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/pcm-dpc/COVID-19"
+      }
+    ],
     "organizations": [
       {
         "name": "Italian Department of Civil Protection",
@@ -4347,7 +4972,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/OpenSourcePolitics/decidim",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/OpenSourcePolitics/decidim"
+      }
+    ],
     "organizations": [
       {
         "name": "OpenSoucePolitics",
@@ -4377,7 +5007,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/betagouv/demarches-simplifiees.fr",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/betagouv/demarches-simplifiees.fr"
+      }
+    ],
     "organizations": [
       {
         "name": "Beta.Gouv",
@@ -4407,7 +5042,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/drivendataorg/deon",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/drivendataorg/deon"
+      }
+    ],
     "organizations": [
       {
         "name": "DrivenData",
@@ -4447,7 +5087,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/humanutility/detroit-water-project",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/humanutility/detroit-water-project"
+      }
+    ],
     "organizations": [
       {
         "name": "The Human Utility",
@@ -4476,7 +5121,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/codeforamerica/michigan-benefits",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/codeforamerica/michigan-benefits"
+      }
+    ],
     "organizations": [
       {
         "name": "Code for America",
@@ -4537,7 +5187,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/Gapminder/dollar-street-pages",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/Gapminder/dollar-street-pages"
+      }
+    ],
     "organizations": [
       {
         "name": "GapMinder",
@@ -4570,7 +5225,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/WorldBank-Transport/DRIVER",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/WorldBank-Transport/DRIVER"
+      }
+    ],
     "organizations": [
       {
         "name": "WorldBank",
@@ -4606,7 +5266,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/DSpace/DSpace",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/DSpace/DSpace"
+      }
+    ],
     "organizations": [
       {
         "name": "LYRASIS",
@@ -4636,7 +5301,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/dymaxionlabs/ap-latam",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/dymaxionlabs/ap-latam"
+      }
+    ],
     "organizations": [
       {
         "name": "UNICEF Ventures Fund",
@@ -4672,7 +5342,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/MSH/eTBManager3",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/MSH/eTBManager3"
+      }
+    ],
     "organizations": [
       {
         "name": "Management Sciences for Health",
@@ -4702,7 +5377,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/OSU-Battelle-Center/DRC-Ebola-Conflict",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/OSU-Battelle-Center/DRC-Ebola-Conflict"
+      }
+    ],
     "organizations": [
       {
         "name": "The Battelle Center",
@@ -4738,7 +5418,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/sahana/eden",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/sahana/eden"
+      }
+    ],
     "organizations": [
       {
         "name": "Sahana",
@@ -4770,7 +5455,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/imiolek-ireneusz/eduActiv8",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/imiolek-ireneusz/eduActiv8"
+      }
+    ],
     "organizations": [
       {
         "name": "eduActiv8",
@@ -4800,7 +5490,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/eKitabu/Accessible-EPUB-Toolkit",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/eKitabu/Accessible-EPUB-Toolkit"
+      }
+    ],
     "organizations": [
       {
         "name": "UNICEF Ventures Fund",
@@ -4833,7 +5528,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/tmrowco/electricitymap-contrib",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/tmrowco/electricitymap-contrib"
+      }
+    ],
     "organizations": [
       {
         "name": "Tomorrow",
@@ -4874,7 +5574,12 @@
       "software",
       "content"
     ],
-    "repositoryURL": "https://github.com/elimu-ai/webapp",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/elimu-ai/webapp"
+      }
+    ],
     "organizations": [
       {
         "name": "elimu.ai Community DAO",
@@ -4909,7 +5614,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/emoncms/emoncms",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/emoncms/emoncms"
+      }
+    ],
     "organizations": [
       {
         "name": "OpenEnergyMonitor",
@@ -4942,7 +5652,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/bayesimpact/encompass",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/bayesimpact/encompass"
+      }
+    ],
     "organizations": [
       {
         "name": "Bayes Impact",
@@ -4975,7 +5690,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/energywebfoundation/energyweb-ui",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/energywebfoundation/energyweb-ui"
+      }
+    ],
     "organizations": [
       {
         "name": "Energy Web Foundation",
@@ -5013,7 +5733,12 @@
       "data",
       "software"
     ],
-    "repositoryURL": "https://github.com/energy-data/energydata.info",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/energy-data/energydata.info"
+      }
+    ],
     "organizations": [
       {
         "name": "The World Bank",
@@ -5042,7 +5767,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/bcgov/enhanced-travel-screening",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/bcgov/enhanced-travel-screening"
+      }
+    ],
     "organizations": [
       {
         "name": "Ministry of Health and Services, Government of British Columbia",
@@ -5071,7 +5801,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/enketo/enketo-core",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/enketo/enketo-core"
+      }
+    ],
     "organizations": [
       {
         "name": "Enketo",
@@ -5101,7 +5836,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/enketo/enketo-express",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/enketo/enketo-express"
+      }
+    ],
     "organizations": [
       {
         "name": "Enketo",
@@ -5137,7 +5877,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/publiclab/leaflet-environmental-layers",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/publiclab/leaflet-environmental-layers"
+      }
+    ],
     "organizations": [
       {
         "name": "PublicLab",
@@ -5174,11 +5919,16 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/OpenWaterAnalytics/EPANET",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/OpenWaterAnalytics/EPANET"
+      }
+    ],
     "organizations": [
       {
         "name": "OpenWaterAnalytics",
-        "website": "http://wateranalytics.org/",
+        "website": "https://wateranalytics.org/",
         "org_type": "owner"
       }
     ],
@@ -5203,7 +5953,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/covid19cz/erouska-android",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/covid19cz/erouska-android"
+      }
+    ],
     "organizations": [
       {
         "name": "COVID19CZ",
@@ -5253,7 +6008,12 @@
     "type": [
       "data"
     ],
-    "repositoryURL": "",
+    "repositories": [
+      {
+        "name": "main",
+        "url": ""
+      }
+    ],
     "organizations": [
       {
         "name": "Impact Observatory",
@@ -5285,7 +6045,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/JustFixNYC/eviction-free-nyc",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/JustFixNYC/eviction-free-nyc"
+      }
+    ],
     "organizations": [
       {
         "name": "JustFix",
@@ -5315,7 +6080,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/EvictionLab/eviction-maps",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/EvictionLab/eviction-maps"
+      }
+    ],
     "organizations": [
       {
         "name": "EvictionLab",
@@ -5364,7 +6134,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/FarmBot/farmbot_os",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/FarmBot/farmbot_os"
+      }
+    ],
     "organizations": [
       {
         "name": "FarmBot Inc",
@@ -5429,7 +6204,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/farmOS/farmOS",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/farmOS/farmOS"
+      }
+    ],
     "organizations": [
       {
         "name": "farmOS",
@@ -5459,7 +6239,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/codeforamerica/etpl-search",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/codeforamerica/etpl-search"
+      }
+    ],
     "organizations": [
       {
         "name": "Code for America",
@@ -5488,7 +6273,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/findthemasks/findthemasks",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/findthemasks/findthemasks"
+      }
+    ],
     "organizations": [
       {
         "name": "FindTheMasks",
@@ -5521,7 +6311,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/ctt-gob-es/clienteafirma",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/ctt-gob-es/clienteafirma"
+      }
+    ],
     "organizations": [
       {
         "name": "Technology Transfer Center, Government of Spain",
@@ -5551,7 +6346,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/mysociety/fixmystreet",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/mysociety/fixmystreet"
+      }
+    ],
     "organizations": [
       {
         "name": "mySociety",
@@ -5582,48 +6382,17 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/osm-in/flood-map",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/osm-in/flood-map"
+      }
+    ],
     "organizations": [
       {
         "name": "OpenStreetMap",
         "website": "https://www.openstreetmap.org/",
         "org_type": "owner"
-      }
-    ],
-    "stage": "nominee"
-  },
-  {
-    "id": "flow-cameroon",
-    "name": "Flow Cameroon",
-    "aliases": [
-      "Flow"
-    ],
-    "description": "Flow is a water source location app that helps students of the University of Bamenda, Bambili to find/locate clean water sources. ",
-    "website": "https://github.com/bernandez/Flow",
-    "license": [
-      {
-        "spdx": "Apache-2.0",
-        "licenseURL": "https://github.com/bernandez/Flow/blob/main/LICENSE"
-      }
-    ],
-    "SDGs": [
-      {
-        "SDGNumber": 6,
-        "evidenceText": "This project was developed as an entry into the GDSC solution challenge for 2021 to solve the porblem of water shortages. Users of this app are able to find clean water sources easily using their mobile phones. With a lot of ills that result with using dirty water, a solution like Flow is a life saver."
-      }
-    ],
-    "sectors": [
-      "Water and Sanitation"
-    ],
-    "type": [
-      "software"
-    ],
-    "repositoryURL": "https://github.com/bernandez/Flow",
-    "organizations": [
-      {
-        "name": "University of Bamenda",
-        "website": "https://uniba.cm/",
-        "org_type": "maintainer"
       }
     ],
     "stage": "nominee"
@@ -5654,7 +6423,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/Flowminder/FlowKit",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/Flowminder/FlowKit"
+      }
+    ],
     "organizations": [
       {
         "name": "Flowminder",
@@ -5692,7 +6466,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/UnionVMS/UVMS-MobileTerminalModule-APP",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/UnionVMS/UVMS-MobileTerminalModule-APP"
+      }
+    ],
     "organizations": [
       {
         "name": "FOCUS",
@@ -5722,7 +6501,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/foodcoops/foodsoft",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/foodcoops/foodsoft"
+      }
+    ],
     "organizations": [
       {
         "name": "Foodcoops",
@@ -5755,7 +6539,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/SEL-Columbia/formhub",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/SEL-Columbia/formhub"
+      }
+    ],
     "organizations": [
       {
         "name": "Sustainable Engineering Lab, Columbia University",
@@ -5789,7 +6578,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/foxBMS/foxbms-1",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/foxBMS/foxbms-1"
+      }
+    ],
     "organizations": [
       {
         "name": "foxBMS",
@@ -5835,7 +6629,12 @@
       "content",
       "software"
     ],
-    "repositoryURL": "https://github.com/freeCodeCamp/freeCodeCamp",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/freeCodeCamp/freeCodeCamp"
+      }
+    ],
     "organizations": [
       {
         "name": "freeCodeCamp",
@@ -5865,7 +6664,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/okfde/froide",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/okfde/froide"
+      }
+    ],
     "organizations": [
       {
         "name": "Open Knowledge Foundation Germany",
@@ -5882,7 +6686,7 @@
       ""
     ],
     "description": "FREEWAT (FREE and open source software tools for WATer resource management) is an HORIZON 2020 project financed by the EU Commission under the call WATER INNOVATION: BOOSTING ITS VALUE FOR EUROPE.  FREEWAT main result is an open source and public domain GIS integrated modelling environment (the FREEWAT platform) for the simulation of water quantity and quality in surface water and groundwater with an integrated water management and planning module.",
-    "website": "http://www.freewat.eu/",
+    "website": "https://www.freewat.eu/",
     "license": [
       {
         "spdx": "LGPL-2.1",
@@ -5902,11 +6706,16 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://gitlab.com/freewat/freewat/",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://gitlab.com/freewat/freewat/"
+      }
+    ],
     "organizations": [
       {
         "name": "FREEWAT",
-        "website": "http://www.freewat.eu/",
+        "website": "https://www.freewat.eu/",
         "org_type": "owner",
         "contact_name": "Rudy Rossetto",
         "contact_email": "r.rossetto@santannapisa.it"
@@ -5966,7 +6775,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/Gapminder/gapminder-offline",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/Gapminder/gapminder-offline"
+      }
+    ],
     "organizations": [
       {
         "name": "GapMinder",
@@ -6000,7 +6814,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/gcompris/GCompris-gtk",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/gcompris/GCompris-gtk"
+      }
+    ],
     "organizations": [
       {
         "name": "GCompris",
@@ -6037,7 +6856,12 @@
       "software",
       "aimodel"
     ],
-    "repositoryURL": "https://github.com/sfu-discourse-lab/GenderGapTracker",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/sfu-discourse-lab/GenderGapTracker"
+      }
+    ],
     "organizations": [
       {
         "name": "Simon Fraser University, Discourse Processing Lab",
@@ -6072,7 +6896,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/developmentseed/geolambda",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/developmentseed/geolambda"
+      }
+    ],
     "organizations": [
       {
         "name": "Development Seed",
@@ -6103,7 +6932,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/thinkingmachines/geomancer",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/thinkingmachines/geomancer"
+      }
+    ],
     "organizations": [
       {
         "name": "Thinking Machines Data Science Inc.",
@@ -6133,7 +6967,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/GeoNode/geonode",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/GeoNode/geonode"
+      }
+    ],
     "organizations": [
       {
         "name": "GeoNode",
@@ -6168,7 +7007,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/terraframe/geoprism-registry",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/terraframe/geoprism-registry"
+      }
+    ],
     "organizations": [
       {
         "name": "TerraFrame",
@@ -6199,7 +7043,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/GibbonEdu/core",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/GibbonEdu/core"
+      }
+    ],
     "organizations": [
       {
         "name": "GibbonEdu",
@@ -6248,7 +7097,12 @@
       "software",
       "data"
     ],
-    "repositoryURL": "https://github.com/gbif/registry",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/gbif/registry"
+      }
+    ],
     "organizations": [
       {
         "name": "GBIF Governing Board",
@@ -6284,7 +7138,12 @@
       "data",
       "software"
     ],
-    "repositoryURL": "https://github.com/openclimatedata/global-carbon-budget",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/openclimatedata/global-carbon-budget"
+      }
+    ],
     "organizations": [
       {
         "name": "Open Climate Data",
@@ -6317,7 +7176,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/Vizzuality/gfw",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/Vizzuality/gfw"
+      }
+    ],
     "organizations": [
       {
         "name": "Global Forest Watch",
@@ -6390,7 +7254,12 @@
       "data",
       "software"
     ],
-    "repositoryURL": "https://github.com/wri/global-power-plant-database",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/wri/global-power-plant-database"
+      }
+    ],
     "organizations": [
       {
         "name": "World Resources Institute",
@@ -6438,11 +7307,16 @@
       "software",
       "data"
     ],
-    "repositoryURL": "https://savannah.gnu.org/hg/?group=health",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://savannah.gnu.org/hg/?group=health"
+      }
+    ],
     "organizations": [
       {
         "name": "GNUSolidario",
-        "website": "http://www.gnusolidario.org",
+        "website": "https://www.gnusolidario.org",
         "org_type": "owner",
         "contact_name": "Selene Cordara",
         "contact_email": "scordara@gnusolidario.org"
@@ -6473,7 +7347,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/populatetools/gobierto",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/populatetools/gobierto"
+      }
+    ],
     "organizations": [
       {
         "name": "Gobierto",
@@ -6549,7 +7428,12 @@
       "software",
       "content"
     ],
-    "repositoryURL": "https://github.com/goodhere/goodhere",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/goodhere/goodhere"
+      }
+    ],
     "organizations": [
       {
         "name": "Ben Matthew",
@@ -6577,7 +7461,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/alphagov/notifications-api",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/alphagov/notifications-api"
+      }
+    ],
     "organizations": [
       {
         "name": "The United Kingdom Government Digital Services",
@@ -6606,7 +7495,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/GreenButtonAlliance/OpenESPI-Common-java",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/GreenButtonAlliance/OpenESPI-Common-java"
+      }
+    ],
     "organizations": [
       {
         "name": "Green Button Alliance",
@@ -6637,7 +7531,12 @@
       "software",
       "data"
     ],
-    "repositoryURL": "https://github.com/Growstuff/growstuff",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/Growstuff/growstuff"
+      }
+    ],
     "organizations": [
       {
         "name": "GrowStuff",
@@ -6666,7 +7565,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/MohGovIL/hamagen-react-native",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/MohGovIL/hamagen-react-native"
+      }
+    ],
     "organizations": [
       {
         "name": "Israel's Ministry of Health",
@@ -6695,7 +7599,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/hapifhir/hapi-fhir",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/hapifhir/hapi-fhir"
+      }
+    ],
     "organizations": [
       {
         "name": "HAPI FHIR",
@@ -6724,7 +7633,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/CodeForBaltimore/Healthcare-Rollcall",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/CodeForBaltimore/Healthcare-Rollcall"
+      }
+    ],
     "organizations": [
       {
         "name": "Code for Baltimore",
@@ -6755,7 +7669,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/jembi/hearth",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/jembi/hearth"
+      }
+    ],
     "organizations": [
       {
         "name": "Jembi Health Systems NPC",
@@ -6785,7 +7704,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/heatseeknyc/heatseeknyc",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/heatseeknyc/heatseeknyc"
+      }
+    ],
     "organizations": [
       {
         "name": "Heat Seek",
@@ -6816,7 +7740,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/Felienne/hedy",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/Felienne/hedy"
+      }
+    ],
     "organizations": [
       {
         "name": "Felienne",
@@ -6846,7 +7775,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/WFP-VAM/HRM",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/WFP-VAM/HRM"
+      }
+    ],
     "organizations": [
       {
         "name": "WFP - VAM",
@@ -6927,7 +7861,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/hikmahealth/hikmahealth-mobilev1",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/hikmahealth/hikmahealth-mobilev1"
+      }
+    ],
     "organizations": [
       {
         "name": "Hikma",
@@ -6971,7 +7910,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/prokuranepal/DMS_React",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/prokuranepal/DMS_React"
+      }
+    ],
     "organizations": [
       {
         "name": "Prokura Innovations",
@@ -7006,7 +7950,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/HospitalRun/hospitalrun-frontend",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/HospitalRun/hospitalrun-frontend"
+      }
+    ],
     "organizations": [
       {
         "name": "HospitalRun",
@@ -7036,7 +7985,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/HospitalRun/hospitalrun-server-routes",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/HospitalRun/hospitalrun-server-routes"
+      }
+    ],
     "organizations": [
       {
         "name": "HospitalRun",
@@ -7066,7 +8020,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/HospitalRun/hospitalrun-server",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/HospitalRun/hospitalrun-server"
+      }
+    ],
     "organizations": [
       {
         "name": "HospitalRun",
@@ -7096,7 +8055,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/hotosm/tasking-manager",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/hotosm/tasking-manager"
+      }
+    ],
     "organizations": [
       {
         "name": "Humanitarian Open Street Map Team",
@@ -7126,7 +8090,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/rubyforgood/human-essentials",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/rubyforgood/human-essentials"
+      }
+    ],
     "organizations": [
       {
         "name": "RubyForGood",
@@ -7158,7 +8127,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/humansis/front",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/humansis/front"
+      }
+    ],
     "organizations": [
       {
         "name": "Humansis",
@@ -7213,7 +8187,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/hyperaudio/hyperaudio-lite",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/hyperaudio/hyperaudio-lite"
+      }
+    ],
     "organizations": [
       {
         "name": "Hyperaudio",
@@ -7243,7 +8222,12 @@
     "type": [
       "data"
     ],
-    "repositoryURL": "https://github.com/Ideasis/VivoosVR",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/Ideasis/VivoosVR"
+      }
+    ],
     "organizations": [
       {
         "name": "UNICEF Ventures Fund",
@@ -7273,7 +8257,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/ifmeorg/ifme",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/ifmeorg/ifme"
+      }
+    ],
     "organizations": [
       {
         "name": "If-Me",
@@ -7303,7 +8292,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/iHRIS/iHRIS",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/iHRIS/iHRIS"
+      }
+    ],
     "organizations": [
       {
         "name": "IntraHealth International",
@@ -7333,7 +8327,12 @@
     "type": [
       "data"
     ],
-    "repositoryURL": "https://github.com/Imisi3D/leVRn-beta",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/Imisi3D/leVRn-beta"
+      }
+    ],
     "organizations": [
       {
         "name": "UNICEF Ventures Fund",
@@ -7362,7 +8361,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/immuni-app/immuni-app-android",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/immuni-app/immuni-app-android"
+      }
+    ],
     "organizations": [
       {
         "name": "Presidenza del Consiglio dei Ministri",
@@ -7391,7 +8395,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/immuni-app/immuni-app-ios",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/immuni-app/immuni-app-ios"
+      }
+    ],
     "organizations": [
       {
         "name": "Presidenza del Consiglio dei Ministri",
@@ -7426,7 +8435,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/impactMarket/api",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/impactMarket/api"
+      }
+    ],
     "organizations": [
       {
         "name": "impactLabs",
@@ -7458,7 +8472,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/inasafe/inasafe",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/inasafe/inasafe"
+      }
+    ],
     "organizations": [
       {
         "name": "InaSafe",
@@ -7491,7 +8510,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/Social-Synergy/inclusion-UKR",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/Social-Synergy/inclusion-UKR"
+      }
+    ],
     "organizations": [
       {
         "name": "UNICEF Ukraine",
@@ -7530,7 +8554,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/publiclab/infragram",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/publiclab/infragram"
+      }
+    ],
     "organizations": [
       {
         "name": "PublicLab",
@@ -7560,7 +8589,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/codeforamerica/intake",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/codeforamerica/intake"
+      }
+    ],
     "organizations": [
       {
         "name": "Code for America",
@@ -7591,7 +8625,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/Integreat/integreat-app",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/Integreat/integreat-app"
+      }
+    ],
     "organizations": [
       {
         "name": "Tür an Tür - Digitalfabrik gGmbH",
@@ -7621,7 +8660,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/Intelehealth/Android-Mobile-Client",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/Intelehealth/Android-Mobile-Client"
+      }
+    ],
     "organizations": [
       {
         "name": "InteleHealth",
@@ -7651,7 +8695,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/Intelehealth/intelehealth-openmrs-ui",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/Intelehealth/intelehealth-openmrs-ui"
+      }
+    ],
     "organizations": [
       {
         "name": "InteleHealth",
@@ -7681,7 +8730,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/intermine/intermine",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/intermine/intermine"
+      }
+    ],
     "organizations": [
       {
         "name": "InterMine",
@@ -7716,7 +8770,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/natcap/invest",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/natcap/invest"
+      }
+    ],
     "organizations": [
       {
         "name": "The Natural Capital Project",
@@ -7780,7 +8839,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/unicef/juniper-portfolio",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/unicef/juniper-portfolio"
+      }
+    ],
     "organizations": [
       {
         "name": "UNICEF",
@@ -7810,7 +8874,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/JustFixNYC/tenants",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/JustFixNYC/tenants"
+      }
+    ],
     "organizations": [
       {
         "name": "JustFix",
@@ -7845,7 +8914,12 @@
       "software",
       "content"
     ],
-    "repositoryURL": "https://github.com/learningequality/ka-lite",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/learningequality/ka-lite"
+      }
+    ],
     "organizations": [
       {
         "name": "Learning Equality",
@@ -7907,7 +8981,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/kimetrica/MERON_model",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/kimetrica/MERON_model"
+      }
+    ],
     "organizations": [
       {
         "name": "UNICEF Ventures Fund",
@@ -7938,7 +9017,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/XPRIZE/GLEXP-Team-KitkitSchool",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/XPRIZE/GLEXP-Team-KitkitSchool"
+      }
+    ],
     "organizations": [
       {
         "name": "Enuma",
@@ -7971,7 +9055,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/kiwix/kiwix-android",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/kiwix/kiwix-android"
+      }
+    ],
     "organizations": [
       {
         "name": "Kiwix",
@@ -8004,7 +9093,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/kobotoolbox/kobocat",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/kobotoolbox/kobocat"
+      }
+    ],
     "organizations": [
       {
         "name": "Kobo Toolbox",
@@ -8034,7 +9128,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/learningequality/kolibri",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/learningequality/kolibri"
+      }
+    ],
     "organizations": [
       {
         "name": "Learning Equality",
@@ -8067,7 +9166,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/developmentseed/label-maker",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/developmentseed/label-maker"
+      }
+    ],
     "organizations": [
       {
         "name": "Development Seed",
@@ -8098,7 +9202,12 @@
       "software",
       "data"
     ],
-    "repositoryURL": "https://github.com/LabKey/server",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/LabKey/server"
+      }
+    ],
     "organizations": [
       {
         "name": "LabKey",
@@ -8129,7 +9238,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/Envirometrix/LandGISmaps",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/Envirometrix/LandGISmaps"
+      }
+    ],
     "organizations": [
       {
         "name": "OpenGeoHub",
@@ -8162,7 +9276,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/developmentseed/landsat-util",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/developmentseed/landsat-util"
+      }
+    ],
     "organizations": [
       {
         "name": "Development Seed",
@@ -8192,7 +9311,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/hotosm/learnosm",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/hotosm/learnosm"
+      }
+    ],
     "organizations": [
       {
         "name": "HOTOSM",
@@ -8222,7 +9346,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/betagouv/leximpact-client",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/betagouv/leximpact-client"
+      }
+    ],
     "organizations": [
       {
         "name": "Beta.Gouv",
@@ -8252,7 +9381,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/liberapay/liberapay.com",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/liberapay/liberapay.com"
+      }
+    ],
     "organizations": [
       {
         "name": "LiberaPay",
@@ -8282,7 +9416,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/LibreHealthIO/lh-ehr",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/LibreHealthIO/lh-ehr"
+      }
+    ],
     "organizations": [
       {
         "name": "LibreHealthIO",
@@ -8312,7 +9451,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/LibreHealthIO/lh-toolkit",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/LibreHealthIO/lh-toolkit"
+      }
+    ],
     "organizations": [
       {
         "name": "LibreHealthIO",
@@ -8355,7 +9499,12 @@
     "type": [
       "content"
     ],
-    "repositoryURL": "",
+    "repositories": [
+      {
+        "name": "main",
+        "url": ""
+      }
+    ],
     "organizations": [
       {
         "name": "Stanford Center for Health Education",
@@ -8410,7 +9559,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/Call-for-Code/Liquid-Prep",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/Call-for-Code/Liquid-Prep"
+      }
+    ],
     "organizations": [
       {
         "name": "Call-for-Code",
@@ -8440,7 +9594,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/public-accountability/littlesis-main",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/public-accountability/littlesis-main"
+      }
+    ],
     "organizations": [
       {
         "name": "Public Accountability Initiative",
@@ -8470,7 +9629,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/public-accountability/littlesis-rails",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/public-accountability/littlesis-rails"
+      }
+    ],
     "organizations": [
       {
         "name": "Public Accountability Initiative",
@@ -8538,7 +9702,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/logistimo/logistimo-web-service",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/logistimo/logistimo-web-service"
+      }
+    ],
     "organizations": [
       {
         "name": "Logistimo",
@@ -8568,7 +9737,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/TransparencyToolkit/LookingGlass",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/TransparencyToolkit/LookingGlass"
+      }
+    ],
     "organizations": [
       {
         "name": "Transparency Toolkit",
@@ -8598,7 +9772,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/LoopKit/LoopKit",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/LoopKit/LoopKit"
+      }
+    ],
     "organizations": [
       {
         "name": "LoopKit",
@@ -8631,7 +9810,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/opengovfoundation/madison",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/opengovfoundation/madison"
+      }
+    ],
     "organizations": [
       {
         "name": "OpenGov Foundation",
@@ -8661,7 +9845,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/magma/magma",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/magma/magma"
+      }
+    ],
     "organizations": [
       {
         "name": "Facebook",
@@ -8691,7 +9880,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/digidem/mapeo-desktop",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/digidem/mapeo-desktop"
+      }
+    ],
     "organizations": [
       {
         "name": "Digital Democracy",
@@ -8721,7 +9915,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/mapswipe/python-mapswipe-workers",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/mapswipe/python-mapswipe-workers"
+      }
+    ],
     "organizations": [
       {
         "name": "MapSwipe",
@@ -8751,7 +9950,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/mapswipe/mapswipe",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/mapswipe/mapswipe"
+      }
+    ],
     "organizations": [
       {
         "name": "MapSwipe",
@@ -8781,7 +9985,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/unep-grid/map-x-mgl",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/unep-grid/map-x-mgl"
+      }
+    ],
     "organizations": [
       {
         "name": "UNEP",
@@ -8811,7 +10020,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/marytts/marytts",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/marytts/marytts"
+      }
+    ],
     "organizations": [
       {
         "name": "German Research Center for Artificial Intelligence",
@@ -8846,7 +10060,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/benetech/MathShare",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/benetech/MathShare"
+      }
+    ],
     "organizations": [
       {
         "name": "Benetech",
@@ -8879,7 +10098,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/meilisearch/MeiliSearch",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/meilisearch/MeiliSearch"
+      }
+    ],
     "organizations": [
       {
         "name": "Meili SAS",
@@ -8915,7 +10139,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/hack4impact-uiuc/mentee",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/hack4impact-uiuc/mentee"
+      }
+    ],
     "organizations": [
       {
         "name": "Hack4Impact UIUC",
@@ -8947,7 +10176,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/betagouv/aides-jeunes",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/betagouv/aides-jeunes"
+      }
+    ],
     "organizations": [
       {
         "name": "Beta.Gouv",
@@ -8977,7 +10211,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/codeforamerica/michigan-benefits",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/codeforamerica/michigan-benefits"
+      }
+    ],
     "organizations": [
       {
         "name": "Code for America",
@@ -9010,7 +10249,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/codeforboston/migrant_service_map",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/codeforboston/migrant_service_map"
+      }
+    ],
     "organizations": [
       {
         "name": "Code for Boston",
@@ -9107,7 +10351,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/HTBox/MobileKidsIdApp",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/HTBox/MobileKidsIdApp"
+      }
+    ],
     "organizations": [
       {
         "name": "Humanitarian Toolbox",
@@ -9146,7 +10395,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/motech/motech",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/motech/motech"
+      }
+    ],
     "organizations": [
       {
         "name": "MOTECH",
@@ -9181,7 +10435,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/uw-ictd/mwbase",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/uw-ictd/mwbase"
+      }
+    ],
     "organizations": [
       {
         "name": "Department of Global Health, University of Washington",
@@ -9211,7 +10470,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/moodle/moodle",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/moodle/moodle"
+      }
+    ],
     "organizations": [
       {
         "name": "Moodle",
@@ -9241,7 +10505,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/onaio/mspray",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/onaio/mspray"
+      }
+    ],
     "organizations": [
       {
         "name": "Akros",
@@ -9271,7 +10540,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/MuckRock/muckrock",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/MuckRock/muckrock"
+      }
+    ],
     "organizations": [
       {
         "name": "Muckrock",
@@ -9301,7 +10575,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/sugarlabs/musicblocks",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/sugarlabs/musicblocks"
+      }
+    ],
     "organizations": [
       {
         "name": "SugarLabs",
@@ -9339,7 +10618,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/muzima/muzima-android",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/muzima/muzima-android"
+      }
+    ],
     "organizations": [
       {
         "name": "mUzima",
@@ -9379,7 +10663,12 @@
       "data",
       "software"
     ],
-    "repositoryURL": "https://github.com/ihsn/nada",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/ihsn/nada"
+      }
+    ],
     "organizations": [
       {
         "name": "World Bank",
@@ -9408,7 +10697,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/usdigitalresponse/neighbor-express",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/usdigitalresponse/neighbor-express"
+      }
+    ],
     "organizations": [
       {
         "name": "The City of Concord, CA",
@@ -9443,7 +10737,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/newjersey/career-network",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/newjersey/career-network"
+      }
+    ],
     "organizations": [
       {
         "name": "State of New Jersey Office of Innovation",
@@ -9473,7 +10772,12 @@
       "data",
       "software"
     ],
-    "repositoryURL": "https://github.com/nextstrain/ncov",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/nextstrain/ncov"
+      }
+    ],
     "organizations": [
       {
         "name": "NextStrain",
@@ -9503,7 +10807,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/jellow-aac/Jellow-Communicator",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/jellow-aac/Jellow-Communicator"
+      }
+    ],
     "organizations": [
       {
         "name": "UNICEF Ventures Fund",
@@ -9538,7 +10847,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/open-nomie/nomie5",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/open-nomie/nomie5"
+      }
+    ],
     "organizations": [
       {
         "name": "Nomie",
@@ -9568,7 +10882,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/osm-search/Nominatim",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/osm-search/Nominatim"
+      }
+    ],
     "organizations": [
       {
         "name": "Open Street Map",
@@ -9598,7 +10917,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/regardscitoyens/nosdeputes.fr",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/regardscitoyens/nosdeputes.fr"
+      }
+    ],
     "organizations": [
       {
         "name": "Regards Citoyens",
@@ -9627,7 +10951,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/Nova-Scotia-Digital-Service/when-to-call-811",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/Nova-Scotia-Digital-Service/when-to-call-811"
+      }
+    ],
     "organizations": [
       {
         "name": "Nova Scotia Digital Service",
@@ -9656,7 +10985,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/nvaccess/nvda",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/nvaccess/nvda"
+      }
+    ],
     "organizations": [
       {
         "name": "NVAccess",
@@ -9692,7 +11026,12 @@
       "software",
       "aimodel"
     ],
-    "repositoryURL": "https://github.com/OasisLMF/OasisLMF",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/OasisLMF/OasisLMF"
+      }
+    ],
     "organizations": [
       {
         "name": "Oasis Loss Modelling Framework",
@@ -9727,7 +11066,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/datosgcba/obras-abiertas",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/datosgcba/obras-abiertas"
+      }
+    ],
     "organizations": [
       {
         "name": "Buenos Aires Data",
@@ -9789,7 +11133,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://sourceforge.net/projects/omfs/",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://sourceforge.net/projects/omfs/"
+      }
+    ],
     "organizations": [
       {
         "name": "Octopus Microfinance",
@@ -9822,7 +11171,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/odoo/odoo",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/odoo/odoo"
+      }
+    ],
     "organizations": [
       {
         "name": "Odoo",
@@ -9852,7 +11206,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/OpenEnergyDashboard/OED",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/OpenEnergyDashboard/OED"
+      }
+    ],
     "organizations": [
       {
         "name": "Open Energy Dashboard",
@@ -9988,7 +11347,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/energy-data/market-opportunities",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/energy-data/market-opportunities"
+      }
+    ],
     "organizations": [
       {
         "name": "Energy Data",
@@ -10021,7 +11385,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/onaio/onadata",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/onaio/onadata"
+      }
+    ],
     "organizations": [
       {
         "name": "Ona",
@@ -10056,7 +11425,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/FredHutch/Oncoscape",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/FredHutch/Oncoscape"
+      }
+    ],
     "organizations": [
       {
         "name": "Fred Hutchinson Cancer Research Center",
@@ -10091,7 +11465,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/OneBusAway/onebusaway-android",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/OneBusAway/onebusaway-android"
+      }
+    ],
     "organizations": [
       {
         "name": "OneBusAway",
@@ -10121,7 +11500,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://gitlab.com/oscity/singletally",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://gitlab.com/oscity/singletally"
+      }
+    ],
     "organizations": [
       {
         "name": "UNICEF Ventures Fund",
@@ -10155,7 +11539,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/OnSSET/onsset",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/OnSSET/onsset"
+      }
+    ],
     "organizations": [
       {
         "name": "OnSSET",
@@ -10230,7 +11619,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/OpenBankProject/OBP-API",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/OpenBankProject/OBP-API"
+      }
+    ],
     "organizations": [
       {
         "name": "TESOBE",
@@ -10260,7 +11654,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/apache/climate",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/apache/climate"
+      }
+    ],
     "organizations": [
       {
         "name": "Apache",
@@ -10290,7 +11689,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/opencollective/opencollective",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/opencollective/opencollective"
+      }
+    ],
     "organizations": [
       {
         "name": "Open Collective",
@@ -10325,7 +11729,12 @@
       "software",
       "standard"
     ],
-    "repositoryURL": "https://github.com/OpenConceptLab/oclapi",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/OpenConceptLab/oclapi"
+      }
+    ],
     "organizations": [
       {
         "name": "Open Concept Lab",
@@ -10358,7 +11767,12 @@
     "type": [
       "standard"
     ],
-    "repositoryURL": "https://github.com/open-contracting/standard",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/open-contracting/standard"
+      }
+    ],
     "organizations": [
       {
         "name": "Open Contracting Partnership",
@@ -10388,7 +11802,12 @@
       "software",
       "data"
     ],
-    "repositoryURL": "https://github.com/beoutbreakprepared/nCoV2019",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/beoutbreakprepared/nCoV2019"
+      }
+    ],
     "organizations": [
       {
         "name": "Institute for Health Metrics and Evaluation, University of Washington",
@@ -10418,7 +11837,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/opendatacube/datacube-core",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/opendatacube/datacube-core"
+      }
+    ],
     "organizations": [
       {
         "name": "Open Data Cube",
@@ -10449,7 +11873,12 @@
       "content",
       "data"
     ],
-    "repositoryURL": "https://github.com/drnikki/open-demographics",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/drnikki/open-demographics"
+      }
+    ],
     "organizations": [
       {
         "name": "Open Demographics",
@@ -10479,7 +11908,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/edx/edx-platform",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/edx/edx-platform"
+      }
+    ],
     "organizations": [
       {
         "name": "edX",
@@ -10512,7 +11946,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/openelisglobal/openelisglobal-core",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/openelisglobal/openelisglobal-core"
+      }
+    ],
     "organizations": [
       {
         "name": "I-TECH DIGI",
@@ -10547,7 +11986,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/openfoodfacts/openfoodfacts-androidapp",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/openfoodfacts/openfoodfacts-androidapp"
+      }
+    ],
     "organizations": [
       {
         "name": "Open Food Facts",
@@ -10577,7 +12021,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/openfoodfacts/openfoodfacts-ios",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/openfoodfacts/openfoodfacts-ios"
+      }
+    ],
     "organizations": [
       {
         "name": "Open Food Facts",
@@ -10607,7 +12056,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/openfoodfacts/openfoodfacts-server",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/openfoodfacts/openfoodfacts-server"
+      }
+    ],
     "organizations": [
       {
         "name": "Open Food Facts",
@@ -10637,7 +12091,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/openfoodfoundation/openfoodnetwork",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/openfoodfoundation/openfoodnetwork"
+      }
+    ],
     "organizations": [
       {
         "name": "Open Food Foundation",
@@ -10676,7 +12135,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/openfoodsource/OFS_trunk",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/openfoodsource/OFS_trunk"
+      }
+    ],
     "organizations": [
       {
         "name": "Open Food Source",
@@ -10721,7 +12185,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/openforis/collect-mobile",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/openforis/collect-mobile"
+      }
+    ],
     "organizations": [
       {
         "name": "Food and Agriculture Organization (FAO) of the United Nations",
@@ -10751,7 +12220,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/opengovernment/opengovernment",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/opengovernment/opengovernment"
+      }
+    ],
     "organizations": [
       {
         "name": "Participatory Policies Foundation",
@@ -10781,7 +12255,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/openml/OpenML",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/openml/OpenML"
+      }
+    ],
     "organizations": [
       {
         "name": "Open ML",
@@ -10811,7 +12290,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/openml/openml-python",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/openml/openml-python"
+      }
+    ],
     "organizations": [
       {
         "name": "Open ML",
@@ -10848,7 +12332,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/Artelnics/opennn",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/Artelnics/opennn"
+      }
+    ],
     "organizations": [
       {
         "name": "Artificial Intelligence Techniques, Ltd.",
@@ -10884,7 +12373,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/openopps/openopps-platform",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/openopps/openopps-platform"
+      }
+    ],
     "organizations": [
       {
         "name": "The United States General Services Administration",
@@ -10916,7 +12410,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/openpantry/open_pantry",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/openpantry/open_pantry"
+      }
+    ],
     "organizations": [
       {
         "name": "Open Pantry",
@@ -10970,7 +12469,12 @@
     "type": [
       "standard"
     ],
-    "repositoryURL": "https://github.com/openreferral/specification",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/openreferral/specification"
+      }
+    ],
     "organizations": [
       {
         "name": "Aspiration",
@@ -11008,7 +12512,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/GFDRR/open-risk-data-dashboard",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/GFDRR/open-risk-data-dashboard"
+      }
+    ],
     "organizations": [
       {
         "name": "Global Facility for Disaster Reduction and Recovery",
@@ -11050,7 +12559,12 @@
     "type": [
       "content"
     ],
-    "repositoryURL": "",
+    "repositories": [
+      {
+        "name": "main",
+        "url": ""
+      }
+    ],
     "organizations": [
       {
         "name": "Open Risk",
@@ -11082,7 +12596,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/CenterForOpenScience/osf.io",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/CenterForOpenScience/osf.io"
+      }
+    ],
     "organizations": [
       {
         "name": "Centre for Open Science",
@@ -11118,7 +12637,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/OpenSourceEcology/cross-platform-python-gui",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/OpenSourceEcology/cross-platform-python-gui"
+      }
+    ],
     "organizations": [
       {
         "name": "Open Source Ecology",
@@ -11177,7 +12701,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/openstreetmap/iD",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/openstreetmap/iD"
+      }
+    ],
     "organizations": [
       {
         "name": "Open Street Map",
@@ -11207,7 +12736,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/openstreetmap/openstreetmap-website",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/openstreetmap/openstreetmap-website"
+      }
+    ],
     "organizations": [
       {
         "name": "Open Street Map",
@@ -11245,7 +12779,12 @@
     "type": [
       "content"
     ],
-    "repositoryURL": "https://github.com/protontypes/open-sustainable-technology",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/protontypes/open-sustainable-technology"
+      }
+    ],
     "organizations": [
       {
         "name": "protontypes",
@@ -11280,7 +12819,12 @@
     "type": [
       "data"
     ],
-    "repositoryURL": "",
+    "repositories": [
+      {
+        "name": "main",
+        "url": ""
+      }
+    ],
     "organizations": [
       {
         "name": "Ambassador for digital affairs (FR)",
@@ -11405,7 +12949,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/hotosm/OpenAerialMap",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/hotosm/OpenAerialMap"
+      }
+    ],
     "organizations": [
       {
         "name": "humanitarian OpenStreetMap Team",
@@ -11435,7 +12984,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/CodeForAfrica/openAFRICA",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/CodeForAfrica/openAFRICA"
+      }
+    ],
     "organizations": [
       {
         "name": "Code for Africa",
@@ -11468,7 +13022,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/OpenAgricultureFoundation/openag-device-software",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/OpenAgricultureFoundation/openag-device-software"
+      }
+    ],
     "organizations": [
       {
         "name": "Open Agriculture Initiative",
@@ -11501,7 +13060,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/openai/spinningup",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/openai/spinningup"
+      }
+    ],
     "organizations": [
       {
         "name": "OpenAI",
@@ -11531,7 +13095,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/openaq/openaq-api",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/openaq/openaq-api"
+      }
+    ],
     "organizations": [
       {
         "name": "OpenAQ",
@@ -11562,7 +13131,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/OpenBCI/OpenBCI_GUI",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/OpenBCI/OpenBCI_GUI"
+      }
+    ],
     "organizations": [
       {
         "name": "Open Source Brain-Computer Interfacing",
@@ -11601,7 +13175,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/OpenBCI/OpenBCI_GUI",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/OpenBCI/OpenBCI_GUI"
+      }
+    ],
     "organizations": [
       {
         "name": "OpenBCI",
@@ -11638,7 +13217,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/openboxes/openboxes",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/openboxes/openboxes"
+      }
+    ],
     "organizations": [
       {
         "name": "Partner in Health",
@@ -11670,7 +13254,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/openoakland/openbudgetoakland",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/openoakland/openbudgetoakland"
+      }
+    ],
     "organizations": [
       {
         "name": "Open Oakland",
@@ -11703,7 +13292,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://sourceforge.net/projects/opencbs/",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://sourceforge.net/projects/opencbs/"
+      }
+    ],
     "organizations": [
       {
         "name": "OpenCBS",
@@ -11738,7 +13332,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/OpenDroneMap/ODM",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/OpenDroneMap/ODM"
+      }
+    ],
     "organizations": [
       {
         "name": "OpenDroneMap",
@@ -11768,7 +13367,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/openeemeter/eemeter",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/openeemeter/eemeter"
+      }
+    ],
     "organizations": [
       {
         "name": "Recurve",
@@ -11831,7 +13435,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/openemr/openemr",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/openemr/openemr"
+      }
+    ],
     "organizations": [
       {
         "name": "OpenEMR",
@@ -11869,7 +13478,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/OpenEMS/openems",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/OpenEMS/openems"
+      }
+    ],
     "organizations": [
       {
         "name": "OpenEMS Association e.V.",
@@ -11905,7 +13519,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/openfarmcc/OpenFarm",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/openfarmcc/OpenFarm"
+      }
+    ],
     "organizations": [
       {
         "name": "Openfarm",
@@ -11937,7 +13556,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/openfisca/openfisca-france",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/openfisca/openfisca-france"
+      }
+    ],
     "organizations": [
       {
         "name": "OpenFisca",
@@ -11972,7 +13596,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/openfisca/openfisca-core",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/openfisca/openfisca-core"
+      }
+    ],
     "organizations": [
       {
         "name": "Etalab",
@@ -12009,7 +13638,12 @@
     "type": [
       "data"
     ],
-    "repositoryURL": "https://github.com/OpenGeoScales/ogs-data-exploration",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/OpenGeoScales/ogs-data-exploration"
+      }
+    ],
     "organizations": [
       {
         "name": "OpenGeoScales",
@@ -12044,7 +13678,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/openhab/openhab-core",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/openhab/openhab-core"
+      }
+    ],
     "organizations": [
       {
         "name": "openHAB Foundation",
@@ -12090,7 +13729,7 @@
       "Open Health Information Mediator"
     ],
     "description": "The OpenHIM is a middleware component designed to ease interoperability between disparate information systems. It provides secure communications and data governance as well as support for routing, orchestrating and translating requests as they flow between systems.",
-    "website": "http://openhim.org/",
+    "website": "https://openhim.org/",
     "license": [
       {
         "spdx": "MPL-2.0",
@@ -12110,7 +13749,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/jembi/openhim-core-js",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/jembi/openhim-core-js"
+      }
+    ],
     "organizations": [
       {
         "name": "Jembi Health Systems",
@@ -12142,7 +13786,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/informatici/openhospital",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/informatici/openhospital"
+      }
+    ],
     "organizations": [
       {
         "name": "Informatici Senza Frontiere",
@@ -12222,7 +13871,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/OpenMined/PySyft",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/OpenMined/PySyft"
+      }
+    ],
     "organizations": [
       {
         "name": "OpenMined",
@@ -12258,7 +13912,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/openmrs/openmrs-contrib-android-client",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/openmrs/openmrs-contrib-android-client"
+      }
+    ],
     "organizations": [
       {
         "name": "OpenMRS, Inc.",
@@ -12288,7 +13947,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/OpenRefine/OpenRefine",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/OpenRefine/OpenRefine"
+      }
+    ],
     "organizations": [
       {
         "name": "OpenRefine",
@@ -12323,7 +13987,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/openremote/openremote",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/openremote/openremote"
+      }
+    ],
     "organizations": [
       {
         "name": "Open Remote",
@@ -12353,7 +14022,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/openstates/openstates-scrapers",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/openstates/openstates-scrapers"
+      }
+    ],
     "organizations": [
       {
         "name": "Open States",
@@ -12412,7 +14086,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/NREL/OpenStudio-server",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/NREL/OpenStudio-server"
+      }
+    ],
     "organizations": [
       {
         "name": "National Renewable Energy Laboratory",
@@ -12449,7 +14128,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/OpenTeleRehab/admin-web-app/",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/OpenTeleRehab/admin-web-app/"
+      }
+    ],
     "organizations": [
       {
         "name": "Humanity & Inclusion",
@@ -12480,7 +14164,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/opentrace-community/opentrace-android",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/opentrace-community/opentrace-android"
+      }
+    ],
     "organizations": [
       {
         "name": "Government Technology Agency of Singapore",
@@ -12509,7 +14198,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/opentrace-community/opentrace-ios",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/opentrace-community/opentrace-ios"
+      }
+    ],
     "organizations": [
       {
         "name": "Government Technology Agency of Singapore",
@@ -12539,7 +14233,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/OpenTreeMap/otm-core",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/OpenTreeMap/otm-core"
+      }
+    ],
     "organizations": [
       {
         "name": "OpenTreeMap",
@@ -12572,7 +14271,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/OperationCode/operationcode_backend",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/OperationCode/operationcode_backend"
+      }
+    ],
     "organizations": [
       {
         "name": "Operation Code",
@@ -12605,7 +14309,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/OperationCode/front-end",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/OperationCode/front-end"
+      }
+    ],
     "organizations": [
       {
         "name": "Operation Code",
@@ -12638,7 +14347,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/OperationCode/operationcode-pyback",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/OperationCode/operationcode-pyback"
+      }
+    ],
     "organizations": [
       {
         "name": "Operation Code",
@@ -12671,7 +14385,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/OperationCode/operationcode-pybot",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/OperationCode/operationcode-pybot"
+      }
+    ],
     "organizations": [
       {
         "name": "Operation Code",
@@ -12704,7 +14423,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/OperationCode/resources_api",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/OperationCode/resources_api"
+      }
+    ],
     "organizations": [
       {
         "name": "Operation Code",
@@ -12734,7 +14458,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/oppia/oppia-ml",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/oppia/oppia-ml"
+      }
+    ],
     "organizations": [
       {
         "name": "Oppia",
@@ -12773,7 +14502,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/oppia/oppia",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/oppia/oppia"
+      }
+    ],
     "organizations": [
       {
         "name": "Oppia",
@@ -12803,7 +14537,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/opt-out-tools/opt-out",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/opt-out-tools/opt-out"
+      }
+    ],
     "organizations": [
       {
         "name": "Opt-Out",
@@ -12833,7 +14572,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/OptiKey/OptiKey",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/OptiKey/OptiKey"
+      }
+    ],
     "organizations": [
       {
         "name": "OptiKey",
@@ -12867,7 +14611,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/biolab/orange3",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/biolab/orange3"
+      }
+    ],
     "organizations": [
       {
         "name": "University of Ljubljana, Faculty of Computer and Information Science, Bioinformatics Laboratory",
@@ -12898,7 +14647,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/orcasound/orcanode",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/orcasound/orcanode"
+      }
+    ],
     "organizations": [
       {
         "name": "Orcasound",
@@ -12938,7 +14692,12 @@
     "type": [
       "content"
     ],
-    "repositoryURL": "",
+    "repositories": [
+      {
+        "name": "main",
+        "url": ""
+      }
+    ],
     "organizations": [
       {
         "name": "World Meteorological Organization",
@@ -12997,7 +14756,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/OSeMOSYS/OSeMOSYS",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/OSeMOSYS/OSeMOSYS"
+      }
+    ],
     "organizations": [
       {
         "name": "KTH Royal Institute of Technology, Division of Energy Systems",
@@ -13029,7 +14793,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/hotosm/osm-analytics",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/hotosm/osm-analytics"
+      }
+    ],
     "organizations": [
       {
         "name": "Humanitarian Open Street Map Team",
@@ -13059,7 +14828,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/openstreetmap/osm2pgsql",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/openstreetmap/osm2pgsql"
+      }
+    ],
     "organizations": [
       {
         "name": "Open Street Map",
@@ -13089,7 +14863,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/otsimo/aac",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/otsimo/aac"
+      }
+    ],
     "organizations": [
       {
         "name": "Otsimo",
@@ -13136,7 +14915,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/OTTAA-Project/OTTAAProject",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/OTTAA-Project/OTTAAProject"
+      }
+    ],
     "organizations": [
       {
         "name": "OTTAA Project",
@@ -13173,7 +14957,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/owid/owid-grapher",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/owid/owid-grapher"
+      }
+    ],
     "organizations": [
       {
         "name": "Our World In Data",
@@ -13213,7 +15002,12 @@
     "type": [
       "data"
     ],
-    "repositoryURL": "",
+    "repositories": [
+      {
+        "name": "main",
+        "url": ""
+      }
+    ],
     "organizations": [
       {
         "name": "Global Change Data Lab",
@@ -13248,7 +15042,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/codeforamerica/pandemic-ebt-ca",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/codeforamerica/pandemic-ebt-ca"
+      }
+    ],
     "organizations": [
       {
         "name": "Code for America",
@@ -13291,7 +15090,12 @@
       "data",
       "content"
     ],
-    "repositoryURL": "",
+    "repositories": [
+      {
+        "name": "main",
+        "url": ""
+      }
+    ],
     "organizations": [
       {
         "name": "Papers with Code",
@@ -13323,7 +15127,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/OpenUpSA/pmg-cms-2",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/OpenUpSA/pmg-cms-2"
+      }
+    ],
     "organizations": [
       {
         "name": "Open Up",
@@ -13353,7 +15162,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/openbudgets/participatory-budgeting",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/openbudgets/participatory-budgeting"
+      }
+    ],
     "organizations": [
       {
         "name": "Open Budgets EU",
@@ -13383,7 +15197,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/pg-irc/pathways-backend",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/pg-irc/pathways-backend"
+      }
+    ],
     "organizations": [
       {
         "name": "Peace Geeks",
@@ -13413,7 +15232,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/PecanProject/pecan",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/PecanProject/pecan"
+      }
+    ],
     "organizations": [
       {
         "name": "PeCan Project",
@@ -13443,7 +15267,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/radicallyopensecurity/pentext",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/radicallyopensecurity/pentext"
+      }
+    ],
     "organizations": [
       {
         "name": "Radically Open Security",
@@ -13494,7 +15323,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/PeriodFriendlyBristol/period-dignity-app-server",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/PeriodFriendlyBristol/period-dignity-app-server"
+      }
+    ],
     "organizations": [
       {
         "name": "Bristol City Council",
@@ -13533,7 +15367,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/MSH/PViMS",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/MSH/PViMS"
+      }
+    ],
     "organizations": [
       {
         "name": "Management Sciences for Health",
@@ -13571,7 +15410,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/MSH/Pharmadex",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/MSH/Pharmadex"
+      }
+    ],
     "organizations": [
       {
         "name": "Management Sciences for Health",
@@ -13643,7 +15487,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/pixframe/towi",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/pixframe/towi"
+      }
+    ],
     "organizations": [
       {
         "name": "UNICEF Ventures Fund",
@@ -13678,7 +15527,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/Plant-for-the-Planet-org/treecounter-app",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/Plant-for-the-Planet-org/treecounter-app"
+      }
+    ],
     "organizations": [
       {
         "name": "Plant-for-the-Planet",
@@ -13714,7 +15568,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/instedd/planwise",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/instedd/planwise"
+      }
+    ],
     "organizations": [
       {
         "name": "InSTEDD",
@@ -13747,7 +15606,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/rubyforgood/playtime",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/rubyforgood/playtime"
+      }
+    ],
     "organizations": [
       {
         "name": "RubyForGood",
@@ -13780,7 +15644,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/instedd/pollit",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/instedd/pollit"
+      }
+    ],
     "organizations": [
       {
         "name": "InSTEDD",
@@ -13810,7 +15679,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/wikitongues/poly",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/wikitongues/poly"
+      }
+    ],
     "organizations": [
       {
         "name": "WikiTongues",
@@ -13840,7 +15714,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/mysociety/pombola",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/mysociety/pombola"
+      }
+    ],
     "organizations": [
       {
         "name": "mySociety",
@@ -13870,7 +15749,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/WorldVistA/popHealth",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/WorldVistA/popHealth"
+      }
+    ],
     "organizations": [
       {
         "name": "WorldVistA",
@@ -13911,11 +15795,16 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/portableutm/dronfiesuss",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/portableutm/dronfiesuss"
+      }
+    ],
     "organizations": [
       {
         "name": "Dronfies Labs",
-        "website": "http://dronfies.com/",
+        "website": "https://dronfies.com/",
         "org_type": "owner",
         "contact_name": "Sebastián Macías",
         "contact_email": "smacias@dronfies.com"
@@ -13951,7 +15840,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/Ecohackerfarm/powerplant",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/Ecohackerfarm/powerplant"
+      }
+    ],
     "organizations": [
       {
         "name": "Eco Hacker Farm",
@@ -14022,7 +15916,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/kvklrao/Avyantra_Presco_Project",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/kvklrao/Avyantra_Presco_Project"
+      }
+    ],
     "organizations": [
       {
         "name": "Avyantra Health Technologies",
@@ -14052,7 +15951,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/prescrypto/rxchain",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/prescrypto/rxchain"
+      }
+    ],
     "organizations": [
       {
         "name": "UNICEF Ventures Fund",
@@ -14081,7 +15985,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://gitlab.com/PrivateTracer/ios-client",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://gitlab.com/PrivateTracer/ios-client"
+      }
+    ],
     "organizations": [
       {
         "name": "PrivateTracer Foundation",
@@ -14122,7 +16031,12 @@
       "software",
       "aimodel"
     ],
-    "repositoryURL": "https://github.com/Bioverse-Labs/deep-learning",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/Bioverse-Labs/deep-learning"
+      }
+    ],
     "organizations": [
       {
         "name": "Bioverse Labs",
@@ -14164,7 +16078,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://gitlab.com/pcmt/pcmt",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://gitlab.com/pcmt/pcmt"
+      }
+    ],
     "organizations": [
       {
         "name": "VillageReach",
@@ -14206,7 +16125,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/unicef/magicbox-maps",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/unicef/magicbox-maps"
+      }
+    ],
     "organizations": [
       {
         "name": "UNICEF",
@@ -14245,7 +16169,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/TheIOFoundation/ProjectLockdown",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/TheIOFoundation/ProjectLockdown"
+      }
+    ],
     "organizations": [
       {
         "name": "The IO Foundation",
@@ -14274,7 +16203,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/usdigitalresponse/project-papua",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/usdigitalresponse/project-papua"
+      }
+    ],
     "organizations": [
       {
         "name": "US Digital Response",
@@ -14317,7 +16251,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/ProjectSidewalk/SidewalkWebpage",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/ProjectSidewalk/SidewalkWebpage"
+      }
+    ],
     "organizations": [
       {
         "name": "University of Washington",
@@ -14367,7 +16306,12 @@
     "type": [
       "content"
     ],
-    "repositoryURL": "",
+    "repositories": [
+      {
+        "name": "main",
+        "url": ""
+      }
+    ],
     "organizations": [
       {
         "name": "Project Simoy",
@@ -14441,7 +16385,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/publiclab/plots2",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/publiclab/plots2"
+      }
+    ],
     "organizations": [
       {
         "name": "PublicLab",
@@ -14471,7 +16420,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/catalyst-cooperative/pudl",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/catalyst-cooperative/pudl"
+      }
+    ],
     "organizations": [
       {
         "name": "Catalyst Cooperative ",
@@ -14501,7 +16455,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/Recidiviz/pulse-data",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/Recidiviz/pulse-data"
+      }
+    ],
     "organizations": [
       {
         "name": "Recidiviz",
@@ -14518,7 +16477,7 @@
       "Python for Power System Analysis"
     ],
     "description": "Python for Power System Analysis is an open-source python environment for state-of-the-art energy system modelling.",
-    "website": "http://www.pypsa.org/",
+    "website": "https://www.pypsa.org/",
     "license": [
       {
         "spdx": "MIT",
@@ -14553,7 +16512,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/PyPSA/PyPSA",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/PyPSA/PyPSA"
+      }
+    ],
     "organizations": [
       {
         "name": "Energy System Modelling Group at the Institute for Automation and Applied Informatics",
@@ -14591,7 +16555,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/qgis/QGIS",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/qgis/QGIS"
+      }
+    ],
     "organizations": [
       {
         "name": "QGIS",
@@ -14622,7 +16591,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/qlik-oss/qliksense-k8s",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/qlik-oss/qliksense-k8s"
+      }
+    ],
     "organizations": [
       {
         "name": "Qlik",
@@ -14658,7 +16632,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/MSH/QuanTB",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/MSH/QuanTB"
+      }
+    ],
     "organizations": [
       {
         "name": "Management Sciences for Health",
@@ -14688,7 +16667,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/empirical-org/Quill-NLP-Tools-and-Datasets",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/empirical-org/Quill-NLP-Tools-and-Datasets"
+      }
+    ],
     "organizations": [
       {
         "name": "Empirical",
@@ -14722,7 +16706,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/rfcx/rfcx-org-archived-2020",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/rfcx/rfcx-org-archived-2020"
+      }
+    ],
     "organizations": [
       {
         "name": "Rainforest Connection",
@@ -14752,7 +16741,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/aranja/rakning-c19-app",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/aranja/rakning-c19-app"
+      }
+    ],
     "organizations": [
       {
         "name": "Icelandic Directorate of Health and the Department of Civil Protection and Emergency Management.",
@@ -14781,7 +16775,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/RasaHQ/rasa",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/RasaHQ/rasa"
+      }
+    ],
     "organizations": [
       {
         "name": "Rasa",
@@ -14811,7 +16810,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/azavea/raster-vision",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/azavea/raster-vision"
+      }
+    ],
     "organizations": [
       {
         "name": "Azavea",
@@ -14841,7 +16845,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/okfn/reconcile-csv",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/okfn/reconcile-csv"
+      }
+    ],
     "organizations": [
       {
         "name": "Open Knowledge Foundation",
@@ -14906,7 +16915,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/code4romania/redirectioneaza",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/code4romania/redirectioneaza"
+      }
+    ],
     "organizations": [
       {
         "name": "Code for Romania",
@@ -14936,7 +16950,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/RefugeRestrooms/refugerestrooms-ios",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/RefugeRestrooms/refugerestrooms-ios"
+      }
+    ],
     "organizations": [
       {
         "name": "Refuge Restrooms",
@@ -14966,7 +16985,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/RefugeRestrooms/refugerestrooms",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/RefugeRestrooms/refugerestrooms"
+      }
+    ],
     "organizations": [
       {
         "name": "Refuge Restrooms",
@@ -14996,7 +17020,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/remindmodel/remind",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/remindmodel/remind"
+      }
+    ],
     "organizations": [
       {
         "name": "Potsdam Institute for Climate Impact Research",
@@ -15026,7 +17055,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/opennorth/represent-canada",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/opennorth/represent-canada"
+      }
+    ],
     "organizations": [
       {
         "name": "Open North",
@@ -15059,7 +17093,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/instedd/resourcemap",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/instedd/resourcemap"
+      }
+    ],
     "organizations": [
       {
         "name": "InSTEDD",
@@ -15092,7 +17131,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/resource-watch/resource-watch",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/resource-watch/resource-watch"
+      }
+    ],
     "organizations": [
       {
         "name": "World Resources Institute",
@@ -15127,7 +17171,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/prescrypto/rexchain",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/prescrypto/rexchain"
+      }
+    ],
     "organizations": [
       {
         "name": "Prescrypto",
@@ -15157,7 +17206,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/righton-dev/righton-app",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/righton-dev/righton-app"
+      }
+    ],
     "organizations": [
       {
         "name": "RightOn Education",
@@ -15187,7 +17241,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/guardianproject/ripple",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/guardianproject/ripple"
+      }
+    ],
     "organizations": [
       {
         "name": "The Guardian Project",
@@ -15223,7 +17282,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/MSH/RxSolution",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/MSH/RxSolution"
+      }
+    ],
     "organizations": [
       {
         "name": "Management Sciences for Health",
@@ -15256,7 +17320,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/patadejaguar/safeosms",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/patadejaguar/safeosms"
+      }
+    ],
     "organizations": [
       {
         "name": "Sistemas de Informacion PAKAL",
@@ -15286,7 +17355,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/codeforboston/safe-water",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/codeforboston/safe-water"
+      }
+    ],
     "organizations": [
       {
         "name": "Code for Boston",
@@ -15373,7 +17447,12 @@
       "software",
       "data"
     ],
-    "repositoryURL": "https://github.com/Safecast/safecastapi",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/Safecast/safecastapi"
+      }
+    ],
     "organizations": [
       {
         "name": "Safecast",
@@ -15403,7 +17482,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/etalab/covid19-dashboard",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/etalab/covid19-dashboard"
+      }
+    ],
     "organizations": [
       {
         "name": "Santé Publique France",
@@ -15430,7 +17514,12 @@
     "type": [
       "data"
     ],
-    "repositoryURL": "https://github.com/openZH/covid_19",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/openZH/covid_19"
+      }
+    ],
     "organizations": [
       {
         "name": "The Canton of Zurich",
@@ -15463,7 +17552,12 @@
     "type": [
       "content"
     ],
-    "repositoryURL": "https://github.com/CDCgov/SARS-CoV-2_Sequencing",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/CDCgov/SARS-CoV-2_Sequencing"
+      }
+    ],
     "organizations": [
       {
         "name": "The Center for Disease Control",
@@ -15493,7 +17587,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/saycel/Saycel.Phone",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/saycel/Saycel.Phone"
+      }
+    ],
     "organizations": [
       {
         "name": "UNICEF Ventures Fund",
@@ -15552,7 +17651,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/LLK/scratch-blocks",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/LLK/scratch-blocks"
+      }
+    ],
     "organizations": [
       {
         "name": "Scratch",
@@ -15582,7 +17686,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/LLK/scratch-gui",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/LLK/scratch-gui"
+      }
+    ],
     "organizations": [
       {
         "name": "Scratch",
@@ -15612,7 +17721,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/LLK/scratchjr",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/LLK/scratchjr"
+      }
+    ],
     "organizations": [
       {
         "name": "Scratch",
@@ -15642,7 +17756,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/LLK/scratch-vm",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/LLK/scratch-vm"
+      }
+    ],
     "organizations": [
       {
         "name": "Scratch",
@@ -15672,7 +17791,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/LLK/scratch-www",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/LLK/scratch-www"
+      }
+    ],
     "organizations": [
       {
         "name": "Scratch",
@@ -15702,7 +17826,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/code4romania/seismic-risc",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/code4romania/seismic-risc"
+      }
+    ],
     "organizations": [
       {
         "name": "Code for Romania",
@@ -15746,7 +17875,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/teamsempo/SempoBlockchain",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/teamsempo/SempoBlockchain"
+      }
+    ],
     "organizations": [
       {
         "name": "Sempo",
@@ -15776,7 +17910,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/SFDigitalServices/sf-dahlia-web",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/SFDigitalServices/sf-dahlia-web"
+      }
+    ],
     "organizations": [
       {
         "name": "Exygy",
@@ -15816,7 +17955,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/signdict/website",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/signdict/website"
+      }
+    ],
     "organizations": [
       {
         "name": "SignDict",
@@ -15910,7 +18054,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/sleepbusorg/sleepbus.org",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/sleepbusorg/sleepbus.org"
+      }
+    ],
     "organizations": [
       {
         "name": "SleepBus",
@@ -15940,7 +18089,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/microsoft/Smart-Energy-Foundation-Demo-Stack",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/microsoft/Smart-Energy-Foundation-Demo-Stack"
+      }
+    ],
     "organizations": [
       {
         "name": "Microsoft Open Source",
@@ -16007,7 +18161,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/somleng/somleng",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/somleng/somleng"
+      }
+    ],
     "organizations": [
       {
         "name": "UNICEF Ventures Fund",
@@ -16037,7 +18196,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/chaynHQ/soulmedicine",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/chaynHQ/soulmedicine"
+      }
+    ],
     "organizations": [
       {
         "name": "Chayn",
@@ -16067,7 +18231,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/radiantearth/stac-browser",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/radiantearth/stac-browser"
+      }
+    ],
     "organizations": [
       {
         "name": "Radiant Earth",
@@ -16100,7 +18269,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/radiantearth/stac-spec",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/radiantearth/stac-spec"
+      }
+    ],
     "organizations": [
       {
         "name": "Radiant Earth",
@@ -16133,7 +18307,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/CodeForAfrica/HealthTools.KE-theStarHealth",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/CodeForAfrica/HealthTools.KE-theStarHealth"
+      }
+    ],
     "organizations": [
       {
         "name": "Code for Africa",
@@ -16163,7 +18342,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://gitlab.com/statwig-public",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://gitlab.com/statwig-public"
+      }
+    ],
     "organizations": [
       {
         "name": "UNICEF Ventures Fund",
@@ -16192,7 +18376,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://gitlab.inria.fr/stopcovid19/stopcovid-android",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://gitlab.inria.fr/stopcovid19/stopcovid-android"
+      }
+    ],
     "organizations": [
       {
         "name": "INRIA",
@@ -16221,7 +18410,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://gitlab.inria.fr/stopcovid19/stopcovid-ios",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://gitlab.inria.fr/stopcovid19/stopcovid-ios"
+      }
+    ],
     "organizations": [
       {
         "name": "INRIA",
@@ -16251,7 +18445,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/sugarlabs/turtleart-activity",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/sugarlabs/turtleart-activity"
+      }
+    ],
     "organizations": [
       {
         "name": "SugarLabs",
@@ -16281,7 +18480,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/sugarlabs/sugar",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/sugarlabs/sugar"
+      }
+    ],
     "organizations": [
       {
         "name": "SugarLabs",
@@ -16311,7 +18515,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/llaske/sugarizer",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/llaske/sugarizer"
+      }
+    ],
     "organizations": [
       {
         "name": "SugarLabs",
@@ -16341,7 +18550,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/faisalmlalani/rah-e-maa",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/faisalmlalani/rah-e-maa"
+      }
+    ],
     "organizations": [
       {
         "name": "UNICEF Ventures Fund",
@@ -16374,7 +18588,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/instedd/surveda",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/instedd/surveda"
+      }
+    ],
     "organizations": [
       {
         "name": "InSTEDD",
@@ -16404,7 +18623,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/VRMakerTeam/VRMaker",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/VRMakerTeam/VRMaker"
+      }
+    ],
     "organizations": [
       {
         "name": "UNICEF Ventures Fund",
@@ -16434,7 +18658,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/ESIPFed/sweet",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/ESIPFed/sweet"
+      }
+    ],
     "organizations": [
       {
         "name": "ESIP",
@@ -16463,7 +18692,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/DP-3T",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/DP-3T"
+      }
+    ],
     "organizations": [
       {
         "name": "Ecole Polytechnique Federale de Lausanne and ETH Zurich",
@@ -16480,7 +18714,7 @@
       "Switch Power System Planning Model"
     ],
     "description": "SWITCH is a power system model, focused on renewables integration. It can identify which generator and transmission projects to build in order to satisfy electricity demand at the lowest cost over a several-year period.",
-    "website": "http://switch-model.org/",
+    "website": "https://switch-model.org/",
     "license": [
       {
         "spdx": "Apache-2.0",
@@ -16513,11 +18747,16 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/switch-model/switch",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/switch-model/switch"
+      }
+    ],
     "organizations": [
       {
         "name": "University of Hawai'i",
-        "website": "http://www.hawaii.edu/",
+        "website": "https://www.hawaii.edu/",
         "org_type": "maintainer",
         "contact_name": "Josiah Johnston",
         "contact_email": "josiah.johnston@gmail.com"
@@ -16546,7 +18785,12 @@
       "software",
       "data"
     ],
-    "repositoryURL": "https://github.com/synthetichealth/synthea",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/synthetichealth/synthea"
+      }
+    ],
     "organizations": [
       {
         "name": "MITRE Corporation",
@@ -16576,7 +18820,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/NREL/ssc",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/NREL/ssc"
+      }
+    ],
     "organizations": [
       {
         "name": "National Renewable Energy Laboratory",
@@ -16640,7 +18889,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/GCTC-NTGC/TalentCloud",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/GCTC-NTGC/TalentCloud"
+      }
+    ],
     "organizations": [
       {
         "name": "Government of Canada Talent Reserve",
@@ -16670,7 +18924,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/coralproject/talk",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/coralproject/talk"
+      }
+    ],
     "organizations": [
       {
         "name": "The Coral Project",
@@ -16703,7 +18962,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/Tanibox/tania-core",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/Tanibox/tania-core"
+      }
+    ],
     "organizations": [
       {
         "name": "Tanibox",
@@ -16734,7 +18998,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/TEAMMATES/teammates",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/TEAMMATES/teammates"
+      }
+    ],
     "organizations": [
       {
         "name": "TEAMMATES",
@@ -16779,7 +19048,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/w3-engineers/telemesh",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/w3-engineers/telemesh"
+      }
+    ],
     "organizations": [
       {
         "name": "W3 Engineers Ltd.",
@@ -16809,7 +19083,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/teliportme/remixvr",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/teliportme/remixvr"
+      }
+    ],
     "organizations": [
       {
         "name": "UNICEF Ventures Fund",
@@ -16839,7 +19118,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/JustFixNYC/tenants2",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/JustFixNYC/tenants2"
+      }
+    ],
     "organizations": [
       {
         "name": "JustFix",
@@ -16872,7 +19156,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/ushahidi/tenfour",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/ushahidi/tenfour"
+      }
+    ],
     "organizations": [
       {
         "name": "TenFour",
@@ -16902,7 +19191,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/Terrastories/terrastories",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/Terrastories/terrastories"
+      }
+    ],
     "organizations": [
       {
         "name": "Terrastories",
@@ -16969,7 +19263,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/unicef/atrium",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/unicef/atrium"
+      }
+    ],
     "organizations": [
       {
         "name": "UNICEF",
@@ -17003,7 +19302,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/FNNDSC/chrisapp",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/FNNDSC/chrisapp"
+      }
+    ],
     "organizations": [
       {
         "name": "FNNDSC (Fetal-Neonatal Neuroimaging Developmental Science Center)",
@@ -17033,7 +19337,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/guardianproject/haven",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/guardianproject/haven"
+      }
+    ],
     "organizations": [
       {
         "name": "The Guardian Project",
@@ -17070,7 +19379,12 @@
     "type": [
       "content"
     ],
-    "repositoryURL": "",
+    "repositories": [
+      {
+        "name": "main",
+        "url": ""
+      }
+    ],
     "organizations": [
       {
         "name": "The Odin Project",
@@ -17106,7 +19420,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/TheTorProject/gettor",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/TheTorProject/gettor"
+      }
+    ],
     "organizations": [
       {
         "name": "Tor Project",
@@ -17142,7 +19461,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/GFDRR/thinkhazard",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/GFDRR/thinkhazard"
+      }
+    ],
     "organizations": [
       {
         "name": "Global Facility for Disaster Reduction and Recovery",
@@ -17179,7 +19503,12 @@
       "software",
       "data"
     ],
-    "repositoryURL": "https://github.com/thinkingmachines/geomancer",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/thinkingmachines/geomancer"
+      }
+    ],
     "organizations": [
       {
         "name": "UNICEF Ventures Fund",
@@ -17209,7 +19538,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/tidepool-org/tideline",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/tidepool-org/tideline"
+      }
+    ],
     "organizations": [
       {
         "name": "TidePool",
@@ -17239,7 +19573,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/tidepool-org/blip",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/tidepool-org/blip"
+      }
+    ],
     "organizations": [
       {
         "name": "TidePool",
@@ -17269,7 +19608,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/tidepool-org/uploader",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/tidepool-org/uploader"
+      }
+    ],
     "organizations": [
       {
         "name": "TidePool",
@@ -17299,7 +19643,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/tidepool-org/data-analytics",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/tidepool-org/data-analytics"
+      }
+    ],
     "organizations": [
       {
         "name": "TidePool",
@@ -17329,7 +19678,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/tidepool-org/platform",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/tidepool-org/platform"
+      }
+    ],
     "organizations": [
       {
         "name": "TidePool",
@@ -17359,7 +19713,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/tidepool-org/viz",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/tidepool-org/viz"
+      }
+    ],
     "organizations": [
       {
         "name": "TidePool",
@@ -17391,7 +19750,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/tokyo-metropolitan-gov/covid19",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/tokyo-metropolitan-gov/covid19"
+      }
+    ],
     "organizations": [
       {
         "name": "Tokyo Metropolitan Government",
@@ -17419,7 +19783,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/SFDO-Community/TractionThrive",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/SFDO-Community/TractionThrive"
+      }
+    ],
     "organizations": [
       {
         "name": "Traction Thrive, Salesforce.org",
@@ -17499,7 +19868,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/ConservationInternational/trends.earth",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/ConservationInternational/trends.earth"
+      }
+    ],
     "organizations": [
       {
         "name": "Conservation International",
@@ -17529,7 +19903,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/TrustlabTech",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/TrustlabTech"
+      }
+    ],
     "organizations": [
       {
         "name": "UNICEF Ventures Fund",
@@ -17559,7 +19938,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/democracyworks/voting-method-works",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/democracyworks/voting-method-works"
+      }
+    ],
     "organizations": [
       {
         "name": "Democracy Works",
@@ -17591,7 +19975,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/microsoft/TypeScript/",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/microsoft/TypeScript/"
+      }
+    ],
     "organizations": [
       {
         "name": "Microsoft",
@@ -17624,7 +20013,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/rapidpro/ureport",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/rapidpro/ureport"
+      }
+    ],
     "organizations": [
       {
         "name": "RapidPRO",
@@ -17665,7 +20059,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/opendatateam/udata",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/opendatateam/udata"
+      }
+    ],
     "organizations": [
       {
         "name": "Open Data Team",
@@ -17698,7 +20097,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/unicef/etools",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/unicef/etools"
+      }
+    ],
     "organizations": [
       {
         "name": "UNICEF Innovation",
@@ -17731,7 +20135,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/unicef/magicbox-open-api",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/unicef/magicbox-open-api"
+      }
+    ],
     "organizations": [
       {
         "name": "UNICEF Innovation",
@@ -17761,7 +20170,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/ourresearch/oadoi",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/ourresearch/oadoi"
+      }
+    ],
     "organizations": [
       {
         "name": "Our Research",
@@ -17791,7 +20205,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/ushahidi/platform-client",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/ushahidi/platform-client"
+      }
+    ],
     "organizations": [
       {
         "name": "Ushaidi",
@@ -17848,7 +20267,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/ushahidi/platform",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/ushahidi/platform"
+      }
+    ],
     "organizations": [
       {
         "name": "Ushahidi",
@@ -17878,7 +20302,12 @@
     "type": [
       "data"
     ],
-    "repositoryURL": "https://github.com/utopic-studio/hanselygretelVR",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/utopic-studio/hanselygretelVR"
+      }
+    ],
     "organizations": [
       {
         "name": "UNICEF Ventures Fund",
@@ -17908,7 +20337,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/huridocs/uwazi",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/huridocs/uwazi"
+      }
+    ],
     "organizations": [
       {
         "name": "Huridocs",
@@ -17945,7 +20379,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://gitlab.com/statwig-public",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://gitlab.com/statwig-public"
+      }
+    ],
     "organizations": [
       {
         "name": "StaTwig",
@@ -17975,7 +20414,12 @@
     "type": [
       "data"
     ],
-    "repositoryURL": "https://github.com/Veativetech/VeativeWebVR",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/Veativetech/VeativeWebVR"
+      }
+    ],
     "organizations": [
       {
         "name": "UNICEF Ventures Fund",
@@ -18008,7 +20452,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/instedd/verboice",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/instedd/verboice"
+      }
+    ],
     "organizations": [
       {
         "name": "InSTEDD",
@@ -18038,7 +20487,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/GlobalFishingWatch/vessel-classification",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/GlobalFishingWatch/vessel-classification"
+      }
+    ],
     "organizations": [
       {
         "name": "Global Fishing Watch",
@@ -18075,7 +20529,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/VIAME/VIAME",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/VIAME/VIAME"
+      }
+    ],
     "organizations": [
       {
         "name": "VIAME",
@@ -18116,7 +20575,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/okfn-brasil/vitimas-da-intolerancia",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/okfn-brasil/vitimas-da-intolerancia"
+      }
+    ],
     "organizations": [
       {
         "name": "Open Knowledge Brasil",
@@ -18148,7 +20612,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/WorldVistA/VistA",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/WorldVistA/VistA"
+      }
+    ],
     "organizations": [
       {
         "name": "WorldVistA",
@@ -18185,7 +20654,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/codeforboston/voiceapp311",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/codeforboston/voiceapp311"
+      }
+    ],
     "organizations": [
       {
         "name": "Code for Boston",
@@ -18215,7 +20689,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/VOLTTRON/volttron",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/VOLTTRON/volttron"
+      }
+    ],
     "organizations": [
       {
         "name": "Pacific Northwest National Laboratory",
@@ -18248,7 +20727,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/ciudadanointeligente/votainteligente-portal-electoral",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/ciudadanointeligente/votainteligente-portal-electoral"
+      }
+    ],
     "organizations": [
       {
         "name": "Ciudadanía Inteligente",
@@ -18282,7 +20766,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/the-pudding/votes-for-women",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/the-pudding/votes-for-women"
+      }
+    ],
     "organizations": [
       {
         "name": "The Pudding",
@@ -18312,7 +20801,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/w3-engineers/telemesh",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/w3-engineers/telemesh"
+      }
+    ],
     "organizations": [
       {
         "name": "UNICEF Ventures Fund",
@@ -18342,7 +20836,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/WattTime/pyiso",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/WattTime/pyiso"
+      }
+    ],
     "organizations": [
       {
         "name": "WattTime",
@@ -18372,7 +20871,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/WattTime/watttime-python-client",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/WattTime/watttime-python-client"
+      }
+    ],
     "organizations": [
       {
         "name": "WattTime",
@@ -18407,7 +20911,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/openupsa/wazimap-ng",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/openupsa/wazimap-ng"
+      }
+    ],
     "organizations": [
       {
         "name": "OpenUp",
@@ -18439,7 +20948,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/webpack/webpack/",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/webpack/webpack/"
+      }
+    ],
     "organizations": [
       {
         "name": "webpack",
@@ -18469,7 +20983,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/wevote/WeVoteServer",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/wevote/WeVoteServer"
+      }
+    ],
     "organizations": [
       {
         "name": "WeVote",
@@ -18502,7 +21021,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/sozialhelden/wheelmap-frontend",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/sozialhelden/wheelmap-frontend"
+      }
+    ],
     "organizations": [
       {
         "name": "Sozialhelden",
@@ -18535,7 +21059,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/sozialhelden/wheelmap-classic",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/sozialhelden/wheelmap-classic"
+      }
+    ],
     "organizations": [
       {
         "name": "Sozialhelden",
@@ -18565,7 +21094,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/JustFixNYC/who-owns-what",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/JustFixNYC/who-owns-what"
+      }
+    ],
     "organizations": [
       {
         "name": "JustFix",
@@ -18599,7 +21133,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/wiki-gender/wiki-gender.github.io",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/wiki-gender/wiki-gender.github.io"
+      }
+    ],
     "organizations": [
       {
         "name": "Wikigender",
@@ -18693,7 +21232,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/WildbookOrg/Wildbook",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/WildbookOrg/Wildbook"
+      }
+    ],
     "organizations": [
       {
         "name": "Wildme",
@@ -18736,7 +21280,12 @@
     "type": [
       "aimodel"
     ],
-    "repositoryURL": "https://github.com/Wonder-Tree/PoseCamera",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/Wonder-Tree/PoseCamera"
+      }
+    ],
     "organizations": [
       {
         "name": "Wonder Tree",
@@ -18769,7 +21318,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/letsdoitworld/World-Cleanup-Day",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/letsdoitworld/World-Cleanup-Day"
+      }
+    ],
     "organizations": [
       {
         "name": "Let's Do It!",
@@ -18799,7 +21353,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/WorldHealthOrganization/app",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/WorldHealthOrganization/app"
+      }
+    ],
     "organizations": [
       {
         "name": "World Health Organization",
@@ -18829,7 +21388,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "backend：https://github.com/xiaoyudi-China/yuudee",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "backend：https://github.com/xiaoyudi-China/yuudee"
+      }
+    ],
     "organizations": [
       {
         "name": "UNICEF Ventures Fund",
@@ -18859,7 +21423,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/drivendataorg/zamba",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/drivendataorg/zamba"
+      }
+    ],
     "organizations": [
       {
         "name": "DrivenData",
@@ -18889,7 +21458,12 @@
     "type": [
       "software"
     ],
-    "repositoryURL": "https://github.com/chrisekelley/zeprs",
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/chrisekelley/zeprs"
+      }
+    ],
     "organizations": [
       {
         "name": "RTI International",

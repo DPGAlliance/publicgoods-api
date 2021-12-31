@@ -18,7 +18,12 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/WattTime/pyiso",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/WattTime/pyiso"
+    }
+  ],
   "organizations": [
     {
       "name": "WattTime",

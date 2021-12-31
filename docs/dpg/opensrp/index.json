@@ -33,7 +33,12 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/opensrp/opensrp-server-core",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/opensrp/opensrp-server-core"
+    }
+  ],
   "organizations": [
     {
       "name": "Ona",
@@ -125,7 +130,7 @@
   },
   "locations": {
     "developmentCountries": [
-      "USA",
+      "United States of America",
       "Kenya",
       "Bangladesh",
       "Indonesia",
@@ -136,14 +141,14 @@
       "Tanzania",
       "Malawi",
       "Singapore",
-      "UK"
+      "United Kingdom"
     ],
     "deploymentCountries": [
       "Angola",
       "Bangladesh",
       "Chad",
-      "DRC",
-      "Eswatini",
+      "Democratic Republic of the Congo",
+      "Eswatini (fmr. 'Swaziland')",
       "Guinea",
       "Indonesia",
       "Kenya",

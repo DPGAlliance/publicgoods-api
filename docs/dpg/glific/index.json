@@ -34,7 +34,12 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/glific/glific",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/glific/glific"
+    }
+  ],
   "organizations": [
     {
       "name": "Project Tech4Dev",
@@ -126,12 +131,12 @@
   "locations": {
     "developmentCountries": [
       "India",
-      "US",
-      "UK"
+      "United States of America",
+      "United Kingdom"
     ],
     "deploymentCountries": [
       "India",
-      "US"
+      "United States of America"
     ]
   }
 }

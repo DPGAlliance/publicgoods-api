@@ -9,7 +9,7 @@
   "license": [
     {
       "spdx": "CC-BY-NC-SA-3.0",
-      "licenseURL": "http://www.fao.org/3/ca7570en/ca7570en.pdf"
+      "licenseURL": "https://www.fao.org/3/ca7570en/ca7570en.pdf"
     }
   ],
   "SDGs": [
@@ -41,11 +41,16 @@
   "type": [
     "content"
   ],
-  "repositoryURL": "",
+  "repositories": [
+    {
+      "name": "main",
+      "url": ""
+    }
+  ],
   "organizations": [
     {
       "name": "FAO",
-      "website": "http://www.fao.org/",
+      "website": "https://www.fao.org/",
       "org_type": "owner",
       "contact_name": "Henry van Burgsteden",
       "contact_email": "henry.burgsteden@fao.org"
@@ -150,14 +155,14 @@
       "Morocco",
       "Mozambique",
       "Niger",
-      "Palestine",
+      "Palestine State",
       "Rwanda",
       "Senegal",
       "Somalia",
       "South Sudan",
       "Sri Lanka",
       "Sudan",
-      "Syrian Arab Republic",
+      "Syria",
       "Tunisia",
       "Uganda",
       "Yemen"
@@ -179,14 +184,14 @@
       "Morocco",
       "Mozambique",
       "Niger",
-      "Palestine",
+      "Palestine State",
       "Rwanda",
       "Senegal",
       "Somalia",
       "South Sudan",
       "Sri Lanka",
       "Sudan",
-      "Syrian Arab Republic",
+      "Syria",
       "Tunisia",
       "Uganda",
       "Yemen"

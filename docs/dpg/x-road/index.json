@@ -55,7 +55,12 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/nordic-institute/X-Road",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/nordic-institute/X-Road"
+    }
+  ],
   "organizations": [
     {
       "name": "Nordic Institute for Interoperability Solutions (NIIS)",
@@ -156,7 +161,7 @@
       "Estonia",
       "Finland",
       "Iceland",
-      "The Faroe Islands",
+      "Faroe Islands",
       "Azerbaijan",
       "Argentina",
       "Cambodia",
@@ -164,8 +169,8 @@
       "El Salvador",
       "Germany",
       "Japan",
-      "Kyrgyztan",
-      "Palestine",
+      "Kyrgyzstan",
+      "Palestine State",
       "Vietnam"
     ]
   }

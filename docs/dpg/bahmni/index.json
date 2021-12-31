@@ -29,7 +29,12 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/Bahmni/bahmni-core",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/Bahmni/bahmni-core"
+    }
+  ],
   "organizations": [
     {
       "name": "Bahmni",
@@ -134,7 +139,7 @@
   "locations": {
     "developmentCountries": [
       "India",
-      "USA"
+      "United States of America"
     ],
     "deploymentCountries": [
       "India",
@@ -155,13 +160,13 @@
       "Zambia",
       "Papua New Guinea",
       "Jordan",
-      "Republic of Congo",
+      "Congo (Congo-Brazzaville)",
       "Iraq",
       "Malawi",
       "Belarus",
       "Myanmar",
       "Mozambique",
-      "eSwatini (former Swaziland)",
+      "Eswatini (fmr. 'Swaziland')",
       "Armenia",
       "Georgia",
       "Kyrgyzstan",

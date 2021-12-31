@@ -23,7 +23,12 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/terraframe/geoprism-registry",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/terraframe/geoprism-registry"
+    }
+  ],
   "organizations": [
     {
       "name": "TerraFrame",

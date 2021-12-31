@@ -31,7 +31,12 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/primeroIMS/primero",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/primeroIMS/primero"
+    }
+  ],
   "organizations": [
     {
       "name": "UNICEF",
@@ -126,7 +131,7 @@
   },
   "locations": {
     "developmentCountries": [
-      "United States"
+      "United States of America"
     ],
     "deploymentCountries": [
       "Sierra Leone",

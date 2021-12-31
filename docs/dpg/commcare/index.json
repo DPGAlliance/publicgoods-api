@@ -43,7 +43,12 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/dimagi/commcare-hq",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/dimagi/commcare-hq"
+    }
+  ],
   "organizations": [
     {
       "name": "Dimagi",
@@ -140,7 +145,7 @@
   },
   "locations": {
     "developmentCountries": [
-      "USA",
+      "United States of America",
       "India",
       "South Africa"
     ],
@@ -156,8 +161,8 @@
       "Benin",
       "Bolivia",
       "Botswana",
-      "Bravil",
-      "Haita",
+      "Brazil",
+      "Haiti",
       "India",
       "Chad",
       "Niger",
@@ -167,10 +172,10 @@
       "Thailand",
       "Uganda",
       "South Africa",
-      "Zimbwabwe",
+      "Zimbabwe",
       "Mali",
       "Burundi",
-      "Ivory Coast",
+      "Côte d'Ivoire",
       "Chile",
       "Cambodia",
       "Costa Rica",
@@ -191,7 +196,6 @@
       "United States of America",
       "Iraq",
       "Jordan",
-      "Korea",
       "Laos",
       "Lebanon",
       "Lesotho",
@@ -209,23 +213,24 @@
       "Papua New Guinea",
       "Philippines",
       "Sierra Leone",
+      "South Korea",
       "South Sudan",
       "Spain",
       "Sri Lanka",
       "Sudan",
-      "Syrian Arab Republic",
+      "Syria",
       "Tanzania",
       "Togo",
       "Turkey",
-      "United Kingdom of Great Britain And Northern Ireland",
-      "Vanuata",
+      "United Kingdom",
+      "Vanuatu",
       "Vietnam",
       "Ukraine",
       "Guinea-Bissau",
       "Lebanon",
       "Gambia",
       "Venezuela",
-      "Bosnia",
+      "Bosnia and Herzegovina",
       "Malta"
     ]
   }

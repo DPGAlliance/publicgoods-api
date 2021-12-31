@@ -32,7 +32,12 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/rapidpro/rapidpro",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/rapidpro/rapidpro"
+    }
+  ],
   "organizations": [
     {
       "name": "RapidPro",
@@ -139,9 +144,9 @@
       "Malawi",
       "Nepal",
       "Pakistan",
-      "State of Palestine",
+      "Palestine State",
       "Sudan",
-      "Swaziland",
+      "Eswatini (fmr. 'Swaziland')",
       "Uganda",
       "Zimbabwe"
     ]

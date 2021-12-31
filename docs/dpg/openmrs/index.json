@@ -22,7 +22,12 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/openmrs/openmrs-core",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/openmrs/openmrs-core"
+    }
+  ],
   "organizations": [
     {
       "name": "OpenMRS, Inc.",
@@ -127,14 +132,14 @@
       "Cambodia",
       "Cameroon",
       "Chile",
-      "Cote d’Ivoire",
+      "Côte d'Ivoire",
       "Ethiopia",
       "Guatemala",
       "Haiti",
       "Hungary",
       "India",
       "Indonesia",
-      "Kazahkstan",
+      "Kazakhstan",
       "Kenya",
       "Lesotho",
       "Liberia",
@@ -160,14 +165,14 @@
       "Cambodia",
       "Cameroon",
       "Chile",
-      "Cote d’Ivoire",
+      "Côte d'Ivoire",
       "Ethiopia",
       "Guatemala",
       "Haiti",
       "Hungary",
       "India",
       "Indonesia",
-      "Kazahkstan",
+      "Kazakhstan",
       "Kenya",
       "Lesotho",
       "Liberia",

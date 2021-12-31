@@ -25,7 +25,12 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/hzi-braunschweig/SORMAS-Project",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/hzi-braunschweig/SORMAS-Project"
+    }
+  ],
   "organizations": [
     {
       "name": "Helmholtz Centre for Infection Research",
@@ -127,7 +132,7 @@
       "Germany",
       "Switzerland",
       "France",
-      "Ivory coast"
+      "Côte d'Ivoire"
     ]
   }
 }

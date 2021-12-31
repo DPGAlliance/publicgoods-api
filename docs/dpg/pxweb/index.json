@@ -23,7 +23,12 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/statisticssweden/PxWeb",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/statisticssweden/PxWeb"
+    }
+  ],
   "organizations": [
     {
       "name": "Statistics Sweden",

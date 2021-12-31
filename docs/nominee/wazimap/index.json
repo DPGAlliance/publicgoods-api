@@ -23,7 +23,12 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/openupsa/wazimap-ng",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/openupsa/wazimap-ng"
+    }
+  ],
   "organizations": [
     {
       "name": "OpenUp",

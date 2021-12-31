@@ -27,7 +27,12 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/apache/fineract",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/apache/fineract"
+    }
+  ],
   "organizations": [
     {
       "name": "The Apache Software Foundation",
@@ -129,7 +134,7 @@
       "Kenya",
       "Germany",
       "Ireland",
-      "USA",
+      "United States of America",
       "Australia",
       "Mexico",
       "South Africa",

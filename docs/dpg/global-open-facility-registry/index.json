@@ -26,7 +26,12 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/intrahealth/gofr",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/intrahealth/gofr"
+    }
+  ],
   "organizations": [
     {
       "name": "IntraHealth International",
@@ -118,9 +123,9 @@
       "Botswana",
       "Burundi",
       "Cameroon",
-      "Cote d'Ivoire",
-      "DRC",
-      "Eswatini",
+      "Côte d'Ivoire",
+      "Democratic Republic of the Congo",
+      "Eswatini (fmr. 'Swaziland')",
       "Ethiopia",
       "Haiti",
       "Kenya",

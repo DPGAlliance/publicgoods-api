@@ -38,7 +38,12 @@
   "type": [
     "software"
   ],
-  "repositoryURL": "https://github.com/mojaloop/mojaloop",
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://github.com/mojaloop/mojaloop"
+    }
+  ],
   "organizations": [
     {
       "name": "MojaLoop",
@@ -141,8 +146,8 @@
   },
   "locations": {
     "developmentCountries": [
-      "United States",
-      "London",
+      "United States of America",
+      "United Kingdom",
       "Kenya",
       "South Africa",
       "India",
