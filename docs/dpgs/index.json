@@ -1390,7 +1390,7 @@
     "id": "feed-the-monster",
     "name": "Feed The Monster",
     "description": "Feed The Monster teaches your child the fundamentals of reading. Collect monster eggs and feed them letters so they can grow into new friends! Available in 48 languages.",
-    "website": "https://play.google.com/store/apps/developer?id=Curious%20Learning",
+    "website": "https://www.feedthemonsterapp.com/",
     "license": [
       {
         "spdx": "BSD-2-Clause",
@@ -1620,7 +1620,7 @@
       "GDL"
     ],
     "description": "An open collection of high-quality educational reading resources, making them available on the web, mobile and for print.",
-    "website": "https://home.digitallibrary.io/",
+    "website": "https://digitallibrary.io",
     "license": [
       {
         "spdx": "CC-BY-3.0",
@@ -3781,7 +3781,7 @@
       "SBR"
     ],
     "description": "Statistical Business Register IT system",
-    "website": "https://statbus.org",
+    "website": "https://www.statbus.org/",
     "license": [
       {
         "spdx": "Apache-2.0",
@@ -4181,7 +4181,7 @@
       ""
     ],
     "description": "VRapeutic develops virtual reality software modules specially tailored to instill cognitive, social, academic, and motor skills in children and young adults. Our ever-growing library of modules empowers therapists with unlimited virtual rehabilitation scenarios, in addition to providing them cutting-edge technologies to track children’s performance and design data-driven rehabilitation plans. VRapeutic's vision is to develop the largest science-backed VR curricula for essential life skills worldwide.",
-    "website": "https://www.linkedin.com/company/vrapeutic",
+    "website": "https://myvrapeutic.com/",
     "license": [
       {
         "spdx": "GPL-3.0",
