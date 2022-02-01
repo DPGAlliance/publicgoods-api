@@ -9429,7 +9429,7 @@
     "website": "https://digitalmedic.stanford.edu/3d-flip-book/lily-the-llama-helps-her-herd/",
     "license": [
       {
-        "spdx": "CC-BY-4.0",
+        "spdx": "CC-BY-NC-SA-4.0",
         "licenseURL": "https://digitalmedic.stanford.edu/3d-flip-book/lily-the-llama-helps-her-herd/"
       }
     ],
@@ -20145,10 +20145,10 @@
     "stage": "nominee"
   },
   {
-    "id": "urban-rural-systems",
-    "name": "Urban Rural Systems",
+    "id": "ur-scape",
+    "name": "ur-scape",
     "aliases": [
-      "ur-scape"
+      ""
     ],
     "description": "ur-scape is an open-source spatial planning tool designed to support sustainable futures in rapidly developing urban and rural regions where data is often difficult to access and uneven in quality, and where development needs are especially urgent and challenging.",
     "website": "https://urs.sec.sg/#filter=.platform",
@@ -20181,6 +20181,16 @@
         "org_type": "maintainer",
         "contact_name": "Yuhao Lu",
         "contact_email": "yuhao.lu@sec.ethz.ch"
+      },
+      {
+        "name": "Asian Development Bank (ADB)",
+        "website": "https://www.adb.org/",
+        "org_type": "funder"
+      },
+      {
+        "name": "Swiss State Secretary for Economic Affairs (SECO)",
+        "website": "https://www.seco.admin.ch/seco/en/home.html",
+        "org_type": "funder"
       }
     ],
     "stage": "nominee"
