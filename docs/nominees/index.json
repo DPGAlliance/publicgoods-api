@@ -314,50 +314,6 @@
     "stage": "nominee"
   },
   {
-    "id": "activityinfo-python",
-    "name": "ActivityInfo Python",
-    "description": "ActivityInfo is an online humanitarian project monitoring tool, which helps humanitarian organizations to collect, manage, map and analyze indicators. ActivityInfo Python is a python package with a API client for ActivityInfo version 4",
-    "website": "https://www.activityinfo.org/",
-    "license": [
-      {
-        "spdx": "MIT",
-        "licenseURL": "https://github.com/bedatadriven/activityinfo-Python/blob/main/LICENSE"
-      }
-    ],
-    "SDGs": [
-      {
-        "SDGNumber": 6,
-        "evidenceURL": "https://www.activityinfo.org/blog/posts/2019-06-07-monitoring-Ebola-Response-UNICEF-DRC-ActivityInfo.html"
-      },
-      {
-        "SDGNumber": 3,
-        "evidenceURL": "https://www.activityinfo.org/blog/posts/2018-11-19-who-iraq-health.html"
-      },
-      {
-        "SDGNumber": 4,
-        "evidenceURL": "https://www.activityinfo.org/blog/posts/2016-05-31-education-cluster-iraq.html"
-      }
-    ],
-    "sectors": [],
-    "type": [
-      "software"
-    ],
-    "repositories": [
-      {
-        "name": "main",
-        "url": "https://github.com/bedatadriven/activityinfo-Python"
-      }
-    ],
-    "organizations": [
-      {
-        "name": "Be Data Driven",
-        "website": "https://www.bedatadriven.com/",
-        "org_type": "owner"
-      }
-    ],
-    "stage": "nominee"
-  },
-  {
     "id": "adopt-a-drain",
     "name": "Adopt a Drain",
     "description": "A web application that allows citizens to \"adopt\" a storm drain in San Francisco. ",
@@ -2492,41 +2448,6 @@
         "website": "https://www.biodigital.com/",
         "org_type": "owner",
         "contact_email": "info@biodigital.com"
-      }
-    ],
-    "stage": "nominee"
-  },
-  {
-    "id": "callisto-core",
-    "name": "Callisto - Core",
-    "description": "Report intake, escrow, matching and secure delivery code for Callisto, an online reporting system for sexual assault.",
-    "website": "",
-    "license": [
-      {
-        "spdx": "AGPL-3.0",
-        "licenseURL": "https://github.com/project-callisto/callisto-core/blob/master/LICENSE"
-      }
-    ],
-    "SDGs": [
-      {
-        "SDGNumber": 5
-      }
-    ],
-    "sectors": [],
-    "type": [
-      "software"
-    ],
-    "repositories": [
-      {
-        "name": "main",
-        "url": "https://github.com/project-callisto/callisto-core"
-      }
-    ],
-    "organizations": [
-      {
-        "name": "Callisto",
-        "website": "https://www.projectcallisto.org/",
-        "org_type": "owner"
       }
     ],
     "stage": "nominee"
@@ -5883,6 +5804,58 @@
         "name": "OpenWaterAnalytics",
         "website": "https://wateranalytics.org/",
         "org_type": "owner"
+      }
+    ],
+    "stage": "nominee"
+  },
+  {
+    "id": "epirust",
+    "name": "EpiRust",
+    "aliases": [
+      ""
+    ],
+    "description": "An open source agent-based epidemiology simulation framework built in Rust",
+    "website": "https://www.thoughtworks.com/en-ca/insights/blog/epirust-simulating-spread-covid-19-lockdown",
+    "license": [
+      {
+        "spdx": "AGPL-3.0",
+        "licenseURL": "https://github.com/thoughtworks/epirust/blob/master/LICENSE"
+      }
+    ],
+    "SDGs": [
+      {
+        "SDGNumber": 3,
+        "evidenceText": "In early 2019, we started to work towards developing a large-scale, agent-based epidemiological simulation so that a researcher could model an infectious disease spreading through a society and its mitigation strategies via what-if and if-what scenarios, this leads to innovation in the areas of health and well-being. ",
+        "evidenceURL": "https://www.thoughtworks.com/en-ca/insights/blog/epirust-simulating-spread-covid-19-lockdown"
+      },
+      {
+        "SDGNumber": 9,
+        "evidenceText": "The application domain of disaster response—in particular epidemic response—has some high-quality computational problems. Epirust is part of an innovative solution. ",
+        "evidenceURL": "https://www.thoughtworks.com/en-ca/insights/blog/epirust-simulating-spread-covid-19-lockdown"
+      },
+      {
+        "SDGNumber": 11,
+        "evidenceText": "Collaborating on Epirust has also been converted into another ambitious project called BharatSim that will develop India’s first ultra-large scale agent-based simulation framework for epidemiology, economics and climate change.",
+        "evidenceURL": "https://www.thoughtworks.com/en-ca/insights/blog/epirust-simulating-spread-covid-19-lockdown"
+      }
+    ],
+    "sectors": [],
+    "type": [
+      "software"
+    ],
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/thoughtworks/epirust"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Thoughtworks",
+        "website": "https://www.thoughtworks.com/en-in",
+        "org_type": "owner",
+        "contact_name": "Chhaya Yadav",
+        "contact_email": "chhayay@thoughtworks.com"
       }
     ],
     "stage": "nominee"
