@@ -8974,46 +8974,6 @@
     "stage": "nominee"
   },
   {
-    "id": "ka-lite",
-    "name": "Ka Lite",
-    "description": "An offline version of Khan Academy.\nA free lightweight solution providing high-quality education where you need it most. Bringing the power of online learning to the offline world.",
-    "website": "https://learningequality.org/ka-lite/",
-    "license": [
-      {
-        "spdx": "MIT",
-        "licenseURL": "https://github.com/learningequality/ka-lite/blob/master/LICENSE"
-      },
-      {
-        "spdx": "CC-BY-NC-SA-3.0",
-        "licenseURL": "https://github.com/learningequality/ka-lite/blob/master/LICENSE"
-      }
-    ],
-    "SDGs": [
-      {
-        "SDGNumber": 4
-      }
-    ],
-    "sectors": [],
-    "type": [
-      "software",
-      "content"
-    ],
-    "repositories": [
-      {
-        "name": "main",
-        "url": "https://github.com/learningequality/ka-lite"
-      }
-    ],
-    "organizations": [
-      {
-        "name": "Learning Equality",
-        "website": "https://learningequality.org/",
-        "org_type": "owner"
-      }
-    ],
-    "stage": "nominee"
-  },
-  {
     "id": "khan-academy",
     "name": "Khan Academy",
     "description": "Expert-created content and resources for every course and level, always free.",
@@ -16630,6 +16590,59 @@
         "org_type": "maintainer",
         "contact_name": "Tom Brown",
         "contact_email": "tombrown@nworbmot.org"
+      }
+    ],
+    "stage": "nominee"
+  },
+  {
+    "id": "qairamap-open-source",
+    "name": "qAIRamap open source",
+    "aliases": [
+      ""
+    ],
+    "description": "Open source platform for mobile and fixed air quality monitoring.",
+    "website": "https://openqairamap.qairadrones.com/",
+    "license": [
+      {
+        "spdx": "LGPL-2.1",
+        "licenseURL": "https://github.com/qAIRa/qAIRaMapAPI-OpenSource/blob/master/LICENSE"
+      },
+      {
+        "spdx": "GPL-2.0",
+        "licenseURL": "https://github.com/qAIRa/qAIRaMap-OpenSource/blob/master/LICENSE"
+      }
+    ],
+    "SDGs": [
+      {
+        "SDGNumber": 3,
+        "evidenceText": "We aim to reduce the number of deaths and illnesses due to pollutants in the air, working together with the government and the private sector to implement action plans to improve air quality."
+      },
+      {
+        "SDGNumber": 11,
+        "evidenceText": "This is a great opportunity for qAIRa because people are going to demand to know what the air they breathe is like where they go, where they work and where they live. Companies are also changing their Corporate Social Responsibility strategies and are increasingly aware that consumers will agree to buy their products or services, only to the extent that they are respectful of the environment and society. We believe that \"knowing your air\" will be (in some places it already is) a human need yet to be discovered."
+      },
+      {
+        "SDGNumber": 13,
+        "evidenceText": "At qAIRa we work with drone technology to carry out forest monitoring and learn about the air quality in this area together with local communities."
+      }
+    ],
+    "sectors": [],
+    "type": [
+      "software"
+    ],
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/qAIRa/qAIRaMap-OpenSource"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Grupo Qaira SAC",
+        "website": "https://www.qairadrones.com/",
+        "org_type": "owner",
+        "contact_name": "Mónica Abarca ",
+        "contact_email": "hola@qairadrones.com"
       }
     ],
     "stage": "nominee"
