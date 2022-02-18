@@ -9714,41 +9714,6 @@
     "stage": "nominee"
   },
   {
-    "id": "lookingglass",
-    "name": "LookingGlass",
-    "description": "Intuitive and configurable search interface for document archives.",
-    "website": "",
-    "license": [
-      {
-        "spdx": "GPL-3.0",
-        "licenseURL": "https://github.com/TransparencyToolkit/LookingGlass/blob/master/COPYING"
-      }
-    ],
-    "SDGs": [
-      {
-        "SDGNumber": 17
-      }
-    ],
-    "sectors": [],
-    "type": [
-      "software"
-    ],
-    "repositories": [
-      {
-        "name": "main",
-        "url": "https://github.com/TransparencyToolkit/LookingGlass"
-      }
-    ],
-    "organizations": [
-      {
-        "name": "Transparency Toolkit",
-        "website": "https://transparencytoolkit.org/",
-        "org_type": "owner"
-      }
-    ],
-    "stage": "nominee"
-  },
-  {
     "id": "loopkit",
     "name": "LoopKit",
     "description": "A set of iOS tools for building closed-loop insulin delivery apps",
