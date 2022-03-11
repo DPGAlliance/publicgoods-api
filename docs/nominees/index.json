@@ -7983,6 +7983,46 @@
     "stage": "nominee"
   },
   {
+    "id": "homeless-children-playtime-project",
+    "name": "Homeless Children Playtime Project",
+    "aliases": [
+      ""
+    ],
+    "description": "The mission of the Homeless Children's Playtime Project is to nurture healthy child development and reduce the effects of trauma among children living in temporary housing programs in Washington, DC.  Playtime seeks to create a city that provides every opportunity for children in families experiencing homelessness to succeed by ensuring consistent opportunities to play and learn, offering support services for families, and advocating for affordable housing and safe shelter.",
+    "website": "https://playtimeproject.org/",
+    "license": [
+      {
+        "spdx": "MIT",
+        "licenseURL": "https://github.com/rubyforgood/playtime/blob/master/LICENSE"
+      }
+    ],
+    "SDGs": [
+      {
+        "SDGNumber": 4,
+        "evidenceText": "Playtime strives to bring fun and educational experiences to children in shelter with the goal of developing their sense of self-worth, strengthening their mental health, improving their optimism for the future, and ultimately, ending the generational cycle of homelessness",
+        "evidenceURL": "https://playtimeproject.org/news-events/updates.html/article/2021/08/02/play-gives-children-a-healthy-future-"
+      }
+    ],
+    "sectors": [],
+    "type": [
+      "software"
+    ],
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/rubyforgood/playtime"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Ruby for Good",
+        "website": "https://rubyforgood.org/",
+        "org_type": "funder"
+      }
+    ],
+    "stage": "nominee"
+  },
+  {
     "id": "hospitalrun-frontend",
     "name": "HospitalRun Frontend",
     "description": "Ember front end for HospitalRun",
@@ -8576,7 +8616,7 @@
       ""
     ],
     "description": "InaSAFE is free software that produces realistic natural hazard impact scenarios for better planning, preparedness and response activities. It provides a simple but rigorous way to combine data from scientists, local governments and communities to provide insights into the likely impacts of future disaster events.",
-    "website": "http://inasafe.org",
+    "website": "https://inasafe.org",
     "license": [
       {
         "spdx": "GPL-3.0",
@@ -14588,7 +14628,7 @@
       ""
     ],
     "description": "OptiKey is an on-screen keyboard that is designed to help people with motor and speech disabilities to interact with Windows computers and speak",
-    "website": "http://optikey.org/",
+    "website": "https://optikey.org/",
     "license": [
       {
         "spdx": "GPL-3.0",
@@ -14614,7 +14654,7 @@
     "organizations": [
       {
         "name": "Julius Sweetland",
-        "website": "http://optikey.org",
+        "website": "https://optikey.org",
         "org_type": "owner",
         "contact_name": "Julius Sweetland",
         "contact_email": "juliussweetland@gmail.com"
@@ -17775,6 +17815,48 @@
     "stage": "nominee"
   },
   {
+    "id": "scioxr",
+    "name": "ScioXR",
+    "aliases": [
+      ""
+    ],
+    "description": "ScioXR is a platform for creating content in VR/AR that is optimized to be used by educators. ",
+    "website": "https://www.scioxr.com/",
+    "license": [
+      {
+        "spdx": "AGPL-3.0",
+        "licenseURL": "https://github.com/ScioXR/ScioXR/blob/master/LICENSE.md"
+      }
+    ],
+    "SDGs": [
+      {
+        "SDGNumber": 4,
+        "evidenceText": "This solution will enable educators to create interactive experiences and games in an easy way using VR/AR. The main problem with interactive and immersive educational material is the lack of content and the goal of our solution is to give a platform that is tailorer for the educators and that will enable them to create the content without a steep learning curve.",
+        "evidenceURL": "https://www.unicefinnovationfund.org/broadcast/updates/scioxr-vrar-platform-immersive-learning"
+      }
+    ],
+    "sectors": [],
+    "type": [
+      "software"
+    ],
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/ScioXR/ScioXR"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Propter",
+        "website": "https://www.propter.rs",
+        "org_type": "owner",
+        "contact_name": "Adrian Djura",
+        "contact_email": "adrian.djura@gmail.com"
+      }
+    ],
+    "stage": "nominee"
+  },
+  {
     "id": "scottish-environment-protection-agency-hydrometric-data",
     "name": "Scottish Environment Protection Agency Hydrometric Data",
     "aliases": [
@@ -18031,7 +18113,7 @@
       ""
     ],
     "description": "Sempo crypto financial inclusion infrastructure with USSD, Android and NFC Payments",
-    "website": "http://withsempo.com/",
+    "website": "https://withsempo.com/",
     "license": [
       {
         "spdx": "GPL-3.0",
@@ -18073,7 +18155,7 @@
     "organizations": [
       {
         "name": "Sempo",
-        "website": "http://withsempo.com/",
+        "website": "https://withsempo.com/",
         "org_type": "owner",
         "contact_name": "Tristan Cole",
         "contact_email": "tristan@withsempo.com"
@@ -19985,6 +20067,46 @@
       {
         "name": "Tokyo Metropolitan Government",
         "org_type": "owner"
+      }
+    ],
+    "stage": "nominee"
+  },
+  {
+    "id": "total11y",
+    "name": "total11y",
+    "aliases": [
+      ""
+    ],
+    "description": "tota11y helps visualize how your site performs with assistive technologies. The process of testing for accessibility (a11y) is often tedious and confusing. In many cases, developers must have some prior accessibility knowledge in order to make sense of the results.  Instead, tota11y aims to reduce this barrier of entry by helping visualize accessibility violations (and successes), while educating on best practices.",
+    "website": "https://khan.github.io/tota11y/",
+    "license": [
+      {
+        "spdx": "MIT",
+        "licenseURL": "https://github.com/Khan/tota11y/blob/master/LICENSE.txt"
+      }
+    ],
+    "SDGs": [
+      {
+        "SDGNumber": 10,
+        "evidenceText": "Accessibility is hard for many reasons. While current tooling provides mechanisms for detecting most accessibility violations, there remains a certain amount of disconnect between the developer and the problems they are causing. Most of these errors are things we can’t see, things that won’t affect us, and things without a perfect, exact fix.  tota11y aims to solve these problems by providing a fun, interactive way to see accessibility issues. Not only should the web be fully accessible to all, but developers should feel empowered to fix and prevent accessibility violations from happening in the first place.",
+        "evidenceURL": "https://blog.khanacademy.org/tota11y-an-accessibility-visualization-toolkit/"
+      }
+    ],
+    "sectors": [],
+    "type": [
+      "software"
+    ],
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/Khan/tota11y"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Khan Academy",
+        "website": "https://www.khanacademy.org",
+        "org_type": "maintainer"
       }
     ],
     "stage": "nominee"
