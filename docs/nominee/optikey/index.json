@@ -5,7 +5,7 @@
     ""
   ],
   "description": "OptiKey is an on-screen keyboard that is designed to help people with motor and speech disabilities to interact with Windows computers and speak",
-  "website": "https://optikey.org/",
+  "website": "http://optikey.org/",
   "license": [
     {
       "spdx": "GPL-3.0",
@@ -31,7 +31,7 @@
   "organizations": [
     {
       "name": "Julius Sweetland",
-      "website": "https://optikey.org",
+      "website": "http://optikey.org",
       "org_type": "owner",
       "contact_name": "Julius Sweetland",
       "contact_email": "juliussweetland@gmail.com"

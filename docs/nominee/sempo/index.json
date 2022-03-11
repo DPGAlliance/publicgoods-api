@@ -5,7 +5,7 @@
     ""
   ],
   "description": "Sempo crypto financial inclusion infrastructure with USSD, Android and NFC Payments",
-  "website": "https://withsempo.com/",
+  "website": "http://withsempo.com/",
   "license": [
     {
       "spdx": "GPL-3.0",
@@ -47,7 +47,7 @@
   "organizations": [
     {
       "name": "Sempo",
-      "website": "https://withsempo.com/",
+      "website": "http://withsempo.com/",
       "org_type": "owner",
       "contact_name": "Tristan Cole",
       "contact_email": "tristan@withsempo.com"

@@ -6232,50 +6232,6 @@
     "stage": "nominee"
   },
   {
-    "id": "feed-the-monster",
-    "name": "Feed the Monster",
-    "aliases": [
-      ""
-    ],
-    "description": "Feed the Monster is a mobile game that teaches children the fundamentals of reading, based on years of research and experience in the science of literacy.",
-    "website": "https://www.feedthemonsterapp.com/",
-    "license": [
-      {
-        "spdx": "BSD-2-Clause",
-        "licenseURL": "https://github.com/curiouslearning/FeedTheMonster/blob/master/LICENSE"
-      }
-    ],
-    "SDGs": [
-      {
-        "SDGNumber": 4,
-        "evidenceText": "Research has shown that as little as 22 hours of usage can result in the equivalent of 2 months of literacy learning in a well-resourced school. The game is based on years of research and experience in the science of literacy. It incorporates key skills for literacy, including Phonological Awareness, Letter Recognition, Phonics, Vocabulary, and Sight Word Reading so kids can develop a strong foundation for reading. Feed the Monster has been localized to 50+ languages.",
-        "evidenceURL": "https://docs.google.com/document/d/1oOx4dSmH_OAdjRaettF0pVUVTLpcl41tG51C4pd_qHs/edit?usp=sharing"
-      }
-    ],
-    "sectors": [
-      "Education"
-    ],
-    "type": [
-      "software"
-    ],
-    "repositories": [
-      {
-        "name": "main",
-        "url": "https://github.com/curiouslearning/FeedTheMonster"
-      }
-    ],
-    "organizations": [
-      {
-        "name": "Curious Learning",
-        "website": "https://www.curiouslearning.org/",
-        "org_type": "maintainer",
-        "contact_name": "Creesen Naicker",
-        "contact_email": "creesen@curiouslearning.org"
-      }
-    ],
-    "stage": "nominee"
-  },
-  {
     "id": "find-training",
     "name": "Find Training",
     "description": "Mobile-optimized site for job seekers to find and compare training programs that are eligible for tuition assistance from the government workforce system.",
@@ -7983,46 +7939,6 @@
     "stage": "nominee"
   },
   {
-    "id": "homeless-children-playtime-project",
-    "name": "Homeless Children Playtime Project",
-    "aliases": [
-      ""
-    ],
-    "description": "The mission of the Homeless Children's Playtime Project is to nurture healthy child development and reduce the effects of trauma among children living in temporary housing programs in Washington, DC.  Playtime seeks to create a city that provides every opportunity for children in families experiencing homelessness to succeed by ensuring consistent opportunities to play and learn, offering support services for families, and advocating for affordable housing and safe shelter.",
-    "website": "https://playtimeproject.org/",
-    "license": [
-      {
-        "spdx": "MIT",
-        "licenseURL": "https://github.com/rubyforgood/playtime/blob/master/LICENSE"
-      }
-    ],
-    "SDGs": [
-      {
-        "SDGNumber": 4,
-        "evidenceText": "Playtime strives to bring fun and educational experiences to children in shelter with the goal of developing their sense of self-worth, strengthening their mental health, improving their optimism for the future, and ultimately, ending the generational cycle of homelessness",
-        "evidenceURL": "https://playtimeproject.org/news-events/updates.html/article/2021/08/02/play-gives-children-a-healthy-future-"
-      }
-    ],
-    "sectors": [],
-    "type": [
-      "software"
-    ],
-    "repositories": [
-      {
-        "name": "main",
-        "url": "https://github.com/rubyforgood/playtime"
-      }
-    ],
-    "organizations": [
-      {
-        "name": "Ruby for Good",
-        "website": "https://rubyforgood.org/",
-        "org_type": "funder"
-      }
-    ],
-    "stage": "nominee"
-  },
-  {
     "id": "hospitalrun-frontend",
     "name": "HospitalRun Frontend",
     "description": "Ember front end for HospitalRun",
@@ -8616,7 +8532,7 @@
       ""
     ],
     "description": "InaSAFE is free software that produces realistic natural hazard impact scenarios for better planning, preparedness and response activities. It provides a simple but rigorous way to combine data from scientists, local governments and communities to provide insights into the likely impacts of future disaster events.",
-    "website": "https://inasafe.org",
+    "website": "http://inasafe.org",
     "license": [
       {
         "spdx": "GPL-3.0",
@@ -14628,7 +14544,7 @@
       ""
     ],
     "description": "OptiKey is an on-screen keyboard that is designed to help people with motor and speech disabilities to interact with Windows computers and speak",
-    "website": "https://optikey.org/",
+    "website": "http://optikey.org/",
     "license": [
       {
         "spdx": "GPL-3.0",
@@ -14654,7 +14570,7 @@
     "organizations": [
       {
         "name": "Julius Sweetland",
-        "website": "https://optikey.org",
+        "website": "http://optikey.org",
         "org_type": "owner",
         "contact_name": "Julius Sweetland",
         "contact_email": "juliussweetland@gmail.com"
@@ -17815,48 +17731,6 @@
     "stage": "nominee"
   },
   {
-    "id": "scioxr",
-    "name": "ScioXR",
-    "aliases": [
-      ""
-    ],
-    "description": "ScioXR is a platform for creating content in VR/AR that is optimized to be used by educators. ",
-    "website": "https://www.scioxr.com/",
-    "license": [
-      {
-        "spdx": "AGPL-3.0",
-        "licenseURL": "https://github.com/ScioXR/ScioXR/blob/master/LICENSE.md"
-      }
-    ],
-    "SDGs": [
-      {
-        "SDGNumber": 4,
-        "evidenceText": "This solution will enable educators to create interactive experiences and games in an easy way using VR/AR. The main problem with interactive and immersive educational material is the lack of content and the goal of our solution is to give a platform that is tailorer for the educators and that will enable them to create the content without a steep learning curve.",
-        "evidenceURL": "https://www.unicefinnovationfund.org/broadcast/updates/scioxr-vrar-platform-immersive-learning"
-      }
-    ],
-    "sectors": [],
-    "type": [
-      "software"
-    ],
-    "repositories": [
-      {
-        "name": "main",
-        "url": "https://github.com/ScioXR/ScioXR"
-      }
-    ],
-    "organizations": [
-      {
-        "name": "Propter",
-        "website": "https://www.propter.rs",
-        "org_type": "owner",
-        "contact_name": "Adrian Djura",
-        "contact_email": "adrian.djura@gmail.com"
-      }
-    ],
-    "stage": "nominee"
-  },
-  {
     "id": "scottish-environment-protection-agency-hydrometric-data",
     "name": "Scottish Environment Protection Agency Hydrometric Data",
     "aliases": [
@@ -18113,7 +17987,7 @@
       ""
     ],
     "description": "Sempo crypto financial inclusion infrastructure with USSD, Android and NFC Payments",
-    "website": "https://withsempo.com/",
+    "website": "http://withsempo.com/",
     "license": [
       {
         "spdx": "GPL-3.0",
@@ -18155,7 +18029,7 @@
     "organizations": [
       {
         "name": "Sempo",
-        "website": "https://withsempo.com/",
+        "website": "http://withsempo.com/",
         "org_type": "owner",
         "contact_name": "Tristan Cole",
         "contact_email": "tristan@withsempo.com"
@@ -18799,75 +18673,6 @@
         "name": "SugarLabs",
         "website": "https://sugarlabs.org/",
         "org_type": "owner"
-      }
-    ],
-    "stage": "nominee"
-  },
-  {
-    "id": "sunbird-obsrv",
-    "name": "Sunbird Obsrv",
-    "aliases": [
-      ""
-    ],
-    "description": "Sunbird Obsrv comprises several pluggable tools and microservices that come together to enable observability features on any platform/solution. This includes the ability to capture granular events via telemetry, create measures, and observe various events/actions carried out by the system/users/devices (like IoT devices) on any platform/solution. Sunbird Obsrv can be utilized as an independent building block by adopters or as part of a system that employs other Sunbird building blocks. Sunbird Obsrv comes with a set of microservices, APIs, and some utility SDKs to make it easy for adopters to rapidly enable powerful data processing and aggregation infrastructure to process telemetry data, validate telemetry stream data, as well as aggregate and generate actionable insights via APIs. It also has built-in open data cataloging and publishing capability. It is built keeping extensibility in mind so that adopters have the flexibility to adapt the telemetry and tools to their specific use-cases.",
-    "website": "https://obsrv.sunbird.org",
-    "license": [
-      {
-        "spdx": "MIT",
-        "licenseURL": "https://github.com/project-sunbird/sunbird-telemetry-service/blob/master/LICENSE"
-      }
-    ],
-    "SDGs": [
-      {
-        "SDGNumber": 3,
-        "evidenceText": "Another instance of the training platform employing the Sunbird building blocks was rapidly deployed in the wake of the Covid outbreak to train frontline workers on how to deal with the pandemic. These included healthcare workers and professionals as well as volunteers - this was launched on the Integrated Government Online training portal. This effort utilized Sunbird Obsrv to measure and generate metrics on the number of individuals being trained, the extent of their training completion as well as system performance. This was an instrumental effort in training several thousands of frontline workers in the fight against Covid. This measure was undertaken by the National Health Mission and was also part of the operational guidelines from the Ministry of Health. This effort is in line with goal #3.d of the global framework."
-      },
-      {
-        "SDGNumber": 4,
-        "evidenceText": "Sunbird building blocks have been adopted by the Ministry of Education, Government of India to launch a national school education platform called DIKSHA, which has been used extensively in each of the 36 States and Union Territories in India across 30+ languages. Measurement of usage data, which has been made possible by Sunbird Obsrv indicates widespread and intensive use of the platform. It has logged 37 billion minutes of learning from over 3 billion sessions, with over a million teachers accessing curriculum-linked digital content available in 31 languages. In addition, around 3 million teachers have completed close to 7 million courses from over the 2,600 online course options available as part of their continuing professional development. Education leadership is another domain that Sunbird Obsrv has been successfully deployed in. In this context, we see Sunbird Obsrv being used towards promoting inclusive and equitable quality education and enabling lifelong learning for all, in line with Goal #4 of the global framework referred to above."
-      },
-      {
-        "SDGNumber": 8,
-        "evidenceText": "Skilling, talent transformation and capacity building for employability is another area that Sunbird Obsrv will extensively be used in - tracking of user learning progress, measurement of scores for questions and assessments as well as measuring user engagement is a key capability enabled by Sunbird Obsrv on scalable and powerful learning platforms that are deployed by corporates as well as government-led skilling agencies alike. This pertains to goal #8 of the global framework."
-      },
-      {
-        "SDGNumber": 11,
-        "evidenceText": "Capacity building for sustainable urban development is the key objective of the National Urban Learning Platform. There is a wide range of courses that have been rolled out by the NULP in this regard, and Sunbird Obsrv plays a critical role in making available reporting capabilities and dashboards for the platform. NULP aims to empower India’s urban functionaries, administrators, elected representatives, civil society, industry actors and other ecosystem players to build smart, inclusive, sustainable and resilient cities - in line with Goal #11 of the global framework."
-      }
-    ],
-    "sectors": [],
-    "type": [
-      "software"
-    ],
-    "repositories": [
-      {
-        "name": "API services for handling telemetry in sunbird",
-        "url": "https://github.com/project-sunbird/sunbird-telemetry-service"
-      },
-      {
-        "name": "Data pipeline",
-        "url": "https://github.com/project-sunbird/sunbird-data-pipeline"
-      },
-      {
-        "name": "Analytics service",
-        "url": "https://github.com/project-sunbird/sunbird-analytics-service"
-      },
-      {
-        "name": "Reporting service",
-        "url": "https://github.com/project-sunbird/sunbird-report-service"
-      },
-      {
-        "name": "Core data products",
-        "url": "https://github.com/project-sunbird/sunbird-core-dataproducts"
-      }
-    ],
-    "organizations": [
-      {
-        "name": "EkStep Foundation",
-        "website": "https://www.ekstep.org",
-        "org_type": "owner",
-        "contact_name": "Deepika Mogilishetty",
-        "contact_email": "info@ekstep.org"
       }
     ],
     "stage": "nominee"
@@ -20067,46 +19872,6 @@
       {
         "name": "Tokyo Metropolitan Government",
         "org_type": "owner"
-      }
-    ],
-    "stage": "nominee"
-  },
-  {
-    "id": "total11y",
-    "name": "total11y",
-    "aliases": [
-      ""
-    ],
-    "description": "tota11y helps visualize how your site performs with assistive technologies. The process of testing for accessibility (a11y) is often tedious and confusing. In many cases, developers must have some prior accessibility knowledge in order to make sense of the results.  Instead, tota11y aims to reduce this barrier of entry by helping visualize accessibility violations (and successes), while educating on best practices.",
-    "website": "https://khan.github.io/tota11y/",
-    "license": [
-      {
-        "spdx": "MIT",
-        "licenseURL": "https://github.com/Khan/tota11y/blob/master/LICENSE.txt"
-      }
-    ],
-    "SDGs": [
-      {
-        "SDGNumber": 10,
-        "evidenceText": "Accessibility is hard for many reasons. While current tooling provides mechanisms for detecting most accessibility violations, there remains a certain amount of disconnect between the developer and the problems they are causing. Most of these errors are things we can’t see, things that won’t affect us, and things without a perfect, exact fix.  tota11y aims to solve these problems by providing a fun, interactive way to see accessibility issues. Not only should the web be fully accessible to all, but developers should feel empowered to fix and prevent accessibility violations from happening in the first place.",
-        "evidenceURL": "https://blog.khanacademy.org/tota11y-an-accessibility-visualization-toolkit/"
-      }
-    ],
-    "sectors": [],
-    "type": [
-      "software"
-    ],
-    "repositories": [
-      {
-        "name": "main",
-        "url": "https://github.com/Khan/tota11y"
-      }
-    ],
-    "organizations": [
-      {
-        "name": "Khan Academy",
-        "website": "https://www.khanacademy.org",
-        "org_type": "maintainer"
       }
     ],
     "stage": "nominee"
