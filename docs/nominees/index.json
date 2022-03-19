@@ -31,7 +31,7 @@
         "contact_email": "jhusystems@gmail.com"
       }
     ],
-    "stage": "nominee"
+    "stage": "archive"
   },
   {
     "id": "2020policebrutality",
@@ -81,7 +81,7 @@
         "org_type": "owner"
       }
     ],
-    "stage": "nominee"
+    "stage": "archive"
   },
   {
     "id": "5calls-frontend",
@@ -116,7 +116,7 @@
         "org_type": "owner"
       }
     ],
-    "stage": "nominee"
+    "stage": "archive"
   },
   {
     "id": "5calls-ios",
@@ -151,7 +151,7 @@
         "org_type": "owner"
       }
     ],
-    "stage": "nominee"
+    "stage": "archive"
   },
   {
     "id": "a11y-project",
@@ -224,7 +224,7 @@
         "contact_email": "support.aarogyasetu@nic.in"
       }
     ],
-    "stage": "nominee"
+    "stage": "archive"
   },
   {
     "id": "accessibility-cloud",
@@ -262,7 +262,7 @@
         "org_type": "owner"
       }
     ],
-    "stage": "nominee"
+    "stage": "archive"
   },
   {
     "id": "accessmod",
@@ -346,7 +346,7 @@
         "org_type": "owner"
       }
     ],
-    "stage": "nominee"
+    "stage": "archive"
   },
   {
     "id": "afinidata",
