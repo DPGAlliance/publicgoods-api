@@ -4360,6 +4360,74 @@
     "stage": "DPG"
   },
   {
+    "id": "vaccineledger",
+    "name": "VaccineLedger",
+    "aliases": [
+      ""
+    ],
+    "description": "VaccineLedger is a decentralized supply chain management platform that leverages blockchain technology, Internet of Things (IoT) and Artificial Technology and Machine Learning to capture data for every vaccine and other medical products in the supply chains from manufacturer to the beneficiary.",
+    "website": "https://vaccineledger.com/",
+    "license": [
+      {
+        "spdx": "MIT",
+        "licenseURL": "https://gitlab.com/statwig-public/theledger/-/blob/development/LICENSE"
+      }
+    ],
+    "SDGs": [
+      {
+        "SDGNumber": 3,
+        "evidenceText": "Nearly one million children die each year due to vaccine preventable diseases. One of the major reasons for this lack of access to high quality vaccines. Vaccine Supply Chains have a lot of existing issues such as cold-chain failures, expired products, and counterfeit products. These failures have enormous costs associated with them. The platform ensures that the original product manufactured by the Manufacturer reaches the end beneficiary by identifying each unit as a unique ID and stores this information in our database so as to avoid any duplication.",
+        "evidenceURL": "https://timesofindia.indiatimes.com/city/hyderabad/hyd-start-up-wins-rs-4-9-cr-in-uk-contest/articleshow/83860047.cms"
+      },
+      {
+        "SDGNumber": 9,
+        "evidenceText": "Vaccine Supply Chains are complex and fragmented. Our goal is to innovate the supply chains, especially the Vaccine Supply Chain to have complete visibility and transparency across the various stakeholders, thus our platform VaccineLedger ensures all stakeholders have complete visibility of all vaccines and other life sciences products at different stages, using blockchain, and also predict and prevent failures in supply chains.",
+        "evidenceURL": "https://www.unicef.org/innovation/fundgraduate/StaTwig"
+      },
+      {
+        "SDGNumber": 12,
+        "evidenceText": "Vaccine delivery becomes more expensive due to wastage of vaccines, nearly 50%-60% of vaccines lose their efficacy because of cold-chain failures, however,  supply chains account for nearly 80% of the costs of the vaccines.  VaccineLedger keeps a track of all the batches and their expiry dates in order to prevent any usage of expired or counterfeit products, thus  ensuring that the beneficiary receives certified products. And if these losses are not prevented, then it becomes even more difficult to vaccinate people quickly and efficiently. ",
+        "evidenceURL": "https://www.thehindubusinessline.com/companies/statwig-to-take-a-shot-at-global-speed-delivery-of-covid-vaccine/article32185986.ece"
+      }
+    ],
+    "sectors": [],
+    "type": [
+      "software"
+    ],
+    "repositories": [
+      {
+        "name": "ledger",
+        "url": "https://gitlab.com/statwig-public/theledger"
+      },
+      {
+        "name": "blockchain engine",
+        "url": "https://gitlab.com/statwig-public/BlockchainEngine"
+      },
+      {
+        "name": "ledger mobile app",
+        "url": "https://gitlab.com/statwig-public/theledgermobileapp"
+      },
+      {
+        "name": "supply chain demo",
+        "url": "https://gitlab.com/statwig-public/SupplyChainDemo"
+      },
+      {
+        "name": "user interface",
+        "url": "https://gitlab.com/statwig-public/UserInterface"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "StaTwig",
+        "website": "https://statwig.com/",
+        "org_type": "owner",
+        "contact_name": "Sid Chakravarthy ",
+        "contact_email": "sidchaks@statwig.com"
+      }
+    ],
+    "stage": "DPG"
+  },
+  {
     "id": "vips",
     "name": "VIPS",
     "description": "Open platform for automatic pest prediction in agriculture created by NIBIO, Norway",
