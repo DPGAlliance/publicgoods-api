@@ -10877,10 +10877,13 @@
     "stage": "nominee"
   },
   {
-    "id": "soulmedecine",
-    "name": "Soulmedecine",
-    "description": "A project by Chayn, Soul Medicine is a multilingual digital service designed to deliver critical information in the form of easily digestible pieces through (Facebook Messenger and) email.",
-    "website": "https://soulmedicine.io/#",
+    "id": "soul-medicine",
+    "name": "Soul Medicine",
+    "aliases": [
+      ""
+    ],
+    "description": "Bite-sized support for survivors of abuse, available online or sent direct to your email inbox",
+    "website": "https://soulmedicine.io/",
     "license": [
       {
         "spdx": "MIT",
@@ -10889,10 +10892,14 @@
     ],
     "SDGs": [
       {
-        "SDGNumber": 5
+        "SDGNumber": 5,
+        "evidenceText": "This solution supports survivors of gender-based violence to heal and thrive.",
+        "evidenceURL": "https://soulmedicine.io/"
       }
     ],
-    "sectors": [],
+    "sectors": [
+      "Gender and Minority Groups"
+    ],
     "type": [
       "software"
     ],
@@ -10905,8 +10912,10 @@
     "organizations": [
       {
         "name": "Chayn",
-        "website": "https://chayn.co/about/",
-        "org_type": "owner"
+        "website": "https://www.chayn.co",
+        "org_type": "owner",
+        "contact_name": "Naomi Alexander Naidoo",
+        "contact_email": "naomi@chayn.co"
       }
     ],
     "stage": "nominee"
