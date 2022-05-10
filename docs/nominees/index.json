@@ -444,6 +444,53 @@
     "stage": "nominee"
   },
   {
+    "id": "city-energy-analyst",
+    "name": "City Energy Analyst",
+    "aliases": [
+      ""
+    ],
+    "description": "A fully integrated urban building energy modeling tool that simulates building energy demand, energy supply potentials, system designs and optimization.",
+    "website": "https://cityenergyanalyst.com/",
+    "license": [
+      {
+        "spdx": "MIT",
+        "licenseURL": "https://github.com/architecture-building-systems/CityEnergyAnalyst/blob/master/LICENSE"
+      }
+    ],
+    "SDGs": [
+      {
+        "SDGNumber": 7,
+        "evidenceText": "This tool helps design low-carbon and low-cost energy systems."
+      },
+      {
+        "SDGNumber": 11,
+        "evidenceText": "This tool helps cities to forecast future energy demand under uncertain future scenarios."
+      },
+      {
+        "SDGNumber": 13,
+        "evidenceText": "This tool forecasts future energy demand under uncertain future scenarios and identify most robust envelope and system recommendation through comparisons."
+      }
+    ],
+    "sectors": [],
+    "type": [
+      "software"
+    ],
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://github.com/architecture-building-systems/CityEnergyAnalyst"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Chair of Architecture and Building Systems",
+        "website": "https://systems.arch.ethz.ch/",
+        "org_type": "owner"
+      }
+    ],
+    "stage": "nominee"
+  },
+  {
     "id": "climatewatch",
     "name": "ClimateWatch",
     "description": "Climate Watch is an online platform designed to empower policymakers, researchers, media and other stakeholders with the open climate data, visualizations and resources they need to gather insights on national and global progress on climate change.",
@@ -2264,44 +2311,6 @@
         "org_type": "owner",
         "contact_name": "Keith Mandela",
         "contact_email": "keith@kotanipay.com"
-      }
-    ],
-    "stage": "nominee"
-  },
-  {
-    "id": "label-maker",
-    "name": "Label Maker",
-    "description": "Data Preparation for Satellite Machine Learning",
-    "website": "https://devseed.com/label-maker/",
-    "license": [
-      {
-        "spdx": "MIT",
-        "licenseURL": "https://github.com/developmentseed/label-maker/blob/master/LICENSE.txt"
-      }
-    ],
-    "SDGs": [
-      {
-        "SDGNumber": 9
-      },
-      {
-        "SDGNumber": 17
-      }
-    ],
-    "sectors": [],
-    "type": [
-      "software"
-    ],
-    "repositories": [
-      {
-        "name": "main",
-        "url": "https://github.com/developmentseed/label-maker"
-      }
-    ],
-    "organizations": [
-      {
-        "name": "Development Seed",
-        "website": "https://developmentseed.org/",
-        "org_type": "owner"
       }
     ],
     "stage": "nominee"
