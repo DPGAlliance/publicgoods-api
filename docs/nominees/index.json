@@ -6911,49 +6911,6 @@
     "stage": "nominee"
   },
   {
-    "id": "somleng",
-    "name": "Somleng",
-    "aliases": [
-      ""
-    ],
-    "description": "Low-cost interactive voice response system for communities with low literacy levels",
-    "website": "https://www.somleng.org",
-    "license": [
-      {
-        "spdx": "MIT",
-        "licenseURL": "https://github.com/somleng/somleng/blob/develop/LICENSE.txt"
-      }
-    ],
-    "SDGs": [
-      {
-        "SDGNumber": 3,
-        "evidenceURL": "https://www.unicefinnovationfund.org/broadcast/updates/somleng-open-source-telephony"
-      },
-      {
-        "SDGNumber": 9,
-        "evidenceURL": "https://www.unicefinnovationfund.org/broadcast/updates/unicef-innovation-fund-graduate-somleng"
-      }
-    ],
-    "sectors": [],
-    "type": [
-      "software"
-    ],
-    "repositories": [
-      {
-        "name": "main",
-        "url": "https://github.com/somleng/somleng"
-      }
-    ],
-    "organizations": [
-      {
-        "name": "UNICEF Ventures Fund",
-        "website": "https://unicefinnovationfund.org/",
-        "org_type": "funder"
-      }
-    ],
-    "stage": "nominee"
-  },
-  {
     "id": "soul-medicine",
     "name": "Soul Medicine",
     "aliases": [
