@@ -1,0 +1,146 @@
+{
+  "id": "synthea",
+  "name": "Synthea",
+  "aliases": [
+    "SyntheticMass"
+  ],
+  "description": "Synthea is an open-source synthetic patient generator that models the medical history of synthetic patients and produces synthetic health data free from cost, privacy, and security restrictions.",
+  "website": "https://synthetichealth.github.io/synthea/",
+  "license": [
+    {
+      "spdx": "Apache-2.0",
+      "licenseURL": "https://github.com/synthetichealth/synthea/blob/master/LICENSE"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 9,
+      "evidenceText": "The lack of data hinders understanding of the true impacts of disease. Synthea provides open-source software and freely available synthetic open data sets formatted to international standards. These resources lower the barrier of entry for innovators across the globe to build data-centric health solutions and digital health solutions. Using Synthea, health innovators can accelerate their work safely, securely, and publicly without accessing real data. Innovators also can leverage Synthea to strengthen their health information technology knowledge and skills for future jobs, research, and/or entrepreneurship opportunities to advance health and well-being.",
+      "evidenceURL": "https://aspe.hhs.gov/synthetic-health-data-generation-engine-accelerate-patient-centered-outcomes-research"
+    }
+  ],
+  "sectors": [
+    "Digital/Data/Tech"
+  ],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "name": "Synthea",
+      "url": "https://github.com/synthetichealth/synthea"
+    },
+    {
+      "name": "Synthea International",
+      "url": "https://github.com/synthetichealth/synthea-international"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "The MITRE Corporation",
+      "website": "https://www.mitre.org",
+      "org_type": "maintainer",
+      "contact_name": "Jason Walonoski",
+      "contact_email": "jwalonoski@mitre.org"
+    }
+  ],
+  "stage": "DPG",
+  "clearOwnership": {
+    "isOwnershipExplicit": "Yes",
+    "copyrightURL": "https://github.com/synthetichealth/synthea#license"
+  },
+  "platformIndependence": {
+    "mandatoryDepsCreateMoreRestrictions": "No",
+    "isSoftwarePltIndependent": "",
+    "pltIndependenceDesc": ""
+  },
+  "documentation": {
+    "isDocumentationAvailable": "Yes",
+    "documentationURL": [
+      "https://github.com/synthetichealth/synthea/wiki"
+    ]
+  },
+  "NonPII": {
+    "collectsNonPII": "No",
+    "checkNonPIIAccessMechanism": "Yes",
+    "nonPIIAccessMechanism": ""
+  },
+  "privacy": {
+    "isPrivacyCompliant": "Yes",
+    "privacyComplianceList": [
+      "Because the project generates purely synthetic data, based only on published aggregate statistics and clinical guidelines rather than individual-level health data sets, it does not and cannot ever contain any personally identifiable information (PII) or protected health information (PHI). In this sense, the synthetic data is privacy and risk-free, so it is automatically compliant with all relevant laws and regulations."
+    ],
+    "adherenceSteps": [
+      "Because the project generates purely synthetic data, based only on published aggregate statistics and clinical guidelines rather than individual-level health data sets, it does not and cannot ever contain any personally identifiable information (PII) or protected health information (PHI). In this sense, the synthetic data is privacy and risk-free, so it is automatically compliant with all relevant laws and regulations."
+    ]
+  },
+  "standards": {
+    "supportStandards": "Yes",
+    "standardsList": [
+      "HL7 FHIR",
+      "HL7 C-CDA",
+      "LOINC",
+      "SNOMED",
+      "RxNorm"
+    ],
+    "evidenceStandardSupport": [
+      "https://github.com/synthetichealth/synthea"
+    ],
+    "implementBestPractices": "Yes",
+    "bestPracticesList": [
+      "Principles for Digital Development",
+      "Continous integration - https://github.com/synthetichealth/synthea/tree/master/.github/workflows"
+    ]
+  },
+  "doNoHarm": {
+    "preventHarm": {
+      "stepsToPreventHarm": "Yes",
+      "additionalInfoMechanismProcessesPolicies": "The foundational principle of the project - synthetic health data as a safe and useful alternative to real health data - is designed to prevent harm to individuals’ privacy and security."
+    },
+    "dataPrivacySecurity": {
+      "collectsPII": "No",
+      "typesOfDataCollected": [
+        ""
+      ],
+      "thirdPartyDataSharing": "No",
+      "dataSharingCircumstances": [
+        ""
+      ],
+      "ensurePrivacySecurity": "Yes",
+      "privacySecurityDescription": "The foundational principle of the project - synthetic health data as a safe and useful alternative to real health data - is designed to prevent harm to individuals’ privacy and security."
+    },
+    "inappropriateIllegalContent": {
+      "collectStoreDistribute": "No",
+      "type": "",
+      "contentFilter": "",
+      "policyGuidelinesDocumentationLink": "",
+      "illegalContentDetection": "",
+      "illegalContentDetectionMechanism": ""
+    },
+    "protectionFromHarassment": {
+      "userInteraction": "Yes",
+      "addressSafetySecurityUnderageUsers": "Yes",
+      "stepsAddressRiskPreventSafetyUnderageUsers": [
+        "The project allows for users to participate via standard open-source practices. The project has an Issues board, a Discussion board, and a mailing list. The project is governed by a code of conduct."
+      ],
+      "griefAbuseHarassmentProtection": "Yes",
+      "harassmentProtectionSteps": [
+        "The project allows for users to participate via standard open-source practices. The project has an Issues board, a Discussion board, and a mailing list. The project is governed by a code of conduct - https://github.com/synthetichealth/synthea/blob/master/CODE_OF_CONDUCT.md"
+      ]
+    }
+  },
+  "locations": {
+    "developmentCountries": [
+      "United States of America",
+      "Canada",
+      "United Kingdom",
+      "Australia"
+    ],
+    "deploymentCountries": [
+      "United States of America",
+      "Canada",
+      "Australia",
+      "India"
+    ]
+  }
+}
