@@ -4566,6 +4566,41 @@
     "stage": "DPG"
   },
   {
+    "id": "test-removal-of-stage",
+    "name": "Test removal of stage",
+    "aliases": [
+      ""
+    ],
+    "description": "Test removal of stage",
+    "website": "http://test.compilelol",
+    "license": [
+      {
+        "spdx": "Apache-2.0",
+        "licenseURL": "http://test.ocm"
+      }
+    ],
+    "SDGs": [
+      {
+        "SDGNumber": 6,
+        "evidenceText": "Test removal of stage",
+        "evidenceURL": "http://asdf.com"
+      }
+    ],
+    "sectors": [],
+    "type": [
+      "standard"
+    ],
+    "repositories": [],
+    "organizations": [
+      {
+        "name": "Test removal of stage",
+        "website": "http://sasdf.cosd",
+        "org_type": "owner"
+      }
+    ],
+    "stage": "DPG"
+  },
+  {
     "id": "translation-initiative-for-covid-19",
     "name": "Translation Initiative for Covid-19",
     "aliases": [
