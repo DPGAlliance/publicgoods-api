@@ -1,0 +1,202 @@
+{
+  "id": "rahat",
+  "name": "Rahat",
+  "aliases": [
+    ""
+  ],
+  "description": "Rahat is a collection of open source blockchain-based digital relief distribution management projects  for humanitarian agencies to support marginalized communities.",
+  "website": "https://www.rahat.io/",
+  "license": [
+    {
+      "spdx": "AGPL-3.0",
+      "licenseURL": "https://github.com/esatya/rahat/blob/master/LICENSE"
+    },
+    {
+      "spdx": "LGPL-3.0",
+      "licenseURL": "https://github.com/esatya/rahat-contracts/blob/main/LICENSE"
+    },
+    {
+      "spdx": "GPL-3.0",
+      "licenseURL": "https://github.com/esatya/rahat-aid-connect/blob/main/LICENSE"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 1,
+      "evidenceText": "Rahat has been supporting vulnerable communities affected by natural disasters (Target 1.5) through cash and voucher assistance programs - making the community financially resilient.  It ensures people, especially the unbanked have the freedom, dignity and independence to decide on their own recovery.",
+      "evidenceURL": "https://www.unicefinnovationfund.org/broadcast/updates/rahat-tokenized-aid-distribution-platform-support-vulnerable-communities"
+    },
+    {
+      "SDGNumber": 2,
+      "evidenceText": "Since the onset of the Covid-19 pandemic, Rahat has been using its decentralized platform to distribute food supplies to vulnerable communities with small children, single women, elderly citizens in an effective and efficient manner. One of its first projects involved assisting Dhana Yoga Foundation, a US based NGO, to provide food packets to the marginalized community in Chitwan who could only harvest enough for six months. It thus aims to achieve Target 2.1 i.e. to end hunger and provide access to nutritious food all year around. In addition, Rahat has been working with local partners on pilots to support women in maternity by providing nutritious food packages in the remote mountainous regions of Humla and Jumla (on-going) with the overall aim of reducing child mortality and supporting child development (Target 2.2).",
+      "evidenceURL": "https://assets.rumsan.com/rumsan-group/rahat-pilot-8.0-case-study-report.pdf"
+    },
+    {
+      "SDGNumber": 5,
+      "evidenceText": "Local female partners are strongly encouraged to participate and facilitate the pilot projects of Rahat. This increases digital literacy, and female users become well-versed with the system and using mobile phones (Target 5.b). ",
+      "evidenceURL": "https://assets.rumsan.com/rumsan-group/rahat-pilot-7.0-case-study-report.pdf"
+    },
+    {
+      "SDGNumber": 11,
+      "evidenceText": "Rahat is a cash and voucher assistance system which utilizes local traders and institutions to distribute cash and in-kind relief packages during disaster recovery. This means that the local businesses can continue to supply available products and earn income simultaneously. This thus reduces economic burden on poor people and creates a multiplier effect on the local economy.",
+      "evidenceURL": "https://assets.rumsan.com/rumsan-group/-rahat-pilot-5.0-case-study-report.pdf"
+    }
+  ],
+  "sectors": [
+    "Digital/Data/Tech",
+    "Sustainable Cities"
+  ],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "name": "API service for all the other web-apps",
+      "url": "https://github.com/esatya/rahat"
+    },
+    {
+      "name": "App used by agencies to track and distribute aids",
+      "url": "https://github.com/esatya/rahat-agency"
+    },
+    {
+      "name": "To onboard beneficiaries",
+      "url": "https://github.com/esatya/rahat-mobilizer"
+    },
+    {
+      "name": "To serve beneficiary for aid distribution",
+      "url": "https://github.com/esatya/rahat-vendor"
+    },
+    {
+      "name": "Mobile based vendor wallet app to serve beneficiary for aid distribution",
+      "url": "https://github.com/esatya/rahat-vendor-app"
+    },
+    {
+      "name": "All the smart contracts implemented in Rahat application",
+      "url": "https://github.com/esatya/rahat-contracts"
+    },
+    {
+      "name": "OTP service to verify transactions between beneficiary and vendor",
+      "url": "https://github.com/esatya/rahat-otp"
+    },
+    {
+      "name": "Rahat tool to onboard beneficiaries for agencies and implementers",
+      "url": "https://github.com/esatya/rahat-aid-connect"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "Rumsan Associates Private Limited",
+      "website": "https://www.rumsan.com/",
+      "org_type": "owner",
+      "contact_name": "Ruchin Singh",
+      "contact_email": "ruchin@rumsan.com"
+    },
+    {
+      "name": "UNICEF Venture Fund",
+      "website": "https://www.unicefinnovationfund.org/",
+      "org_type": "funder"
+    }
+  ],
+  "stage": "DPG",
+  "clearOwnership": {
+    "isOwnershipExplicit": "Yes",
+    "copyrightURL": "https://www.github.com/esatya"
+  },
+  "platformIndependence": {
+    "mandatoryDepsCreateMoreRestrictions": "Yes",
+    "isSoftwarePltIndependent": "Yes",
+    "pltIndependenceDesc": "Yes, currently we are dependent on the local SMS service provider. The other instances of Rahat need to connect to the local SMS service provider of that region. Rahat is also compatible with Twilio APIs and can be integratable with the Open Source cloud communication platform such as somleng (https://www.somleng.org) for SMS services."
+  },
+  "documentation": {
+    "isDocumentationAvailable": "Yes",
+    "documentationURL": [
+      "https://docs.rahat.io/"
+    ]
+  },
+  "NonPII": {
+    "collectsNonPII": "Yes",
+    "checkNonPIIAccessMechanism": "Yes",
+    "nonPIIAccessMechanism": "All the non-PII data is accessible through the REST API (https://docs.rahat.io/api/)  in JSON format. Each Agency of Rahat has its own REST API and can choose to make it public or not."
+  },
+  "privacy": {
+    "isPrivacyCompliant": "Yes",
+    "privacyComplianceList": [
+      "The Privacy Act, 2075 (2018) of Government of Nepal"
+    ],
+    "adherenceSteps": [
+      "Rahat uses an Ethereum based private network and non convertible tokens in a closed ecosystem because of the Central Bank of Nepal’s crypto ban. For countries using the Rahat projects in other regions are responsible for complying with local legislation. ",
+      "Privacy policy - https://docs.rahat.io/privacy-policy"
+    ]
+  },
+  "standards": {
+    "supportStandards": "Yes",
+    "standardsList": [
+      "Secure Sockets Layer (SSL)",
+      "Open Web Application Security Project",
+      "REST API"
+    ],
+    "evidenceStandardSupport": [
+      "https://docs.rahat.io/docs/contributing_guidelines",
+      "https://docs.rahat.io/docs/tech_stack",
+      "https://docs.rahat.io/api"
+    ],
+    "implementBestPractices": "Yes",
+    "bestPracticesList": [
+      "We have developed transparent open source software in accordance with the Principles for Digital Development with close collaboration with various humanitarian agencies and with local users. ",
+      "The software development process follows agile methodology for quicker and cheaper iterative development along with best practices for open-source development - contribution guidelines, documentation etc.",
+      "For new version delivery, Rahat follows Continuous integration/continuous delivery (CI/CD) pipeline so that incremental development is reliable. ",
+      "AirBNB Coding Standards"
+    ]
+  },
+  "doNoHarm": {
+    "preventHarm": {
+      "stepsToPreventHarm": "Yes",
+      "additionalInfoMechanismProcessesPolicies": "Rahat software provides documentation and guidelines to mitigate security and privacy risks. We adhere to best practices for privacy and data security in accordance with Nepali laws and regulations for the relief distribution service that we provide.  It is the responsibility of each individual organization that implements the software to adhere to best practices, since each instance of the software is locally owned and maintained, and the Rahat will not have access to individual organization databases."
+    },
+    "dataPrivacySecurity": {
+      "collectsPII": "Yes",
+      "typesOfDataCollected": [
+        "Agency administrator  - Name, Email, Phone",
+        "Beneficiaries - Name, Phone Number, Address,Email Address, Age, Gender Image: Beneficiary’s profile image and Government identification document",
+        "Vendors - Name, Phone Number, Email, Address Image: Vendor’s profile image and Government identification document",
+        "Social mobilizers - Name, Phone Number, Email, Address  Image: social mobilizer’s profile image and Government identification document"
+      ],
+      "thirdPartyDataSharing": "No",
+      "dataSharingCircumstances": [
+        ""
+      ],
+      "ensurePrivacySecurity": "Yes",
+      "privacySecurityDescription": "PII data are not publicly available and only be accessed by authorized personnel with specific roles. For example, the vendors won’t be able to access the KYC information/documentation.  The user access and privilege restricts access to specific kinds of information and features to particular roles.   Rahat has privacy policy in place - https://docs.rahat.io/privacy-policy "
+    },
+    "inappropriateIllegalContent": {
+      "collectStoreDistribute": "No",
+      "type": "",
+      "contentFilter": "",
+      "policyGuidelinesDocumentationLink": "",
+      "illegalContentDetection": "",
+      "illegalContentDetectionMechanism": ""
+    },
+    "protectionFromHarassment": {
+      "userInteraction": "Yes",
+      "addressSafetySecurityUnderageUsers": "Yes",
+      "stepsAddressRiskPreventSafetyUnderageUsers": [
+        "Interactions between users / contributors on this project are managed through an online forum - Discord Channel and UNICEF Innovation Open Source Network",
+        "Terms of Service requires people to be over a minimum age to access our app or website. The minimum age to access forums is 13, unless local legislation mandates an older age. https://discord.com/terms#age-requirements-and-responsibility-of-parents-and-guardians and https://meta.discourse.org/tos#heading--conditions ",
+        "Any underaged beneficiaries in the aid distribution program needs to be accompanied/consented by guardian(s) or parent(s) to receive relief materials and photos"
+      ],
+      "griefAbuseHarassmentProtection": "Yes",
+      "harassmentProtectionSteps": [
+        "Rahat is governed by clearly stated community guidelines: https://docs.rahat.io/docs/contribution-guidelines ",
+        "Forums are actively moderated by members of the Rahat core team, who can flag and remove content or comments as needed."
+      ]
+    }
+  },
+  "locations": {
+    "developmentCountries": [
+      "Nepal"
+    ],
+    "deploymentCountries": [
+      "Nepal"
+    ]
+  }
+}
