@@ -1225,42 +1225,6 @@
     "stage": "nominee"
   },
   {
-    "id": "geomancer",
-    "name": "Geomancer",
-    "description": "Geospatial feature engineering using OpenStreetMap data.",
-    "website": "https://thinkingmachin.es",
-    "license": [
-      {
-        "spdx": "MIT",
-        "licenseURL": "https://github.com/thinkingmachines/geomancer/blob/master/LICENSE"
-      }
-    ],
-    "SDGs": [
-      {
-        "SDGNumber": 9,
-        "evidenceURL": "https://stories.thinkingmachin.es/geomancer/"
-      }
-    ],
-    "sectors": [],
-    "type": [
-      "software"
-    ],
-    "repositories": [
-      {
-        "name": "main",
-        "url": "https://github.com/thinkingmachines/geomancer"
-      }
-    ],
-    "organizations": [
-      {
-        "name": "Thinking Machines Data Science Inc.",
-        "website": "https://thinkingmachin.es/",
-        "org_type": "owner"
-      }
-    ],
-    "stage": "nominee"
-  },
-  {
     "id": "gibbon",
     "name": "Gibbon",
     "aliases": [
@@ -5056,6 +5020,56 @@
         "org_type": "maintainer",
         "contact_name": "Open Knowledge Brasil",
         "contact_email": "contato@ok.org.br"
+      }
+    ],
+    "stage": "nominee"
+  },
+  {
+    "id": "vr-for-schools",
+    "name": "VR for Schools",
+    "aliases": [
+      "VR4Schools",
+      "LeVRn"
+    ],
+    "description": "Educational virtual reality content for the Nigerian junior secondary school curriculum.",
+    "website": "http://vr4schools.org/",
+    "license": [
+      {
+        "spdx": "GPL-3.0",
+        "licenseURL": "https://github.com/Imisi3D/leVRn-beta/blob/master/LICENSE"
+      }
+    ],
+    "SDGs": [
+      {
+        "SDGNumber": 4,
+        "evidenceURL": "https://medium.com/imisi3d/virtual-reality-for-education-in-nigeria-fecb01e0cefe"
+      }
+    ],
+    "sectors": [],
+    "type": [
+      "software"
+    ],
+    "repositories": [
+      {
+        "name": "LeVRn Potential and Kinetic Energy",
+        "url": "https://github.com/Imisi3D/LeVRnPotentialAndKineticEnergy"
+      },
+      {
+        "name": "LeVRn Algebra",
+        "url": "https://github.com/Imisi3D/leVRnAlgebra"
+      },
+      {
+        "name": "LeVRn Non-communicable diseases",
+        "url": "https://github.com/Imisi3D/LeVRn_Non_Communicable_Diseases"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Imìsí 3D ",
+        "website": "https://imisi3d.com/",
+        "org_type": "owner",
+        "contact_name": "Judith Okonkwo ",
+        "contact_email": "Judith@imisi3d.com"
       }
     ],
     "stage": "nominee"
