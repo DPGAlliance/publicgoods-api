@@ -2066,54 +2066,6 @@
     "stage": "nominee"
   },
   {
-    "id": "nmf.earth",
-    "name": "NMF.earth",
-    "aliases": [
-      ""
-    ],
-    "description": "Understand and reduce your carbon footprint 🌱",
-    "website": "https://nmf.earth/",
-    "license": [
-      {
-        "spdx": "GPL-3.0",
-        "licenseURL": "https://github.com/NMF-earth/nmf-app/blob/main/LICENSE"
-      }
-    ],
-    "SDGs": [
-      {
-        "SDGNumber": 13,
-        "evidenceText": "Help individuals to track their carbon footprint",
-        "evidenceURL": "https://nmf.earth/"
-      }
-    ],
-    "sectors": [
-      "Climate"
-    ],
-    "type": [
-      "software"
-    ],
-    "repositories": [
-      {
-        "name": "nmf-app",
-        "url": "https://github.com/NMF-earth/nmf-app/"
-      },
-      {
-        "name": "carbon-footprint",
-        "url": "https://github.com/NMF-earth/carbon-footprint"
-      }
-    ],
-    "organizations": [
-      {
-        "name": "NMF.earth",
-        "website": "https://nmf.earth/",
-        "org_type": "owner",
-        "contact_name": "Pierre Bresson",
-        "contact_email": "contact@nmf.earth"
-      }
-    ],
-    "stage": "nominee"
-  },
-  {
     "id": "nvda",
     "name": "NVDA",
     "description": "NVDA allows blind and vision impaired people to access and interact with the Windows operating system and many third party applications.",
