@@ -1,0 +1,178 @@
+{
+  "id": "harmony",
+  "name": "Harmony",
+  "aliases": [
+    ""
+  ],
+  "description": "Harmony is an open-source, end-to end data integration and advanced analytics platform for integrating, harmonizing, analyzing, and visualizing any number of structured data sources from different sectors (e.g. health, education, agriculture, sustainable development, climate change adaptation), ranging from routinely collected individual level data to operational research and survey data. ",
+  "website": "https://github.com/Zenysis/Harmony",
+  "license": [
+    {
+      "spdx": "AGPL-3.0",
+      "licenseURL": "https://github.com/Zenysis/Harmony/blob/master/LICENSE"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 1,
+      "evidenceText": "For ALL: Harmony currently serves as the open source, data integration and data analytics platform for governments in 8 low-, middle- and upper-middle income countries in Asia, Africa, and Latin America. It is also used by the RBM Partnership to End Malaria for global coordination of the malaria response. Scaled through funding by the Global Fund, GAVI, USAID, Bill & Melinda Gates Foundation, Big Win Philanthropy, Vital Strategies, and the Pan American Health Organization, Harmony is utilized to integrate and analyze data across various sectors, including health (for national and sub-national HIV, TB, Malaria, supply chain, programs) and poverty reduction.  Harmony has been used to integrate data from multiple structured data sources, including various health management information systems (e.g. DHIS2), logistic management information systems (e.g. OpenLMIS), Excel and CSV files, surveys (e.g. Demographic and Health Surveys), scorecards, financial data, from individual level data to national surveys, and from open source and enterprise systems. Once data is integrated, it is used to optimize vaccine supply chains, improve financial and human resource allocations for health programs, mitigate loss to follow up of patients, identify and respond to data quality issues, align labor data to educational supply data, rapidly respond to global or national emergencies (e.g. hurricanes and pandemics), and coordinate inter-agency actions and funding. 1. No Poverty Evidence: Harmony is being deployed in more than 8 countries in Sub-Saharan Africa, Asia, and Latin America, and in more than 25 countries through global projects, to integrate and effectively utilize data to mitigate the health and economic challenges felt by those living in extreme poverty. Harmony supports a myriad of governments and organizations to focus on health poverty alleviation that leads to improved health outcomes, a reduction out-of-pocket payments and health expenditures and a healthier workforce. For example, through the RBM Partnership to End Malaria project, Zenysis is supporting the development coordination and mobilization of resources from a variety of sources, in order to provide adequate and predictable supply of malaria commodities and technical assistance services that impact those living in extreme poverty.  Every country Harmony is deployed in is classified as low or middle income country per the World Bank’s classification.   ",
+      "evidenceURL": "https://www.ft.com/content/330b1734-684a-11ea-a6ac-9122541af204"
+    },
+    {
+      "SDGNumber": 3,
+      "evidenceText": "3. Good Health and Well-being Evidence: Harmony is utilized to integrate and analyze data across various disease areas within the health sector, including but not limited to, for national and sub-national HIV, TB, and Malaria programs. Harmony has been used to integrate data from multiple structured data sources, including various health management information systems (e.g. DHIS2), logistic management information systems (e.g. OpenLMIS), Excel and CSV files, surveys (e.g. Demographic and Health Surveys), scorecards, financial data, from individual level data to national surveys, and from open source and enterprise systems. Once data has been integrated, it is being used to optimize vaccine supply chains, improve financial and human resource allocations for health programs, mitigate loss to follow up of patients, identify and respond to data quality issues, align labor data to educational supply data, rapidly respond to global or national emergencies (e.g. hurricanes and pandemics), and coordinate inter-agency actions and funding. Harmony is used by national health ministries, global health stakeholders (The Global Fund, Gavi, USAID). During the COVID-19 pandemic, 3 countries utilized their instance of Harmony for their pandemic response. Excerpt from Devex Article: “Zenysis builds relationships by starting small, and solving data and interoperability problems, identified by users,” John Fairhurst, the head of private sector engagement at the Global Fund to Fight AIDS, Tuberculosis and Malaria, told Devex by email. “This model has proved effective in a range of operating and digital maturity contexts.\" In addition to Mozambique, Zenysis works in Brazil, Pakistan, South Africa, Zambia, Benin, Ethiopia, and Rwanda, as well as for the RBM Partnership to End Malaria, which operates globally. Rwanda Biomedical Centre, a government organization affiliated with Rwanda’s Health Ministry, used to have separate tracking systems for different health priorities, with one for HIV/AIDS, another for malaria, another for tuberculosis, and so on. It is now partnering with Zenysis, which is working on a new agreement with the Rwandan government. RBC said Zenysis’ approach is different from those of other tech companies that have come and gone over the years. “We attribute most of those failures to a lack of ownership or long-term vision,” said Albert Tuyishime, division manager for planning, business strategy, and monitoring and evaluation at RBC. “We’ve had some partners pull out, saying: ‘Our time here has elapsed. The resources we had are now finished, so we have to step out.’” ",
+      "evidenceURL": "https://www.devex.com/news/zenysis-aims-to-be-government-operating-system-in-low-income-nations-100438"
+    },
+    {
+      "SDGNumber": 5,
+      "evidenceText": "5. Gender Equality Evidence: In all deployments, where sex or gender disaggregated data is available, Harmony collects and integrates data on gender that can then be disaggregated and analyzed to help the government unlock key insights to have an impact on the gender-specific outcomes. For example, in South Africa, Zenysis’ software was used for the integration of Adolescent Girls and Young Women programmatic data across three Global Fund stakeholders. By using Zenysis’ analytics tools, the stakeholders have enhanced capacity to track cohorts of clients through time for their respective programs and refer clients more effectively to external services. Excerpt from Global Fund Overview Publication: “In public health programming we need to be a lot smarter in the way we use data in order to make the money go further and ensure that we reach the communities we are trying to reach with the services they require at the right time. NACOSA previously used a spreadsheet to track the number of sex workers reached in South Africa and it became very difficult to accurately track the types of services received and the profiles of the sex workers that we reached. With the Zenysis data platform we are now able to look at the unique number of sex workers reached and the exact services provided. We are able to analyse the data down to a hotspot level to be able to tailor programmatic interventions to better reach the sex workers at the right times. Additionally, we have been able to merge programmatic and finance data, which has helped us look at the cost-effectiveness of the program and identify problems.” Leora Casey Key Populations Manager, Networking HIV & AIDS Community of Southern Africa (NACOSA)",
+      "evidenceURL": "https://www.theglobalfund.org/media/8705/publication_privatesectorzenysis_focuson_en.pdf"
+    },
+    {
+      "SDGNumber": 6,
+      "evidenceText": "6. Clean Water and Sanitation Evidence: Harmony can be used to integrate a myriad of cross-sectoral data systems that can be utilized for analysis. For example data on water quality can be integrated with health data, infrastructure data, and supply chain data to pinpoint an outbreak due to unclean water and optimize the delivery of health commodities to that location.  In March and April 2019, Tropical Cyclones Idai and Kenneth made landfall in Mozambique. The National Institute of Health of Mozambique used Harmony to quickly integrate 8 separate critical emergency response systems into a single platform for analysis. By analyzing the data integrated within Harmony and optimizing key interventions, the Government and all of its partners, including the World Health Organization and Doctors Without Borders, were able to identify tainted water sources and subsequently reduce the number of new cholera cases in Sofala Province, where Cyclone Idai made landfall, from over four hundred (400) per day to zero (0). Excerpt from FT Article: Zenysis formed part of a “virtual control room”, integrating information to help decision makers understand what was happening in the worst hit areas, identify sources of water contamination and where to prioritise cholera vaccinations. It supported an “mAlert system”, which integrated health surveillance data into a single platform for analysis. The output was daily reports distilled from data issued by health facilities and accommodation centres in affected areas, disease monitoring and surveillance from laboratory testing. Machine learning applied to disparate data helps manage shortages of medical supplies Eduardo Samo Gudo, deputy director-general of Mozambique’s National Health Institute, says that such information, combined with epidemiological bulletins and detailed presentations, helped inform daily discussions and decisions.",
+      "evidenceURL": "https://www.ft.com/content/330b1734-684a-11ea-a6ac-9122541af204"
+    },
+    {
+      "SDGNumber": 8,
+      "evidenceText": "8. Decent Work and Economic Growth Evidence: Zenysis is working with the Jobs Creation Commission (JCC) to establish a Jobs Enablement and Data Interoperability (JEDI) platform to help the government manage and monitor its job creation programs. The platform, supported by Big Win Philanthropy, brings together a number of data sources to generate insights for policymakers, employers, job seekers and employment agencies.  Excerpt from Big Win Philanthropy Article: During this meeting, the delegation also learned about Ethiopia’s Jobs Enablement and Data Interoperability (JEDI) platform, developed by Zenysis Technologies to facilitate evidence-based decision-making through aggregating employment data from different information systems. Now in its second phase of expansion, the platform aggregates more than 20 data sources including job creation reports, education data, and labor force and employment surveys to create a national employment database and verify the accuracy of reports received from a variety of sources.",
+      "evidenceURL": "https://www.bigwin.org/blog-posts/ethiopia-shares-key-economic-transformation-insights-with-burkina-faso-delegation/"
+    },
+    {
+      "SDGNumber": 17,
+      "evidenceText": "17. Partnerships for the Goals Evidence: The integration of data across multiple once siloed systems supports the partnership and coordination of both domestic and international stakeholders in each Harmony deployment. For example, the RBM Partnership to End Malaria is the largest global platform for coordinated action towards a world free from malaria and since July 2019, Zenysis Technologies has been working with the RBM partnership to enhance data sharing, coordination and action in the fight against malaria. Zenysis has developed the Global Malaria Monitoring Dashboard to strengthen regional and global reporting requirements, integrate data from different systems, and improve data visualization and management tools. The dashboards integrate epidemiological, programmatic, financial, supply chain, and other data from more than 30 countries.",
+      "evidenceURL": "https://endmalaria.org/dashboard"
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "name": "Zenysis' Harmony ",
+      "url": "https://github.com/Zenysis/Harmony"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "Zenysis Technologies Inc.",
+      "website": "https://www.zenysis.com/",
+      "org_type": "owner",
+      "contact_name": "Kevin Gandhi",
+      "contact_email": "kevin@zenysis.com"
+    }
+  ],
+  "stage": "DPG",
+  "clearOwnership": {
+    "isOwnershipExplicit": "Yes",
+    "copyrightURL": "https://www.zenysis.com/#harmony"
+  },
+  "platformIndependence": {
+    "mandatoryDepsCreateMoreRestrictions": "Yes",
+    "isSoftwarePltIndependent": "Yes",
+    "pltIndependenceDesc": "Emails are sent via Mailgun API, a subscription-based email delivery service. An open functional alternative would be to continue using Mailgun API but use the OpenSMTP interface instead. Alternatively, since the project uses Flask, they can use flask-mail (https://flask-mail.readthedocs.io/en/latest/) and use the Mailgun SMTP credentials"
+  },
+  "documentation": {
+    "isDocumentationAvailable": "Yes",
+    "documentationURL": [
+      "https://github.com/Zenysis/Harmony"
+    ]
+  },
+  "NonPII": {
+    "collectsNonPII": "Yes",
+    "checkNonPIIAccessMechanism": "Yes",
+    "nonPIIAccessMechanism": "Yes, Harmony use cases rely on integrating and then analyzing non-personally identifiable information. For example, Harmony can enable geographic triangulations across logistic management information systems (e.g.LMIS) and routine health systems (e.g. DHIS2).\n\nThere are mechanisms for both importing and extracting data from Harmony using non-proprietary formats: \nImporting data into Harmony: This project comes with a built-in ETL pipeline that has been proven to work in a variety of global health contexts. It provides a general framework for scraping data from any number of data sources or APIs, tools for standardizing this data into a common format (called Base Format), and libraries for merging these disparate datasets together to make them mutually queryable. The data pipeline is based on Zeus, an open-source, no-frills, command-line oriented pipeline runner.\n\n\nExtracting data: Harmony registered users can flexibly extract data from the platform in a number of ways. By using the analytics front-end, users can download query data in Excel, CSV, XML and ADX data formats. In addition, technical users can query the Druid open-source database directly by writing Druid database SQL queries or native Druid JSON-based queries. \n\n"
+  },
+  "privacy": {
+    "isPrivacyCompliant": "Yes",
+    "privacyComplianceList": [
+      "Protection of Personal Information (POPI) act"
+    ],
+    "adherenceSteps": [
+      "Yes, the configuration of the platform is flexible and administrators are able to adjust how the platform operates to abide by local laws and requirements.  Access to Protected Data at the indicator level, dashboards, analyses, and other functionalities can be managed on a per-user basis. Harmony administrators are responsible for determining the appropriate levels of access each user shall have at the highest level of granularity. For example, in South Africa, Harmony users configured the platform to respect the Protection of Personal Information (POPI) act.   In addition, Harmony does not collect any personal information about users other than their sign-in information. "
+    ]
+  },
+  "standards": {
+    "supportStandards": "Yes",
+    "standardsList": [
+      "HTML",
+      "CSS",
+      "Javascript",
+      "HTTPS",
+      "REST",
+      "JSON",
+      "CSV",
+      "ISO 3166"
+    ],
+    "evidenceStandardSupport": [
+      "https://github.com/Zenysis/Harmony/blob/master/web/server/templates/layout.html",
+      "https://github.com/Zenysis/Harmony/blob/master/web/public/scss/components/navbar/_navbar.scss",
+      "https://github.com/Zenysis/Harmony/blob/master/web/client/services/APIService.js",
+      "https://github.com/Zenysis/Harmony/blob/master/data/pipeline/scripts/process_csv.py",
+      "https://github.com/Zenysis/Harmony/blob/master/web/client/components/AdvancedQueryApp/LiveResultsView/QueryResultActionButtons/ShareQueryModal/DownloadDataTab.jsx"
+    ],
+    "implementBestPractices": "Yes",
+    "bestPracticesList": [
+      "Zenysis uses agile project methodologies to implement its software, including for Harmony, and has successfully completed all of its integration, analysis, monitoring and evaluation, and modeling projects using agile principles. For Harmony, new integrations will tend to inform how visualizations, dashboards, and analyses need to function, and changes to those components might inform how the integration pipeline should change as well. Within Harmony, the full feature set of the product is immediately available to users once data is integrated. Therefore, users will not have to wait until different phases of the project to begin interacting with data once the data integration pipeline is created. Instead, users can immediately begin analyzing data, creating reports, building dashboards, validating results, providing feedback and making decisions. User feedback is collected and requirements are incorporated back into the Project Library (a comprehensive knowledge management resource), spurring a new round of development. Agile development at Zenysis ensures that users are involved at every stage of development and results in a product that is tightly aligned with evolving user needs.  Harmony was also developed in line with the Principles of Digital Development, including designing the software with the user in mind and building it for sustainability. The Harmony platform software was built with technical best practices at its core. Best practices include:  Cross-browser compatibility:  The platform supports Microsoft Edge, Google Chrome and Firefox   Mobile web and responsive web design:  While the platform is optimized for desktop computers, the platform interface is responsive and features are reasonably available on mobile devices.   Internationalization:  The platform supports writing systems outside of the Latin alphabet (all UTF-8 characters, not just those designated LATIN). The project is built with a robust translation and localization library that enables users to translate any content.   Consistent style guidelines: Linters are used to maintain consistent style and naming conventions that adhere to the best practices for the respective language.   Immutable data models: ZenModels are our well-documented, internal immutable data models. They are used to maintain immutability with React.   Privacy and security  Data Encryption in Transit: all communication between users of the Harmony platform and the server is encrypted with TLS. Servers should support TLS 1.3, Perfect Forward Secrecy (PFS) and Elliptic Curve Cryptography. This ensures that no Protected Data will leave servers in an unencrypted state.  Data Encryption at Rest: Protected Data stored on configured servers is encrypted with Advanced Encryption Standard 128 (AES-128). Users are automatically logged out of their user session after 30 minutes of inactivity by default. "
+    ]
+  },
+  "doNoHarm": {
+    "preventHarm": {
+      "stepsToPreventHarm": "Yes",
+      "additionalInfoMechanismProcessesPolicies": "Harmony comes with various guidelines, protocols, and tools to help prevent risks and ultimately avoid harm. For example, as noted above, all communication between users of the Harmony platform and the server is encrypted with TLS, Harmony servers should support TLS 1.3, the use of Perfect Forward Secrecy (PFS) and Elliptic Curve Cryptography ensures that no Protected Data will leave servers in an unencrypted state, and protected Data stored on configured servers is encrypted with Advanced Encryption Standard 128 (AES-128).   Furthermore, at the user level, unique identifiers and passwords are given to each user with specific accessibility guardrails that are defined by key stakeholders overseeing any instance of Harmony. Users are also automatically logged out of their user session after 30 minutes of inactivity by default.   Given Harmony is open source and may be used freely, if Zenysis is not supporting the Harmony implementation/utilization, we expect organizations to also establish their own data and privacy risk mitigation efforts, beyond what is already offered in the software, in accordance with any applicable local laws or best practices."
+    },
+    "dataPrivacySecurity": {
+      "collectsPII": "Yes",
+      "typesOfDataCollected": [
+        ""
+      ],
+      "thirdPartyDataSharing": "No",
+      "dataSharingCircumstances": [
+        ""
+      ],
+      "ensurePrivacySecurity": "Yes",
+      "privacySecurityDescription": "All communication between users of the Harmony platform and the server is encrypted with TLS. Harmony servers should support TLS 1.3, the use of Perfect Forward Secrecy (PFS) and Elliptic Curve Cryptography ensures that no Protected Data will leave servers in an unencrypted state, and protected Data stored on configured servers is encrypted with Advanced Encryption Standard 128 (AES-128)"
+    },
+    "inappropriateIllegalContent": {
+      "collectStoreDistribute": "No",
+      "type": "",
+      "contentFilter": "",
+      "policyGuidelinesDocumentationLink": "",
+      "illegalContentDetection": "",
+      "illegalContentDetectionMechanism": ""
+    },
+    "protectionFromHarassment": {
+      "userInteraction": "Yes",
+      "addressSafetySecurityUnderageUsers": "Yes",
+      "stepsAddressRiskPreventSafetyUnderageUsers": [
+        "Currently Harmony contributors and users interact through Zenysis' facilitation. E.g. A country's Information and Communications Technology (ICT) manager may want a new feature in Harmony, which is discussed and supported through Zenysis' engineering and product teams. Thus, at this time, any user that interacts with a contributor is known to Zenysis and does not include underage users. Furthermore, as noted above, access to data at the indicator level, dashboards, analyses, and other functionality can be delegated on a per-user basis. Harmony administrators are responsible for determining the appropriate levels of access each user shall have. Thus, access is established by administrators who target only professional users and also would be responsible for flagging, addressing, and taking any action necessary to project users. Users also have the ability to connect with Zenysis staff through various channels (in-platform, email, in-person, phone etc) in country or globally, if the user finds any issues utilizing our software or when dealing with contributors or when building the software. In the future, Zenysis will plan to have a Harmony Community of Practice, which will include age limits for participation and community guidelines that provide a code of conduct and governance for the community. The Zenysis team will create both automated and non-automated processes to flag inappropriate behavior, risk, harassment or any other deleterious actions or posts by users or contributors. "
+      ],
+      "griefAbuseHarassmentProtection": "Yes",
+      "harassmentProtectionSteps": [
+        "Currently Harmony contributors and users interact through Zenysis' facilitation. E.g. A country's Information and Communications Technology (ICT) manager may want a new feature in Harmony, which is discussed and supported through Zenysis’ engineering and product teams. Thus, at this time, any user that interacts with a contributor is known to Zenysis and does not include underage users. Furthermore, as noted above, access to data at the indicator level, dashboards, analyses, and other functionality can be delegated on a per-user basis. Harmony administrators are responsible for determining the appropriate levels of access each user shall have. Thus, access is established by administrators who target only professional users and also would be responsible for flagging, addressing, and taking any action necessary to project users. Users also have the ability to connect with Zenysis staff through various channels (in-platform, email, in-person, phone etc) in country or globally, if the user finds any issues utilizing our software or when dealing with contributors or when building the software. In the future, Zenysis will plan to have a Harmony Community of Practice, which will include age limits for participation and community guidelines that provide a code of conduct and governance for the community. The Zenysis team will create both automated and non-automated processes to flag inappropriate behavior, risk, harassment or any other deleterious actions or posts by users or contributors. "
+      ]
+    }
+  },
+  "locations": {
+    "developmentCountries": [
+      "United States of America",
+      "Uganda",
+      "Ethiopia",
+      "United Kingdom",
+      "Rwanda",
+      "South Africa",
+      "France"
+    ],
+    "deploymentCountries": [
+      "Ethiopia",
+      "Benin",
+      "Rwanda",
+      "Zambia",
+      "Mozambique",
+      "Pakistan",
+      "Brazil",
+      "South Africa"
+    ]
+  }
+}
