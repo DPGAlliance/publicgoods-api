@@ -41,7 +41,7 @@
   "repositories": [
     {
       "name": "main",
-      "url": "https://github.com/mojaloop/mojaloop"
+      "url": "https://github.com/mojaloop"
     }
   ],
   "organizations": [
