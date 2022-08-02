@@ -368,16 +368,16 @@
     ],
     "organizations": [
       {
-        "name": "The Apache Software Foundation",
-        "website": "https://apache.org",
-        "org_type": "owner"
-      },
-      {
         "name": "Mifos",
         "website": "https://mifos.org",
         "org_type": "owner",
         "contact_name": "Edward Cable",
         "contact_email": "edcable@mifos.org"
+      },
+      {
+        "name": "The Apache Software Foundation",
+        "website": "https://apache.org",
+        "org_type": "owner"
       }
     ],
     "stage": "DPG"
@@ -462,16 +462,16 @@
     ],
     "organizations": [
       {
-        "name": "UNICEF Ventures Fund",
-        "website": "https://unicefinnovationfund.org/",
-        "org_type": "funder"
-      },
-      {
         "name": "Avyantra Health Technologies",
         "website": "https://www.avyantra.com/",
         "org_type": "owner",
         "contact_name": "Hyma Goparaju",
         "contact_email": "avyantra@gmail.com"
+      },
+      {
+        "name": "UNICEF Ventures Fund",
+        "website": "https://unicefinnovationfund.org/",
+        "org_type": "funder"
       }
     ],
     "stage": "DPG"
@@ -4584,7 +4584,9 @@
       {
         "name": "Cirrolytix Research Services",
         "website": "https://aedesproject.org",
-        "org_type": "owner"
+        "org_type": "owner",
+        "contact_name": "Rache Melendres",
+        "contact_email": "rache.melendres@cirrolytix.com"
       }
     ],
     "stage": "DPG"
