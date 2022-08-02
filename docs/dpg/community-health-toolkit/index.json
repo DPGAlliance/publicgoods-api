@@ -46,7 +46,9 @@
     {
       "name": "Medic Mobile, Inc.",
       "website": "https://medic.org",
-      "org_type": "owner"
+      "org_type": "owner",
+      "contact_name": "Isaac Holeman",
+      "contact_email": "isaac@medic.org"
     }
   ],
   "stage": "DPG",

@@ -75,7 +75,7 @@
     "SDGs": [
       {
         "SDGNumber": 11,
-        "evidenceText": "The “Accessible Kazakhstan” map reflects the needs of those who particularly seek accessible, safe and comfortable public space, including people with disabilities, parents with small children in prams, the elderly, pregnant women, temporarily injured people and children under seven years old.  When monitoring a public facility, the owner of the facility is present, and the project team immediately notifies him or her of which elements of the facility do not meet the standards for accessibility of facilities open to the public. On the portal “Accessible Kazakhstan” one can find checklists with criteria for assessing accessibility of facilities, so that, if desired, the owners can read them and afterwards be involved in monitoring independently. Upon request, the project team develops recommendations, on the basis of which owners and government agencies start working on the adaptation of particular facilities for the aforementioned categories of citizens. Based on current data on accessibility of public facilities, comprehensive policies and plans for inclusion can be adopted and implemented. This, in turn, will reduce inequalities and accelerate achievement of other Sustainable Development Goals that affect development of an inclusive society. The world community needs qualified specialists who are able to form a barrier-free environment. It is for the purpose of training such specialists in 2019 within the framework of the “Accessible Kazakhstan” project that a unique online course “Ensuring accessibility of a public facility” was developed. The course: helps to get acquainted with legislation governing the provision of access to public facilities for people with disabilities and other population groups with limited mobility; can be used to find out what criteria accessibility of public facilities and open spaces is evaluated by; explains how to protect one’s right to a barrier-free environment; teaches how to monitor a public facility and develop recommendations for its adaptation to the needs of people with disabilities.",
+        "evidenceText": "The 'Accessible Kazakhstan' map reflects the needs of those who particularly seek accessible, safe and comfortable public space, including people with disabilities, parents with small children in prams, the elderly, pregnant women, temporarily injured people and children under seven years old.  When monitoring a public facility, the owner of the facility is present, and the project team immediately notifies him or her of which elements of the facility do not meet the standards for accessibility of facilities open to the public. On the portal “Accessible Kazakhstan” one can find checklists with criteria for assessing accessibility of facilities, so that, if desired, the owners can read them and afterwards be involved in monitoring independently. Upon request, the project team develops recommendations, on the basis of which owners and government agencies start working on the adaptation of particular facilities for the aforementioned categories of citizens. Based on current data on accessibility of public facilities, comprehensive policies and plans for inclusion can be adopted and implemented. This, in turn, will reduce inequalities and accelerate achievement of other Sustainable Development Goals that affect development of an inclusive society. The world community needs qualified specialists who are able to form a barrier-free environment. It is for the purpose of training such specialists in 2019 within the framework of the “Accessible Kazakhstan” project that a unique online course “Ensuring accessibility of a public facility” was developed. The course: helps to get acquainted with legislation governing the provision of access to public facilities for people with disabilities and other population groups with limited mobility; can be used to find out what criteria accessibility of public facilities and open spaces is evaluated by; explains how to protect one’s right to a barrier-free environment; teaches how to monitor a public facility and develop recommendations for its adaptation to the needs of people with disabilities.",
         "evidenceURL": "https://cabar.asia/en/how-accessible-is-kazakhstan-for-people-with-disabilities"
       }
     ],
@@ -95,7 +95,9 @@
       {
         "name": "Public fund \"Tandau Foundation\"",
         "website": "https://oft.kz",
-        "org_type": "owner"
+        "org_type": "owner",
+        "contact_name": "Alexandra Sharonova",
+        "contact_email": "sharonova.pav@gmail.com"
       }
     ],
     "stage": "DPG"
@@ -235,7 +237,9 @@
       {
         "name": "Rentadrone.cl",
         "website": "https://rentadrone.cl/",
-        "org_type": "owner"
+        "org_type": "owner",
+        "contact_name": "Julio Rejón",
+        "contact_email": "julio.rejon@rentadrone.cl"
       }
     ],
     "stage": "DPG"
@@ -371,7 +375,9 @@
       {
         "name": "Mifos",
         "website": "https://mifos.org",
-        "org_type": "owner"
+        "org_type": "owner",
+        "contact_name": "Edward Cable",
+        "contact_email": "edcable@mifos.org"
       }
     ],
     "stage": "DPG"
@@ -459,6 +465,13 @@
         "name": "UNICEF Ventures Fund",
         "website": "https://unicefinnovationfund.org/",
         "org_type": "funder"
+      },
+      {
+        "name": "Avyantra Health Technologies",
+        "website": "https://www.avyantra.com/",
+        "org_type": "owner",
+        "contact_name": "Hyma Goparaju",
+        "contact_email": "avyantra@gmail.com"
       }
     ],
     "stage": "DPG"
@@ -504,7 +517,9 @@
       {
         "name": "Bahmni",
         "website": "https://bahmni.org",
-        "org_type": "owner"
+        "org_type": "owner",
+        "contact_name": "Vinod Sankaranarayanan",
+        "contact_email": "vinod.sankaranarayanan@thoughtworks.com"
       }
     ],
     "stage": "DPG"
@@ -652,7 +667,9 @@
       {
         "name": "CIREHA",
         "website": "https://cireha.com.ar",
-        "org_type": "owner"
+        "org_type": "owner",
+        "contact_name": "Martin Bedouret",
+        "contact_email": "martinbedouret@gmail.com"
       }
     ],
     "stage": "DPG"
@@ -699,7 +716,9 @@
       {
         "name": "Chair of Architecture and Building Systems",
         "website": "https://systems.arch.ethz.ch/",
-        "org_type": "owner"
+        "org_type": "owner",
+        "contact_name": "Hsieh Shan-Shan",
+        "contact_email": "hsieh@arch.ethz.ch"
       }
     ],
     "stage": "DPG"
@@ -895,7 +914,9 @@
       {
         "name": "Dimagi",
         "website": "https://dimagi.com",
-        "org_type": "owner"
+        "org_type": "owner",
+        "contact_name": "Jonathan Jackson",
+        "contact_email": "jjackson@dimagi.com"
       }
     ],
     "stage": "DPG"
@@ -948,7 +969,9 @@
       {
         "name": "Medic Mobile, Inc.",
         "website": "https://medic.org",
-        "org_type": "owner"
+        "org_type": "owner",
+        "contact_name": "Isaac Holeman",
+        "contact_email": "isaac@medic.org"
       }
     ],
     "stage": "DPG"
@@ -1153,7 +1176,9 @@
       {
         "name": "World Bank",
         "website": "https://www.worldbank.org/",
-        "org_type": "owner"
+        "org_type": "owner",
+        "contact_name": "Nathan Schneck",
+        "contact_email": "nschneck@pactworld.org"
       }
     ],
     "stage": "DPG"
@@ -1204,7 +1229,9 @@
       {
         "name": "Health Information Systems Programme (HISP), University of Oslo",
         "website": "https://www.mn.uio.no/ifi/english/research/networks/hisp/",
-        "org_type": "owner"
+        "org_type": "owner",
+        "contact_name": "Max Krafft",
+        "contact_email": "max@dhis2.org"
       },
       {
         "name": "Norad",
@@ -1357,7 +1384,9 @@
       {
         "name": "eGovernments Foundation",
         "website": "https://egov.org.in/",
-        "org_type": "owner"
+        "org_type": "owner",
+        "contact_name": "Rajeesh R Menon",
+        "contact_email": "rajeesh.menon@in.ey.com"
       },
       {
         "name": "eGovernments Foundation",
@@ -1982,7 +2011,9 @@
       {
         "name": "University of Bamenda",
         "website": "https://uniba.cm/",
-        "org_type": "maintainer"
+        "org_type": "maintainer",
+        "contact_name": "Meh Mbeh Ida Delphine",
+        "contact_email": "idadelveloper@gmail.com"
       }
     ],
     "stage": "DPG"
@@ -2067,7 +2098,9 @@
       {
         "name": "Project Tech4Dev",
         "website": "https://tech4dev.com/",
-        "org_type": "owner"
+        "org_type": "owner",
+        "contact_name": "Donald Lobo",
+        "contact_email": "lobo@chintugudiya.org"
       }
     ],
     "stage": "DPG"
@@ -2153,7 +2186,9 @@
       {
         "name": "OPEN HEALTHSITE CONSULTING LTD",
         "website": "https://healthsites.io",
-        "org_type": "owner"
+        "org_type": "owner",
+        "contact_name": "Mark Herringer",
+        "contact_email": "mark@healthsites.io"
       }
     ],
     "stage": "DPG"
@@ -2196,7 +2231,9 @@
       {
         "name": "IntraHealth International",
         "website": "https://www.intrahealth.org/",
-        "org_type": "owner"
+        "org_type": "owner",
+        "contact_name": "Dana Acciavatt",
+        "contact_email": "dacciavatti@intrahealth.org"
       }
     ],
     "stage": "DPG"
@@ -2498,7 +2535,9 @@
       {
         "name": "Ruby for Good",
         "website": "https://rubyforgood.org",
-        "org_type": "owner"
+        "org_type": "owner",
+        "contact_name": "Sean Marcia",
+        "contact_email": "sean@rubyforgood.org"
       }
     ],
     "stage": "DPG"
@@ -2545,6 +2584,7 @@
         "name": "if-me.org",
         "website": "https://www.if-me.org/",
         "org_type": "owner",
+        "contact_name": "Julia Nguyen",
         "contact_email": "join.ifme@gmail.com"
       }
     ],
@@ -2585,7 +2625,9 @@
       {
         "name": "HLN Consulting, LLC",
         "website": "https://hln.com/",
-        "org_type": "owner"
+        "org_type": "owner",
+        "contact_name": "Noam H. Arzt",
+        "contact_email": "arzt@hln.com"
       }
     ],
     "stage": "DPG"
@@ -2884,7 +2926,9 @@
       {
         "name": "KoBo, Inc",
         "website": "https://www.kobotoolbox.org",
-        "org_type": "owner"
+        "org_type": "owner",
+        "contact_name": "Tino Kreutzer",
+        "contact_email": "tino.kreutzer@kobotoolbox.org"
       }
     ],
     "stage": "DPG"
@@ -2988,7 +3032,9 @@
       {
         "name": "Stanford Center for Health Education",
         "website": "https://healtheducation.stanford.edu/",
-        "org_type": "maintainer"
+        "org_type": "maintainer",
+        "contact_name": "Emma Rachel Rashes",
+        "contact_email": "erashes@stanford.edu"
       }
     ],
     "stage": "DPG"
@@ -3149,7 +3195,9 @@
       {
         "name": "Norwegian Meteorological Insitute",
         "website": "https://www.met.no/en",
-        "org_type": "owner"
+        "org_type": "owner",
+        "contact_name": "Jørn Kristiansen",
+        "contact_email": "jornk@met.no"
       }
     ],
     "stage": "DPG"
@@ -3188,7 +3236,9 @@
       {
         "name": "IntraHealth International",
         "website": "https://www.intrahealth.org",
-        "org_type": "owner"
+        "org_type": "owner",
+        "contact_name": "Caitlin Loehr",
+        "contact_email": "cloehr@intrahealth.org"
       }
     ],
     "stage": "DPG"
@@ -3228,7 +3278,9 @@
       {
         "name": "Mifos",
         "website": "https://mifos.org/",
-        "org_type": "owner"
+        "org_type": "owner",
+        "contact_name": "Edward Cable",
+        "contact_email": "edcable@mifos.org"
       }
     ],
     "stage": "DPG"
@@ -3268,7 +3320,9 @@
       {
         "name": "Mifos",
         "website": "https://mifos.org",
-        "org_type": "owner"
+        "org_type": "owner",
+        "contact_name": "Edward Cable",
+        "contact_email": "edcable@mifos.org"
       }
     ],
     "stage": "DPG"
@@ -3308,7 +3362,9 @@
       {
         "name": "Mifos",
         "website": "https://mifos.org/",
-        "org_type": "owner"
+        "org_type": "owner",
+        "contact_name": "Edward Cable",
+        "contact_email": "edcable@mifos.org"
       }
     ],
     "stage": "DPG"
@@ -3348,7 +3404,9 @@
       {
         "name": "Mifos",
         "website": "https://mifos.org/",
-        "org_type": "owner"
+        "org_type": "owner",
+        "contact_name": "Edward Cable",
+        "contact_email": "edcable@mifos.org"
       }
     ],
     "stage": "DPG"
@@ -3424,7 +3482,9 @@
       {
         "name": "MOSIP",
         "website": "https://mosip.io/",
-        "org_type": "owner"
+        "org_type": "owner",
+        "contact_name": "Arun Gurumurthy",
+        "contact_email": "arun@mosip.io"
       },
       {
         "name": "International Institute of Information Technology, Bangalore (IIIT-B)",
@@ -3821,7 +3881,9 @@
       {
         "name": "UNICEF",
         "website": "https://www.unicef.org/",
-        "org_type": "owner"
+        "org_type": "owner",
+        "contact_name": "Gerda Binder",
+        "contact_email": "gbinder@unicef.org"
       }
     ],
     "stage": "DPG"
@@ -3869,7 +3931,9 @@
       {
         "name": "Autonomous Systems Research Ltd",
         "website": "https://as-research.org",
-        "org_type": "owner"
+        "org_type": "owner",
+        "contact_name": "Moses gichangA",
+        "contact_email": "gichanga@as-research.org"
       },
       {
         "name": "UNICEF Ventures Fund",
@@ -3927,7 +3991,9 @@
       {
         "name": "Food and Agriculture Organization (FAO) of the United Nations",
         "website": "https://www.fao.org/home/en/",
-        "org_type": "owner"
+        "org_type": "owner",
+        "contact_name": "SanchezPausDiaz, Alfonso",
+        "contact_email": "alfonso.sanchezpausdiaz@fao.org"
       }
     ],
     "stage": "DPG"
@@ -3972,7 +4038,9 @@
       {
         "name": "opencrvs.org",
         "website": "https://www.opencrvs.org/",
-        "org_type": "maintainer"
+        "org_type": "maintainer",
+        "contact_name": "Edward Duffus",
+        "contact_email": "edward.duffus@plan-international.org"
       },
       {
         "name": "Plan International Australia",
@@ -4109,7 +4177,9 @@
       {
         "name": "Government of Sierra Leone",
         "website": "https://www.dsti.gov.sl",
-        "org_type": "owner"
+        "org_type": "owner",
+        "contact_name": "Salton Massally",
+        "contact_email": "salton.massally@gmail.com"
       }
     ],
     "stage": "DPG"
@@ -4159,7 +4229,9 @@
       {
         "name": "Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ)",
         "website": "https://www.giz.de/en/html/index.html",
-        "org_type": "owner"
+        "org_type": "owner",
+        "contact_name": "Bhattarai, Saurav",
+        "contact_email": "saurav.bhattarai@giz.de"
       },
       {
         "name": "OpenIMIS",
@@ -4212,7 +4284,9 @@
       {
         "name": "GeoTech Innovations Ltd",
         "website": "https://openlittermap.com/",
-        "org_type": "owner"
+        "org_type": "owner",
+        "contact_name": "Seán Lynch",
+        "contact_email": "openlittermap@gmail.com"
       }
     ],
     "stage": "DPG"
@@ -4254,7 +4328,9 @@
       {
         "name": "VillageReach",
         "website": "https://www.villagereach.org",
-        "org_type": "owner"
+        "org_type": "owner",
+        "contact_name": "Pranil Singh",
+        "contact_email": "pranil.singh@openlmis.org"
       }
     ],
     "stage": "DPG"
@@ -4297,7 +4373,9 @@
       {
         "name": "OpenMRS, Inc.",
         "website": "https://openmrs.org",
-        "org_type": "owner"
+        "org_type": "owner",
+        "contact_name": "Jennifer Antilla",
+        "contact_email": "jennifer@openmrs.org"
       }
     ],
     "stage": "DPG"
@@ -4347,7 +4425,9 @@
       {
         "name": "Ona",
         "website": "https://company.ona.io/",
-        "org_type": "owner"
+        "org_type": "owner",
+        "contact_name": "Marcha Bekker",
+        "contact_email": "mbekker@ona.io"
       }
     ],
     "stage": "DPG"
@@ -4395,7 +4475,9 @@
       {
         "name": "UNICEF",
         "website": "https://unicef.org",
-        "org_type": "owner"
+        "org_type": "owner",
+        "contact_name": "Robert MacTavish",
+        "contact_email": "rmactavish@unicef.org"
       }
     ],
     "stage": "DPG"
@@ -4733,14 +4815,16 @@
     ],
     "organizations": [
       {
+        "name": "United Nations Children's Fund (UNICEF)",
+        "website": "https://unicef.org",
+        "org_type": "funder",
+        "contact_name": "Matthew Mcnaughton",
+        "contact_email": "mmcnaughton@unicef.org"
+      },
+      {
         "name": "RapidPro",
         "website": "https://rapidpro.io",
         "org_type": "owner"
-      },
-      {
-        "name": "United Nations Children’s Fund (UNICEF)",
-        "website": "https://unicef.org",
-        "org_type": "funder"
       }
     ],
     "stage": "DPG"
@@ -5136,6 +5220,13 @@
     ],
     "organizations": [
       {
+        "name": "Somleng",
+        "website": "https://www.somleng.org/",
+        "org_type": "owner",
+        "contact_name": "David Cooper Wilkie",
+        "contact_email": "dwilkie@somleng.org"
+      },
+      {
         "name": "UNICEF Ventures Fund",
         "website": "https://unicefinnovationfund.org/",
         "org_type": "funder"
@@ -5190,7 +5281,9 @@
       {
         "name": "Foundation for Public Code",
         "website": "https://publiccode.net",
-        "org_type": "owner"
+        "org_type": "owner",
+        "contact_name": "Boris van Hoytema",
+        "contact_email": "boris@publiccode.net"
       }
     ],
     "stage": "DPG"
@@ -5675,7 +5768,9 @@
       {
         "name": "Helmholtz Centre for Infection Research",
         "website": "https://www.helmholtz-hzi.de/",
-        "org_type": "owner"
+        "org_type": "owner",
+        "contact_name": "Dörrbecker, Juliane",
+        "contact_email": "juliane.doerrbecker@helmholtz-hzi.de"
       }
     ],
     "stage": "DPG"
@@ -5770,7 +5865,9 @@
       {
         "name": "Translators Without Borders",
         "website": "https://translatorswithoutborders.org/",
-        "org_type": "owner"
+        "org_type": "owner",
+        "contact_name": "Andy Way",
+        "contact_email": "andy.way@adaptcentre.ie"
       }
     ],
     "stage": "DPG"
@@ -6100,7 +6197,9 @@
       {
         "name": "NIBIO",
         "website": "https://nibio.no",
-        "org_type": "owner"
+        "org_type": "owner",
+        "contact_name": "Tor-Einar Skog",
+        "contact_email": "tor-einar.skog@nibio.no"
       }
     ],
     "stage": "DPG"
@@ -6145,7 +6244,9 @@
       {
         "name": "Ideasis / Turkey",
         "website": "https://ideasis.com.tr/",
-        "org_type": "owner"
+        "org_type": "owner",
+        "contact_name": "Oguzhan Koksal",
+        "contact_email": "oguzhank@ideasis.com.tr"
       },
       {
         "name": "UNICEF Ventures Fund",
@@ -6346,7 +6447,9 @@
       {
         "name": "Nordic Institute for Interoperability Solutions (NIIS)",
         "website": "https://www.niis.org/",
-        "org_type": "owner"
+        "org_type": "owner",
+        "contact_name": "Ville Sirviö",
+        "contact_email": "ville.sirvio@niis.org"
       }
     ],
     "stage": "DPG"
@@ -6459,7 +6562,9 @@
       {
         "name": "DrivenData",
         "website": "https://www.drivendata.co/",
-        "org_type": "maintainer"
+        "org_type": "maintainer",
+        "contact_name": "Peter Bull",
+        "contact_email": "peter@drivendata.org"
       }
     ],
     "stage": "DPG"
