@@ -806,54 +806,6 @@
     "stage": "nominee"
   },
   {
-    "id": "elimu.ai",
-    "name": "elimu.ai",
-    "aliases": [
-      ""
-    ],
-    "description": "The elimu.ai software is a platform of educational content and Android apps. The software is designed in such a way that the children can learn fully autonomously, without guidance from qualified teachers. Instead, an AI tutor (Nya) guides each child through the necessary steps. The AI tutor gradually unlocks more advanced content, as the child demonstrates mastery of prerequisite skills.",
-    "website": "https://fil.elimu.ai/",
-    "license": [
-      {
-        "spdx": "MIT",
-        "licenseURL": "https://github.com/elimu-ai/webapp/blob/master/LICENSE"
-      },
-      {
-        "spdx": "CC-BY-4.0",
-        "licenseURL": "https://eng.elimu.ai/"
-      }
-    ],
-    "SDGs": [
-      {
-        "SDGNumber": 4,
-        "evidenceText": "The purpose of elimu.ai is to provide every child with access to quality basic education."
-      }
-    ],
-    "sectors": [
-      "Education"
-    ],
-    "type": [
-      "software",
-      "content"
-    ],
-    "repositories": [
-      {
-        "name": "main",
-        "url": "https://github.com/elimu-ai/webapp"
-      }
-    ],
-    "organizations": [
-      {
-        "name": "elimu.ai Community DAO",
-        "website": "https://github.com/elimu-ai/wiki#decentralized-autonomous-organization-dao",
-        "org_type": "owner",
-        "contact_name": "Nya Elimu",
-        "contact_email": "info@elimu.ai"
-      }
-    ],
-    "stage": "nominee"
-  },
-  {
     "id": "epirust",
     "name": "EpiRust",
     "aliases": [
@@ -1300,58 +1252,6 @@
     "stage": "nominee"
   },
   {
-    "id": "hikma-health-ehr",
-    "name": "Hikma Health EHR",
-    "aliases": [
-      "Hikma Health"
-    ],
-    "description": "A free and open-source electronic health record system designed to work offline in low-resource settings.",
-    "website": "https://www.hikmahealth.org/",
-    "license": [
-      {
-        "spdx": "MIT",
-        "licenseURL": "https://github.com/hikmahealth/hikma-health-app/blob/master/LICENSE"
-      }
-    ],
-    "SDGs": [
-      {
-        "SDGNumber": 3,
-        "evidenceText": "The Hikma Health EHR enables clinicians in low-resource settings to collect and access patient health information to improve clinical decision making and improve long-term outcomes, particularly for patients with chronic illnesses.",
-        "evidenceURL": "https://www.epistemonikos.org/documents/002803bbe7f8ee7460cedc01233e26c7318282f7"
-      }
-    ],
-    "sectors": [
-      "Health"
-    ],
-    "type": [
-      "software"
-    ],
-    "repositories": [
-      {
-        "name": "hikma-health-app",
-        "url": "https://github.com/hikmahealth/hikma-health-app"
-      },
-      {
-        "name": "hikma-health-backend",
-        "url": "https://github.com/hikmahealth/hikma-health-backend"
-      },
-      {
-        "name": "hikma-health-admin-app",
-        "url": "https://github.com/hikmahealth/admin-app"
-      }
-    ],
-    "organizations": [
-      {
-        "name": "Hikma Health",
-        "website": "https://www.hikmahealth.org/",
-        "org_type": "owner",
-        "contact_name": "Hassaan Ebrahim",
-        "contact_email": "info@hikmahealth.org"
-      }
-    ],
-    "stage": "nominee"
-  },
-  {
     "id": "hive",
     "name": "Hive",
     "description": "Drone Monitoring and Management System to manage, control and monitor the network of drones",
@@ -1507,42 +1407,6 @@
         "website": "https://www.intrahealth.org/",
         "org_type": "owner",
         "contact_email": "intrahealth@intrahealth.org"
-      }
-    ],
-    "stage": "nominee"
-  },
-  {
-    "id": "imagining-health-futures",
-    "name": "Imagining Health Futures",
-    "aliases": [
-      ""
-    ],
-    "description": "Imagining Health Futures leverages foresight, storytelling, and youth imagination in a collection of fictional short stories that reveal young peoples’ collective hopes, fears, challenges, wants, needs, and imagined solutions for health futures in a digital world.",
-    "website": "https://www.governinghealthfutures2030.org/imagining-health-futures/",
-    "license": [
-      {
-        "spdx": "CC-BY-NC-SA-4.0",
-        "licenseURL": "https://www.governinghealthfutures2030.org/imagining-health-futures/"
-      }
-    ],
-    "SDGs": [
-      {
-        "SDGNumber": 3,
-        "evidenceText": "Imagining Health Futures, a joint initiative of the Governing health futures 2030 Commission Secretariat and UNICEF, encourages young people to share their visions of health and well-being, and how they are shaped by technology. Inspired by the experiences of young people, Imagining Health Futures is a collection of speculative fiction short stories about the future of health. Youth voices inspired genuine, insightful narratives revealing young peoples’ collective hopes, fears, challenges, wants, needs and imagined solutions for the future.    Imagining Health Futures offers a unique vehicle for informing and amplifying the work of the Commission, academics, and health and human rights stakeholders. Importantly, this is a strategy to make the Commission's research more accessible and reach a wider audience, starting with young people.    ABOUT THE ORGANISERS.  The Lancet & Financial Times Commission:  Commissioners from a wide range of sectors, expertise and backgrounds are contributing their guidance, intellectual input and ideas to a report on Governing health futures 2030: Growing up in a digital world. This report will be published in The Lancet in 2021 and explore the convergence of digital health, artificial intelligence (AI), and other frontier technologies with universal health coverage (UHC) to support attainment of the third Sustainable Development Goal (SDG). The Commission is cooperating with partners to support inclusive dialogues with the private sector, youth organisations, and other key stakeholders.  The United Nations Children’s Fund (UNICEF):  UNICEF is the world’s leading organization for children, working in over 190 countries and territories to protect the rights of every child. UNICEF has spent 70 years working to improve the lives of children and their families. UNICEF approaches young people from an assets-based perspective, convinced of their promise, and focusing on their strengths. Evidence shows that when adolescent girls and boys are supported and encouraged, along with policies and service responsive to their needs and capabilities, they have the potential to break longstanding cycles of inequality, poverty, discrimination, and violence. "
-      }
-    ],
-    "sectors": [],
-    "type": [
-      "content"
-    ],
-    "repositories": [],
-    "organizations": [
-      {
-        "name": "The Lancet & Financial Times Commission on Governing Health Futures 2030",
-        "website": "http://www.governinghealthfutures2030.org/",
-        "org_type": "funder",
-        "contact_name": "Louise Holly",
-        "contact_email": "louise.holly@graduateinstitute.ch"
       }
     ],
     "stage": "nominee"
@@ -3175,56 +3039,6 @@
     "stage": "nominee"
   },
   {
-    "id": "papers-with-code",
-    "name": "Papers with Code",
-    "aliases": [
-      ""
-    ],
-    "description": "A free and open resource with Machine Learning papers, code, datasets, methods and evaluation tables.",
-    "website": "https://paperswithcode.com/",
-    "license": [
-      {
-        "spdx": "CC-BY-SA-4.0",
-        "licenseURL": "https://paperswithcode.com/about"
-      }
-    ],
-    "SDGs": [
-      {
-        "SDGNumber": 4,
-        "evidenceText": "Accelerate scientific progress by making research easier to discover, reproduce and extend.",
-        "evidenceURL": "https://paperswithcode.com/about"
-      },
-      {
-        "SDGNumber": 8,
-        "evidenceText": "Papers with Code is a self-contained team within Facebook AI Research. It combines the best of both worlds: the stability, scale and perks of working within a leading technology company, and the agility, ambition and freedom of working in a startup.",
-        "evidenceURL": "https://portal.paperswithcode.com/"
-      }
-    ],
-    "sectors": [
-      "Education"
-    ],
-    "type": [
-      "data",
-      "content"
-    ],
-    "repositories": [
-      {
-        "name": "main",
-        "url": ""
-      }
-    ],
-    "organizations": [
-      {
-        "name": "Papers with Code",
-        "website": "https://paperswithcode.com/",
-        "org_type": "funder",
-        "contact_name": "Robert Stojnic",
-        "contact_email": "hello@paperswithcode.com"
-      }
-    ],
-    "stage": "nominee"
-  },
-  {
     "id": "pharmacovigilance-monitoring-system",
     "name": "PharmacoVigilance Monitoring System",
     "aliases": [
@@ -3664,63 +3478,6 @@
     "stage": "nominee"
   },
   {
-    "id": "project-simoy",
-    "name": "Project Simoy",
-    "aliases": [
-      ""
-    ],
-    "description": "This is a collection of data visualization projects that gives a “breezy” experience to all data enthusiasts.",
-    "website": "https://projectsimoy.com/",
-    "license": [
-      {
-        "spdx": "CC-BY-NC-4.0",
-        "licenseURL": "https://projectsimoy.com/"
-      }
-    ],
-    "SDGs": [
-      {
-        "SDGNumber": 7,
-        "evidenceText": "This data visualization projects shows the awarded renewable projects under PH Department of Energy’s National Renewable Energy Program. This aims to start the energy conversation towards into a sustainable energy source of the Philippines."
-      },
-      {
-        "SDGNumber": 9,
-        "evidenceText": "This data visualization project shows the Air Quality Index (AQI) for some locations in NCR, Region 3, Region 4A, Region 4B and Region 12 from open dataset of Environmental Management Bureau (EMB) Official Social Media Sites. This project aims to depict the AQI trend for some locations in a very understandable manner. This also tries to visualize the effect of recent issues/conditions of our country to air quality."
-      },
-      {
-        "SDGNumber": 11,
-        "evidenceText": "This data visualization project shows the Air Quality Index (AQI) for some locations in NCR, Region 3, Region 4A, Region 4B and Region 12 from open dataset of Environmental Management Bureau (EMB) Official Social Media Sites. This project aims to depict the AQI trend for some locations in a very understandable manner. This also tries to visualize the effect of recent issues/conditions of our country to air quality."
-      },
-      {
-        "SDGNumber": 13,
-        "evidenceText": "This data visualization project aims to create an awareness to the PH existing commercial power plants connected to our National Electric Grid across the country. This also calculated the estimates of Lifecycle of GHG emissions (Theoretical) (g CO2 eq/kWh) for broad categories of electricity generation technologies in reference with IPCC’s Special Report on Renewable Energy Sources and Climate Change Mitigation Report (2012)."
-      }
-    ],
-    "sectors": [
-      "Climate",
-      "Energy",
-      "Sustainable Cities"
-    ],
-    "type": [
-      "content"
-    ],
-    "repositories": [
-      {
-        "name": "main",
-        "url": ""
-      }
-    ],
-    "organizations": [
-      {
-        "name": "Project Simoy",
-        "website": "https://projectsimoy.com/",
-        "org_type": "owner",
-        "contact_name": "Arjay Ronald Hosmillo",
-        "contact_email": "arjay.hosmillo@gmail.com"
-      }
-    ],
-    "stage": "nominee"
-  },
-  {
     "id": "public-utility-data-liberation-project",
     "name": "Public Utility Data Liberation Project",
     "aliases": [
@@ -3966,86 +3723,6 @@
         "org_type": "owner",
         "contact_name": "The Digital Team",
         "contact_email": "digital@msh.org"
-      }
-    ],
-    "stage": "nominee"
-  },
-  {
-    "id": "redirect-2-redirectioneaza.ro",
-    "name": "Redirect 2% - redirectioneaza.ro",
-    "description": "Redirect 2% - redirectioneaza.ro - is a project which helps non-governmental organizations raise funds, by making it easier for citizens to fill out a specific form which allows them to donate 2% of their income tax to an NGO. The platform allows an NGO to create an account and fill in the data relevant to their donation form. It allows citizens to pick an NGOs from the ones that have filled in their data, and then fill the redirection form out with the citizen's own data, before printing it and singing it. ",
-    "website": "https://redirectioneaza.ro",
-    "license": [
-      {
-        "spdx": "MPL-2.0",
-        "licenseURL": "https://github.com/code4romania/redirectioneaza/blob/master/LICENSE"
-      }
-    ],
-    "SDGs": [
-      {
-        "SDGNumber": 11
-      },
-      {
-        "SDGNumber": 17
-      }
-    ],
-    "sectors": [],
-    "type": [
-      "software"
-    ],
-    "repositories": [
-      {
-        "name": "main",
-        "url": "https://github.com/code4romania/redirectioneaza"
-      }
-    ],
-    "organizations": [
-      {
-        "name": "Code for Romania",
-        "website": "https://code4.ro/en/",
-        "org_type": "owner"
-      }
-    ],
-    "stage": "nominee"
-  },
-  {
-    "id": "redirectioneaza",
-    "name": "Redirectioneaza",
-    "aliases": [
-      "Redirecționează 3,5%"
-    ],
-    "description": "Redirectioneaza.ro contains information on over 2.700 NGOs that can be supported through a simple process of redirecting 3.5% of income tax. By digitizing the 230 form, we have eliminated the need for direct contact between NGOs and their supporters, as many organizations do not have the necessary resources to gather these forms offline.",
-    "website": "https://redirectioneaza.ro",
-    "license": [
-      {
-        "spdx": "MPL-2.0",
-        "licenseURL": "https://github.com/code4romania/redirectioneaza/blob/custom-subdomains/LICENSE"
-      }
-    ],
-    "SDGs": [
-      {
-        "SDGNumber": 17,
-        "evidenceText": "Every year, any citizen can choose to redirect 3.5% of their income tax to a cause they believe in and want to support. However, most never do so for two reasons: a cumbersome process and a lack of centralized information about the NGOs they could support. Moreover, NGOs also face the difficulty of spreading their appeals for redirection to very large audiences, in a simple way, without using up additional resources. Redirectioneaza.ro contains information on over 2.700 NGOs that can be supported through a simple process of redirecting 3.5% of income tax. By digitizing the 230 form, we have eliminated the need for direct contact between NGOs and their supporters, as many organizations do not have the necessary resources to gather these forms offline.",
-        "evidenceURL": "https://www.concordia.org.ro/ajuta-si-tu/redirectioneaza-35/"
-      }
-    ],
-    "sectors": [],
-    "type": [
-      "software"
-    ],
-    "repositories": [
-      {
-        "name": "main",
-        "url": "https://github.com/code4romania/redirectioneaza"
-      }
-    ],
-    "organizations": [
-      {
-        "name": "Code for Romania NGO",
-        "website": "https://code4.ro/",
-        "org_type": "owner",
-        "contact_name": "Code for Romania",
-        "contact_email": "contact@code4.ro"
       }
     ],
     "stage": "nominee"
@@ -4487,59 +4164,6 @@
     "stage": "nominee"
   },
   {
-    "id": "trimester-save-afriyie",
-    "name": "Trimester Save Afriyie",
-    "aliases": [
-      "Afriyie"
-    ],
-    "description": "TMS Afriyie project is a patient facing application that offers healthcare focused financial solutions such as savings and budgeting whilst leveraging insights from their healthcare journey, especially during pregnancy and childbirth.",
-    "website": "https://trimestersave.com/",
-    "license": [
-      {
-        "spdx": "MIT",
-        "licenseURL": "https://github.com/Trimester-Save-Ltd/tms-afriyie-backend/blob/main/LICENSE"
-      }
-    ],
-    "SDGs": [
-      {
-        "SDGNumber": 3,
-        "evidenceText": "Afriyie facilitates access to health monitoring and financial solutions to women who are in their reproductive age (bottom of the pyramid).  Moreover, these women's access to savings leads to access of primary health care which will improve universal health coverage, access to quality, essential health care and medicines (SDG 3.8) to reduce mother and child mortality rate in the Sub-Saharan Africa (SDG 3.1 & 3.2)",
-        "evidenceURL": "https://www.youtube.com/watch?v=3LW5YAuEG3U"
-      },
-      {
-        "SDGNumber": 5,
-        "evidenceText": "Afriyie has the potential to empower women to take control of the reproductive health and finances so that they are not disadvantaged compared to their male counterparts.",
-        "evidenceURL": "https://www.youtube.com/watch?v=3LW5YAuEG3U"
-      }
-    ],
-    "sectors": [
-      "Health"
-    ],
-    "type": [
-      "software"
-    ],
-    "repositories": [
-      {
-        "name": "tms-afriyie-frontend",
-        "url": "https://github.com/Trimester-Save-Ltd/tms-afriyie-frontend"
-      },
-      {
-        "name": "tms-afriyie-backend",
-        "url": "https://github.com/Trimester-Save-Ltd/tms-afriyie-backend"
-      }
-    ],
-    "organizations": [
-      {
-        "name": "Trimester Save Ltd",
-        "website": "https://trimestersave.com/",
-        "org_type": "owner",
-        "contact_name": "Gideon Opoku",
-        "contact_email": "gideon@trimestersave.com"
-      }
-    ],
-    "stage": "nominee"
-  },
-  {
     "id": "u-report",
     "name": "U-Report",
     "description": "Free social messaging tool and a real-time information system that allows community participation.",
@@ -4845,54 +4469,6 @@
         "org_type": "owner",
         "contact_name": "Judith Okonkwo ",
         "contact_email": "Judith@imisi3d.com"
-      }
-    ],
-    "stage": "nominee"
-  },
-  {
-    "id": "wonder-tree",
-    "name": "Wonder Tree",
-    "description": "Augmented Reality Games for Children with Social Needs",
-    "website": "https://www.wondertree.co",
-    "license": [
-      {
-        "spdx": "Apache-2.0",
-        "licenseURL": "https://github.com/Wonder-Tree/PoseCamera/blob/master/LICENSE"
-      }
-    ],
-    "SDGs": [
-      {
-        "SDGNumber": 3,
-        "evidenceURL": "https://tribune.com.pk/story/2258899/pakistani-startup-wondertree-picked-by-google-unicef-for-investment"
-      },
-      {
-        "SDGNumber": 4,
-        "evidenceURL": "https://tribune.com.pk/story/2258899/pakistani-startup-wondertree-picked-by-google-unicef-for-investment"
-      },
-      {
-        "SDGNumber": 10,
-        "evidenceURL": "https://tribune.com.pk/story/2258899/pakistani-startup-wondertree-picked-by-google-unicef-for-investment"
-      }
-    ],
-    "sectors": [
-      "Digital/Data/Tech",
-      "Education",
-      "Health"
-    ],
-    "type": [
-      "aimodel"
-    ],
-    "repositories": [
-      {
-        "name": "main",
-        "url": "https://github.com/Wonder-Tree/PoseCamera"
-      }
-    ],
-    "organizations": [
-      {
-        "name": "Wonder Tree",
-        "website": "https://wondertree.co/",
-        "org_type": "owner"
       }
     ],
     "stage": "nominee"

@@ -1,0 +1,154 @@
+{
+  "id": "trimester-save-afriyie",
+  "name": "Trimester Save Afriyie",
+  "aliases": [
+    "Afriyie"
+  ],
+  "description": "TMS Afriyie project is a patient facing application that offers healthcare focused financial solutions such as savings and budgeting whilst leveraging insights from their healthcare journey, especially during pregnancy and childbirth.",
+  "website": "https://trimestersave.com/",
+  "license": [
+    {
+      "spdx": "MIT",
+      "licenseURL": "https://github.com/Trimester-Save-Ltd/tms-afriyie-backend/blob/main/LICENSE"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 3,
+      "evidenceText": "Afriyie facilitates access to health monitoring and financial solutions to women who are in their reproductive age (bottom of the pyramid).  Moreover, these women's access to savings leads to access of primary health care which will improve universal health coverage, access to quality, essential health care and medicines (SDG 3.8) to reduce mother and child mortality rate in the Sub-Saharan Africa (SDG 3.1 & 3.2)",
+      "evidenceURL": "https://www.youtube.com/watch?v=3LW5YAuEG3U"
+    },
+    {
+      "SDGNumber": 5,
+      "evidenceText": "Afriyie has the potential to empower women to take control of the reproductive health and finances so that they are not disadvantaged compared to their male counterparts.",
+      "evidenceURL": "https://www.youtube.com/watch?v=3LW5YAuEG3U"
+    }
+  ],
+  "sectors": [
+    "Health"
+  ],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "name": "tms-afriyie-frontend",
+      "url": "https://github.com/Trimester-Save-Ltd/tms-afriyie-frontend"
+    },
+    {
+      "name": "tms-afriyie-backend",
+      "url": "https://github.com/Trimester-Save-Ltd/tms-afriyie-backend"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "Trimester Save Ltd",
+      "website": "https://trimestersave.com/",
+      "org_type": "owner",
+      "contact_name": "Gideon Opoku",
+      "contact_email": "gideon@trimestersave.com"
+    }
+  ],
+  "stage": "DPG",
+  "clearOwnership": {
+    "isOwnershipExplicit": "Yes",
+    "copyrightURL": "https://trimestersave.com/"
+  },
+  "platformIndependence": {
+    "mandatoryDepsCreateMoreRestrictions": "No",
+    "isSoftwarePltIndependent": "",
+    "pltIndependenceDesc": ""
+  },
+  "documentation": {
+    "isDocumentationAvailable": "Yes",
+    "documentationURL": [
+      "API documentation - https://tms-crm-backend.herokuapp.com/api-docs/v1",
+      "Backend - https://github.com/Trimester-Save-Ltd/tms-afriyie-backend",
+      "Frontend - https://github.com/Trimester-Save-Ltd/tms-afriyie-frontend",
+      "https://trimester-save.herokuapp.com/"
+    ]
+  },
+  "NonPII": {
+    "collectsNonPII": "No",
+    "checkNonPIIAccessMechanism": "",
+    "nonPIIAccessMechanism": ""
+  },
+  "privacy": {
+    "isPrivacyCompliant": "Yes",
+    "privacyComplianceList": [
+      "Data Protection Commission Ghana"
+    ],
+    "adherenceSteps": [
+      "https://github.com/Trimester-Save-Ltd/tms-afriyie-backend/blob/main/Terms%20of%20Service%20and%20Privacy%20Policy.md"
+    ]
+  },
+  "standards": {
+    "supportStandards": "Yes",
+    "standardsList": [
+      "HTML",
+      "CSS",
+      "REST",
+      "JSON",
+      "JavaScript"
+    ],
+    "evidenceStandardSupport": [
+      "https://github.com/Trimester-Save-Ltd/tms-afriyie-backend"
+    ],
+    "implementBestPractices": "Yes",
+    "bestPracticesList": [
+      "Design with the user",
+      "Use Open Standards, Open Data and Open Source and Open Innovation",
+      "Address Privacy and Security",
+      "Understand the Existing Ecosystem",
+      "Design for scale"
+    ]
+  },
+  "doNoHarm": {
+    "preventHarm": {
+      "stepsToPreventHarm": "Yes",
+      "additionalInfoMechanismProcessesPolicies": "The TMS Afriyie app demonstrates and it is designed not to cause any harm to the user and the app's design is considered user friendly."
+    },
+    "dataPrivacySecurity": {
+      "collectsPII": "Yes",
+      "typesOfDataCollected": [
+        "The application collects and stores:",
+        "Personal information such as: name, telephone number, spouse name, spouse phone number, email address, identification card, demographic (city, town, country, address)",
+        "Personal budgeting information",
+        "Medical vitals - blood pressure, weight, glucose level, last cycle date"
+      ],
+      "thirdPartyDataSharing": "No",
+      "dataSharingCircumstances": [
+        ""
+      ],
+      "ensurePrivacySecurity": "Yes",
+      "privacySecurityDescription": "The project also took steps to ensure that the data collected are secured in cloud based databases (Postgres)  and using modules that secure HTTP headers (Helmet) to prevent intruders from grabbing information easily. The application also verifies users by sending verification code to their mobile phones and entering passwords which provides a standard level of security."
+    },
+    "inappropriateIllegalContent": {
+      "collectStoreDistribute": "No",
+      "type": "",
+      "contentFilter": "",
+      "policyGuidelinesDocumentationLink": "",
+      "illegalContentDetection": "",
+      "illegalContentDetectionMechanism": ""
+    },
+    "protectionFromHarassment": {
+      "userInteraction": "No",
+      "addressSafetySecurityUnderageUsers": "",
+      "stepsAddressRiskPreventSafetyUnderageUsers": [
+        ""
+      ],
+      "griefAbuseHarassmentProtection": "",
+      "harassmentProtectionSteps": [
+        ""
+      ]
+    }
+  },
+  "locations": {
+    "developmentCountries": [
+      "Ghana"
+    ],
+    "deploymentCountries": [
+      "Ghana"
+    ]
+  }
+}
