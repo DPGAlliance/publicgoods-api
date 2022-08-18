@@ -1,0 +1,146 @@
+{
+  "id": "sentinel-2-10m-land-cover-time-series-of-the-world-from-2017-2021",
+  "name": "Sentinel-2 10m Land Cover Time Series of the World from 2017-2021",
+  "aliases": [
+    ""
+  ],
+  "description": "Sentinel-2 10m Land Cover Time Series provides public access to global land use and land cover data of the world from 2017-2021 with 10 meter resolution.",
+  "website": "https://www.arcgis.com/home/item.html?id=d3da5dd386d140cf93fc9ecbf8da5e31",
+  "license": [
+    {
+      "spdx": "CC-BY-4.0",
+      "licenseURL": "https://www.arcgis.com/home/item.html?id=d3da5dd386d140cf93fc9ecbf8da5e31"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 2,
+      "evidenceText": "Mapping global agricultural lands, and related land conversion, directly supports work to increase food security. Esri 2020 Land Cover 10m (IO) layer displays a global map of land use/land cover (LULC). The map is derived from ESA Sentinel-2 imagery at 10m resolution. It is a composite of LULC predictions for 10 classes throughout the year in order to generate a representative snapshot of 2020. It includes classifications for crops and flooded vegetation."
+    },
+    {
+      "SDGNumber": 11,
+      "evidenceText": "Mapped urban areas and trends in urban development can be seen on the LULC map. At 10m scale we can also identify large green spaces in urban areas and agricultural peripheries. "
+    },
+    {
+      "SDGNumber": 13,
+      "evidenceText": "Land cover conversion plays a major role in CO2 emissions (e.g. deforestation and conversion of other natural habitats) as well as climate resilience (mapping forests, mangroves, etc, for nature-based climate solutions).  The LULC map, in combination with climate and carbon models, helps users identify important areas for natural carbon.  "
+    },
+    {
+      "SDGNumber": 15,
+      "evidenceText": "The LULC map is directly tied to how we live on land and can map land cover conversion over time."
+    }
+  ],
+  "sectors": [
+    "Agriculture",
+    "Climate",
+    "Sustainable Cities"
+  ],
+  "type": [
+    "data"
+  ],
+  "repositories": [
+    {
+      "name": "main",
+      "url": "https://www.arcgis.com/home/item.html?id=d3da5dd386d140cf93fc9ecbf8da5e31"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "Impact Observatory",
+      "website": "https://www.impactobservatory.com/",
+      "org_type": "maintainer",
+      "contact_name": "Katy Densmore",
+      "contact_email": "katy@impactobservatory.com"
+    }
+  ],
+  "stage": "DPG",
+  "clearOwnership": {
+    "isOwnershipExplicit": "Yes",
+    "copyrightURL": "https://www.arcgis.com/home/item.html?id=d3da5dd386d140cf93fc9ecbf8da5e31"
+  },
+  "platformIndependence": {
+    "mandatoryDepsCreateMoreRestrictions": "Yes",
+    "isSoftwarePltIndependent": "Yes",
+    "pltIndependenceDesc": "Please note the downloadable format is GeoTIFF, hence you need to use a downloader to get individual tiles from - https://env1.arcgis.com/arcgis/rest/services/Sentinel2_10m_LandCover/ImageServer"
+  },
+  "documentation": {
+    "isDocumentationAvailable": "Yes",
+    "documentationURL": [
+      "https://www.arcgis.com/home/item.html?id=d3da5dd386d140cf93fc9ecbf8da5e31",
+      "Please note the format is GeoTIFF, hence you need to use a downloader to get individual tiles - https://env1.arcgis.com/arcgis/rest/services/Sentinel2_10m_LandCover/ImageServer"
+    ]
+  },
+  "NonPII": {
+    "collectsNonPII": "No",
+    "checkNonPIIAccessMechanism": "",
+    "nonPIIAccessMechanism": ""
+  },
+  "privacy": {
+    "isPrivacyCompliant": "Yes",
+    "privacyComplianceList": [
+      "This map does not collect or use any personal information that would require compliance with laws such as the EU's General Data Protection Regulation (GDPR) or the California Consumer Privacy Act of 2018 (CCPA)"
+    ],
+    "adherenceSteps": [
+      "Terms of Use listed at bottom of main webpage: https://www.arcgis.com/home/item.html?id=d3da5dd386d140cf93fc9ecbf8da5e31 "
+    ]
+  },
+  "standards": {
+    "supportStandards": "Yes",
+    "standardsList": [
+      "The map supports geospatial standards (GeoTIFF)"
+    ],
+    "evidenceStandardSupport": [
+      "https://www.ogc.org/standards/geotiff"
+    ],
+    "implementBestPractices": "Yes",
+    "bestPracticesList": [
+      "SpatioTemporal Asset Catalogs (STAC), as described here: https://stacspec.org/",
+      "Cloud Optimized GeoTiff (COG), as described here: https://www.cogeo.org/"
+    ]
+  },
+  "doNoHarm": {
+    "preventHarm": {
+      "stepsToPreventHarm": "Yes",
+      "additionalInfoMechanismProcessesPolicies": "Our validation processes used to estimate the accuracy of our map include a representative set of ecosystems and geographies from around the world to minimize any regional bias in the data."
+    },
+    "dataPrivacySecurity": {
+      "collectsPII": "No",
+      "typesOfDataCollected": [
+        ""
+      ],
+      "thirdPartyDataSharing": "No",
+      "dataSharingCircumstances": [
+        ""
+      ],
+      "ensurePrivacySecurity": "Yes",
+      "privacySecurityDescription": "No data is collected.  No user data or personal information related to individuals is stored or distributed by the map. No data of any kind is stored or distributed beyond the actual data of the map, which is licensed under CC-BY-4.0 as open source."
+    },
+    "inappropriateIllegalContent": {
+      "collectStoreDistribute": "No",
+      "type": "",
+      "contentFilter": "",
+      "policyGuidelinesDocumentationLink": "",
+      "illegalContentDetection": "",
+      "illegalContentDetectionMechanism": ""
+    },
+    "protectionFromHarassment": {
+      "userInteraction": "No",
+      "addressSafetySecurityUnderageUsers": "",
+      "stepsAddressRiskPreventSafetyUnderageUsers": [
+        ""
+      ],
+      "griefAbuseHarassmentProtection": "",
+      "harassmentProtectionSteps": [
+        ""
+      ]
+    }
+  },
+  "locations": {
+    "developmentCountries": [
+      "United States of America"
+    ],
+    "deploymentCountries": [
+      ""
+    ]
+  }
+}
