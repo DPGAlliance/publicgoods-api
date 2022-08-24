@@ -98,51 +98,6 @@
     "stage": "nominee"
   },
   {
-    "id": "angaza-elimu",
-    "name": "Angaza Elimu",
-    "aliases": [
-      "Angaza AI"
-    ],
-    "description": "Adaptive assessments for better learning outcomes",
-    "website": "https://angazaelimu.com",
-    "license": [
-      {
-        "spdx": "GPL-3.0",
-        "licenseURL": "https://github.com/Angaza-Elimu/learning_recommendation/blob/main/LICENSE"
-      }
-    ],
-    "SDGs": [
-      {
-        "SDGNumber": 4,
-        "evidenceText": "Angaza Elimu exists to ensure that every child has access to quality and relevant education on demand. Our team has developed an interactive eLearning platform powered by artificial intelligence which delivers personalized learning experiences to students and amplifies teacher student engagement. The platform has interactive and adaptive learning modules, giving students access to rich quality digital content and adaptive assessments. We provide teachers with a supportive tool to identify students' specific needs and help deliver personalized/customized instruction. \n Parents also have the option to receive instant notifications about their children's performance and engage with teachers instantaneously  contributing to targeted, constructive, feedback.",
-        "evidenceURL": "https://www.unicef.org/innovation/innovation-fund-angaza-elimu"
-      }
-    ],
-    "sectors": [
-      "Digital/Data/Tech",
-      "Education"
-    ],
-    "type": [
-      "aimodel"
-    ],
-    "repositories": [
-      {
-        "name": "main",
-        "url": "https://github.com/Angaza-Elimu/learning_recommendation"
-      }
-    ],
-    "organizations": [
-      {
-        "name": "Angaza Elimu",
-        "website": "https://angazaelimu.com",
-        "org_type": "owner",
-        "contact_name": "Shawn Chiama",
-        "contact_email": "shawn.cliff@angazaelimu.com"
-      }
-    ],
-    "stage": "nominee"
-  },
-  {
     "id": "bloinx",
     "name": "Bloinx",
     "aliases": [
@@ -1034,50 +989,6 @@
     "stage": "nominee"
   },
   {
-    "id": "gobierto-transparency",
-    "name": "Gobierto Transparency",
-    "aliases": [
-      ""
-    ],
-    "description": "Gobierto is a Rails app that provides a set of tools to power efforts from public administrations towards transparency and citizen engagement, to enable them to communicate better with their constituents and put public open data to work. ",
-    "website": "https://gobierto.es/",
-    "license": [
-      {
-        "spdx": "AGPL-3.0",
-        "licenseURL": "https://github.com/PopulateTools/gobierto/blob/master/LICENSE-AGPLv3.txt"
-      }
-    ],
-    "SDGs": [
-      {
-        "SDGNumber": 11,
-        "evidenceText": "By providing better info about how government works and engaging citizens in public matters",
-        "evidenceURL": "https://populate.tools/blog/gobierto"
-      }
-    ],
-    "sectors": [
-      "Sustainable Cities"
-    ],
-    "type": [
-      "software"
-    ],
-    "repositories": [
-      {
-        "name": "Frontend & backend",
-        "url": "https://github.com/PopulateTools/gobierto"
-      }
-    ],
-    "organizations": [
-      {
-        "name": "Populate",
-        "website": "https://populate.tools",
-        "org_type": "owner",
-        "contact_name": "Alvaro Ortiz",
-        "contact_email": "alvaro@populate.tools"
-      }
-    ],
-    "stage": "nominee"
-  },
-  {
     "id": "growstuff",
     "name": "Growstuff",
     "aliases": [
@@ -1117,60 +1028,6 @@
         "org_type": "maintainer",
         "contact_name": "Brenda Wallace",
         "contact_email": "info@growstuff.org"
-      }
-    ],
-    "stage": "nominee"
-  },
-  {
-    "id": "hive",
-    "name": "Hive",
-    "description": "Drone Monitoring and Management System to manage, control and monitor the network of drones",
-    "website": "https://dms.prokurainnovations.com",
-    "license": [
-      {
-        "spdx": "MIT",
-        "licenseURL": "https://github.com/prokuranepal/DMS_React/blob/master/LICENSE"
-      }
-    ],
-    "SDGs": [
-      {
-        "SDGNumber": 3,
-        "evidenceText": "A first step in the use our medical drones is likely to be deliveries between hospitals. The treatment of patients often requires the transfer of test samples or the delivery of medical supplies that may not be in stock everywhere. Such transfers could also take place between small regional hospitals with limited supplies and large health centers. The rapid transfer of samples to labs that are equipped to perform the required tests and the return of corresponding medication could save lives.",
-        "evidenceURL": "https://www.prokurainnovations.com/drone-delivery/"
-      },
-      {
-        "SDGNumber": 8,
-        "evidenceText": "Prokura Innovation is the leading drone logistics and services company in Nepal established in 2017. It is one of the drone startups funded by the Unicef Innovation Fund and works closely with National Innovation Center with an aim to provide last mile delivery of medicines in the hardest to reach places of Nepal.",
-        "evidenceURL": "https://www.prokurainnovations.com/"
-      },
-      {
-        "SDGNumber": 9,
-        "evidenceText": "Delivery drones are operated autonomously or remotely, with operators potentially overseeing multiple drones at once. In several examples across the world, drones are being used for delivering time-sensitive items, such as medicine, or deliveries that would be difficult with traditional vehicle-based services.",
-        "evidenceURL": "https://www.prokurainnovations.com/drone-delivery/"
-      }
-    ],
-    "sectors": [
-      "Digital/Data/Tech"
-    ],
-    "type": [
-      "software"
-    ],
-    "repositories": [
-      {
-        "name": "main",
-        "url": "https://github.com/prokuranepal/DMS_React"
-      }
-    ],
-    "organizations": [
-      {
-        "name": "Prokura Innovations",
-        "website": "https://www.prokurainnovations.com/",
-        "org_type": "owner"
-      },
-      {
-        "name": "UNICEF Innovation Fund",
-        "website": "https://www.unicefinnovationfund.org/home",
-        "org_type": "funder"
       }
     ],
     "stage": "nominee"
@@ -1460,53 +1317,6 @@
         "org_type": "maintainer",
         "contact_name": "Matthias Obst",
         "contact_email": "matthias.obst@marine.gu.se"
-      }
-    ],
-    "stage": "nominee"
-  },
-  {
-    "id": "kotani-pay",
-    "name": "Kotani Pay",
-    "aliases": [
-      "KP"
-    ],
-    "description": "A technology stack that connects blockchain protocols, dApps, and blockchain fintechs to local payment channels in Africa",
-    "website": "https://kotanipay.com",
-    "license": [
-      {
-        "spdx": "MIT",
-        "licenseURL": "https://github.com/Kotani-Pay/Kotani-Pay-API/blob/main/LICENSE.txt"
-      }
-    ],
-    "SDGs": [
-      {
-        "SDGNumber": 1,
-        "evidenceText": "Kotani Pay  enables the underprivileged such as refugees to receive Universal Basic Income Payments of at least $1 a day in collaboration with other humanitarian organizations ",
-        "evidenceURL": "https://basicincome.org/news/2021/09/the-long-march-to-basic-income-begins-with-a-single-step-the-unusual-story-of-kowiti-a/"
-      },
-      {
-        "SDGNumber": 10,
-        "evidenceText": "Kotani Pay improves financial inclusion by offering youth to perform microtasks and microwork and to earn from their work",
-        "evidenceURL": "https://techcrunch.com/2022/02/23/cryptocurrency-payments-key-to-lowering-cross-border-remittance-charges-and-boosting-microwork-uptake-in-africa-study-shows/"
-      }
-    ],
-    "sectors": [],
-    "type": [
-      "software"
-    ],
-    "repositories": [
-      {
-        "name": "Kotani Pay API",
-        "url": "https://github.com/Kotani-Pay/Kotani-Pay-API"
-      }
-    ],
-    "organizations": [
-      {
-        "name": "Kotani Pay",
-        "website": "https://kotanipay.com",
-        "org_type": "owner",
-        "contact_name": "Keith Mandela",
-        "contact_email": "keith@kotanipay.com"
       }
     ],
     "stage": "nominee"
@@ -2129,48 +1939,6 @@
         "org_type": "owner",
         "contact_name": "Philippos Papadopoulos",
         "contact_email": "philippos@openriskmanagement.com"
-      }
-    ],
-    "stage": "nominee"
-  },
-  {
-    "id": "open-terms-archive",
-    "name": "Open Terms Archive",
-    "aliases": [
-      ""
-    ],
-    "description": "Open Terms Archive tracks and makes visible changes to the Terms Of Service of the main online services.",
-    "website": "https://opentermsarchive.org/",
-    "license": [
-      {
-        "spdx": "ODC-By-1.0",
-        "licenseURL": "https://github.com/ambanum/OpenTermsArchive-snapshots/blob/master/LICENSE"
-      }
-    ],
-    "SDGs": [
-      {
-        "SDGNumber": 16,
-        "evidenceText": "Open Terms Archive helps regulatory bodies assess the loyalty of 204 digital platforms and online services. It creates transparency in the practices of digital players, in line with the first recommendations discussed within the framework of the DSA and the DMA. And then makes institutions stronger when it comes to regulating digital platforms.",
-        "evidenceURL": "https://www.nextinpact.com/lebrief/46055/open-terms-archive-pour-suivre-evolutions-conditions-generales-dutilisation"
-      }
-    ],
-    "sectors": [],
-    "type": [
-      "data"
-    ],
-    "repositories": [
-      {
-        "name": "main",
-        "url": ""
-      }
-    ],
-    "organizations": [
-      {
-        "name": "Ambassador for digital affairs (FR)",
-        "website": "https://disinfo.quaidorsay.fr/fr/nos-outils",
-        "org_type": "owner",
-        "contact_name": "Clément Biron",
-        "contact_email": "clement.biron@beta.gouv.fr"
       }
     ],
     "stage": "nominee"
@@ -3884,48 +3652,6 @@
     "stage": "nominee"
   },
   {
-    "id": "the-open-source-spatial-electrification-tool",
-    "name": "The Open Source Spatial Electrification Tool",
-    "aliases": [
-      "OnSSET"
-    ],
-    "description": "OnSSET is an open source, GIS-based tool for developing electrification investment scenarios towards achieving universal access to electricity in accordance with SDG7.",
-    "website": "http://www.onsset.org/",
-    "license": [
-      {
-        "spdx": "MIT",
-        "licenseURL": "https://github.com/OnSSET/onsset/blob/master/LICENSE"
-      }
-    ],
-    "SDGs": [
-      {
-        "SDGNumber": 7,
-        "evidenceText": "OnSSET focuses on SDG7, particularly target 7.1 which is to \"ensure universal access to affordable, reliable and modern energy services\". The tool identifies the least-cost technology (grid-extension, mini-grid or stand-alone technologies) to meet the electricity demand in each settlement in a country or region.",
-        "evidenceURL": "https://www.energy.kth.se/energy-systems/completed-projects/open-source-spatial-electrification-toolkit-onsset-1.940024"
-      }
-    ],
-    "sectors": [],
-    "type": [
-      "software"
-    ],
-    "repositories": [
-      {
-        "name": "main",
-        "url": "https://github.com/OnSSET/onsset"
-      }
-    ],
-    "organizations": [
-      {
-        "name": "KTH Royal Institute of Technology - division of Energy Systems",
-        "website": "https://www.energy.kth.se/energy-systems/about-the-division-of-energy-systems-1.937036",
-        "org_type": "maintainer",
-        "contact_name": "Andreas Sahlberg",
-        "contact_email": "asahl@kth.se"
-      }
-    ],
-    "stage": "nominee"
-  },
-  {
     "id": "the-tor-project",
     "name": "The Tor Project",
     "aliases": [
@@ -4173,54 +3899,6 @@
         "name": "Swiss State Secretary for Economic Affairs (SECO)",
         "website": "https://www.seco.admin.ch/seco/en/home.html",
         "org_type": "funder"
-      }
-    ],
-    "stage": "nominee"
-  },
-  {
-    "id": "victimsofintolerance",
-    "name": "VictimsOfIntolerance",
-    "aliases": [
-      "Vítimas da Intolerância",
-      "VítimasDaIntolerância"
-    ],
-    "description": "Hate crimes monitor for political motivated assaults in Brazil.",
-    "website": "https://www.vitimasdaintolerancia.org",
-    "license": [
-      {
-        "spdx": "AGPL-3.0",
-        "licenseURL": "https://github.com/okfn-brasil/vitimas-da-intolerancia/blob/main/LICENSE"
-      }
-    ],
-    "SDGs": [
-      {
-        "SDGNumber": 10,
-        "evidenceText": "This project is an effort to reunite reported cases of victims of political violence, motivated by political intolerance. There is a crescent number of attacks being reported in the electoral context,  so mapping this cases is a form to show the advance of intolerance in the country.",
-        "evidenceURL": "https://www.vitimasdaintolerancia.org/about.html"
-      },
-      {
-        "SDGNumber": 16,
-        "evidenceText": "This project is an effort to reunite reported cases of victims of political violence, motivated by political intolerance. There is a crescent number of attacks being reported in the electoral context,  so mapping this cases is a form to show the advance of intolerance in the country.",
-        "evidenceURL": "https://www.vitimasdaintolerancia.org/about.html"
-      }
-    ],
-    "sectors": [],
-    "type": [
-      "software"
-    ],
-    "repositories": [
-      {
-        "name": "main",
-        "url": "https://github.com/okfn-brasil/vitimas-da-intolerancia"
-      }
-    ],
-    "organizations": [
-      {
-        "name": "Open Knowledge Brasil",
-        "website": "https://ok.org.br",
-        "org_type": "maintainer",
-        "contact_name": "Open Knowledge Brasil",
-        "contact_email": "contato@ok.org.br"
       }
     ],
     "stage": "nominee"
