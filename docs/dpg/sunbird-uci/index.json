@@ -1,0 +1,151 @@
+{
+  "id": "sunbird-uci",
+  "name": "Sunbird UCI",
+  "aliases": [
+    "UCI"
+  ],
+  "description": "Sunbird UCI (Unified Communications Interface) is an open-source configurable platform to enable multi-channel, personalised chatbot conversations and nudges across various channels such as WhatsApp, Telegram, SMS, email, etc. for governance use cases.",
+  "website": "https://uci.sunbird.org",
+  "license": [
+    {
+      "spdx": "MIT",
+      "licenseURL": "https://github.com/samagra-comms/uci-apis/blob/master/LICENSE"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 4,
+      "evidenceText": "Ministry of Education (MoE), Government of India's DIKSHA Platform uses Sunbird UCI as a medium for states to configure interactive WhatsApp chatbot conversations for education use cases. The use cases range from academic quizzes and self-paced learning material distribution for students to academic surveys and forms used by teachers and administrators. Any user can go to the Diksha Tara Bot (+91 93102 00148), type the starting message and start using the bot.",
+      "evidenceURL": "https://drive.google.com/file/d/1wp2QlcLae3plH9zmBQudFs5A0BZwJ-A4/view"
+    },
+    {
+      "SDGNumber": 8,
+      "evidenceText": "The Employment Department, Government of Haryana leveraged Sunbird UCI to create a WhatsApp Bot (Rozgar Bot) for employment linkages. This bot enabled employers to post the job openings and interested candidates to apply for relevant job roles. ",
+      "evidenceURL": "https://drive.google.com/file/d/1UJ81Q7pknXjcSN4fiBCXnw8lOr-OIurC/view?usp=sharing"
+    },
+    {
+      "SDGNumber": 9,
+      "evidenceText": "UCI is a digital infrastructure that powers conversational use cases across domains such as education, healthcare delivery, agriculture, employment and skilling, local governance and service delivery et. al. Any adopter across these domains can use UCI to enable two key features: 1) Creation of a 2 way conversations for their end user 2) Direct notification/nudges to a targeted set of relevant end users.",
+      "evidenceURL": "https://uci.sunbird.org/learn/uci-use-cases"
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "name": "APIs",
+      "url": "https://github.com/samagra-comms/uci-apis"
+    },
+    {
+      "name": "Inbound",
+      "url": "https://github.com/samagra-comms/inbound"
+    },
+    {
+      "name": "Transformer",
+      "url": "https://github.com/samagra-comms/transformer"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "Samagra | Transforming Governance",
+      "website": "https://www.samagragovernance.in",
+      "org_type": "owner",
+      "contact_name": "Ujjwal Relan",
+      "contact_email": "org@samagragovernance.in"
+    }
+  ],
+  "stage": "DPG",
+  "clearOwnership": {
+    "isOwnershipExplicit": "Yes",
+    "copyrightURL": "https://uci.sunbird.org/engage/software-license"
+  },
+  "platformIndependence": {
+    "mandatoryDepsCreateMoreRestrictions": "No",
+    "isSoftwarePltIndependent": "",
+    "pltIndependenceDesc": ""
+  },
+  "documentation": {
+    "isDocumentationAvailable": "Yes",
+    "documentationURL": [
+      "https://uci.sunbird.org/"
+    ]
+  },
+  "NonPII": {
+    "collectsNonPII": "Yes",
+    "checkNonPIIAccessMechanism": "Yes",
+    "nonPIIAccessMechanism": "Data can be exported via the Admin console UI and the API in a variety of standard formats. The adopter of UCI can choose to create custom mechanisms to allow extraction of the data. For example, DIKSHA UCI has created its own APIs for data exhaust to allow access of data to authorised users only.\n\nMechanism is detailed here - https://uci.sunbird.org/use/adopter/data-exhaust-and-analytics"
+  },
+  "privacy": {
+    "isPrivacyCompliant": "Yes",
+    "privacyComplianceList": [
+      "UCI does not store any PII for the users. The only potential PII that it can collect and store is the user phone number or any other digital address like email address. Additionally, the onus is on the UCI Implementer to manage/flush PII information as per requirement. UCI complies with the following relevant laws - India's Personal Data Protection Bill (2019), The IT Act (2000) for its implementation in India"
+    ],
+    "adherenceSteps": [
+      "The adopter using UCI might decide to collect PII information and this is use case specific. We strongly recommend that applications do not collect this information if not required. We are in conversations with applications on what needs to be done to ensure that their install of UCI is GDPR compliant. This is similar to the ODK and Glific ecosystem, where the various SaaS providers of ODK enforce and implement GDPR compliance. Privacy policy: https://www.sunbird.org/privacy-policy and Terms & conditions: https://www.sunbird.org/terms-conditions"
+    ]
+  },
+  "standards": {
+    "supportStandards": "Yes",
+    "standardsList": [
+      "OpenWeb Standard such as - HTML, CSS, ECMAScript, LaTeX",
+      "Standard Content Format such as PDF, MP4, WebM, H5P, ePub, and more",
+      "XForm Specification",
+      "Accessibility - WCAG, Internationalisation",
+      "Security - PKI, HTTPS, JWT"
+    ],
+    "evidenceStandardSupport": [
+      "https://uci.sunbird.org/learn/tech-overview/standards"
+    ],
+    "implementBestPractices": "Yes",
+    "bestPracticesList": [
+      "https://sunbird.org/explore/articles/2-thinking-microservice-architecture"
+    ]
+  },
+  "doNoHarm": {
+    "preventHarm": {
+      "stepsToPreventHarm": "Yes",
+      "additionalInfoMechanismProcessesPolicies": "Sunbird software has implemented many best practices to keep user data safe and secure. Users are empowered to safeguard and share their data with appropriate consent management mechanisms. Default software has implemented data collection in an open and transparent manner. Sunbird software implements principles of minimalism, consent, transparency of data collection, and other best practices. Please see earlier and following responses for details about privacy, and data security."
+    },
+    "dataPrivacySecurity": {
+      "collectsPII": "No",
+      "typesOfDataCollected": [
+        ""
+      ],
+      "thirdPartyDataSharing": "No",
+      "dataSharingCircumstances": [
+        ""
+      ],
+      "ensurePrivacySecurity": "Yes",
+      "privacySecurityDescription": "UCI does not store any PII for the users. The only potential PII that it can collect and store is the user phone number or any other digital address like email address. Additionally, the onus is on the UCI Implementer to manage/flush PII information as per requirement. UCI complies with the following relevant laws - India's Personal Data Protection Bill (2019), The IT Act (2000) for its implementation in India"
+    },
+    "inappropriateIllegalContent": {
+      "collectStoreDistribute": "No",
+      "type": "",
+      "contentFilter": "",
+      "policyGuidelinesDocumentationLink": "",
+      "illegalContentDetection": "",
+      "illegalContentDetectionMechanism": ""
+    },
+    "protectionFromHarassment": {
+      "userInteraction": "No",
+      "addressSafetySecurityUnderageUsers": "",
+      "stepsAddressRiskPreventSafetyUnderageUsers": [
+        ""
+      ],
+      "griefAbuseHarassmentProtection": "",
+      "harassmentProtectionSteps": [
+        ""
+      ]
+    }
+  },
+  "locations": {
+    "developmentCountries": [
+      "India"
+    ],
+    "deploymentCountries": [
+      "India"
+    ]
+  }
+}
