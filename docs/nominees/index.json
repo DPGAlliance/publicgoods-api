@@ -187,48 +187,6 @@
     "stage": "nominee"
   },
   {
-    "id": "bob-the-ai-career-coach",
-    "name": "Bob, the AI career coach",
-    "aliases": [
-      "Bob"
-    ],
-    "description": "Bob supports jobseekers by helping them create a data-driven plan highlighting their main job search priorities, and coaching them to take action, thereby improving their employment outcomes",
-    "website": "https://uk.hellobob.com/",
-    "license": [
-      {
-        "spdx": "GPL-3.0",
-        "licenseURL": "https://github.com/bayesimpact/bob-emploi/blob/main/LICENSE"
-      }
-    ],
-    "SDGs": [
-      {
-        "SDGNumber": 8,
-        "evidenceText": "Bob supports job seekers in their job search by providing them with key information and resources. It helps them better understand how to conduct their job search and how to move on it proactively. Bob promotes decent work and economic growth as it helps people find sustainable jobs in which they have a higher chance of staying.",
-        "evidenceURL": "https://uk.hellobob.com/"
-      }
-    ],
-    "sectors": [],
-    "type": [
-      "software"
-    ],
-    "repositories": [
-      {
-        "name": "main",
-        "url": "https://github.com/bayesimpact/bob-emploi"
-      }
-    ],
-    "organizations": [
-      {
-        "name": "Bayes Impact",
-        "website": "https://www.bayesimpact.org/",
-        "org_type": "owner",
-        "contact_name": "Benjamin Goullard",
-        "contact_email": "benjamin@bayesimpact.org"
-      }
-    ],
-    "stage": "nominee"
-  },
-  {
     "id": "book-dash",
     "name": "Book Dash",
     "aliases": [
@@ -597,49 +555,6 @@
     "stage": "nominee"
   },
   {
-    "id": "consul-project",
-    "name": "CONSUL Project",
-    "aliases": [
-      "Consul",
-      "Consul Democracy"
-    ],
-    "description": "Free Open Source Participation Software for Democracy. Citizen participation and open government web application that helps public officials carry out participatory processes with their citizens. Through an accessible and friendly interface, governments can facilitate direct citizen participation through a number of activities, including citizen proposals, participatory budgets, collaborative legislation, debates and voting.",
-    "website": "https://consulproject.org/en/",
-    "license": [
-      {
-        "spdx": "AGPL-3.0",
-        "licenseURL": "https://github.com/consul/consul/blob/master/LICENSE-AGPLv3.txt"
-      }
-    ],
-    "SDGs": [
-      {
-        "SDGNumber": 16,
-        "evidenceText": "CONSUL is a project that supports governments and institutions to become stronger by involving citizens and stakeholders into decision-making processes. Moreover, it has developed in collaboration with the UNDP a SDG module. ",
-        "evidenceURL": "https://consulproject.org/docs/consul_sdg_module_en.pdf"
-      }
-    ],
-    "sectors": [],
-    "type": [
-      "software"
-    ],
-    "repositories": [
-      {
-        "name": "CONSUL Project",
-        "url": "https://github.com/consul/consul"
-      }
-    ],
-    "organizations": [
-      {
-        "name": "Consul Democracy Foundation",
-        "website": "https://consulfoundation.org/",
-        "org_type": "owner",
-        "contact_name": "Esther Nass",
-        "contact_email": "info@consulfoundation.org"
-      }
-    ],
-    "stage": "nominee"
-  },
-  {
     "id": "deon",
     "name": "Deon",
     "description": "Deon is a command line tool that allows you to easily add an ethics checklist to your data science projects. We support creating a new, standalone checklist file or appending a checklist to an existing analysis in many common formats.",
@@ -984,6 +899,48 @@
         "website": "https://www.gbif.org/governance",
         "org_type": "owner",
         "contact_email": "info@gbif.org"
+      }
+    ],
+    "stage": "nominee"
+  },
+  {
+    "id": "govdirectory",
+    "name": "Govdirectory",
+    "aliases": [
+      "WikiProject Govdirectory"
+    ],
+    "description": "A crowdsourced and fact-checked directory of official governmental online accounts and services. The easiest way to contact your government.",
+    "website": "https://govdirectory.org",
+    "license": [
+      {
+        "spdx": "CC0-1.0",
+        "licenseURL": "https://github.com/govdirectory/website/blob/main/LICENSE"
+      }
+    ],
+    "SDGs": [
+      {
+        "SDGNumber": 16,
+        "evidenceText": "Our vision is \"Our vision is a world where people are empowered to engage with their government to ensure responsive, inclusive, participatory and representative decision-making at all levels.\"  and our mission is \"We will enable a community powered directory where the online presence of every public organization is easily findable, queryable and trustworthy.\". Together, they are directly related to target 16.7 and 16.8.",
+        "evidenceURL": "https://www.govdirectory.org/about/"
+      }
+    ],
+    "sectors": [],
+    "type": [
+      "data"
+    ],
+    "repositories": [
+      {
+        "name": "Topics",
+        "url": "https://www.govdirectory.org/topics/"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Govdirectory",
+        "website": "https://github.com/govdirectory",
+        "org_type": "maintainer",
+        "contact_name": "Jan Ainali",
+        "contact_email": "ainali.jan@gmail.com"
       }
     ],
     "stage": "nominee"
@@ -3805,56 +3762,6 @@
         "name": "Swiss State Secretary for Economic Affairs (SECO)",
         "website": "https://www.seco.admin.ch/seco/en/home.html",
         "org_type": "funder"
-      }
-    ],
-    "stage": "nominee"
-  },
-  {
-    "id": "vr-for-schools",
-    "name": "VR for Schools",
-    "aliases": [
-      "VR4Schools",
-      "LeVRn"
-    ],
-    "description": "Educational virtual reality content for the Nigerian junior secondary school curriculum.",
-    "website": "http://vr4schools.org/",
-    "license": [
-      {
-        "spdx": "GPL-3.0",
-        "licenseURL": "https://github.com/Imisi3D/leVRn-beta/blob/master/LICENSE"
-      }
-    ],
-    "SDGs": [
-      {
-        "SDGNumber": 4,
-        "evidenceURL": "https://medium.com/imisi3d/virtual-reality-for-education-in-nigeria-fecb01e0cefe"
-      }
-    ],
-    "sectors": [],
-    "type": [
-      "software"
-    ],
-    "repositories": [
-      {
-        "name": "LeVRn Potential and Kinetic Energy",
-        "url": "https://github.com/Imisi3D/LeVRnPotentialAndKineticEnergy"
-      },
-      {
-        "name": "LeVRn Algebra",
-        "url": "https://github.com/Imisi3D/leVRnAlgebra"
-      },
-      {
-        "name": "LeVRn Non-communicable diseases",
-        "url": "https://github.com/Imisi3D/LeVRn_Non_Communicable_Diseases"
-      }
-    ],
-    "organizations": [
-      {
-        "name": "Imìsí 3D ",
-        "website": "https://imisi3d.com/",
-        "org_type": "owner",
-        "contact_name": "Judith Okonkwo ",
-        "contact_email": "Judith@imisi3d.com"
       }
     ],
     "stage": "nominee"
