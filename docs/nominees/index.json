@@ -1195,52 +1195,6 @@
     "stage": "nominee"
   },
   {
-    "id": "integreat",
-    "name": "Integreat",
-    "aliases": [
-      "Integreat-App"
-    ],
-    "description": "Our digital integration platform Integreat enables governments and aid organizations to empower refugees and migrants.",
-    "website": "https://integreat-app.com/",
-    "license": [
-      {
-        "spdx": "MIT",
-        "licenseURL": "https://github.com/digitalfabrik/integreat-app/blob/main/LICENSE.txt"
-      }
-    ],
-    "SDGs": [
-      {
-        "SDGNumber": 10,
-        "evidenceText": "Many services, structures and useful information on the topic of integration are difficult for newcomers to find and understand. Above all, local offers and information – if they are written down centrally at all – are usually not available in several languages due to the high maintenance costs. The language barrier thus adds to the difficulty.  Thus, many people are limited in their independence, and important information reaches the target group too late in the integration process.  The result: migrant target groups are restricted in their social participation and the integration process threatens to fail even because of the basic supply of information.",
-        "evidenceURL": "https://integreat-app.de/en/our-solution/"
-      }
-    ],
-    "sectors": [],
-    "type": [
-      "software"
-    ],
-    "repositories": [
-      {
-        "name": "Frontend (Native Apps and Web-App)",
-        "url": "https://github.com/digitalfabrik/integreat-app"
-      },
-      {
-        "name": "Backend (Content Management System)",
-        "url": "https://github.com/digitalfabrik/integreat-cms"
-      }
-    ],
-    "organizations": [
-      {
-        "name": "Tür an Tür - Digitalfabrik gGmbH",
-        "website": "https://tuerantuer.de/digitalfabrik",
-        "org_type": "owner",
-        "contact_name": "Fritjof Knier",
-        "contact_email": "digitalfabrik@tuerantuer.de"
-      }
-    ],
-    "stage": "nominee"
-  },
-  {
     "id": "juniper",
     "name": "Juniper",
     "description": "Juniper is a set of tools built with and for public sector organisations looking to receive, hold and send crypto-denominated assets.",
@@ -1853,58 +1807,6 @@
     "stage": "nominee"
   },
   {
-    "id": "open-risk-manual",
-    "name": "Open Risk Manual",
-    "aliases": [
-      ""
-    ],
-    "description": "The Open Risk Manual is an open online repository of information for risk management developed and maintained by Open Risk. Our objective is to create a comprehensive, detailed, authoritative collection of risk management resources that are easily accessible by anybody, anywhere - well, network access is currently required.",
-    "website": "https://www.openriskmanual.org/wiki/Main_Page",
-    "license": [
-      {
-        "spdx": "CC-BY-NC-4.0",
-        "licenseURL": "https://www.openriskmanual.org/wiki/License"
-      }
-    ],
-    "SDGs": [
-      {
-        "SDGNumber": 4,
-        "evidenceText": "Risk Management is a vast and ever expanding domain of knowledge. The required skills are applied, occasionally very technical and ever changing. This specialized nature of the knowledge base is not served fully by either the traditional academic literature or classic publications in printed book form.",
-        "evidenceURL": "https://www.openriskmanual.org/wiki/Open_Risk_Manual:About"
-      },
-      {
-        "SDGNumber": 10,
-        "evidenceText": "The Manual includes categories about Personal Financial Literacy (organized according to the financial competence framework for adults in the European Union)",
-        "evidenceURL": "https://www.openriskmanual.org/wiki/Category:Personal_Financial_Literacy"
-      },
-      {
-        "SDGNumber": 11,
-        "evidenceText": "The sustainable finance category organizes articles touching diverse Sustainable Finance topics",
-        "evidenceURL": "https://www.openriskmanual.org/wiki/Category:Sustainable_Finance"
-      }
-    ],
-    "sectors": [],
-    "type": [
-      "content"
-    ],
-    "repositories": [
-      {
-        "name": "wiki",
-        "url": "https://www.openriskmanual.org/wiki/Main_Page"
-      }
-    ],
-    "organizations": [
-      {
-        "name": "Open Risk",
-        "website": "https://www.openriskmanagement.com/",
-        "org_type": "owner",
-        "contact_name": "Philippos Papadopoulos",
-        "contact_email": "philippos@openriskmanagement.com"
-      }
-    ],
-    "stage": "nominee"
-  },
-  {
     "id": "openboxes",
     "name": "OpenBoxes",
     "aliases": [
@@ -1944,6 +1846,50 @@
         "org_type": "maintainer",
         "contact_name": "Kelsey Nagel",
         "contact_email": "knagel@pih.org"
+      }
+    ],
+    "stage": "nominee"
+  },
+  {
+    "id": "openclinic-ga",
+    "name": "OpenClinic GA",
+    "aliases": [
+      "OPC GA"
+    ],
+    "description": "OpenClinic GA is an open source integrated hospital information management system covering management of administrative, financial, clinical, lab, x-ray, pharmacy, meals distribution and other data. Extensive statistical and reporting capabilities.",
+    "website": "https://sourceforge.net/projects/open-clinic/",
+    "license": [
+      {
+        "spdx": "LGPL-2.1",
+        "licenseURL": "https://sourceforge.net/projects/open-clinic/"
+      }
+    ],
+    "SDGs": [
+      {
+        "SDGNumber": 3,
+        "evidenceText": "OpenClinic GA is an open source integrated hospital information management system covering management of administrative, financial, clinical, lab, x-ray, pharmacy, meals distribution and other data. Extensive statistical and reporting capabilities.",
+        "evidenceURL": "https://sourceforge.net/projects/open-clinic/"
+      }
+    ],
+    "sectors": [
+      "Health"
+    ],
+    "type": [
+      "software"
+    ],
+    "repositories": [
+      {
+        "name": "main",
+        "url": "https://sourceforge.net/p/open-clinic/code/ci/master/tree/"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "ICT4D - Post-Factum",
+        "website": "http://www.post-factum.be/",
+        "org_type": "funder",
+        "contact_name": "FRANK VERBEKE",
+        "contact_email": "frank@ict4d.be"
       }
     ],
     "stage": "nominee"
@@ -2995,53 +2941,6 @@
     "stage": "nominee"
   },
   {
-    "id": "project-connect",
-    "name": "Project Connect",
-    "description": "Project Connect aims to create a global, live map of schools and their connection to the internet",
-    "website": "https://www.projectconnect.world/",
-    "license": [
-      {
-        "spdx": "BSD-3-Clause",
-        "licenseURL": "https://github.com/unicef/magicbox-maps/blob/master/LICENSE"
-      }
-    ],
-    "SDGs": [
-      {
-        "SDGNumber": 4,
-        "evidenceText": "Project Connect continues as a venture inside UNICEF’s Office of Innovation within Magic Box, a platform for partners to come and connect their datasets and expertise to better understand the situation of children and youth, and to create insights that will help governments and other humanitarian actors improve their programmes around education, health and emergencies.     ",
-        "evidenceURL": "https://www.projectconnect.world/"
-      },
-      {
-        "SDGNumber": 9,
-        "evidenceText": "Project Connect continues as a venture inside UNICEF’s Office of Innovation within Magic Box, a platform for partners to come and connect their datasets and expertise to better understand the situation of children and youth, and to create insights that will help governments and other humanitarian actors improve their programmes around education, health and emergencies.      ",
-        "evidenceURL": "https://www.projectconnect.world/"
-      },
-      {
-        "SDGNumber": 10,
-        "evidenceText": "Project Connect continues as a venture inside UNICEF’s Office of Innovation within Magic Box, a platform for partners to come and connect their datasets and expertise to better understand the situation of children and youth, and to create insights that will help governments and other humanitarian actors improve their programmes around education, health and emergencies.     ",
-        "evidenceURL": "https://www.projectconnect.world/"
-      }
-    ],
-    "sectors": [],
-    "type": [
-      "software"
-    ],
-    "repositories": [
-      {
-        "name": "main",
-        "url": "https://github.com/unicef/magicbox-maps"
-      }
-    ],
-    "organizations": [
-      {
-        "name": "UNICEF",
-        "website": "https://unicef.org",
-        "org_type": "owner"
-      }
-    ],
-    "stage": "nominee"
-  },
-  {
     "id": "project-konko",
     "name": "Project Konko",
     "aliases": [
@@ -3385,50 +3284,6 @@
         "org_type": "owner",
         "contact_name": "Mónica Abarca ",
         "contact_email": "hola@qairadrones.com"
-      }
-    ],
-    "stage": "nominee"
-  },
-  {
-    "id": "quantb",
-    "name": "QuanTB",
-    "aliases": [
-      ""
-    ],
-    "description": "QuanTB is an electronic quantification and early warning system designed to improve procurement processes, ordering, and supply planning for tuberculosis (TB) treatment.",
-    "website": "https://msh.org/resources/quantb/",
-    "license": [
-      {
-        "spdx": "GPL-3.0",
-        "licenseURL": "https://github.com/MSH/QuanTB/blob/devel/LICENSE"
-      }
-    ],
-    "SDGs": [
-      {
-        "SDGNumber": 3,
-        "evidenceText": "When used on a regular basis, QuanTB serves as an early warning system by providing information on actual versus planned consumption, impending expiries, and stock-outs of medicines.",
-        "evidenceURL": "https://msh.org/resources/quantb/"
-      }
-    ],
-    "sectors": [
-      "Health"
-    ],
-    "type": [
-      "software"
-    ],
-    "repositories": [
-      {
-        "name": "QuanTB",
-        "url": "https://github.com/MSH/QuanTB"
-      }
-    ],
-    "organizations": [
-      {
-        "name": "Management Sciences for Health",
-        "website": "https://www.msh.org",
-        "org_type": "owner",
-        "contact_name": "The Digital Team",
-        "contact_email": "digital@msh.org"
       }
     ],
     "stage": "nominee"
