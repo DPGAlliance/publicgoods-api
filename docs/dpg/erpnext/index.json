@@ -1,0 +1,136 @@
+{
+  "id": "erpnext",
+  "name": "ERPNext",
+  "aliases": [
+    ""
+  ],
+  "description": "Open source ERP system for financial accounting, inventory management etc.",
+  "website": "https://erpnext.com",
+  "license": [
+    {
+      "spdx": "GPL-3.0",
+      "licenseURL": "https://github.com/frappe/erpnext/blob/develop/license.txt"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 8,
+      "evidenceText": "ERPNext provides a high quality and low cost software solution that encourages the formalization and growth of micro-, small- and medium-sized enterprises through access to essential resource management services and tools. This aligns with target 8.2: Diversify, innovate and upgrade for economic productivity, where we support technological upgrading and digitalization in diverse sectors for economic growth.",
+      "evidenceURL": "https://erpnext.com/blog/customer-success-stories/digitizing-rangsutra-using-erpnext-and-frappe-cloud"
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "name": "ERPNext",
+      "url": "https://github.com/frappe/erpnext"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "Frappe",
+      "website": "https://frappe.io",
+      "org_type": "owner",
+      "contact_name": "Rushabh Mehta",
+      "contact_email": "rushabh@frappe.io"
+    }
+  ],
+  "stage": "DPG",
+  "clearOwnership": {
+    "isOwnershipExplicit": "Yes",
+    "copyrightURL": "https://erpnext.com/"
+  },
+  "platformIndependence": {
+    "mandatoryDepsCreateMoreRestrictions": "No",
+    "isSoftwarePltIndependent": "",
+    "pltIndependenceDesc": ""
+  },
+  "documentation": {
+    "isDocumentationAvailable": "Yes",
+    "documentationURL": [
+      "https://docs.erpnext.com",
+      "https://github.com/frappe/erpnext"
+    ]
+  },
+  "NonPII": {
+    "collectsNonPII": "No",
+    "checkNonPIIAccessMechanism": "",
+    "nonPIIAccessMechanism": ""
+  },
+  "privacy": {
+    "isPrivacyCompliant": "Yes",
+    "privacyComplianceList": [
+      "GDPR"
+    ],
+    "adherenceSteps": [
+      "https://erpnext.com/terms",
+      "https://docs.erpnext.com/docs/v13/user/manual/en/setting-up/personal-data-download"
+    ]
+  },
+  "standards": {
+    "supportStandards": "Yes",
+    "standardsList": [
+      "REST",
+      "JSON",
+      "HTML",
+      "CSS",
+      "JavaScript"
+    ],
+    "evidenceStandardSupport": [
+      "https://github.com/frappe/erpnext"
+    ],
+    "implementBestPractices": "No",
+    "bestPracticesList": [
+      "Continous integration",
+      "Code coverage"
+    ]
+  },
+  "doNoHarm": {
+    "preventHarm": {
+      "stepsToPreventHarm": "No",
+      "additionalInfoMechanismProcessesPolicies": "https://erpnext.com/terms"
+    },
+    "dataPrivacySecurity": {
+      "collectsPII": "No",
+      "typesOfDataCollected": [
+        ""
+      ],
+      "thirdPartyDataSharing": "No",
+      "dataSharingCircumstances": [
+        ""
+      ],
+      "ensurePrivacySecurity": "Yes",
+      "privacySecurityDescription": "https://erpnext.com/terms#12-confidentiality"
+    },
+    "inappropriateIllegalContent": {
+      "collectStoreDistribute": "No",
+      "type": "",
+      "contentFilter": "",
+      "policyGuidelinesDocumentationLink": "",
+      "illegalContentDetection": "",
+      "illegalContentDetectionMechanism": ""
+    },
+    "protectionFromHarassment": {
+      "userInteraction": "No",
+      "addressSafetySecurityUnderageUsers": "",
+      "stepsAddressRiskPreventSafetyUnderageUsers": [
+        ""
+      ],
+      "griefAbuseHarassmentProtection": "",
+      "harassmentProtectionSteps": [
+        ""
+      ]
+    }
+  },
+  "locations": {
+    "developmentCountries": [
+      "India"
+    ],
+    "deploymentCountries": [
+      ""
+    ]
+  }
+}
