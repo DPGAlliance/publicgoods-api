@@ -1428,30 +1428,32 @@
         "evidenceText": "Our development of learning health care systems for newborn care, and the human capacity with which to deliver these, will contribute directly to the UN Sustainable Development Goal (SDG) 3: to reduce neonatal mortality to 12/1000 live births. Our work will also contribute to other outcomes for SDG3: to achieve universal health coverage, improve recruitment, development, retention and training of the healthcare workforce. Our focus on optimising newborn and child outcomes, including disability, addresses the SDGs that focus on disability: 4,8,10,11,17."
       }
     ],
-    "sectors": [],
+    "sectors": [
+      "Health"
+    ],
     "type": [
       "software"
     ],
     "repositories": [
       {
-        "name": "Main",
+        "name": "Neotree overall project",
         "url": "https://github.com/neotree/neotree"
       },
       {
-        "name": "Mobile app",
+        "name": "Neotree mobile app",
         "url": "https://github.com/neotree/neotree-react-native-app"
       },
       {
-        "name": "Editor",
-        "url": "https://github.com/neotree/neotree-editor"
+        "name": "Neotree backend ",
+        "url": "https://github.com/neotree/node-api"
       },
       {
-        "name": "Data pipeline",
+        "name": "Neotree data pipeline ",
         "url": "https://github.com/neotree/neotree-data-pipeline-kedro"
       },
       {
-        "name": "Backend ",
-        "url": "https://github.com/neotree/node-api"
+        "name": "Neotree Editor ",
+        "url": "https://github.com/neotree/neotree-editor"
       }
     ],
     "organizations": [
@@ -1459,8 +1461,8 @@
         "name": "Neotree",
         "website": "https://neotree.org/",
         "org_type": "owner",
-        "contact_name": "Yali Sassoon",
-        "contact_email": "yali@snowplowanalytics.com"
+        "contact_name": " Dr Michelle Heys",
+        "contact_email": "m.heys@ucl.ac.uk"
       }
     ],
     "stage": "nominee"
@@ -3973,73 +3975,6 @@
         "org_type": "owner",
         "contact_name": "Paula Mc Kenna",
         "contact_email": "pmckenna@its.jnj.com"
-      }
-    ],
-    "stage": "nominee"
-  },
-  {
-    "id": "yallakhedmeh",
-    "name": "Yallakhedmeh",
-    "aliases": [
-      ""
-    ],
-    "description": "An Application that contains more than 40 important community services. ",
-    "website": "https://www.facebook.com/yallakhedmeh/",
-    "license": [
-      {
-        "spdx": "Apache-2.0",
-        "licenseURL": "https://play.google.com/store/apps/details?id=com.yallakhedmeh.client"
-      }
-    ],
-    "SDGs": [
-      {
-        "SDGNumber": 1,
-        "evidenceText": "providing job opportunities by registering with the App .",
-        "evidenceURL": "https://play.google.com/store/apps/details?id=com.yallakhedmeh.provider"
-      },
-      {
-        "SDGNumber": 5,
-        "evidenceText": "providing job opportunities for gender equity.",
-        "evidenceURL": "https://play.google.com/store/apps/details?id=com.yallakhedmeh.provider"
-      },
-      {
-        "SDGNumber": 7,
-        "evidenceText": "providing services to all areas at the lowest prices.",
-        "evidenceURL": "https://play.google.com/store/apps/details?id=com.yallakhedmeh.client"
-      },
-      {
-        "SDGNumber": 8,
-        "evidenceText": "spread of the our App to all regions locally and globally by increasing of users.",
-        "evidenceURL": "https://play.google.com/store/apps/details?id=com.yallakhedmeh.client"
-      },
-      {
-        "SDGNumber": 9,
-        "evidenceText": "projects can use our App to provide the necessary services for construction.",
-        "evidenceURL": "https://play.google.com/store/apps/details?id=com.yallakhedmeh.client"
-      },
-      {
-        "SDGNumber": 17,
-        "evidenceText": "our goal is provide services at the lowest price and fastest time in all countries",
-        "evidenceURL": "https://play.google.com/store/apps/details?id=com.yallakhedmeh.client"
-      }
-    ],
-    "sectors": [],
-    "type": [
-      "software"
-    ],
-    "repositories": [
-      {
-        "name": "yallakhedmeh",
-        "url": "https://play.google.com/store/apps/details?id=com.yallakhedmeh.client"
-      }
-    ],
-    "organizations": [
-      {
-        "name": "Yallakhedmeh ",
-        "website": "https://play.google.com/store/apps/details?id=com.yallakhedmeh.client",
-        "org_type": "owner",
-        "contact_name": "Ayman Abu salah",
-        "contact_email": "ayman.aqrabawi@hotmail.com"
       }
     ],
     "stage": "nominee"
