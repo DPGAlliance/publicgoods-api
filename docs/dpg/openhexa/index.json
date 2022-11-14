@@ -1,0 +1,163 @@
+{
+  "id": "openhexa",
+  "name": "OpenHexa",
+  "aliases": [
+    ""
+  ],
+  "description": "An open-source data integration platform for public health projects.",
+  "website": "https://www.bluesquarehub.com/openhexa/",
+  "license": [
+    {
+      "spdx": "MIT",
+      "licenseURL": "https://github.com/BLSQ/openhexa/blob/main/LICENSE"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 3,
+      "evidenceText": "Our data integration platform is focused on public health and has been designed to help data scientists and data analysts integrate and analyze a wide range of health data. Its goal is to strengthen public health programmes, such as improving Improving national surveillance systems for infectious diseases.",
+      "evidenceURL": "https://www.bluesquarehub.com/blog/openhexa-bluesquares-new-data-integration-platform/"
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "name": "Starting point / doc & roadmap",
+      "url": "https://github.com/BLSQ/openhexa"
+    },
+    {
+      "name": "Backend",
+      "url": "https://github.com/BLSQ/openhexa-app"
+    },
+    {
+      "name": "Frontend",
+      "url": "https://github.com/BLSQ/openhexa-frontend"
+    },
+    {
+      "name": "Notebooks component",
+      "url": "https://github.com/BLSQ/openhexa-notebooks"
+    },
+    {
+      "name": "Data pipelines",
+      "url": "https://github.com/BLSQ/openhexa-pipelines"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "Bluesquare SA",
+      "website": "https://bluesquarehub.com/",
+      "org_type": "owner",
+      "contact_name": "Nicolas De Borman",
+      "contact_email": "ndeborman@bluesquarehub.com"
+    }
+  ],
+  "stage": "DPG",
+  "clearOwnership": {
+    "isOwnershipExplicit": "Yes",
+    "copyrightURL": "https://www.bluesquarehub.com/openhexa/"
+  },
+  "platformIndependence": {
+    "mandatoryDepsCreateMoreRestrictions": "No",
+    "isSoftwarePltIndependent": "",
+    "pltIndependenceDesc": ""
+  },
+  "documentation": {
+    "isDocumentationAvailable": "Yes",
+    "documentationURL": [
+      "https://github.com/BLSQ/openhexa/blob/main/README.md",
+      "https://www.bluesquarehub.com/openhexa/"
+    ]
+  },
+  "NonPII": {
+    "collectsNonPII": "Yes",
+    "checkNonPIIAccessMechanism": "Yes",
+    "nonPIIAccessMechanism": "The data collected by the platform is stored in a PostgreSQL database and can easily be exported in CSV format"
+  },
+  "privacy": {
+    "isPrivacyCompliant": "Yes",
+    "privacyComplianceList": [
+      "General Data Protection Regulation (GDPR)"
+    ],
+    "adherenceSteps": [
+      "Compliance with data protection laws is handled both at the company level and on a case by case basis with our partners through data sharing agreements. We also have regular internal meetings with our Data Protection Officer to discuss compliance with applicable laws."
+    ]
+  },
+  "standards": {
+    "supportStandards": "Yes",
+    "standardsList": [
+      "HTML",
+      "CSS",
+      "GraphQL",
+      "Geotif",
+      "Geo(JSON)",
+      "CSV"
+    ],
+    "evidenceStandardSupport": [
+      "https://github.com/BLSQ/openhexa-app"
+    ],
+    "implementBestPractices": "Yes",
+    "bestPracticesList": [
+      "Test-driven development",
+      "Agile development",
+      "Principles for Digital Development"
+    ]
+  },
+  "doNoHarm": {
+    "preventHarm": {
+      "stepsToPreventHarm": "Yes",
+      "additionalInfoMechanismProcessesPolicies": "Moderation and respect of code of conducts are handled in-person trough regular meetings with our partners that use the platform."
+    },
+    "dataPrivacySecurity": {
+      "collectsPII": "Yes",
+      "typesOfDataCollected": [
+        "Users typically bring their own data to the platform, which may include PII."
+      ],
+      "thirdPartyDataSharing": "No",
+      "dataSharingCircumstances": [
+        ""
+      ],
+      "ensurePrivacySecurity": "Yes",
+      "privacySecurityDescription": "Compliance with data protection laws is handled both at the company level and on a case by case basis with our partners through data sharing agreements. We also have regular internal meetings with our Data Protection Officer to discuss compliance with applicable laws."
+    },
+    "inappropriateIllegalContent": {
+      "collectStoreDistribute": "No",
+      "type": "",
+      "contentFilter": "",
+      "policyGuidelinesDocumentationLink": "",
+      "illegalContentDetection": "",
+      "illegalContentDetectionMechanism": ""
+    },
+    "protectionFromHarassment": {
+      "userInteraction": "No",
+      "addressSafetySecurityUnderageUsers": "",
+      "stepsAddressRiskPreventSafetyUnderageUsers": [
+        ""
+      ],
+      "griefAbuseHarassmentProtection": "",
+      "harassmentProtectionSteps": [
+        ""
+      ]
+    }
+  },
+  "locations": {
+    "developmentCountries": [
+      "Belgium",
+      "Senegal"
+    ],
+    "deploymentCountries": [
+      "Togo",
+      "Senegal",
+      "Rwanda",
+      "Niger",
+      "Morocco",
+      "Mali",
+      "Democratic Republic of the Congo",
+      "Burkina Faso",
+      "Côte d'Ivoire",
+      "Cameroon"
+    ]
+  }
+}
