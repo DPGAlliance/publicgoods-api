@@ -531,6 +531,48 @@
     "stage": "nominee"
   },
   {
+    "id": "digit-public-finance-management",
+    "name": "DIGIT Public Finance Management",
+    "aliases": [
+      "DIGIT iFix"
+    ],
+    "description": "DIGIT – iFIX enables government agencies (national, sub-national, local governments, development institutions etc…) to exchange standardised fiscal events. Example: budget estimate, plan, demand, receipt, bill and payments related data. This accelerates flow of fiscal information across agencies which in turn accelerates flow of funds. ",
+    "website": "https://ifix.digit.org/",
+    "license": [
+      {
+        "spdx": "MIT",
+        "licenseURL": "https://github.com/egovernments/iFix-Dev/blob/master/LICENSE"
+      }
+    ],
+    "SDGs": [
+      {
+        "SDGNumber": 16,
+        "evidenceText": "DIGIT – iFIX enables government agencies (national, sub-national, local governments, development institutions etc…) to exchange standardised fiscal events. Example: budget estimate, plan, demand, receipt, bill and payments related data. This accelerates flow of fiscal information across agencies which in turn accelerates flow of funds. ",
+        "evidenceURL": "https://ifix.digit.org/"
+      }
+    ],
+    "sectors": [],
+    "type": [
+      "software"
+    ],
+    "repositories": [
+      {
+        "name": "iFix",
+        "url": "https://github.com/egovernments/iFix-Dev"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "eGov Foundation",
+        "website": "https://egov.org.in/",
+        "org_type": "owner",
+        "contact_name": "eGov Foundation",
+        "contact_email": "contact@egovernments.org"
+      }
+    ],
+    "stage": "nominee"
+  },
+  {
     "id": "e-heza",
     "name": "E-Heza",
     "aliases": [
@@ -3333,53 +3375,6 @@
         "org_type": "owner",
         "contact_name": "Greg Austic",
         "contact_email": "gbathree@gmail.com"
-      }
-    ],
-    "stage": "nominee"
-  },
-  {
-    "id": "terrastories",
-    "name": "Terrastories",
-    "aliases": [
-      ""
-    ],
-    "description": "An open-source application for mapping place-based oral histories. Terrastories is a geostorytelling application built to enable local communities to locate and map their own oral storytelling traditions about places of significant meaning or value to them. Terrastories is designed to be entirely offline-compatible",
-    "website": "https://terrastories.io",
-    "license": [
-      {
-        "spdx": "MIT",
-        "licenseURL": "https://github.com/Terrastories/terrastories/blob/master/LICENSE"
-      }
-    ],
-    "SDGs": [
-      {
-        "SDGNumber": 4,
-        "evidenceText": "Terrastories pertains to Target 4.7 insofar as the application promotes young learners, in particular from Indigenous communities, to gain appreciation of cultural diversity and of culture's contribution to sustainable development, in their own language and using materials that directly relate to their lands and communities.",
-        "evidenceURL": "https://terrastories.io"
-      },
-      {
-        "SDGNumber": 11,
-        "evidenceText": "Terrastories pertains to Target 11.4 insofar as the application serves as a resource for protecting a community's intangible cultural heritage, in the form of oral histories and traditional knowledge about the lands.",
-        "evidenceURL": "https://terrastories.io"
-      }
-    ],
-    "sectors": [],
-    "type": [
-      "software"
-    ],
-    "repositories": [
-      {
-        "name": "main",
-        "url": "https://github.com/terrastories/terrastories"
-      }
-    ],
-    "organizations": [
-      {
-        "name": "Digital Democracy",
-        "website": "http://digital-democracy.org",
-        "org_type": "maintainer",
-        "contact_name": "Rudo Kemper",
-        "contact_email": "rkemper@digital-democracy.org"
       }
     ],
     "stage": "nominee"
