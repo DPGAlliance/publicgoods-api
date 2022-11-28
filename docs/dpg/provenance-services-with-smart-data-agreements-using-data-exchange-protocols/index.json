@@ -1,0 +1,146 @@
+{
+  "id": "provenance-services-with-smart-data-agreements-using-data-exchange-protocols",
+  "name": "Provenance Services with Smart Data Agreements using Data Exchange Protocols",
+  "aliases": [
+    "DEXA",
+    "PS-SDA"
+  ],
+  "description": "DEXA protocol is a key component for developing and deploying trustworthy, human-centric decentralised data applications (dApps) across domains. ",
+  "website": "https://ontochain.ngi.eu/content/ps-sda",
+  "license": [
+    {
+      "spdx": "Apache-2.0",
+      "licenseURL": "https://github.com/decentralised-dataexchange/dexa-protocol/blob/main/LICENSE"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 9,
+      "evidenceText": "The DEXA protocol facilitates sustainable personal exchange for organisations, ensuring that all data transactions are lawful, scalable and verifiable. An organisation can be a Data Source or a Data Using Service. The DEXA protocol brings in the requisite trust and governance to establish a ubiquitous data exchange marketplace while empowering individuals to be in control of their data. All organisations need to ensure that they are on the right side of the law (e.g. the GDPR) when consuming personal data (risk management) and to establish the digital trust needed for individuals to say yes to sharing their data. "
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "software"
+  ],
+  "repositories": [
+    {
+      "name": "data-exchange-agreements",
+      "url": "https://github.com/decentralised-dataexchange/data-exchange-agreements"
+    },
+    {
+      "name": "dexa-protocol",
+      "url": "https://github.com/decentralised-dataexchange/dexa-protocol"
+    },
+    {
+      "name": "dexa-sdk",
+      "url": "https://github.com/decentralised-dataexchange/dexa-sdk"
+    },
+    {
+      "name": "dexa-smartcontracts",
+      "url": "https://github.com/decentralised-dataexchange/dexa-smartcontracts"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "LCubed AB, Sweden (iGrant.io)",
+      "website": "https://igrant.io/",
+      "org_type": "maintainer",
+      "contact_name": "Lal Chandran",
+      "contact_email": "lal@igrant.io"
+    }
+  ],
+  "stage": "DPG",
+  "clearOwnership": {
+    "isOwnershipExplicit": "Yes",
+    "copyrightURL": "https://github.com/decentralised-dataexchange/dexa-protocol/blob/main/LICENSE"
+  },
+  "platformIndependence": {
+    "mandatoryDepsCreateMoreRestrictions": "No",
+    "isSoftwarePltIndependent": "",
+    "pltIndependenceDesc": ""
+  },
+  "documentation": {
+    "isDocumentationAvailable": "Yes",
+    "documentationURL": [
+      "https://github.com/decentralised-dataexchange/dexa-protocol"
+    ]
+  },
+  "NonPII": {
+    "collectsNonPII": "No",
+    "checkNonPIIAccessMechanism": "",
+    "nonPIIAccessMechanism": ""
+  },
+  "privacy": {
+    "isPrivacyCompliant": "Yes",
+    "privacyComplianceList": [
+      "GDPR"
+    ],
+    "adherenceSteps": [
+      "Uses Data Protection Impact Assessment (DPIA) as the basis for creation of any Data Agreement. DPIA is owned by organisations that are part of the ecosystem. This is an open-source code for anyone to use and be part of a data exchange ecosystem.",
+      "https://igrant.io/privacy.html#privacy"
+    ]
+  },
+  "standards": {
+    "supportStandards": "Yes",
+    "standardsList": [
+      "Security -  HTTPS, SSL, SSH, RS256, ED2556, AnonCreds",
+      "Supported Authentication & Authorization - OAuth 2, OIDC and JWT (JSON Web Tokens)",
+      "Data exchange supported formats - JSON"
+    ],
+    "evidenceStandardSupport": [
+      "https://github.com/decentralised-dataexchange/dexa-protocol"
+    ],
+    "implementBestPractices": "Yes",
+    "bestPracticesList": [
+      "https://digitalprinciples.org/principle/use-open-standards-open-data-open-source-and-open-innovation/"
+    ]
+  },
+  "doNoHarm": {
+    "preventHarm": {
+      "stepsToPreventHarm": "Yes",
+      "additionalInfoMechanismProcessesPolicies": "Uses Data Protection Impact Assessment as the basis for creation of any Data Agreement"
+    },
+    "dataPrivacySecurity": {
+      "collectsPII": "No",
+      "typesOfDataCollected": [
+        ""
+      ],
+      "thirdPartyDataSharing": "No",
+      "dataSharingCircumstances": [
+        ""
+      ],
+      "ensurePrivacySecurity": "Yes",
+      "privacySecurityDescription": "https://igrant.io/privacy.html#privacy"
+    },
+    "inappropriateIllegalContent": {
+      "collectStoreDistribute": "No",
+      "type": "",
+      "contentFilter": "",
+      "policyGuidelinesDocumentationLink": "",
+      "illegalContentDetection": "",
+      "illegalContentDetectionMechanism": ""
+    },
+    "protectionFromHarassment": {
+      "userInteraction": "Yes",
+      "addressSafetySecurityUnderageUsers": "Yes",
+      "stepsAddressRiskPreventSafetyUnderageUsers": [
+        "It follows code of conduct relevant for open source project and community driven knowledge sharing. "
+      ],
+      "griefAbuseHarassmentProtection": "Yes",
+      "harassmentProtectionSteps": [
+        "Based on code or conduct as stated at: https://github.com/decentralised-dataexchange/data-exchange-agreements/blob/main/CODE-OF-CONDUCT.md"
+      ]
+    }
+  },
+  "locations": {
+    "developmentCountries": [
+      "Sweden",
+      "India"
+    ],
+    "deploymentCountries": [
+      "Sweden",
+      "India"
+    ]
+  }
+}
