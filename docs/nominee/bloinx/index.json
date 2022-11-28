@@ -36,6 +36,10 @@
     {
       "name": "Frontend",
       "url": "https://github.com/Bloinx/bloinx-v1"
+    },
+    {
+      "name": "Bloinx API",
+      "url": "https://github.com/Bloinx/bloinx-api"
     }
   ],
   "organizations": [
