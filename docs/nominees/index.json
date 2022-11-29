@@ -1911,67 +1911,6 @@
     "stage": "nominee"
   },
   {
-    "id": "open-referral",
-    "name": "Open Referral",
-    "aliases": [
-      ""
-    ],
-    "description": "Open Referral develops data standards and open source tools that make it easier to share, find and use information about health, human, and social services.",
-    "website": "https://openreferral.org",
-    "license": [
-      {
-        "spdx": "CC-BY-SA-4.0",
-        "licenseURL": "https://github.com/openreferral/specification/blob/master/LICENSE"
-      }
-    ],
-    "SDGs": [
-      {
-        "SDGNumber": 1,
-        "evidenceText": "Every community faces a similar challenge: there are many different kinds of health, human, and social services that are available to people in need, yet no one way that information about them is produced and shared. Instead, many organizations collect and structure community resource directory data in different ways — yielding redundant, fragmented silos.  As a result, it’s hard to ‘see’ the safety net. Many people never discover services that could help improve their lives. Service providers spend precious time verifying data rather than helping people. And without access to this information, decision-makers struggle to evaluate community health and program effectiveness. This yields underperforming systems that fail people and communities in tragic ways."
-      },
-      {
-        "SDGNumber": 2,
-        "evidenceText": "Every community faces a similar challenge: there are many different kinds of health, human, and social services that are available to people in need, yet no one way that information about them is produced and shared. Instead, many organizations collect and structure community resource directory data in different ways — yielding redundant, fragmented silos.  As a result, it’s hard to ‘see’ the safety net. Many people never discover services that could help improve their lives. Service providers spend precious time verifying data rather than helping people. And without access to this information, decision-makers struggle to evaluate community health and program effectiveness. This yields underperforming systems that fail people and communities in tragic ways."
-      },
-      {
-        "SDGNumber": 3,
-        "evidenceText": "Every community faces a similar challenge: there are many different kinds of health, human, and social services that are available to people in need, yet no one way that information about them is produced and shared. Instead, many organizations collect and structure community resource directory data in different ways — yielding redundant, fragmented silos.  As a result, it’s hard to ‘see’ the safety net. Many people never discover services that could help improve their lives. Service providers spend precious time verifying data rather than helping people. And without access to this information, decision-makers struggle to evaluate community health and program effectiveness. This yields underperforming systems that fail people and communities in tragic ways."
-      },
-      {
-        "SDGNumber": 10,
-        "evidenceText": "Every community faces a similar challenge: there are many different kinds of health, human, and social services that are available to people in need, yet no one way that information about them is produced and shared. Instead, many organizations collect and structure community resource directory data in different ways — yielding redundant, fragmented silos.  As a result, it’s hard to ‘see’ the safety net. Many people never discover services that could help improve their lives. Service providers spend precious time verifying data rather than helping people. And without access to this information, decision-makers struggle to evaluate community health and program effectiveness. This yields underperforming systems that fail people and communities in tragic ways."
-      },
-      {
-        "SDGNumber": 16,
-        "evidenceText": "Open Referral makes it easier for many institutions to collaborate on the management of information about the resources available to people in need – which can enhance partnerships, needs assessment, program evaluation, and institutional design. "
-      },
-      {
-        "SDGNumber": 17,
-        "evidenceText": "Open Referral makes it easier for many institutions to collaborate on the management of information about the resources available to people in need – which can enhance partnerships, needs assessment, program evaluation, and institutional design. "
-      }
-    ],
-    "sectors": [],
-    "type": [
-      "standard"
-    ],
-    "repositories": [
-      {
-        "name": "main",
-        "url": "https://github.com/openreferral/specification"
-      }
-    ],
-    "organizations": [
-      {
-        "name": "Aspiration",
-        "website": "https://aspirationtech.org/",
-        "org_type": "owner",
-        "contact_name": "Allen Gunn",
-        "contact_email": "gunner@aspirationtech.org"
-      }
-    ],
-    "stage": "nominee"
-  },
-  {
     "id": "openbaraza",
     "name": "openBaraza",
     "aliases": [
@@ -2781,58 +2720,6 @@
         "org_type": "owner",
         "contact_name": "Liz Barry",
         "contact_email": "liz@publiclab.org"
-      }
-    ],
-    "stage": "nominee"
-  },
-  {
-    "id": "portableutm",
-    "name": "PortableUTM",
-    "aliases": [
-      ""
-    ],
-    "description": "PortableUTM is an Open Source Initiative for enabling safe and regulations compliant drone operations around the world. The project is publicly released under GPU/GPL v3.0 licensing for the core features and MIT permissive license for the frontend and mobile apps.",
-    "website": "https://www.portableutm.com",
-    "license": [
-      {
-        "spdx": "AGPL-3.0",
-        "licenseURL": "https://github.com/portableutm/dronfiesuss/blob/master/LICENSE"
-      }
-    ],
-    "SDGs": [
-      {
-        "SDGNumber": 9,
-        "evidenceText": "UTM systems are a Key part of drone ecosystem for enabling complex drone operations like medical delivery or emergency response",
-        "evidenceURL": "https://www.unicefinnovationfund.org/broadcast/updates/unicef-innovation-fund-graduate-dronfies-labs"
-      },
-      {
-        "SDGNumber": 3,
-        "evidenceText": "Drones are a key tool for improving health of people in poor infrastructure areas, UTM is one of tools for enabling this deliveries",
-        "evidenceURL": "https://www.unicefinnovationfund.org/broadcast/updates/unicef-innovation-fund-graduate-dronfies-labs"
-      }
-    ],
-    "sectors": [],
-    "type": [
-      "software"
-    ],
-    "repositories": [
-      {
-        "name": "main",
-        "url": "https://github.com/portableutm/dronfiesuss"
-      }
-    ],
-    "organizations": [
-      {
-        "name": "Dronfies Labs",
-        "website": "https://dronfies.com/",
-        "org_type": "owner",
-        "contact_name": "Sebastián Macías",
-        "contact_email": "smacias@dronfies.com"
-      },
-      {
-        "name": "UNICEF Venture Fund",
-        "website": "https://www.unicef.org/innovation/venturefund",
-        "org_type": "funder"
       }
     ],
     "stage": "nominee"
