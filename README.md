@@ -40,7 +40,7 @@ Status: 200 OK
 ```json
 {
 	"dpgs": "https://api.digitalpublicgoods.net/dpgs",
-	"dpg/{dpg}": "https://api.digitalpublicgoods.net/dpg/{dpg}/",
+	"dpg/{dpg}": "https://api.digitalpublicgoods.net/dpg/{id}/",
 	"nominees": "https://api.digitalpublicgoods.net/nominees",
 	"nominee/{nominee}": "https://api.digitalpublicgoods.net/nominee/{nominee}"
 }
@@ -73,7 +73,7 @@ Status: 200 OK
 ```json
 [
   {
-    "id": "african-storybook",
+    "id": "10275",
     "name": "African Storybook",
     "description": "Open access to picture storybooks in the languages of Africa. For children’s literacy, enjoyment and imagination.",
     "website": "https://www.africanstorybook.org/",
@@ -108,7 +108,7 @@ Status: 200 OK
 Retrieve an individual digital public good.
 
 ```bash
-GET /dpg/{dpg}/
+GET /dpg/{id}/
 ```
 
 #### Parameters
@@ -122,10 +122,10 @@ Name | Type | In | Description
 **Shell**
 
 ```bash
-curl https://api.digitalpublicgoods.net/dpg/african-storybook/
+curl https://api.digitalpublicgoods.net/dpg/10275/
 ```
 ```bash
-curl -L https://api.digitalpublicgoods.net/dpg/african-storybook
+curl -L https://api.digitalpublicgoods.net/dpg/10275
 ```
 
 #### Default Response
@@ -134,7 +134,7 @@ Status: 200 OK
 ```
 ```json
 {
-  "id": "african-storybook",
+  "id": "10275",
   "name": "African Storybook",
   "description": "Open access to picture storybooks in the languages of Africa. For children’s literacy, enjoyment and imagination.",
   "website": "https://www.africanstorybook.org/",
@@ -144,11 +144,12 @@ Status: 200 OK
       "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/"
     }
   ],
-  "SDGs": [
-    {
-      "SDGNumber": 4
-    }
-  ],
+  "sdgs": {
+		"sdg": [
+			"SDG4: Quality Education"
+					],
+	"relevance": " The African Storybook webpage itself (https://www.africanstorybook.org) demonstrates that the 3696 storybooks and the 7586 translations are relevant to the Quality Education SDG. \r\nThere are also reviews of ASb at:\r\nhttps://www.alllanguageresources.com/african-storybook/\r\nhttps://allafrica.com/stories/202202110011.html - this review stresses the importance of quality storybooks in indigenous languages which is one of the features of ASb\r\n\r\nA published research article on ASb can be found here: https://onlinelibrary.wiley.com/doi/10.1111/modl.12374\r\n\r\nThe Scale of Solution details indicate all of the educational organisations that ASb works with\r\n\r\nJudith Uchidiuno has also reviewed several of the books on her Facebook page: https://www.facebook.com/people/African-Storybook-Reviews-Judith-Uchidiuno/100055884440164/\r\n\r\n"
+	},
   "sectors": [],
   "type": [
     "content"
@@ -190,38 +191,128 @@ Status: 200 OK
 ```json
 [
   {
-    "id": "@firma",
-    "name": "@firma",
-    "description": "Suite of solutions for digital identities and electronic signatures, aimed at public administrations for the implementation of authentication and electronic signatures in a streamlined and effective manner.",
-    "website": "https://administracionelectronica.gob.es/ctt/clienteafirma",
-    "license": [
-      {
-        "spdx": "GPL-2.0",
-        "licenseURL": "https://github.com/ctt-gob-es/clienteafirma/blob/master/license/LICENSE.txt"
-      }
-    ],
-    "SDGs": [
-      {
-        "SDGNumber": 3
-      },
-      {
-        "SDGNumber": 16
-      }
-    ],
-    "sectors": [],
-    "type": [
-      "software"
-    ],
-    "repositoryURL": "https://github.com/ctt-gob-es/clienteafirma",
-    "organizations": [
-      {
-        "name": "Technology Transfer Center, Government of Spain",
-        "website": "https://administracionelectronica.gob.es/",
-        "org_type": "owner"
-      }
-    ],
-    "stage": "nominee"
-  }
+        "id": "10623",
+        "name": "FormSG",
+        "sectors": [],
+        "stage": "nominee",
+        "privacy": [
+            {
+                "privacyCompliance": "Personal Data protection Act of Singapore",
+                "privacyComplianceURL": "Privacy Policy - https://form.gov.sg/privacy"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "FormSG",
+                "website": "https://form.gov.sg ",
+                "org_type": "owner",
+                "contact_name": " Amit Samdarshi  ",
+                "contact_email": "amit@open.gov.sg"
+            }
+        ],
+        "platformIndependence": {
+            "isPlatformIndependent": "Yes",
+            "openAlternatives": [
+                "There are multiple proprietary elements to note:\r\n- integrations with proprietary services",
+                " like the Singapore National Identity system Singpass. This cannot be replaced",
+                " but adopters may replace authentication systems with whatever identity platform of their country",
+                " or disable the identity system altogether\r\n- AWS SQS: formSG operates on AWS and uses some AWS-specific tools",
+                " like SQS for webhook retries. That could be replaced quite easily with open source solutions like RabbitMQ.\r\n- FormSG uses AWS SES to send emails. Any other SMTP mailing solution could work.\r\n- FormSG uses AWS S3 for its object store. A custom system for storage (even local with a local NAS)\r\n- For Monitoring and Observability",
+                " FormSG integrates to DataDog. This is mostly non-intrusive in code",
+                " and could be replaced with other providers. DataDog is a multi-tool system with tracing",
+                " metrics",
+                " RUM",
+                " etc.",
+                " each of those could be replaced by something else (open tracing solutions https://opentracing.io/",
+                " statsd server https://github.com/statsd/statsd",
+                " sentry https://github.com/getsentry/sentry",
+                " etc.)\r\n- FormSG uses MongoDB (a document database)",
+                " with the mongoose driver https://www.npmjs.com/package/mongoose. With substantial effort",
+                " the database could be replaced with another document database like CouchDB."
+            ]
+        },
+        "categories": [
+            "Open Software"
+        ],
+        "description": "FormSG is a form builder tool that enables public officers to instantly create customisable forms with zero code or cost, to safely collect classified and sensitive data.",
+        "website": "https://form.gov.sg ",
+        "repositories": [
+            {
+                "name": "main",
+                "url": "https://github.com/opengovsg/FormSG"
+            }
+        ],
+        "sdgs": {
+            "sdg": [
+                "SDG16: Peace\u00b8 Justice and Strong Institutions"
+            ],
+            "relevance": "SDG INDICATOR 16.6.1 - Governmental expenditures within budgets\r\nFormSG as an open source government form builder provides access to justice for all and build effective, accountable and inclusive institutions at all levels. FormSG is used for government application forms, and also as a reporting and feedback platform by various public agencies.\r\n\r\nSDG INDICATOR 16.6.2 - Satisfaction with public services\r\nWe gather feedback from our members of public using FormSG and have gotten an average satisfaction rating of 4.66 out of 5 over 69,140 feedback submitted. \r\n\r\n"
+        },
+        "openlicenses": [
+            {
+                "openLicense": "MIT",
+                "openLicenseEvidenceURLs": "https://github.com/opengovsg/FormSG/blob/develop/LICENSE.md"
+            }
+        ],
+        "documentation": "Developer guide: https://github.com/opengovsg/FormSG/blob/develop/README.md\r\n\r\nPublic guide: https://guide.form.gov.sg/\r\n\r\nInformation and contact portal: https://www.developer.tech.gov.sg/products/categories/productivity-tools/formsg/overview.html",
+        "NonPII": {
+            "collectsNonPII": "Yes",
+            "nonPIIAccessMechanism": "The data collected in FormSG can be downloaded in CSV format by the public officer who has created the form. Our form level secret key system ensures that only the person who owns secret key can access the data."
+        },
+        "dataPrivacySecurity": {
+            "collectsPII": "PII data is collected and stored and distributed.",
+            "typesOfPIIDataCollected": [
+                "The fields are entirely dependent on the public officer who creates the form and how they name the fields (e.g. Name). If they create PII fields",
+                " the data from that field would still be end to end encrypted",
+                " just like any other field in FormSG forms.  "
+            ],
+            "dataPrivacySecurity": "We provide data privacy and security through strong end to end encryption created by using form level security keys which only form admin possesses."
+        },
+        "userContent": {
+            "contentManagement": "Content is collected stored and distributed.",
+            "contentTypes": [
+                "Text and files"
+            ],
+            "contentManagementPolicy": "The solution does not have any censorship and relies entirely on self-governance of public officers. The platform guarantees that only public officers can log in, thanks to our domain-based OTP login system (i.e. only emails in .gov.sg domain can log in)."
+        },
+        "locations": {
+            "developmentCountries": [
+                "Singapore"
+            ],
+            "deploymentCountries": [
+                "Singapore"
+            ]
+        },
+        "deploymentCountriesDepartments": [
+            "All statutory boards",
+            " ministries and healthcare bodies associated with Singapore Government"
+        ],
+        "otherDeploymentOrganisations": [
+            "Sri Lanka government has forked FormSG to create https://forms.gov.lk/ "
+        ],
+        "awardsReceived": [
+            "MongoDB APAC Innovation Award 2023 for Positive Impact"
+        ],
+        "openStandards": [
+            "* OIDC (used to integrate with the national identity system of Singapore) https://github.com/opengovsg/FormSG/blob/develop/src/app/modules/spcp/spcp.oidc.client.ts\r\n\r\n* Accessibility: We use React + Chakra",
+            " and we have spent a lot of effort to make our form accessible. Examples in a) and b)\r\n\r\na)https://github.com/opengovsg/FormSG/blob/15e48f56f58df281706c1cb55072eb5bc4f128ac/frontend/src/components/Dropdown/components/MultiSelectCombobox/MultiSelectCombobox.tsx#L88-L106\r\nb)https://github.com/opengovsg/FormSG/blob/15e48f56f58df281706c1cb55072eb5bc4f128ac/frontend/src/components/NumberInput/NumberInput.tsx#L117-L135\r\n\r\n* JSON\r\n\r\n* JWT\r\n\r\n* HTML / CSS / TypeScript\r\n\r\n* Elliptic Curve Cryptography with tweetnacl (reference)\r\n- https://github.com/dchest/tweetnacl-js\r\n- https://github.com/opengovsg/formsg-javascript-sdk/blob/083556f5ef294ce165edb72f588d36706f0a5566/src/util/crypto.ts#L11-L22"
+        ],
+        "bestPractices": [
+            "* agile w/ SCRUM\r\n\r\n* Unit tests\r\n\r\n* End-to-end tests\r\n\r\n* Cross Browser tests with Browserstack\r\n\r\n* Standalone self-contained frontend components that can be tested independently with chromatic and storybook\r\n* PR reviews with required 1 approval before merging. \r\n\r\n* Frontend changes must be approved by designer before a PR can be merged (done with github chromatic action)\r\n\r\n* Monolithic backend application\r\n\r\n* Namespace for API with version in path e.g. /api/v3/forms/<formid>\r\n\r\n* Strong type everything with typescript\r\n\r\n* Validation with joi\r\nhttps://www.npmjs.com/package/joi\r\n\r\n* Separation of model  and Data transfer Objects\r\nhttps://en.wikipedia.org/wiki/Data_transfer_object"
+        ],
+        "clearOwnership": [
+            {
+                "clearOwnershipName": "Open Government Products, Government Technology Agency of Singapore",
+                "clearOwnershipURL": "https://www.open.gov.sg/products/formsg/ ;\r\n\r\nhttps://www.developer.tech.gov.sg/products/categories/productivity-tools/formsg/overview.html\r\n\r\n"
+            }
+        ],
+        "protectionFromHarassment": {
+            "facilitatesUserInteraction": "Yes",
+            "harassmentPolicy": "Our main support channel is via Zendesk using the email address support@form.gov.sg or support form: go.gov.sg/formsg-support.  \r\n\r\nWe welcome contributions and provide contribution guidelines and code of conduct policies to ensure a safe and inclusive environment for all.\r\n\r\nContributing guidelines - https://github.com/opengovsg/FormSG/blob/develop/CONTRIBUTING.md ;\r\nCode of conduct - https://github.com/opengovsg/FormSG/blob/develop/CODE_OF_CONDUCT.md"
+        },
+        "aliases": "",
+        "deploymentOrganisations": ""
+    }
 ]
 ```
 
@@ -230,7 +321,7 @@ Status: 200 OK
 Retrieve an individual nominee for digital public goods.
 
 ```bash
-GET /nominee/{nominee}/
+GET /nominee/{id}/
 ```
 
 #### Parameters
@@ -244,10 +335,10 @@ Name | Type | In | Description
 **Shell**
 
 ```bash
-curl https://api.digitalpublicgoods.net/nominee/\@firma/
+curl https://api.digitalpublicgoods.net/nominee/10623/
 ```
 ```bash
-curl -L https://api.digitalpublicgoods.net/nominee/\@firma
+curl -L https://api.digitalpublicgoods.net/nominee/10623
 ```
 
 #### Default Response
@@ -256,38 +347,128 @@ Status: 200 OK
 ```
 ```json
 {
-  "id": "@firma",
-  "name": "@firma",
-  "description": "Suite of solutions for digital identities and electronic signatures, aimed at public administrations for the implementation of authentication and electronic signatures in a streamlined and effective manner.",
-  "website": "https://administracionelectronica.gob.es/ctt/clienteafirma",
-  "license": [
-    {
-      "spdx": "GPL-2.0",
-      "licenseURL": "https://github.com/ctt-gob-es/clienteafirma/blob/master/license/LICENSE.txt"
+        "id": "10623",
+        "name": "FormSG",
+        "sectors": [],
+        "stage": "nominee",
+        "privacy": [
+            {
+                "privacyCompliance": "Personal Data protection Act of Singapore",
+                "privacyComplianceURL": "Privacy Policy - https://form.gov.sg/privacy"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "FormSG",
+                "website": "https://form.gov.sg ",
+                "org_type": "owner",
+                "contact_name": " Amit Samdarshi  ",
+                "contact_email": "amit@open.gov.sg"
+            }
+        ],
+        "platformIndependence": {
+            "isPlatformIndependent": "Yes",
+            "openAlternatives": [
+                "There are multiple proprietary elements to note:\r\n- integrations with proprietary services",
+                " like the Singapore National Identity system Singpass. This cannot be replaced",
+                " but adopters may replace authentication systems with whatever identity platform of their country",
+                " or disable the identity system altogether\r\n- AWS SQS: formSG operates on AWS and uses some AWS-specific tools",
+                " like SQS for webhook retries. That could be replaced quite easily with open source solutions like RabbitMQ.\r\n- FormSG uses AWS SES to send emails. Any other SMTP mailing solution could work.\r\n- FormSG uses AWS S3 for its object store. A custom system for storage (even local with a local NAS)\r\n- For Monitoring and Observability",
+                " FormSG integrates to DataDog. This is mostly non-intrusive in code",
+                " and could be replaced with other providers. DataDog is a multi-tool system with tracing",
+                " metrics",
+                " RUM",
+                " etc.",
+                " each of those could be replaced by something else (open tracing solutions https://opentracing.io/",
+                " statsd server https://github.com/statsd/statsd",
+                " sentry https://github.com/getsentry/sentry",
+                " etc.)\r\n- FormSG uses MongoDB (a document database)",
+                " with the mongoose driver https://www.npmjs.com/package/mongoose. With substantial effort",
+                " the database could be replaced with another document database like CouchDB."
+            ]
+        },
+        "categories": [
+            "Open Software"
+        ],
+        "description": "FormSG is a form builder tool that enables public officers to instantly create customisable forms with zero code or cost, to safely collect classified and sensitive data.",
+        "website": "https://form.gov.sg ",
+        "repositories": [
+            {
+                "name": "main",
+                "url": "https://github.com/opengovsg/FormSG"
+            }
+        ],
+        "sdgs": {
+            "sdg": [
+                "SDG16: Peace\u00b8 Justice and Strong Institutions"
+            ],
+            "relevance": "SDG INDICATOR 16.6.1 - Governmental expenditures within budgets\r\nFormSG as an open source government form builder provides access to justice for all and build effective, accountable and inclusive institutions at all levels. FormSG is used for government application forms, and also as a reporting and feedback platform by various public agencies.\r\n\r\nSDG INDICATOR 16.6.2 - Satisfaction with public services\r\nWe gather feedback from our members of public using FormSG and have gotten an average satisfaction rating of 4.66 out of 5 over 69,140 feedback submitted. \r\n\r\n"
+        },
+        "openlicenses": [
+            {
+                "openLicense": "MIT",
+                "openLicenseEvidenceURLs": "https://github.com/opengovsg/FormSG/blob/develop/LICENSE.md"
+            }
+        ],
+        "documentation": "Developer guide: https://github.com/opengovsg/FormSG/blob/develop/README.md\r\n\r\nPublic guide: https://guide.form.gov.sg/\r\n\r\nInformation and contact portal: https://www.developer.tech.gov.sg/products/categories/productivity-tools/formsg/overview.html",
+        "NonPII": {
+            "collectsNonPII": "Yes",
+            "nonPIIAccessMechanism": "The data collected in FormSG can be downloaded in CSV format by the public officer who has created the form. Our form level secret key system ensures that only the person who owns secret key can access the data."
+        },
+        "dataPrivacySecurity": {
+            "collectsPII": "PII data is collected and stored and distributed.",
+            "typesOfPIIDataCollected": [
+                "The fields are entirely dependent on the public officer who creates the form and how they name the fields (e.g. Name). If they create PII fields",
+                " the data from that field would still be end to end encrypted",
+                " just like any other field in FormSG forms.  "
+            ],
+            "dataPrivacySecurity": "We provide data privacy and security through strong end to end encryption created by using form level security keys which only form admin possesses."
+        },
+        "userContent": {
+            "contentManagement": "Content is collected stored and distributed.",
+            "contentTypes": [
+                "Text and files"
+            ],
+            "contentManagementPolicy": "The solution does not have any censorship and relies entirely on self-governance of public officers. The platform guarantees that only public officers can log in, thanks to our domain-based OTP login system (i.e. only emails in .gov.sg domain can log in)."
+        },
+        "locations": {
+            "developmentCountries": [
+                "Singapore"
+            ],
+            "deploymentCountries": [
+                "Singapore"
+            ]
+        },
+        "deploymentCountriesDepartments": [
+            "All statutory boards",
+            " ministries and healthcare bodies associated with Singapore Government"
+        ],
+        "otherDeploymentOrganisations": [
+            "Sri Lanka government has forked FormSG to create https://forms.gov.lk/ "
+        ],
+        "awardsReceived": [
+            "MongoDB APAC Innovation Award 2023 for Positive Impact"
+        ],
+        "openStandards": [
+            "* OIDC (used to integrate with the national identity system of Singapore) https://github.com/opengovsg/FormSG/blob/develop/src/app/modules/spcp/spcp.oidc.client.ts\r\n\r\n* Accessibility: We use React + Chakra",
+            " and we have spent a lot of effort to make our form accessible. Examples in a) and b)\r\n\r\na)https://github.com/opengovsg/FormSG/blob/15e48f56f58df281706c1cb55072eb5bc4f128ac/frontend/src/components/Dropdown/components/MultiSelectCombobox/MultiSelectCombobox.tsx#L88-L106\r\nb)https://github.com/opengovsg/FormSG/blob/15e48f56f58df281706c1cb55072eb5bc4f128ac/frontend/src/components/NumberInput/NumberInput.tsx#L117-L135\r\n\r\n* JSON\r\n\r\n* JWT\r\n\r\n* HTML / CSS / TypeScript\r\n\r\n* Elliptic Curve Cryptography with tweetnacl (reference)\r\n- https://github.com/dchest/tweetnacl-js\r\n- https://github.com/opengovsg/formsg-javascript-sdk/blob/083556f5ef294ce165edb72f588d36706f0a5566/src/util/crypto.ts#L11-L22"
+        ],
+        "bestPractices": [
+            "* agile w/ SCRUM\r\n\r\n* Unit tests\r\n\r\n* End-to-end tests\r\n\r\n* Cross Browser tests with Browserstack\r\n\r\n* Standalone self-contained frontend components that can be tested independently with chromatic and storybook\r\n* PR reviews with required 1 approval before merging. \r\n\r\n* Frontend changes must be approved by designer before a PR can be merged (done with github chromatic action)\r\n\r\n* Monolithic backend application\r\n\r\n* Namespace for API with version in path e.g. /api/v3/forms/<formid>\r\n\r\n* Strong type everything with typescript\r\n\r\n* Validation with joi\r\nhttps://www.npmjs.com/package/joi\r\n\r\n* Separation of model  and Data transfer Objects\r\nhttps://en.wikipedia.org/wiki/Data_transfer_object"
+        ],
+        "clearOwnership": [
+            {
+                "clearOwnershipName": "Open Government Products, Government Technology Agency of Singapore",
+                "clearOwnershipURL": "https://www.open.gov.sg/products/formsg/ ;\r\n\r\nhttps://www.developer.tech.gov.sg/products/categories/productivity-tools/formsg/overview.html\r\n\r\n"
+            }
+        ],
+        "protectionFromHarassment": {
+            "facilitatesUserInteraction": "Yes",
+            "harassmentPolicy": "Our main support channel is via Zendesk using the email address support@form.gov.sg or support form: go.gov.sg/formsg-support.  \r\n\r\nWe welcome contributions and provide contribution guidelines and code of conduct policies to ensure a safe and inclusive environment for all.\r\n\r\nContributing guidelines - https://github.com/opengovsg/FormSG/blob/develop/CONTRIBUTING.md ;\r\nCode of conduct - https://github.com/opengovsg/FormSG/blob/develop/CODE_OF_CONDUCT.md"
+        },
+        "aliases": "",
+        "deploymentOrganisations": ""
     }
-  ],
-  "SDGs": [
-    {
-      "SDGNumber": 3
-    },
-    {
-      "SDGNumber": 16
-    }
-  ],
-  "sectors": [],
-  "type": [
-    "software"
-  ],
-  "repositoryURL": "https://github.com/ctt-gob-es/clienteafirma",
-  "organizations": [
-    {
-      "name": "Technology Transfer Center, Government of Spain",
-      "website": "https://administracionelectronica.gob.es/",
-      "org_type": "owner"
-    }
-  ],
-  "stage": "nominee"
-}
 ```
 
 ## :memo: License
